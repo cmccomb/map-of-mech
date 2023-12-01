@@ -566,9 +566,9 @@
         "citation": "2017 IEEE 20th International Conference on Intelligent Transportation …, 2017"
     },
     {
-        "title": "Over-conservativeness of variance-based efficiency criteria and probabilistic efficiency in rare-event simulation",
-        "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2110.12573, 2021"
+        "title": "Overconservativeness of Variance-Based Efficiency Criteria and Probabilistic Efficiency in Rare-Event Simulation",
+        "pub_year": "2023",
+        "citation": "Management Science, 2023"
     },
     {
         "title": "Physiomtl: Personalizing physiological patterns using optimal transport multi-task regression",
@@ -733,6 +733,11 @@
         "title": "Task-agnostic online reinforcement learning with an infinite mixture of gaussian processes",
         "pub_year": "2020",
         "citation": "Advances in Neural Information Processing Systems 33, 6429-6440, 2020"
+    },
+    {
+        "title": "Test Against High-Dimensional Uncertainties: Accelerated Evaluation of Autonomous Vehicles with Deep Importance Sampling",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2204.02351, 2022"
     },
     {
         "title": "The effects of different In components on the physical properties of InxGa1-xAs.",
