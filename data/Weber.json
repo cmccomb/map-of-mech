@@ -944,6 +944,11 @@
         "citation": ""
     },
     {
+        "title": "Supraspinal control of motoneurons after paralysis enabled by spinal cord stimulation",
+        "pub_year": "2023",
+        "citation": "medRxiv, 2023.11. 29.23298779, 2023"
+    },
+    {
         "title": "Sustained growth factor delivery promotes axonal regeneration in long gap peripheral nerve repair",
         "pub_year": "2011",
         "citation": "Tissue Engineering Part A 17 (9-10), 1263-1275, 2011"
@@ -1082,5 +1087,10 @@
         "title": "rtMEG: a real-time software toolbox for brain-machine interfaces using magnetoencephelography",
         "pub_year": "2010",
         "citation": "17th International Conference on Biomagnetism Advances in Biomagnetism …, 2010"
+    },
+    {
+        "title": "​​​ Electrocatalytic on-site oxygenation for transplanted cell-based-therapies",
+        "pub_year": "2023",
+        "citation": "bioRxiv, 2023.06. 05.543794, 2023"
     }
 ]

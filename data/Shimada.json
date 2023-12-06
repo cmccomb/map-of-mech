@@ -177,14 +177,14 @@
         "citation": "Springer-Verlag, 2006"
     },
     {
+        "title": "Airfoil GAN: Encoding and synthesizing airfoils for aerodynamic shape optimization",
+        "pub_year": "2023",
+        "citation": "Journal of Computational Design and Engineering, qwad046, 2023"
+    },
+    {
         "title": "Airfoil GAN: Encoding and synthesizing airfoils for aerodynamic-aware shape optimization",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2101.04757, 2021"
-    },
-    {
-        "title": "Airfoil GAN: encoding and synthesizing airfoils for aerodynamic shape optimization",
-        "pub_year": "2023",
-        "citation": "Journal of Computational Design and Engineering 10 (4), 1350-1362, 2023"
     },
     {
         "title": "An Angle-Based Approach to Two-Dimensional Mesh Smoothing.",

@@ -50,9 +50,9 @@
         "citation": "Langmuir 31 (47), 12883-12893, 2015"
     },
     {
-        "title": "Airfoil GAN: encoding and synthesizing airfoils for aerodynamic shape optimization",
+        "title": "Airfoil GAN: Encoding and synthesizing airfoils for aerodynamic shape optimization",
         "pub_year": "2023",
-        "citation": "Journal of Computational Design and Engineering 10 (4), 1350-1362, 2023"
+        "citation": "Journal of Computational Design and Engineering, qwad046, 2023"
     },
     {
         "title": "An Energy-Saving Snake Locomotion Pattern Learned in a Physically Constrained Environment With Online Model-Based Policy Gradient Method",
@@ -80,9 +80,9 @@
         "citation": "bioRxiv, 2020.06. 11.146167, 2020"
     },
     {
-        "title": "Catalyst Property Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models",
+        "title": "Catalyst Energy Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2309.00563, 2023"
+        "citation": "ACS Catalysis 13, 16032-16044, 2023"
     },
     {
         "title": "Combining physics-based and evolution-based methods to design antibodies against an evolving virus",
@@ -324,9 +324,19 @@
         "citation": "Journal of Chemical Information and Modeling 62 (11), 2713-2725, 2022"
     },
     {
+        "title": "Inexpensive High Fidelity Melt Pool Models in Additive Manufacturing Using Generative Deep Diffusion",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2311.16168, 2023"
+    },
+    {
         "title": "Inverse Lighting with Differentiable Physically-Based Model",
         "pub_year": "2023",
         "citation": "International Conference on Learning and Intelligent Optimization, 286-300, 2023"
+    },
+    {
+        "title": "Isolating Specific vs. Non-Specific Binding Responses in Conducting Polymer Biosensors for Bio-Fingerprinting",
+        "pub_year": "2021",
+        "citation": "Sensors 21 (19), 6335, 2021"
     },
     {
         "title": "Kinetic machine learning unravels ligand-directed conformational change of µ opioid receptor. bioRxiv",
@@ -444,9 +454,9 @@
         "citation": "University of Illinois at Urbana-Champaign, 2015"
     },
     {
-        "title": "Neural network predicts ion concentration profiles under nanoconfinement",
+        "title": "Neural Network Predicts Ion Concentration Profiles under Nanoconfinement",
         "pub_year": "2023",
-        "citation": "The Journal of Chemical Physics 159 (9), 2023"
+        "citation": "arXiv preprint arXiv:2304.04896, 2023"
     },
     {
         "title": "Numerical and experimental analysis of wind erosion on a sinusoidal pile",
