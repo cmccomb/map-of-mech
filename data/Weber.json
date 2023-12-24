@@ -139,6 +139,11 @@
         "citation": "JAMA neurology 80 (3), 270-278, 2023"
     },
     {
+        "title": "Assistive robotics should seamlessly integrate humans and robots",
+        "pub_year": "2023",
+        "citation": "Science Robotics 8 (83), eadl0014, 2023"
+    },
+    {
         "title": "Augmented Transcutaneous Stimulation Using an Injectable Electrode",
         "pub_year": "2021",
         "citation": "bioRxiv, 2021.09. 29.462482, 2021"
@@ -152,6 +157,11 @@
         "title": "Augmenting Quadriplegic Hand Function Using a Sensorimotor Demultiplexing Neural Interface",
         "pub_year": "2019",
         "citation": "bioRxiv, 604108, 2019"
+    },
+    {
+        "title": "Automated Cardiovascular Record Retrieval by Multimodal Learning between Electrocardiogram and Clinical Report",
+        "pub_year": "2023",
+        "citation": "Machine Learning for Health (ML4H), 480-497, 2023"
     },
     {
         "title": "BIONic WalkAide for correcting foot drop",
@@ -207,6 +217,11 @@
         "title": "Building a bioelectronic medicine movement 2019: insights from leaders in industry, academia, and research",
         "pub_year": "2020",
         "citation": "Bioelectronic Medicine 6 (1), 1, 2020"
+    },
+    {
+        "title": "Can Brain Signals Reveal Inner Alignment with Human Languages?",
+        "pub_year": "2023",
+        "citation": "Findings of the Association for Computational Linguistics: EMNLP 2023, 1789-1804, 2023"
     },
     {
         "title": "Cardiac Disease Diagnosis on Imbalanced Electrocardiography Data Through Optimal Transport Augmentation",
@@ -490,6 +505,11 @@
         "title": "High-Frequency Stimulation Does Not Improve Comfort of Transcutaneous Spinal Cord Stimulation",
         "pub_year": "2022",
         "citation": "bioRxiv, 2022.09. 06.506783, 2022"
+    },
+    {
+        "title": "High-density Electromyography for Effective Gesture-based Control of Physically Assistive Mobile Manipulators",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2312.07745, 2023"
     },
     {
         "title": "High-performance neuroprosthetic control by an individual with tetraplegia",
@@ -831,6 +851,11 @@
         "citation": "Proceedings of the First Joint BMES/EMBS Conference. 1999 IEEE Engineering …, 1999"
     },
     {
+        "title": "Restoration of sensory feedback from the foot and reduction of phantom limb pain via closed-loop spinal cord stimulation",
+        "pub_year": "2023",
+        "citation": "Nature Biomedical Engineering, 1-12, 2023"
+    },
+    {
         "title": "Restoring the Sense of Touch Using a Sensorimotor Demultiplexing Neural Interface:‘Disentangling’Sensorimotor Events During Brain-Computer Interface Control",
         "pub_year": "2021",
         "citation": "Brain-Computer Interface Research: A State-of-the-Art Summary 10, 75-85, 2021"
@@ -946,7 +971,7 @@
     {
         "title": "Supraspinal control of motoneurons after paralysis enabled by spinal cord stimulation",
         "pub_year": "2023",
-        "citation": "medRxiv, 2023.11. 29.23298779, 2023"
+        "citation": "Medrxiv, 2023.11. 29.23298779, 2023"
     },
     {
         "title": "Sustained growth factor delivery promotes axonal regeneration in long gap peripheral nerve repair",

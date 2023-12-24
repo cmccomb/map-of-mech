@@ -48,8 +48,8 @@
     },
     {
         "title": "A GPU-Based Parallel Region Classification Method for Continuous Constraint Satisfaction Problems",
-        "pub_year": "2023",
-        "citation": "Journal of Mechanical Design, 1-60, 2023"
+        "pub_year": "2024",
+        "citation": "Journal of Mechanical Design 146, 041001-1, 2024"
     },
     {
         "title": "A Real-Time Artificial Intelligence Process Manager for Engineering Design",
@@ -467,11 +467,6 @@
         "title": "Automating the creation of shape grammar rules",
         "pub_year": "2008",
         "citation": "Design Computing and Cognition'08: Proceedings of the Third International …, 2008"
-    },
-    {
-        "title": "BIGNet: A Deep Learning Architecture for Brand Recognition with Geometry-Based Explainability",
-        "pub_year": "2024",
-        "citation": "Journal of Mechanical Design 146, 051701-1, 2024"
     },
     {
         "title": "BIGNet: A Deep Learning Architecture for Brand Recognition with Geometry-based Explainability",

@@ -177,14 +177,14 @@
         "citation": "Springer-Verlag, 2006"
     },
     {
-        "title": "Airfoil GAN: Encoding and synthesizing airfoils for aerodynamic shape optimization",
-        "pub_year": "2023",
-        "citation": "Journal of Computational Design and Engineering, qwad046, 2023"
-    },
-    {
         "title": "Airfoil GAN: Encoding and synthesizing airfoils for aerodynamic-aware shape optimization",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2101.04757, 2021"
+    },
+    {
+        "title": "Airfoil GAN: encoding and synthesizing airfoils for aerodynamic shape optimization",
+        "pub_year": "2023",
+        "citation": "Journal of Computational Design and Engineering 10 (4), 1350-1362, 2023"
     },
     {
         "title": "An Angle-Based Approach to Two-Dimensional Mesh Smoothing.",
@@ -590,6 +590,11 @@
         "citation": "Journal of Computational Design and Engineering 4 (4), 330-338, 2017"
     },
     {
+        "title": "Explicit finite element method for in-vivo mechanics of abdominal aortic aneurysm",
+        "pub_year": "2007",
+        "citation": "European Journal of Computational Mechanics, 337-363, 2007"
+    },
+    {
         "title": "Face clustering of a large-scale cad model for surface mesh generation",
         "pub_year": "2001",
         "citation": "Computer-Aided Design 33 (3), 251-261, 2001"
@@ -755,6 +760,11 @@
         "citation": "IEEE Global Humanitarian Technology Conference (GHTC 2014), 338-344, 2014"
     },
     {
+        "title": "Image-Enhanced U-Net: Optimizing Defect Detection in Window Frames for Construction Quality Inspection",
+        "pub_year": "2023",
+        "citation": "Buildings 14 (1), 3, 2023"
+    },
+    {
         "title": "Improved Feasible-Set Method for Removing Mesh Inversion",
         "pub_year": "2020",
         "citation": "Journal of Computing and Information Science in Engineering 20 (4), 041011, 2020"
@@ -815,9 +825,9 @@
         "citation": "Logistics 4 (3), 16, 2020"
     },
     {
-        "title": "Inverse Pre-Deformation of Tetrahedral Mesh for Large Deformation Finite Element Analysis",
+        "title": "Inverse Pre-Deformation of Tetrahedral Mesh for Large Deformation Finite Element Analysis.",
         "pub_year": "2005",
-        "citation": "Computer-Aided Design and Applications 2 (6), 805-814, 2005"
+        "citation": "Computer-Aided Design & Applications 2 (6), 2005"
     },
     {
         "title": "Inverse adaptation of a hex-dominant mesh for large deformation finite element analysis",
@@ -878,11 +888,6 @@
         "title": "Measurement and optimization of minimally invasive intervention device design fitness using a multiobjective weighted isotropy index",
         "pub_year": "2010",
         "citation": ""
-    },
-    {
-        "title": "Mechanics of abdominal aortic aneurysm",
-        "pub_year": "2007",
-        "citation": "European Journal of Computational Mechanics/Revue Européenne de Mécanique …, 2007"
     },
     {
         "title": "Mesh matching–creating conforming interfaces between hexahedral meshes",
@@ -1203,9 +1208,9 @@
         "citation": "IEEE Computer Graphics and Applications 27 (1), 60-71, 2007"
     },
     {
-        "title": "Sketch-based computer-aided design tool for configuration design of automobile instrument panel",
+        "title": "Sketch-based Computer-Aided Design Tool for Configuration Design of Automobile Instrument Panel.",
         "pub_year": "2009",
-        "citation": "Computer-Aided Design and Applications 6 (5), 585-594, 2009"
+        "citation": "Computer-Aided Design & Applications 6 (5), 2009"
     },
     {
         "title": "Sketch-based design system, apparatus, and method for the construction and modification of three-dimensional geometry",
@@ -1257,9 +1262,9 @@
         "citation": "Sleep and Breathing 21 (1), 119-133, 2017"
     },
     {
-        "title": "Supporting early styling design of automobiles using sketch-based 3d shape construction",
+        "title": "Supporting Early Styling Design of Automobiles Using Sketch-based 3D Shape Construction.",
         "pub_year": "2008",
-        "citation": "Computer-Aided Design and Applications 5 (6), 867-876, 2008"
+        "citation": "Computer-Aided Design & Applications 5 (6), 2008"
     },
     {
         "title": "Surface extraction from point-sampled data through region growing",
@@ -1381,7 +1386,7 @@
         "citation": "2016 14th International Conference on Control, Automation, Robotics and …, 2016"
     },
     {
-        "title": "Vision-aided uav navigation and dynamic obstacle avoidance using gradient-based b-spline trajectory optimization",
+        "title": "Vision-aided UAV navigation and dynamic obstacle avoidance using gradient-based B-spline trajectory optimization",
         "pub_year": "2023",
         "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 1214-1220, 2023"
     },

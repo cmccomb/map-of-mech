@@ -437,6 +437,11 @@
         "citation": "Building and Environment 68, 100-113, 2013"
     },
     {
+        "title": "Coupling Simulated Annealing and Homogenization to Design Thermally Conductive Hybrid Lattice Support Structures for LPBF",
+        "pub_year": "2023",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2023"
+    },
+    {
         "title": "DTHB3D_Reg: dynamic truncated hierarchical B-spline based 3D nonrigid image registration",
         "pub_year": "2018",
         "citation": "Communications in Computational Physics 23 (3), 2018"
@@ -643,6 +648,11 @@
         "title": "Geometric Modeling and Shape Analysis for Biomolecular Complexes Based on Eigenfunctions",
         "pub_year": "2015",
         "citation": "Carnegie Mellon University, 2015"
+    },
+    {
+        "title": "Geometric Modeling: Interoperability and New Challenges (Dagstuhl Seminar 21471)",
+        "pub_year": "2022",
+        "citation": "Dagstuhl Reports 11 (10), 2022"
     },
     {
         "title": "Geometric modeling and mesh generation from scanned images",

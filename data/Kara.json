@@ -111,11 +111,6 @@
         "citation": "arXiv preprint arXiv:2306.03021, 2023"
     },
     {
-        "title": "BIGNet: A Deep Learning Architecture for Brand Recognition with Geometry-Based Explainability",
-        "pub_year": "2024",
-        "citation": "Journal of Mechanical Design 146, 051701-1, 2024"
-    },
-    {
         "title": "BIGNet: A Deep Learning Architecture for Brand Recognition with Geometry-based Explainability",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design, 1-26, 2023"
@@ -360,6 +355,11 @@
         "citation": "arXiv preprint arXiv:2310.05289, 2023"
     },
     {
+        "title": "Inference of highly time-resolved melt pool visual characteristics and spatially-dependent lack-of-fusion defects in laser powder bed fusion using acoustic and thermal emission …",
+        "pub_year": "2023",
+        "citation": "arXiv e-prints, arXiv: 2310.05289, 2023"
+    },
+    {
         "title": "Intermodal image-based recognition of planar kinematic mechanisms",
         "pub_year": "2015",
         "citation": "Journal of Visual Languages & Computing 27, 38-48, 2015"
@@ -602,9 +602,9 @@
         "citation": "Computer Graphics Forum 38 (5), 85-98, 2019"
     },
     {
-        "title": "Supporting early styling design of automobiles using sketch-based 3d shape construction",
+        "title": "Supporting Early Styling Design of Automobiles Using Sketch-based 3D Shape Construction.",
         "pub_year": "2008",
-        "citation": "Computer-Aided Design and Applications 5 (6), 867-876, 2008"
+        "citation": "Computer-Aided Design & Applications 5 (6), 2008"
     },
     {
         "title": "Surface creation on unstructured point sets using neural networks",
@@ -629,6 +629,11 @@
         "title": "The potential for computer tutors to assist students learning to solve complex problems",
         "pub_year": "2014",
         "citation": "2014 ASEE Annual Conference & Exposition, 24.1239. 1-24.1239. 20, 2014"
+    },
+    {
+        "title": "Topology Optimization Using Neural Networks With Conditioning Field Initialization for Improved Efficiency",
+        "pub_year": "2024",
+        "citation": "Journal of Mechanical Design 146, 061702-1, 2024"
     },
     {
         "title": "Topology optimization using neural networks with conditioning field initialization for improved efficiency",

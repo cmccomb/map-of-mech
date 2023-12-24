@@ -169,6 +169,11 @@
         "citation": "Nature geoscience 7 (9), 647-650, 2014"
     },
     {
+        "title": "Changes in Elemental Composition, Concentration, and Size Distribution of Micro and Nano-Particles in Taylor Glacier Over the Last Deglaciation (9-34 kyr BP)",
+        "pub_year": "2023",
+        "citation": "AGU23, 2023"
+    },
+    {
         "title": "Characteristics of ice nucleating particles in and around California winter storms",
         "pub_year": "2019",
         "citation": "Journal of Geophysical Research: Atmospheres 124 (21), 11530-11551, 2019"
@@ -211,7 +216,7 @@
     {
         "title": "Conflicts of Interest in the Assessment of Chemicals, Waste, and Pollution",
         "pub_year": "2023",
-        "citation": "Environmental Science & Technology, 2023"
+        "citation": "Environmental science & technology, 2023"
     },
     {
         "title": "Constraining the Volatility Distributions and Possible Diffusion Limitations of Secondary Organic Aerosols Using Laboratory Dilution Experiments",
@@ -336,6 +341,15 @@
         "title": "Following particle-particle mixing in atmospheric secondary organic aerosols by using isotopically labeled terpenes",
         "pub_year": "2018",
         "citation": "Chem 4 (2), 318-333, 2018"
+    },
+    {
+        "title": "Global Wetland Methane Emissions derived from Fluxnet and the UpCH4 Model, 2001-2018",
+        "citation": "ORNL DAAC, 0"
+    },
+    {
+        "title": "Global Wetland Methane Emissions derived from Fluxnet and the UpCH4 Model, 2001-2018. ORNL DAAC, Oak Ridge, Tennessee, USA",
+        "pub_year": "2023",
+        "citation": ""
     },
     {
         "title": "Heterogeneous chemistry of atmospheric mineral dust particles and their resulting cloud-nucleation properties",
@@ -686,6 +700,11 @@
         "citation": "AGU Fall Meeting Abstracts 2009, A11B-0094, 2009"
     },
     {
+        "title": "Summary of and Selected Highlights from the Surface Atmosphere Integrated Field Laboratory (SAIL) Field Campaign",
+        "pub_year": "2024",
+        "citation": "104th AMS Annual Meeting, 2024"
+    },
+    {
         "title": "Supplemental Material Moving beyond Fine Particle Mass: High-Spatial Resolution Exposure to Source-Resolved Atmospheric Particle Number and Chemical Mixing State",
         "citation": ""
     },
@@ -717,7 +736,7 @@
     {
         "title": "The Surface Atmosphere Integrated Field Laboratory (SAIL) Campaign",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Meteorological Society, 2023"
+        "citation": "Bulletin of the American Meteorological Society 104 (12), E2192-E2222, 2023"
     },
     {
         "title": "The atmospheric evolution of the ice nucleation properties of biomass burning aerosol.",

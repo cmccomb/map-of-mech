@@ -672,10 +672,6 @@
         "citation": "Unmanned Systems Technology VIII 6230, 426-437, 2006"
     },
     {
-        "title": "Gallium-Based Liquid–Solid Biphasic Conductors for Soft Electronics",
-        "citation": ""
-    },
-    {
         "title": "Gallium‐Based Liquid–Solid Biphasic Conductors for Soft Electronics",
         "pub_year": "2023",
         "citation": "Advanced Functional Materials 33 (41), 2306453, 2023"
@@ -1001,18 +997,18 @@
     },
     {
         "title": "Method of synthesizing a thermally conductive and stretchable polymer composite",
-        "pub_year": "2020",
-        "citation": "US Patent App. 16/766,121, 2020"
-    },
-    {
-        "title": "Method, apparatus, and assembly for thermally connecting layers",
-        "pub_year": "2022",
-        "citation": "US Patent 11,335,622, 2022"
+        "pub_year": "2023",
+        "citation": "US Patent 11,732,172, 2023"
     },
     {
         "title": "Method, apparatus, and assembly for thermally connecting layers",
         "pub_year": "2020",
         "citation": "US Patent 10,777,483, 2020"
+    },
+    {
+        "title": "Method, apparatus, and assembly for thermally connecting layers",
+        "pub_year": "2022",
+        "citation": "US Patent 11,335,622, 2022"
     },
     {
         "title": "Methods to pattern liquid metals",
@@ -1041,8 +1037,8 @@
     },
     {
         "title": "Multi-site damage sensing and localization soft-matter electronics and related systems and methods",
-        "pub_year": "2021",
-        "citation": "US Patent App. 17/095,564, 2021"
+        "pub_year": "2023",
+        "citation": "US Patent 11,682,276, 2023"
     },
     {
         "title": "Multifunctional Materials",
@@ -1213,6 +1209,11 @@
         "title": "Recyclable Thin‐Film Soft Electronics for Smart Packaging and E‐Skins",
         "pub_year": "2023",
         "citation": "Advanced Science 10 (26), 2301673, 2023"
+    },
+    {
+        "title": "Recyclable liquid metal–Graphene supercapacitor",
+        "pub_year": "2023",
+        "citation": "Chemical Engineering Journal, 147894, 2023"
     },
     {
         "title": "Reliable interfaces for EGaIn multi-layer stretchable circuits and microelectronics",
@@ -1598,6 +1599,11 @@
         "title": "Thermal analysis and design of a multi-layered rigidity tunable composite",
         "pub_year": "2013",
         "citation": "International Journal of Heat and Mass Transfer 66, 271-278, 2013"
+    },
+    {
+        "title": "Thermo‐Mechanically Stable, Liquid Metal Embedded Soft Materials for High‐Temperature Applications",
+        "pub_year": "2023",
+        "citation": "Advanced Functional Materials, 2309725, 2023"
     },
     {
         "title": "Toward Fully Printed Soft Actuators: UV-Assisted Printing of Liquid Crystal Elastomers and Biphasic Liquid Metal Conductors",

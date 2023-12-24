@@ -155,14 +155,14 @@
         "citation": "arXiv preprint arXiv:1908.02745, 2019"
     },
     {
-        "title": "Direct Drive End-Effectors with Parallel Kinematics",
-        "pub_year": "2022",
-        "citation": "US Patent App. 17/326,719, 2022"
-    },
-    {
         "title": "Direct Drive Hands: Force-Motion Transparency in Gripper Design",
         "pub_year": "2019",
         "citation": "Robotics: Science and Systems, 2019"
+    },
+    {
+        "title": "Direct drive end-effectors with parallel kinematics",
+        "pub_year": "2023",
+        "citation": "US Patent 11,826,910, 2023"
     },
     {
         "title": "Disturbance detection, identification, and recovery by gait transition in legged robots",

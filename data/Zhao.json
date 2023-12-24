@@ -130,6 +130,11 @@
         "citation": "arXiv preprint arXiv:1904.09306, 2019"
     },
     {
+        "title": "Automated Cardiovascular Record Retrieval by Multimodal Learning between Electrocardiogram and Clinical Report",
+        "pub_year": "2023",
+        "citation": "Machine Learning for Health (ML4H), 480-497, 2023"
+    },
+    {
         "title": "Bayesian Reparameterization of Reward-Conditioned Reinforcement Learning with Energy-based Models",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2305.11340, 2023"
@@ -143,6 +148,11 @@
         "title": "Benchmarking robustness under distribution shift of multimodal image-text models",
         "pub_year": "2022",
         "citation": "NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and …, 2022"
+    },
+    {
+        "title": "Cardiac Disease Diagnosis on Imbalanced Electrocardiography Data Through Optimal Transport Augmentation",
+        "pub_year": "2023",
+        "citation": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023"
     },
     {
         "title": "Causalaf: Causal autoregressive flow for goal-directed safety-critical scenes generation",
@@ -216,7 +226,7 @@
     {
         "title": "Continual Vision-based Reinforcement Learning with Group Symmetries",
         "pub_year": "2023",
-        "citation": "7th Annual Conference on Robot Learning, 2023"
+        "citation": "Conference on Robot Learning, 222-240, 2023"
     },
     {
         "title": "Converting ECG Signals to Images for Efficient Image-text Retrieval via Encoding",
@@ -677,8 +687,8 @@
     },
     {
         "title": "Seasondepth: Cross-season monocular depth prediction dataset and benchmark under multiple environments",
-        "pub_year": "2020",
-        "citation": "arXiv preprint arXiv:2011.04408, 2020"
+        "pub_year": "2023",
+        "citation": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2023"
     },
     {
         "title": "Seeing is not believing: Robust reinforcement learning against spurious correlation",
@@ -807,7 +817,7 @@
     {
         "title": "What went wrong? closing the sim-to-real gap via differentiable causal discovery",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2306.15864, 2023"
+        "citation": "Conference on Robot Learning, 734-760, 2023"
     },
     {
         "title": "Where should we place lidars on the autonomous vehicle?-an optimal design approach",
