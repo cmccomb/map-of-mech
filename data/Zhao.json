@@ -214,6 +214,11 @@
         "citation": "International Conference on Machine Learning, 13644-13668, 2022"
     },
     {
+        "title": "Constraint-Conditioned Policy Optimization for Versatile Safe Reinforcement Learning",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2310.03718, 2023"
+    },
+    {
         "title": "Context-aware safe reinforcement learning for non-stationary environments",
         "pub_year": "2021",
         "citation": "2021 IEEE International Conference on Robotics and Automation (ICRA), 10689 …, 2021"
@@ -430,6 +435,11 @@
         "title": "Goats: Goal sampling adaptation for scooping with curriculum reinforcement learning",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2303.05193, 2023"
+    },
+    {
+        "title": "Gradient Shaping for Multi-Constraint Safe Reinforcement Learning",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2312.15127, 2023"
     },
     {
         "title": "Group Distributionally Robust Reinforcement Learning with Hierarchical Latent Variables",
