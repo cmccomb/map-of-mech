@@ -200,6 +200,11 @@
         "citation": "SBM, 59-66, 2006"
     },
     {
+        "title": "Curve-based Neural Style Transfer",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2401.08579, 2023"
+    },
+    {
         "title": "DMF-TONN: Direct Mesh-free Topology Optimization using Neural Networks",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2305.04107, 2023"
@@ -602,9 +607,9 @@
         "citation": "Computer Graphics Forum 38 (5), 85-98, 2019"
     },
     {
-        "title": "Supporting Early Styling Design of Automobiles Using Sketch-based 3D Shape Construction.",
+        "title": "Supporting early styling design of automobiles using sketch-based 3d shape construction",
         "pub_year": "2008",
-        "citation": "Computer-Aided Design & Applications 5 (6), 2008"
+        "citation": "Computer-Aided Design and Applications 5 (6), 867-876, 2008"
     },
     {
         "title": "Surface creation on unstructured point sets using neural networks",

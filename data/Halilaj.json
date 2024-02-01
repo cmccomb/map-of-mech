@@ -70,6 +70,11 @@
         "citation": "Bio-imaging and Visualization for Patient-customized Simulations, 103-111, 2014"
     },
     {
+        "title": "HybridOctree_Hex: Hybrid Octree-Based Adaptive All-Hexahedral Mesh Generation with Jacobian Control",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2401.05984, 2024"
+    },
+    {
         "title": "IMU and smartphone camera fusion for knee adduction and knee flexion moment estimation during walking",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Industrial Informatics 19 (2), 1445-1455, 2022"

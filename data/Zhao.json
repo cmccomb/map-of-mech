@@ -141,7 +141,7 @@
     },
     {
         "title": "Benchmarking Robustness of Multimodal Image-Text Models under Distribution Shift",
-        "pub_year": "2023",
+        "pub_year": "2024",
         "citation": ""
     },
     {
@@ -306,6 +306,11 @@
         "title": "Development and evaluation of two learning-based personalized driver models for car-following behaviors",
         "pub_year": "2017",
         "citation": "2017 American Control Conference (ACC), 1133-1138, 2017"
+    },
+    {
+        "title": "DiffScene: Diffusion-Based Safety-Critical Scenario Generation for Autonomous Vehicles",
+        "pub_year": "2023",
+        "citation": "The Second Workshop on New Frontiers in Adversarial Machine Learning, 2023"
     },
     {
         "title": "Digitization of Chinese Traffic Laws: Methodologies, Quantative Analysis, and Usage for Monitoring Driving Compliance",
@@ -502,9 +507,19 @@
         "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2022"
     },
     {
+        "title": "Labeling Roads with Different Types of Automated Driving Functional Requirements using Machine Learning",
+        "pub_year": "2020",
+        "citation": "Mobility21, Carnegie Mellon University, 2020"
+    },
+    {
         "title": "Learning and inferring a driver's braking action in car-following scenarios",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Vehicular Technology 67 (5), 3887-3899, 2018"
+    },
+    {
+        "title": "Learning from Sparse Offline Datasets via Conservative Density Estimation",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2401.08819, 2024"
     },
     {
         "title": "Learning to collide: An adaptive safety-critical scenarios generating method",
@@ -628,7 +643,7 @@
     {
         "title": "Reducing Contextual Bias in Cardiac Magnetic Resonance Imaging Deep Learning Using Contrastive Self-Supervision",
         "pub_year": "2023",
-        "citation": ""
+        "citation": "Machine Learning for Healthcare Conference, 473-488, 2023"
     },
     {
         "title": "Research on the platform design and control system for the wheel-side steering-driving coordination vehicle",
@@ -671,11 +686,6 @@
         "citation": "IEEE Access 8, 131848-131858, 2020"
     },
     {
-        "title": "SCCS: Semantics-Consistent Cross-domain Summarization via Optimal Transport Alignment",
-        "pub_year": "2023",
-        "citation": "Findings of the Association for Computational Linguistics: ACL 2023, 1584-1601, 2023"
-    },
-    {
         "title": "Safe model-based reinforcement learning with robust cross-entropy method",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2010.07968, 2020"
@@ -706,7 +716,7 @@
         "citation": "arXiv preprint arXiv:2307.07907, 2023"
     },
     {
-        "title": "Semantic Traffic Law Adaptive Decision-Making for Self-Driving Vehicles",
+        "title": "Semantic traffic law adaptive decision-making for self-driving vehicles",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Intelligent Transportation Systems, 2023"
     },

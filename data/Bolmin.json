@@ -5,9 +5,14 @@
         "citation": "INTEGRATIVE AND COMPARATIVE BIOLOGY 60, E21-E21, 2020"
     },
     {
+        "title": "Insect-scale jumping robots enabled by a dynamic buckling cascade",
+        "pub_year": "2023",
+        "citation": "Proceedings of the National Academy of Sciences 120 (5), e2210651120, 2023"
+    },
+    {
         "title": "Interlocking metasurfaces",
         "pub_year": "2023",
-        "citation": "Journal of Materials Science, 1-9, 2023"
+        "citation": "Journal of Materials Science 58 (1), 411-419, 2023"
     },
     {
         "title": "JUMP: Experiment-enabled Modeling of Click Beetle Jumps for Robotic Applications",
@@ -40,14 +45,19 @@
         "citation": ""
     },
     {
+        "title": "Optimized design of interlocking metasurfaces",
+        "pub_year": "2023",
+        "citation": "Materials & Design 233, 112272, 2023"
+    },
+    {
         "title": "Plywood experimental investigation and modeling approach for static and dynamic structural applications",
         "pub_year": "2018",
         "citation": "Improved Performance of Materials: Design and Experimental Approaches, 119-141, 2018"
     },
     {
-        "title": "Pop! Observing and Modeling the Legless Self-righting Jumping Mechanism of Click Beetles",
+        "title": "Pop! Observing and modeling the legless self-righting jumping mechanism of click beetles",
         "pub_year": "2017",
-        "citation": "Conference on Biomimetic and Biohybrid Systems, 35-47, 2017"
+        "citation": "Biomimetic and Biohybrid Systems: 6th International Conference, Living …, 2017"
     },
     {
         "title": "Scaling of jumping performance in click beetles (Coleoptera: Elateridae)",
@@ -60,6 +70,11 @@
         "citation": "Entomology 2017, 2017"
     },
     {
+        "title": "Synergistic strengthening in interlocking metasurfaces",
+        "pub_year": "2023",
+        "citation": "Materials & Design 227, 111798, 2023"
+    },
+    {
         "title": "The click beetle latch mechanism: An in-vivo study using synchrotron x-rays",
         "pub_year": "2019",
         "citation": "INTEGRATIVE AND COMPARATIVE BIOLOGY 59, E20-E20, 2019"
@@ -67,6 +82,6 @@
     {
         "title": "The dynamics of ultrafast motion in biological and bio-inspired systems: the case study of click beetles",
         "pub_year": "2021",
-        "citation": "University of Illinois at Urbana-Champaign, 2021"
+        "citation": ""
     }
 ]

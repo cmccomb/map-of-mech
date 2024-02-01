@@ -734,6 +734,11 @@
         "citation": "Computers & Fluids 141, 42-53, 2016"
     },
     {
+        "title": "HybridOctree_Hex: Hybrid Octree-Based Adaptive All-Hexahedral Mesh Generation with Jacobian Control",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2401.05984, 2024"
+    },
+    {
         "title": "ICES REPORT 11-40",
         "pub_year": "2011",
         "citation": ""
@@ -1398,6 +1403,11 @@
         "title": "The divergence-conforming immersed boundary method: Application to vesicles, capsules, and red blood cells under flow",
         "pub_year": "2020",
         "citation": "Bulletin of the American Physical Society 65, 2020"
+    },
+    {
+        "title": "The subdivision-based IGA-EIEQ numerical scheme for the Cahn–Hilliard–Darcy system of two-phase Hele-Shaw flow on complex curved surfaces",
+        "pub_year": "2024",
+        "citation": "Computer Methods in Applied Mechanics and Engineering 420, 116709, 2024"
     },
     {
         "title": "Theoretical Contributions",

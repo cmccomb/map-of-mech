@@ -287,6 +287,11 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023"
     },
     {
+        "title": "Adaptation through Communication: Assessing Human-AI Partnership for the Design of Complex Engineering Systems",
+        "pub_year": "2024",
+        "citation": "Journal of Mechanical Design, 1-45, 2024"
+    },
+    {
         "title": "Adaptive inspirational design stimuli: using design output to computationally search for stimuli that impact concept generation",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (9), 091401, 2020"
@@ -339,6 +344,11 @@
         "title": "An Improved Shape Annealing Algorithm for the Generation of Coated DNA Origami Nanostructures",
         "pub_year": "2023",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023"
+    },
+    {
+        "title": "An Improved Shape Annealing Algorithm for the Generation of Coated Deoxyribonucleic Acid Origami Nanostructures",
+        "pub_year": "2024",
+        "citation": "Journal of Mechanical Design 146 (5), 2024"
     },
     {
         "title": "An Integrated Approach to Optimal T hree D imensional L ayoutand R outing",
@@ -665,6 +675,11 @@
         "citation": "Design Studies 61, 1-29, 2019"
     },
     {
+        "title": "Curve-based Neural Style Transfer",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2401.08579, 2023"
+    },
+    {
         "title": "Curve-based shape matching: supporting designers' hierarchies through parametric shape recognition of arbitrary geometry",
         "pub_year": "2006",
         "citation": "Environment and Planning B: Planning and Design 33 (4), 523-540, 2006"
@@ -919,7 +934,7 @@
     {
         "title": "Engineering shape grammars: where we have been and where we are going",
         "pub_year": "2001",
-        "citation": "Formal engineering design synthesis, 65-91, 2001"
+        "citation": "Formal engineering design synthesis, 65-92, 2001"
     },
     {
         "title": "Evolutionary multi-agent systems: An adaptive approach to optimization in dynamic environments",
@@ -1101,6 +1116,11 @@
         "title": "How to become innovative",
         "pub_year": "2013",
         "citation": "FT Press, 2013"
+    },
+    {
+        "title": "Human Designers' Dynamic Confidence and Decision-Making When Working with More than One AI",
+        "pub_year": "2024",
+        "citation": "Journal of Mechanical Design, 1-34, 2024"
     },
     {
         "title": "Human and computational approaches for design problem-solving",
@@ -1546,6 +1566,11 @@
         "title": "Pattern search algorithm for component layout",
         "pub_year": "2006",
         "citation": "US Patent App. 11/254,842, 2006"
+    },
+    {
+        "title": "Power Analysis",
+        "pub_year": "2020",
+        "citation": "OSF, 2020"
     },
     {
         "title": "Power–velocity process design charts for powder bed additive manufacturing",

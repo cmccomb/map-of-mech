@@ -82,7 +82,7 @@
     {
         "title": "Catalyst Energy Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models",
         "pub_year": "2023",
-        "citation": "ACS Catalysis 13, 16032-16044, 2023"
+        "citation": "ACS Catalysis 13 (24), 16032-16044, 2023"
     },
     {
         "title": "Combining physics-based and evolution-based methods to design antibodies against an evolving virus",
@@ -102,7 +102,7 @@
     {
         "title": "Convolutional neural networks for melt depth prediction and visualization in laser powder bed fusion",
         "pub_year": "2023",
-        "citation": "The International Journal of Advanced Manufacturing Technology, 1-16, 2023"
+        "citation": "The International Journal of Advanced Manufacturing Technology 129 (7), 3047 …, 2023"
     },
     {
         "title": "Creativity in robot manipulation with deep reinforcement learning",
@@ -435,6 +435,11 @@
         "citation": "arXiv preprint arXiv:2311.02225, 2023"
     },
     {
+        "title": "Multimodal Language and Graph Learning of Adsorption Configuration in Catalysis",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2401.07408, 2024"
+    },
+    {
         "title": "Multiscale modeling of droplet interface bilayer membrane networks",
         "pub_year": "2015",
         "citation": "Biomicrofluidics 9 (6), 2015"
@@ -487,12 +492,7 @@
     {
         "title": "Peptidebert: A language model based on transformers for peptide property prediction",
         "pub_year": "2023",
-        "citation": "The Journal of Physical Chemistry Letters 14, 10427-10434, 2023"
-    },
-    {
-        "title": "Physics Informed Contrastive Learning for Homogeneous Partial Differential Equation Surrogate Modeling",
-        "pub_year": "2024",
-        "citation": "Bulletin of the American Physical Society, 2024"
+        "citation": "The Journal of Physical Chemistry Letters 14 (46), 10427-10434, 2023"
     },
     {
         "title": "Physics Informed Token Transformer",

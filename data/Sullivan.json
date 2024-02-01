@@ -216,7 +216,7 @@
     {
         "title": "Conflicts of Interest in the Assessment of Chemicals, Waste, and Pollution",
         "pub_year": "2023",
-        "citation": "Environmental science & technology, 2023"
+        "citation": "Environmental science & technology 57 (48), 19066-19077, 2023"
     },
     {
         "title": "Constraining the Volatility Distributions and Possible Diffusion Limitations of Secondary Organic Aerosols Using Laboratory Dilution Experiments",
@@ -343,11 +343,12 @@
         "citation": "Chem 4 (2), 318-333, 2018"
     },
     {
-        "title": "Global Wetland Methane Emissions derived from Fluxnet and the UpCH4 Model, 2001-2018",
-        "citation": "ORNL DAAC, 0"
+        "title": "Global Wetland Methane Emissions derived from FLUXNET and the UpCH4 Model, 2001-2018",
+        "pub_year": "2024",
+        "citation": "ORNL DAAC, 2024"
     },
     {
-        "title": "Global Wetland Methane Emissions derived from Fluxnet and the UpCH4 Model, 2001-2018. ORNL DAAC, Oak Ridge, Tennessee, USA",
+        "title": "Global Wetland Methane Emissions derived from FLUXNET and the UpCH4 Model, 2001-2018. ORNL DAAC, Oak Ridge, Tennessee, USA",
         "pub_year": "2023",
         "citation": ""
     },

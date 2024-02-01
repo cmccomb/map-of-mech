@@ -4,6 +4,11 @@
         "citation": "Available at SSRN 4080968, 0"
     },
     {
+        "title": "A mechanistic explanation of shrinkage porosity in laser powder bed fusion additive manufacturing",
+        "pub_year": "2023",
+        "citation": "Acta Materialia, 119632, 2023"
+    },
+    {
         "title": "A statistical approach to determine data requirements for part porosity characterization in laser powder bed fusion additive manufacturing",
         "pub_year": "2022",
         "citation": "Materials Characterization 190, 112027, 2022"
@@ -42,6 +47,11 @@
         "title": "Defect structure process maps for laser powder bed fusion additive manufacturing",
         "pub_year": "2020",
         "citation": "Additive Manufacturing 36, 101552, 2020"
+    },
+    {
+        "title": "Effects of Process-Induced Defects on Fatigue Properties of Laser Powder Bed Fusion Metallic Materials",
+        "pub_year": "2023",
+        "citation": ""
     },
     {
         "title": "Enabling Part-Scale Scanwise process simulation for predicting melt pool variation in LPBF by combining GPU-based Matrix-free FEM and adaptive Remeshing",

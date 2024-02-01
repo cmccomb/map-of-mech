@@ -1,5 +1,10 @@
 [
     {
+        "title": "127 Modeling Traumatic Brain Injury Using Human Cerebral Organoids",
+        "pub_year": "2023",
+        "citation": "Neurosurgery 69 (Supplement_1), 31, 2023"
+    },
+    {
         "title": "2D and 3D mechanobiology in human and nonhuman systems",
         "pub_year": "2016",
         "citation": "ACS Applied Materials & Interfaces 8 (34), 21869-21882, 2016"
@@ -126,6 +131,11 @@
         "title": "Artificial cells: building bioinspired systems using small-scale biology",
         "pub_year": "2008",
         "citation": "Trends in biotechnology 26 (1), 14-20, 2008"
+    },
+    {
+        "title": "Author Correction: Characterization of neural mechanotransduction response in human traumatic brain injury organoid model",
+        "pub_year": "2024",
+        "citation": "Scientific reports 14 (1), 2151, 2024"
     },
     {
         "title": "Author Correction: Mimicking Embedded Vasculature Structure for 3D Cancer on a Chip Approaches through Micromilling",

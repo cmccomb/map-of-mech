@@ -590,11 +590,6 @@
         "citation": "Journal of Computational Design and Engineering 4 (4), 330-338, 2017"
     },
     {
-        "title": "Explicit finite element method for in-vivo mechanics of abdominal aortic aneurysm",
-        "pub_year": "2007",
-        "citation": "European Journal of Computational Mechanics, 337-363, 2007"
-    },
-    {
         "title": "Face clustering of a large-scale cad model for surface mesh generation",
         "pub_year": "2001",
         "citation": "Computer-Aided Design 33 (3), 251-261, 2001"
@@ -825,9 +820,9 @@
         "citation": "Logistics 4 (3), 16, 2020"
     },
     {
-        "title": "Inverse Pre-Deformation of Tetrahedral Mesh for Large Deformation Finite Element Analysis.",
+        "title": "Inverse Pre-Deformation of Tetrahedral Mesh for Large Deformation Finite Element Analysis",
         "pub_year": "2005",
-        "citation": "Computer-Aided Design & Applications 2 (6), 2005"
+        "citation": "Computer-Aided Design and Applications 2 (6), 805-814, 2005"
     },
     {
         "title": "Inverse adaptation of a hex-dominant mesh for large deformation finite element analysis",
@@ -888,6 +883,11 @@
         "title": "Measurement and optimization of minimally invasive intervention device design fitness using a multiobjective weighted isotropy index",
         "pub_year": "2010",
         "citation": ""
+    },
+    {
+        "title": "Mechanics of abdominal aortic aneurysm",
+        "pub_year": "2007",
+        "citation": "European Journal of Computational Mechanics/Revue Européenne de Mécanique …, 2007"
     },
     {
         "title": "Mesh matching–creating conforming interfaces between hexahedral meshes",
@@ -1208,9 +1208,9 @@
         "citation": "IEEE Computer Graphics and Applications 27 (1), 60-71, 2007"
     },
     {
-        "title": "Sketch-based Computer-Aided Design Tool for Configuration Design of Automobile Instrument Panel.",
+        "title": "Sketch-based computer-aided design tool for configuration design of automobile instrument panel",
         "pub_year": "2009",
-        "citation": "Computer-Aided Design & Applications 6 (5), 2009"
+        "citation": "Computer-Aided Design and Applications 6 (5), 585-594, 2009"
     },
     {
         "title": "Sketch-based design system, apparatus, and method for the construction and modification of three-dimensional geometry",
@@ -1262,9 +1262,9 @@
         "citation": "Sleep and Breathing 21 (1), 119-133, 2017"
     },
     {
-        "title": "Supporting Early Styling Design of Automobiles Using Sketch-based 3D Shape Construction.",
+        "title": "Supporting early styling design of automobiles using sketch-based 3d shape construction",
         "pub_year": "2008",
-        "citation": "Computer-Aided Design & Applications 5 (6), 2008"
+        "citation": "Computer-Aided Design and Applications 5 (6), 867-876, 2008"
     },
     {
         "title": "Surface extraction from point-sampled data through region growing",

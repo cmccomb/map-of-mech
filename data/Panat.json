@@ -209,9 +209,9 @@
         "citation": "Minerals, Metals and Materials Society/AIME, 420 Commonwealth Dr., P. O. Box …, 2011"
     },
     {
-        "title": "Influence of surface morphology on the adhesive strength of aluminum/epoxy interfaces",
-        "pub_year": "2002",
-        "citation": "TAM Reports 1010, 2002"
+        "title": "Influence of surface morphology on the adhesion strength of epoxy–aluminum interfaces",
+        "pub_year": "2003",
+        "citation": "Journal of Adhesion Science and Technology 17 (12), 1685-1711, 2003"
     },
     {
         "title": "Interfacial delamination and delamination mechanism maps for 3D printed flexible electrical interconnects",
@@ -372,6 +372,11 @@
         "title": "StressD: 2D Stress Estimation Using Denoising Diffusion Model",
         "pub_year": "2023",
         "citation": "Computer Methods in Applied Mechanics and Engineering 416, 116343, 2023"
+    },
+    {
+        "title": "Stretchable 3D-Printed Circuit Boards",
+        "pub_year": "2023",
+        "citation": "US Patent 11,856,708, 2023"
     },
     {
         "title": "Stretchable 3D-printed circuit boards",

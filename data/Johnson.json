@@ -357,7 +357,7 @@
     {
         "title": "Rough terrain navigation using divergence constrained model-based reinforcement learning",
         "pub_year": "2021",
-        "citation": "Carnegie Mellon University, 2021"
+        "citation": "Conference on Robot Learning, PMLR 164, 224-233, 2021"
     },
     {
         "title": "SCALING OF EFFECTIVENESS FOR INERTIAL REORIENTATION",
@@ -462,7 +462,7 @@
     {
         "title": "The Simplest Walking Robot: A bipedal robot with one actuator and two rigid bodies",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2308.08401, 2023"
+        "citation": "2023 IEEE-RAS 22nd International Conference on Humanoid Robots (Humanoids), 1-7, 2023"
     },
     {
         "title": "The uncertainty aware Salted Kalman Filter: State estimation for hybrid systems with uncertain guards",

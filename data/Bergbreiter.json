@@ -29,13 +29,14 @@
         "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 5445-5451, 2023"
     },
     {
-        "title": "3D‐Printed Electrostatic Microactuators for Flexible Microsystems",
+        "title": "3D‐Printed Multi‐scale Fluidics for Liquid Metals",
         "pub_year": "2023",
-        "citation": "Advanced Functional Materials 33 (47), 2304991, 2023"
+        "citation": "Advanced Materials Technologies, 2301980, 2023"
     },
     {
-        "title": "3D‐Printed Multi‐scale Fluidics for Liquid Metals",
-        "citation": "Advanced Materials Technologies, 2301980, 0"
+        "title": "3D‐printed electrostatic microactuators for flexible microsystems",
+        "pub_year": "2023",
+        "citation": "Advanced Functional Materials 33 (47), 2304991, 2023"
     },
     {
         "title": "3dflex: A rapid prototyping approach for multi-material compliant mechanisms in millirobots",
@@ -253,6 +254,11 @@
     {
         "title": "Data-Informed Modeling of Milligram-Scale Quadrupedal Robot Locomotion",
         "citation": ""
+    },
+    {
+        "title": "Decoding Dynamic State Properties from Distributed Strain Sensing on sUAS",
+        "pub_year": "2024",
+        "citation": "AIAA SCITECH 2024 Forum, 0962, 2024"
     },
     {
         "title": "Design and Characterization of Viscoelastic McKibben Actuators with Tunable Force-Velocity Curves",
@@ -721,7 +727,7 @@
     {
         "title": "The Simplest Walking Robot: A bipedal robot with one actuator and two rigid bodies",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2308.08401, 2023"
+        "citation": "2023 IEEE-RAS 22nd International Conference on Humanoid Robots (Humanoids), 1-7, 2023"
     },
     {
         "title": "The effect of porosity on energetic porous silicon solid propellant micro-propulsion",
