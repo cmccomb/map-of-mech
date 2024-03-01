@@ -111,9 +111,9 @@
         "citation": "arXiv preprint arXiv:2306.03021, 2023"
     },
     {
-        "title": "BIGNet: A Deep Learning Architecture for Brand Recognition with Geometry-based Explainability",
-        "pub_year": "2023",
-        "citation": "Journal of Mechanical Design, 1-26, 2023"
+        "title": "BIGNet: A Deep Learning Architecture for Brand Recognition with Geometry-Based Explainability",
+        "pub_year": "2024",
+        "citation": "Journal of Mechanical Design 146 (5), 051701, 2024"
     },
     {
         "title": "Beautification of design sketches using trainable stroke clustering and curve fitting",
@@ -233,6 +233,11 @@
         "title": "Design of peptide inhibitors targeting β-catenin using generative deep learning and molecular dynamics simulations",
         "pub_year": "2022",
         "citation": ""
+    },
+    {
+        "title": "Design of target specific peptide inhibitors using generative deep learning and molecular dynamics simulations",
+        "pub_year": "2024",
+        "citation": "Nature Communications 15 (1), 1611, 2024"
     },
     {
         "title": "Designing coupling behaviors using compliant shape optimization",

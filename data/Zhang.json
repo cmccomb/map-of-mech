@@ -113,6 +113,11 @@
         "citation": "Computer-Aided Design 46, 110-119, 2014"
     },
     {
+        "title": "AFOSR Deliverables Submission Survey",
+        "pub_year": "2014",
+        "citation": "Organization 1, 412-2685332, 2014"
+    },
+    {
         "title": "ANNUAL COUPLED ENERGYPLUS AND COMPUTATIONAL FLUID DYNAMICS SIMULATION OF NATURAL VENTILATION",
         "citation": ""
     },
@@ -262,6 +267,11 @@
         "citation": "Carnegie Mellon University, 2020"
     },
     {
+        "title": "Bio-Informed Image-Based Deep Learning Frameworks for Prognosis of Pediatric Spinal Deformities",
+        "pub_year": "2022",
+        "citation": "Northwestern University, 2022"
+    },
+    {
         "title": "Biomedical Image Interpolation Based on Multi-resolution Transformations",
         "citation": ""
     },
@@ -371,6 +381,11 @@
         "title": "Computational Modeling of Objects Presented in Images: Fundamentals, Methods, and Applications: 4th International Conference, CompIMAGE 2014, Pittsburgh, PA, USA, September 3-5 …",
         "pub_year": "2014",
         "citation": "Springer, 2014"
+    },
+    {
+        "title": "Computational modeling of objects represented in images.",
+        "pub_year": "2011",
+        "citation": "Graph. Model. 73 (6), 311-312, 2011"
     },
     {
         "title": "Computational vascular fluid–structure interaction: methodology and application to cerebral",
@@ -789,6 +804,10 @@
         "citation": "Carnegie Mellon University, 2021"
     },
     {
+        "title": "Image Segmentation of Nanoscale Zernike Phase Contrast X-ray CT Images",
+        "citation": ""
+    },
+    {
         "title": "Image restoration of phase contrast nano scale X-ray CT images",
         "pub_year": "2014",
         "citation": "Computational Modeling of Objects Presented in Images. Fundamentals, Methods …, 2014"
@@ -939,6 +958,10 @@
     {
         "title": "LBIE-MOL Tutorial",
         "pub_year": "2006",
+        "citation": ""
+    },
+    {
+        "title": "LIST OF ABSTRACTS",
         "citation": ""
     },
     {
@@ -1182,6 +1205,11 @@
         "title": "Proceedings of Solid and Physical Modeling (SPM) 2017-Special Issue of CAD Vol. 90",
         "pub_year": "2017",
         "citation": "Elsevier 90, 1-210, 2017"
+    },
+    {
+        "title": "Projection-based reduced order modeling and data-driven artificial viscosity closures for incompressible fluid flows",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2401.17383, 2024"
     },
     {
         "title": "Quadratic serendipity element shape functions on general planar polygons",

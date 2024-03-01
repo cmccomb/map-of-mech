@@ -35,6 +35,10 @@
         "citation": "2018 Annual American Control Conference (ACC), 4796-4802, 2018"
     },
     {
+        "title": "ACCELERATED POLICY EVALUATION WITH ADAPTIVE IMPORTANCE SAMPLING",
+        "citation": ""
+    },
+    {
         "title": "Accelerated Evaluation of Automated Vehicles using Piecewise Mixture Distribution Models",
         "pub_year": "2016",
         "citation": "Ann Arbor 1001, 48109, 2016"
@@ -141,13 +145,18 @@
     },
     {
         "title": "Benchmarking Robustness of Multimodal Image-Text Models under Distribution Shift",
-        "pub_year": "2024",
-        "citation": ""
+        "pub_year": "2023",
+        "citation": "Journal of Data-centric Machine Learning Research, 2023"
     },
     {
         "title": "Benchmarking robustness under distribution shift of multimodal image-text models",
         "pub_year": "2022",
         "citation": "NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and …, 2022"
+    },
+    {
+        "title": "Can Brain Signals Reveal Inner Alignment with Human Languages?",
+        "pub_year": "2023",
+        "citation": "The 2023 Conference on Empirical Methods in Natural Language Processing, 2023"
     },
     {
         "title": "Cardiac Disease Diagnosis on Imbalanced Electrocardiography Data Through Optimal Transport Augmentation",
@@ -214,9 +223,9 @@
         "citation": "International Conference on Machine Learning, 13644-13668, 2022"
     },
     {
-        "title": "Constraint-Conditioned Policy Optimization for Versatile Safe Reinforcement Learning",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2310.03718, 2023"
+        "title": "Constraint-conditioned policy optimization for versatile safe reinforcement learning",
+        "pub_year": "2024",
+        "citation": "Advances in Neural Information Processing Systems 36, 2024"
     },
     {
         "title": "Context-aware safe reinforcement learning for non-stationary environments",
@@ -308,7 +317,7 @@
         "citation": "2017 American Control Conference (ACC), 1133-1138, 2017"
     },
     {
-        "title": "DiffScene: Diffusion-Based Safety-Critical Scenario Generation for Autonomous Vehicles",
+        "title": "Diffscene: Diffusion-based safety-critical scenario generation for autonomous vehicles",
         "pub_year": "2023",
         "citation": "The Second Workshop on New Frontiers in Adversarial Machine Learning, 2023"
     },
@@ -502,6 +511,16 @@
         "citation": "arXiv preprint arXiv:2302.02092, 2023"
     },
     {
+        "title": "Interpretation of Intracardiac Electrograms Through Textual Representations",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.01115, 2024"
+    },
+    {
+        "title": "Interpretation of Intracardiac Electrograms Through Textual Representations",
+        "pub_year": "2024",
+        "citation": "arXiv e-prints, arXiv: 2402.01115, 2024"
+    },
+    {
         "title": "Investigating the impact of multi-lidar placement on object detection for autonomous driving",
         "pub_year": "2022",
         "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2022"
@@ -510,6 +529,11 @@
         "title": "Labeling Roads with Different Types of Automated Driving Functional Requirements using Machine Learning",
         "pub_year": "2020",
         "citation": "Mobility21, Carnegie Mellon University, 2020"
+    },
+    {
+        "title": "Learning Shared Safety Constraints from Multi-task Demonstrations",
+        "pub_year": "2024",
+        "citation": "Advances in Neural Information Processing Systems 36, 2024"
     },
     {
         "title": "Learning and inferring a driver's braking action in car-following scenarios",
@@ -584,6 +608,11 @@
         "title": "On the robustness of safe reinforcement learning under observational perturbations",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2205.14691, 2022"
+    },
+    {
+        "title": "Online legal driving behavior monitoring for self-driving vehicles",
+        "pub_year": "2024",
+        "citation": "Nature communications 15 (1), 408, 2024"
     },
     {
         "title": "Optimal design of three-planetary-gear power-split hybrid powertrains",
@@ -686,6 +715,11 @@
         "citation": "IEEE Access 8, 131848-131858, 2020"
     },
     {
+        "title": "SCCS: Semantics-Consistent Cross-domain Summarization via Optimal Transport Alignment",
+        "pub_year": "2023",
+        "citation": "Findings of the Association for Computational Linguistics: ACL 2023, 1584-1601, 2023"
+    },
+    {
         "title": "Safe model-based reinforcement learning with robust cross-entropy method",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2010.07968, 2020"
@@ -712,8 +746,8 @@
     },
     {
         "title": "Seeing is not believing: Robust reinforcement learning against spurious correlation",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2307.07907, 2023"
+        "pub_year": "2024",
+        "citation": "Advances in Neural Information Processing Systems 36, 2024"
     },
     {
         "title": "Semantic traffic law adaptive decision-making for self-driving vehicles",
@@ -790,14 +824,14 @@
         "citation": "arXiv preprint arXiv:2307.15061, 2023"
     },
     {
+        "title": "Towards Robust and Safe Reinforcement Learning with Benign Off-policy Data",
+        "pub_year": "2023",
+        "citation": ""
+    },
+    {
         "title": "Towards affordable on-track testing for autonomous vehicle—A Kriging-based statistical approach",
         "pub_year": "2017",
         "citation": "2017 ieee 20th international conference on intelligent transportation …, 2017"
-    },
-    {
-        "title": "Towards robust and safe reinforcement learning with benign off-policy data",
-        "pub_year": "2023",
-        "citation": "International Conference on Machine Learning, 21586-21610, 2023"
     },
     {
         "title": "Towards secure and safe appified automated vehicles",

@@ -10,6 +10,11 @@
         "citation": "Advanced Materials 35 (51), 2304757, 2023"
     },
     {
+        "title": "3D freeform ice printing for fabricating biomimetic vascular networks in engineered tissue",
+        "pub_year": "2024",
+        "citation": "Biophysical Journal 123 (3), 436a, 2024"
+    },
+    {
         "title": "A NOVEL TECHNIQUE FOR FABRICATION OF DISSOLVABLE MICRONEEDLE ARRAYS",
         "citation": ""
     },
@@ -512,9 +517,9 @@
         "citation": "PowderMet, 2015"
     },
     {
-        "title": "High-Density Soft-Matter Electronics",
-        "pub_year": "2021",
-        "citation": "US Patent App. 17/181,756, 2021"
+        "title": "High-density soft-matter electronics",
+        "pub_year": "2024",
+        "citation": "US Patent 11,903,139, 2024"
     },
     {
         "title": "High-density soft-matter electronics",
@@ -540,6 +545,11 @@
         "title": "IMECE2005-80018 On the Repetitive Impact Dynamics of One and Two Degree of Freedom Systems",
         "pub_year": "2005",
         "citation": "ASME-PUBLICATIONS-DE 118 (2), 903, 2005"
+    },
+    {
+        "title": "Image segmentation and control of freeform 3D ice printing with computer vision",
+        "pub_year": "2024",
+        "citation": "Biophysical Journal 123 (3), 548a, 2024"
     },
     {
         "title": "Implementation Of Donaldson Reversal Technique To Measure Error Motions Of Ultra-High-Speed Spindles",
@@ -571,14 +581,14 @@
         "citation": "Proceedings of NAMRI/SME 41, 2-7, 2013"
     },
     {
-        "title": "LIQUID METAL CIRCUITS AND METHODS OF MAKING THE SAME",
-        "pub_year": "2024",
-        "citation": "US Patent App. 18/376,877, 2024"
-    },
-    {
         "title": "Liquid metal circuits and methods of making the same",
         "pub_year": "2023",
         "citation": "US Patent 11,805,597, 2023"
+    },
+    {
+        "title": "Liquid metal circuits and methods of making the same",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/376,877, 2024"
     },
     {
         "title": "Lubrication enhancement for UHMWPE sliding contacts through surface texturing",

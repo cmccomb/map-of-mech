@@ -270,9 +270,14 @@
         "citation": "Computers in biology and medicine 144, 105342, 2022"
     },
     {
-        "title": "GPCR-BERT: Interpreting Sequential Design of G Protein Coupled Receptors Using Protein Language Models",
+        "title": "GPCR-BERT: Interpreting Sequential Design of G Protein-Coupled Receptors Using Protein Language Models",
+        "pub_year": "2024",
+        "citation": "Journal of Chemical Information and Modeling, 2024"
+    },
+    {
+        "title": "GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2310.19915, 2023"
+        "citation": "arXiv:2310.03030, 2023"
     },
     {
         "title": "Graph convolutional networks applied to unstructured flow field data",
@@ -490,14 +495,19 @@
         "citation": "The Journal of Physical Chemistry B 125 (40), 11256-11263, 2021"
     },
     {
+        "title": "PICL: Physics Informed Contrastive Learning for Partial Differential Equations",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2401.16327, 2024"
+    },
+    {
         "title": "Peptidebert: A language model based on transformers for peptide property prediction",
         "pub_year": "2023",
         "citation": "The Journal of Physical Chemistry Letters 14 (46), 10427-10434, 2023"
     },
     {
-        "title": "Physics Informed Token Transformer",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.08757, 2023"
+        "title": "Physics Informed Token Transformer for Solving Partial Differential Equations",
+        "pub_year": "2024",
+        "citation": "Machine Learning: Science and Technology, 2024"
     },
     {
         "title": "Potential Neutralizing Antibodies Discovered for Novel Corona Virus Using Machine Learning (preprint)",
@@ -528,6 +538,16 @@
         "title": "Prediction of GPCR activity using machine learning",
         "pub_year": "2022",
         "citation": "Computational and Structural Biotechnology Journal 20, 2564-2573, 2022"
+    },
+    {
+        "title": "Pretraining Strategies for Structure Agnostic Material Property Prediction",
+        "pub_year": "2024",
+        "citation": "Journal of Chemical Information and Modeling, 2024"
+    },
+    {
+        "title": "Pretraining Strategy for Neural Potentials",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.15921, 2024"
     },
     {
         "title": "Prototype memory and attention mechanisms for few shot image generation",
@@ -574,9 +594,9 @@
         "citation": "arXiv preprint arXiv:2310.02227, 2023"
     },
     {
-        "title": "Scalable Transformer for PDE Surrogate Modeling",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.17560, 2023"
+        "title": "Scalable transformer for pde surrogate modeling",
+        "pub_year": "2024",
+        "citation": "Advances in Neural Information Processing Systems 36, 2024"
     },
     {
         "title": "SculptBot: Pre-Trained Models for 3D Deformable Object Manipulation",
@@ -675,8 +695,8 @@
     },
     {
         "title": "Transformer-based Planning for Symbolic Regression",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2303.06833, 2023"
+        "pub_year": "2024",
+        "citation": "Advances in Neural Information Processing Systems 36, 2024"
     },
     {
         "title": "Transition metal dichalcogenide-based functional membrane: Synthesis, modification, and water purification applications",

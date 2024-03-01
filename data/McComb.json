@@ -145,6 +145,11 @@
         "citation": "Environmental Research Letters, 2023"
     },
     {
+        "title": "Arctic Coastal Hazard Index (ACHI): A Framework for Assessing Vulnerability to Permafrost Thawing, Coastal Erosion, and Flooding in the Arctic",
+        "pub_year": "2023",
+        "citation": "AGU23, 2023"
+    },
+    {
         "title": "Arctic geohazard mapping tools for civil infrastructure planning: A systematic review",
         "pub_year": "2023",
         "citation": "Cold Regions Science and Technology, 103969, 2023"
@@ -592,7 +597,7 @@
     {
         "title": "Linking Properties of Design Problem to Optimal Team Characteristics",
         "pub_year": "2016",
-        "citation": "ASME 2015 International Design Engineering Technical Conferences and …, 2016"
+        "citation": "ASME 2016 International Design Engineering Technical Conferences and …, 2016"
     },
     {
         "title": "Lost in Translation: Examining the Complex Relationship between Prototyping and Communication",
@@ -775,6 +780,10 @@
         "citation": "Cold Regions Science and Technology 198, 103522, 2022"
     },
     {
+        "title": "Taylor Series Error Correction Network for Super-Resolution of Discretized Partial Differential Equation Solutions",
+        "citation": "Available at SSRN 4731728, 0"
+    },
+    {
         "title": "Taylor series error correction network for super-resolution of discretized fluid solutions",
         "pub_year": "2023",
         "citation": "Bulletin of the American Physical Society, 2023"
@@ -808,6 +817,11 @@
         "title": "The story novice designers tell: How rhetorical structures and prototyping shape communication with external audiences",
         "pub_year": "2022",
         "citation": "Design Studies 82, 2022"
+    },
+    {
+        "title": "To Centralize or Decentralize? Examining Cyber-Physical Control on the Manufacturing Shop Floor",
+        "pub_year": "2024",
+        "citation": "Engineering Archive, 2024"
     },
     {
         "title": "Topic Modeling and Sentiment Analysis of Social Media Data to Drive Experiential Redesign",
@@ -863,6 +877,11 @@
         "title": "Uncovering Potential Bias in Engineering Design: A Comparative Review of Bias Research in Medicine",
         "pub_year": "2023",
         "citation": "Design Science, 2023"
+    },
+    {
+        "title": "Understanding Collaboration in Sub-Structured Teams Through a Computational Model of Set-Based Concurrent Engineering",
+        "pub_year": "2024",
+        "citation": "Journal of Engineering Design, 2024"
     },
     {
         "title": "Understanding Effects of Permafrost Degradation and Coastal Erosion on Civil Infrastructure in Arctic Coastal Villages: A Community Survey and Knowledge Co-Production",

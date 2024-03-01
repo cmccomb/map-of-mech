@@ -221,12 +221,17 @@
     {
         "title": "Can Brain Signals Reveal Inner Alignment with Human Languages?",
         "pub_year": "2023",
-        "citation": "Findings of the Association for Computational Linguistics: EMNLP 2023, 1789-1804, 2023"
+        "citation": "The 2023 Conference on Empirical Methods in Natural Language Processing, 2023"
     },
     {
         "title": "Cardiac Disease Diagnosis on Imbalanced Electrocardiography Data Through Optimal Transport Augmentation",
         "pub_year": "2023",
         "citation": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023"
+    },
+    {
+        "title": "Changes in Gait Asymmetry May Be Caused by Adaptation of Spinal Reflexes",
+        "pub_year": "2024",
+        "citation": "bioRxiv, 2024.02. 04.578817, 2024"
     },
     {
         "title": "Changes in cerebellar activation after onabotulinumtoxin A injections for spasticity after chronic stroke: A pilot functional magnetic resonance imaging study",
@@ -587,6 +592,16 @@
         "citation": "Journal of motor behavior 44 (6), 403-418, 2012"
     },
     {
+        "title": "Interpretation of Intracardiac Electrograms Through Textual Representations",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.01115, 2024"
+    },
+    {
+        "title": "Interpretation of Intracardiac Electrograms Through Textual Representations",
+        "pub_year": "2024",
+        "citation": "arXiv e-prints, arXiv: 2402.01115, 2024"
+    },
+    {
         "title": "Letter by Munin et al Regarding Article,“Botulinum Toxin for the Upper Limb After Stroke (BoTULS) Trial: Effect on Impairment, Activity Limitation, and Pain”",
         "pub_year": "2011",
         "citation": "Stroke 42 (7), e412-e412, 2011"
@@ -930,11 +945,6 @@
         "citation": "IEEE Transactions on Neural Systems and Rehabilitation Engineering 21 (1 …, 2012"
     },
     {
-        "title": "Spinal Cord Stimulation Systems, Methods, And Devices",
-        "pub_year": "2021",
-        "citation": "US Patent App. 16/992,023, 2021"
-    },
-    {
         "title": "Spinal Networks and Spinal Cord Injury: A Tribute to Reggie Edgerton: Sensing and decoding the neural drive to paralyzed muscles during attempted movements of a person with …",
         "pub_year": "2021",
         "citation": "Journal of Neurophysiology 126 (6), 2104, 2021"
@@ -943,6 +953,11 @@
         "title": "Spinal cord stimulation restores sensation, improves function, and reduces phantom pain after transtibial amputation",
         "pub_year": "2022",
         "citation": "medRxiv, 2022.09. 15.22279956, 2022"
+    },
+    {
+        "title": "Spinal cord stimulation systems, methods, and devices",
+        "pub_year": "2024",
+        "citation": "US Patent 11,896,819, 2024"
     },
     {
         "title": "Spinal nerve interfaces for bidirectional communication with prosthetic limbs",
@@ -975,18 +990,23 @@
     },
     {
         "title": "Supraspinal control of motoneurons after paralysis enabled by spinal cord stimulation",
-        "pub_year": "2024",
-        "citation": ""
+        "pub_year": "2023",
+        "citation": "Medrxiv, 2023.11. 29.23298779, 2023"
     },
     {
         "title": "Supraspinal control of motoneurons after paralysis enabled by spinal cord stimulation",
-        "pub_year": "2023",
-        "citation": "Medrxiv, 2023.11. 29.23298779, 2023"
+        "pub_year": "2024",
+        "citation": ""
     },
     {
         "title": "Sustained growth factor delivery promotes axonal regeneration in long gap peripheral nerve repair",
         "pub_year": "2011",
         "citation": "Tissue Engineering Part A 17 (9-10), 1263-1275, 2011"
+    },
+    {
+        "title": "TARGETED STIMULATION OF THE SENSORY AFFERENTS IMPROVES MOTONEURON FUNCTION IN HUMANS WITH A DEGENERATIVE MOTONEURON DISEASE",
+        "pub_year": "2024",
+        "citation": "medRxiv, 2024.02. 14.24302709, 2024"
     },
     {
         "title": "Task-related MEG source localization via discriminant analysis",

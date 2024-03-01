@@ -34,6 +34,11 @@
         "citation": "Molecular cancer therapeutics 20 (6), 1210-1219, 2021"
     },
     {
+        "title": "3D freeform ice printing for fabricating biomimetic vascular networks in engineered tissue",
+        "pub_year": "2024",
+        "citation": "Biophysical Journal 123 (3), 436a, 2024"
+    },
+    {
         "title": "3d in vitro neuron on a chip for probing calcium mechanostimulation",
         "pub_year": "2020",
         "citation": "Advanced Biosystems 4 (10), 2000080, 2020"
@@ -56,6 +61,11 @@
         "title": "A Multiphase, Computational Modeling Approach to Understand Microalgal Flow Dynamics in Microfluidic Channels",
         "pub_year": "2015",
         "citation": "Biophysical Journal 108 (2), 330a, 2015"
+    },
+    {
+        "title": "A biohybrid mechanosensor integrated with a soft robot",
+        "pub_year": "2024",
+        "citation": "Biophysical Journal 123 (3), 162a, 2024"
     },
     {
         "title": "A biosensing soft robot: Autonomous parsing of chemical signals through integrated organic and inorganic interfaces",
@@ -135,7 +145,7 @@
     {
         "title": "Author Correction: Characterization of neural mechanotransduction response in human traumatic brain injury organoid model",
         "pub_year": "2024",
-        "citation": "Scientific reports 14 (1), 2151, 2024"
+        "citation": "Scientific Reports 14, 2024"
     },
     {
         "title": "Author Correction: Mimicking Embedded Vasculature Structure for 3D Cancer on a Chip Approaches through Micromilling",
@@ -151,6 +161,11 @@
         "title": "Automated induction of general grammars for design",
         "pub_year": "2017",
         "citation": "Design Computing and Cognition'16, 267-278, 2017"
+    },
+    {
+        "title": "Behavioral response of semiterrestrial crabs to mechanical stimulation for understanding their detection of local predator/prey signals",
+        "pub_year": "2024",
+        "citation": "Biophysical Journal 123 (3), 408a, 2024"
     },
     {
         "title": "Beyond disease, how biomedical engineering can improve global health",
@@ -256,6 +271,11 @@
         "title": "Closed-Loop Circuit Model for Administration of Anticoagulation Treatment",
         "pub_year": "2022",
         "citation": "JOURNAL OF THE AMERICAN COLLEGE OF SURGEONS 235 (5), S73-S73, 2022"
+    },
+    {
+        "title": "Closed-loop circuit model of coagulation physiology",
+        "pub_year": "2024",
+        "citation": "Biophysical Journal 123 (3), 20a, 2024"
     },
     {
         "title": "Coarse-grained Modeling of Actin Cytoskeletal Alignment to Mechanical Stimulation",
@@ -416,6 +436,11 @@
         "citation": "Biophysical Journal 100 (3), 32a, 2011"
     },
     {
+        "title": "Detection of decidual vasculopathy using multiresolution hierarchical neural network",
+        "pub_year": "2024",
+        "citation": "Biophysical Journal 123 (3), 549a, 2024"
+    },
+    {
         "title": "Detection of dynamic spatiotemporal response to periodic chemical stimulation in a Xenopus embryonic tissue",
         "pub_year": "2011",
         "citation": "PloS one 6 (1), e14624, 2011"
@@ -461,13 +486,13 @@
     },
     {
         "title": "Digital patch for discrete signaling, a baseball glove including same, and related method of manufacture",
-        "pub_year": "2021",
-        "citation": "US Patent 11,103,764, 2021"
+        "pub_year": "2022",
+        "citation": "US Patent 11,266,897, 2022"
     },
     {
         "title": "Digital patch for discrete signaling, a baseball glove including same, and related method of manufacture",
-        "pub_year": "2022",
-        "citation": "US Patent 11,266,897, 2022"
+        "pub_year": "2021",
+        "citation": "US Patent 11,103,764, 2021"
     },
     {
         "title": "Digital patch for discrete signaling, a baseball glove including same, and related method of manufacture",
@@ -705,6 +730,11 @@
         "citation": "Annual Review of Biomedical Engineering 13, 369-396, 2011"
     },
     {
+        "title": "Image segmentation and control of freeform 3D ice printing with computer vision",
+        "pub_year": "2024",
+        "citation": "Biophysical Journal 123 (3), 548a, 2024"
+    },
+    {
         "title": "Implementation of a Pharmocokinetic Approach to a Baculovirus System for Analytic Solutions to Virus and Cell Interactions",
         "pub_year": "1997",
         "citation": "ASME International Mechanical Engineering Congress and Exposition 18237, 169-170, 1997"
@@ -895,6 +925,11 @@
         "citation": "Biophysical Journal 121 (3), 493a, 2022"
     },
     {
+        "title": "Mechanical strain and calcium signaling: Insights from Drosophila gastrulation",
+        "pub_year": "2024",
+        "citation": "Biophysical Journal 123 (3), 517a, 2024"
+    },
+    {
         "title": "Mechanical stretch and shear flow induced reorganization and recruitment of fibronectin in fibroblasts",
         "pub_year": "2011",
         "citation": "Scientific reports 1 (1), 147, 2011"
@@ -926,8 +961,8 @@
     },
     {
         "title": "Method for object detection using hierarchical deep learning",
-        "pub_year": "2021",
-        "citation": "US Patent App. 17/326,541, 2021"
+        "pub_year": "2024",
+        "citation": "US Patent 11,893,811, 2024"
     },
     {
         "title": "Method for object detection using hierarchical deep learning",
@@ -1065,6 +1100,11 @@
         "citation": "Applied Physics Letters 87 (16), 2005"
     },
     {
+        "title": "Paleobionics: Understanding early echinoderm locomotion with soft robotics",
+        "pub_year": "2024",
+        "citation": "Biophysical Journal 123 (3), 20a-21a, 2024"
+    },
+    {
         "title": "Parameter Effects Of Crowding On Binding Chemistry Using Stochastic Off-lattice Simulations",
         "pub_year": "2009",
         "citation": "Biophysical Journal 96 (3), 85a, 2009"
@@ -1098,6 +1138,11 @@
         "title": "Planes, Trains, Automobiles.... and Cells?",
         "pub_year": "2019",
         "citation": "2nd International Conference on Nanomaterials Science and Mechanical …, 2019"
+    },
+    {
+        "title": "Plant leaflet responses to localized distinct mechanical modes of stimulation",
+        "pub_year": "2024",
+        "citation": "Biophysical Journal 123 (3), 468a, 2024"
     },
     {
         "title": "Polycarbonate Mold Copying Technique to Fabricate Microengineered Devices for Biophysical Studies",
@@ -1535,6 +1580,11 @@
         "title": "Understanding molecular crowding effects on linear cytoskeleton assembly with reduced models",
         "pub_year": "2005",
         "citation": "BIOPHYSICAL JOURNAL 88 (1), 516A-516A, 2005"
+    },
+    {
+        "title": "Understanding plant growth using automation approaches for biomaterial synthesis",
+        "pub_year": "2024",
+        "citation": "Biophysical Journal 123 (3), 544a, 2024"
     },
     {
         "title": "Understanding sensory nerve mechanotransduction through localized elastomeric matrix control",

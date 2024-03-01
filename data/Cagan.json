@@ -282,6 +282,11 @@
         "citation": "AAAI, 1217-1223, 1994"
     },
     {
+        "title": "Adaptation Through Communication: Assessing Human–Artificial Intelligence Partnership for the Design of Complex Engineering Systems",
+        "pub_year": "2024",
+        "citation": "Journal of Mechanical Design 146, 081401-1, 2024"
+    },
+    {
         "title": "Adaptation and Challenges in Human-AI Partnership for the Design of Complex Engineering Systems",
         "pub_year": "2023",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023"
@@ -339,11 +344,6 @@
         "title": "An Extended Pattern Search Approach to Wind Farm Layout",
         "pub_year": "2012",
         "citation": ""
-    },
-    {
-        "title": "An Improved Shape Annealing Algorithm for the Generation of Coated DNA Origami Nanostructures",
-        "pub_year": "2023",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2023"
     },
     {
         "title": "An Improved Shape Annealing Algorithm for the Generation of Coated Deoxyribonucleic Acid Origami Nanostructures",
@@ -479,9 +479,9 @@
         "citation": "Design Computing and Cognition'08: Proceedings of the Third International …, 2008"
     },
     {
-        "title": "BIGNet: A Deep Learning Architecture for Brand Recognition with Geometry-based Explainability",
-        "pub_year": "2023",
-        "citation": "Journal of Mechanical Design, 1-26, 2023"
+        "title": "BIGNet: A Deep Learning Architecture for Brand Recognition with Geometry-Based Explainability",
+        "pub_year": "2024",
+        "citation": "Journal of Mechanical Design 146 (5), 051701, 2024"
     },
     {
         "title": "Built to Love: Creating Products That Captivate Customers",
@@ -823,6 +823,11 @@
         "citation": "Ai Edam 16 (4), 273-290, 2002"
     },
     {
+        "title": "Detection of decidual vasculopathy using multiresolution hierarchical neural network",
+        "pub_year": "2024",
+        "citation": "Biophysical Journal 123 (3), 549a, 2024"
+    },
+    {
         "title": "Determinants of creative thinking: the effect of task characteristics in solving remote associate test problems",
         "pub_year": "2022",
         "citation": "Thinking & Reasoning 28 (2), 163-192, 2022"
@@ -1138,6 +1143,11 @@
         "citation": "Journal of Mechanical Design 144 (2), 021405, 2022"
     },
     {
+        "title": "Hypothesis",
+        "pub_year": "2020",
+        "citation": "OSF, 2020"
+    },
+    {
         "title": "INFLUENCE OF INSPECTION STRATEGY ON MANUFACTURING PROCESS SELECTION",
         "pub_year": "1994",
         "citation": "Concurrent Product Design: Presented at 1994 International Mechanical …, 1994"
@@ -1370,6 +1380,11 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2007"
     },
     {
+        "title": "Measures",
+        "pub_year": "2020",
+        "citation": "OSF, 2020"
+    },
+    {
         "title": "Meta-Design: Reflections on a graduate course in design theory and methodology",
         "pub_year": "1989",
         "citation": "Design Theory’88: Proceedings of the 1988 NSF Grantee Workshop on Design …, 1989"
@@ -1381,8 +1396,8 @@
     },
     {
         "title": "Method for object detection using hierarchical deep learning",
-        "pub_year": "2021",
-        "citation": "US Patent App. 17/326,541, 2021"
+        "pub_year": "2024",
+        "citation": "US Patent 11,893,811, 2024"
     },
     {
         "title": "Method for object detection using hierarchical deep learning",
@@ -1703,8 +1718,8 @@
     },
     {
         "title": "Searching of data structures in pre-processing data for a machine learning classifier",
-        "pub_year": "2018",
-        "citation": "US Patent App. 15/926,790, 2018"
+        "pub_year": "2024",
+        "citation": "US Patent 11,899,669, 2024"
     },
     {
         "title": "Self Learning Design Agent (SLDA): Enabling Deep Learning and Tree Search in Complex Action Spaces",
@@ -1838,6 +1853,16 @@
         "title": "Taking the guess work out of the initial guess: A solution interval method for least-squares parameter estimation in nonlinear models",
         "pub_year": "2021",
         "citation": "Journal of Computing and Information Science in Engineering 21 (2), 021011, 2021"
+    },
+    {
+        "title": "Task switching and RAT problem solving",
+        "pub_year": "2020",
+        "citation": "OSF, 2020"
+    },
+    {
+        "title": "Tasks",
+        "pub_year": "2020",
+        "citation": "OSF, 2020"
     },
     {
         "title": "Teaching integrated product development: Educational innovation at Carnegie Mellon University",

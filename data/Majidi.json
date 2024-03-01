@@ -35,6 +35,11 @@
         "citation": "APS March Meeting Abstracts 2019, R56. 008, 2019"
     },
     {
+        "title": "A Gradient Stiffness‐programmed Circuit Board by Spatially Controlled Phase‐transition of Supercooled Hydrogel for Stretchable Electronics Integration",
+        "pub_year": "2024",
+        "citation": "Advanced Materials, 2313344, 2024"
+    },
+    {
         "title": "A Method for 3D Printing and Rapid Prototyping of Fieldable Untethered Soft Robots",
         "pub_year": "2023",
         "citation": "Soft Robotics 10 (2), 292-300, 2023"
@@ -48,6 +53,11 @@
         "title": "A Versatile and Robust Soft Rolling Robot Driven by Shape Memory Alloy",
         "pub_year": "2018",
         "citation": "APS March Meeting Abstracts 2018, H47. 013, 2018"
+    },
+    {
+        "title": "A biohybrid mechanosensor integrated with a soft robot",
+        "pub_year": "2024",
+        "citation": "Biophysical Journal 123 (3), 162a, 2024"
     },
     {
         "title": "A biosensing soft robot: Autonomous parsing of chemical signals through integrated organic and inorganic interfaces",
@@ -453,13 +463,13 @@
     },
     {
         "title": "Digital patch for discrete signaling, a baseball glove including same, and related method of manufacture",
-        "pub_year": "2021",
-        "citation": "US Patent 11,103,764, 2021"
+        "pub_year": "2022",
+        "citation": "US Patent 11,266,897, 2022"
     },
     {
         "title": "Digital patch for discrete signaling, a baseball glove including same, and related method of manufacture",
-        "pub_year": "2022",
-        "citation": "US Patent 11,266,897, 2022"
+        "pub_year": "2021",
+        "citation": "US Patent 11,103,764, 2021"
     },
     {
         "title": "Digital patch for discrete signaling, a baseball glove including same, and related method of manufacture",
@@ -538,6 +548,11 @@
     },
     {
         "title": "Electrostatic clutch",
+        "pub_year": "2020",
+        "citation": "US Patent 10,554,154, 2020"
+    },
+    {
+        "title": "Electrostatic clutch",
         "pub_year": "2021",
         "citation": "US Patent 10,998,835, 2021"
     },
@@ -545,11 +560,6 @@
         "title": "Electrostatic clutch",
         "pub_year": "2020",
         "citation": "US Patent 10,749,450, 2020"
-    },
-    {
-        "title": "Electrostatic clutch",
-        "pub_year": "2020",
-        "citation": "US Patent 10,554,154, 2020"
     },
     {
         "title": "Emergence of liquid metals in nanotechnology",
@@ -707,6 +717,11 @@
         "citation": "Soft Matter 11 (40), 7877-7887, 2015"
     },
     {
+        "title": "Graphene‐Assisted Chemical Stabilization of Liquid Metal Nano Droplets for Liquid Metal Based Energy Storage",
+        "pub_year": "2024",
+        "citation": "Advanced Materials Technologies, 2301428, 2024"
+    },
+    {
         "title": "Gripping apparatus and method of producing a gripping apparatus",
         "pub_year": "2022",
         "citation": "US Patent 11,511,442, 2022"
@@ -720,6 +735,11 @@
         "title": "Hard questions for soft robotics",
         "pub_year": "2021",
         "citation": "Science robotics 6 (53), eabg6049, 2021"
+    },
+    {
+        "title": "Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.10211, 2024"
     },
     {
         "title": "High friction from a stiff polymer using microfiber arrays",
@@ -742,9 +762,9 @@
         "citation": "APS March Meeting Abstracts 2017, V18. 006, 2017"
     },
     {
-        "title": "High-Density Soft-Matter Electronics",
-        "pub_year": "2021",
-        "citation": "US Patent App. 17/181,756, 2021"
+        "title": "High-density soft-matter electronics",
+        "pub_year": "2024",
+        "citation": "US Patent 11,903,139, 2024"
     },
     {
         "title": "High-density soft-matter electronics",
@@ -847,19 +867,9 @@
         "citation": "US Patent App. 16/817,176, 2020"
     },
     {
-        "title": "LIQUID METAL CIRCUITS AND METHODS OF MAKING THE SAME",
-        "pub_year": "2024",
-        "citation": "US Patent App. 18/376,877, 2024"
-    },
-    {
         "title": "Learned Dynamics of Electrothermally-Actuated Soft Robot Limbs Using LSTM Neural Networks",
         "pub_year": "2021",
         "citation": "arXiv e-prints, arXiv: 2111.04851, 2021"
-    },
-    {
-        "title": "Liquid Metal Actuators: A Comparative Analysis of Surface Tension Controlled Actuation",
-        "pub_year": "2023",
-        "citation": "Advanced Materials, 2300560, 2023"
     },
     {
         "title": "Liquid Metals: Stretchable, High‐k Dielectric Elastomers through Liquid‐Metal Inclusions (Adv. Mater. 19/2016)",
@@ -877,9 +887,19 @@
         "citation": "Applied Physics Letters 111 (25), 2017"
     },
     {
+        "title": "Liquid metal actuators: a comparative analysis of surface tension controlled actuation",
+        "pub_year": "2023",
+        "citation": "Advanced Materials, 2300560, 2023"
+    },
+    {
         "title": "Liquid metal architectures for soft and wearable energy harvesting devices",
         "pub_year": "2021",
         "citation": "Multifunctional Materials 4 (1), 012001, 2021"
+    },
+    {
+        "title": "Liquid metal circuits and methods of making the same",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/376,877, 2024"
     },
     {
         "title": "Liquid metal composites for flexible thermoelectric energy harvesting",
@@ -1161,6 +1181,11 @@
         "citation": "Journal of Applied Mechanics 77, 1-1, 2010"
     },
     {
+        "title": "Paleobionics: Understanding early echinoderm locomotion with soft robotics",
+        "pub_year": "2024",
+        "citation": "Biophysical Journal 123 (3), 20a-21a, 2024"
+    },
+    {
         "title": "Polymer composite with liquid phase metal inclusions",
         "pub_year": "2020",
         "citation": "US Patent 10,720,261, 2020"
@@ -1292,8 +1317,8 @@
     },
     {
         "title": "Safe Supervisory Control of Soft Robot Actuators",
-        "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2208.01547, 2022"
+        "pub_year": "2024",
+        "citation": "Soft Robotics, 2024"
     },
     {
         "title": "Scalable manufacturing of liquid metal circuits",
@@ -1354,6 +1379,11 @@
         "title": "Sliding-induced adhesion of stiff polymer microfibre arrays. II. Microscale behaviour",
         "pub_year": "2008",
         "citation": "Journal of the Royal Society Interface 5 (25), 845-853, 2008"
+    },
+    {
+        "title": "Soft Robotics",
+        "pub_year": "2015",
+        "citation": "Mary Ann Libert, Inc 2 (3), 2015"
     },
     {
         "title": "Soft actuators by electrochemical oxidation of liquid metal surfaces",

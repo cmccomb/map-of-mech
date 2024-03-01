@@ -317,6 +317,11 @@
         "citation": "IEEE Robotics and Automation Letters 6 (2), 2729-2736, 2021"
     },
     {
+        "title": "Background and Rationale of the Series",
+        "pub_year": "2015",
+        "citation": "Renewable Energy 83, 245-255, 2015"
+    },
+    {
         "title": "Boundary representation solid modeling system",
         "pub_year": "1994",
         "citation": "US Patent 5,278,983, 1994"
@@ -1121,6 +1126,11 @@
         "title": "Quadrilateral meshing with anisotropy and directionality control via close packing of rectangular cells",
         "pub_year": "2000",
         "citation": "world wide web 10, 12, 2000"
+    },
+    {
+        "title": "Redesigning Aerospace Components Using a Coupled Topology Optimization and Lattice Generation Approach",
+        "pub_year": "2024",
+        "citation": "3D Printing and Additive Manufacturing, 2024"
     },
     {
         "title": "Removing self intersections of a triangular mesh by edge swapping, edge hammering, and face lifting",
