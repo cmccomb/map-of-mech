@@ -15,6 +15,11 @@
         "citation": "Biophysical Journal 123 (3), 436a, 2024"
     },
     {
+        "title": "59. An Animal Study Investigating Long-term Retention Of New Costal Cartilage Allograft",
+        "pub_year": "2024",
+        "citation": "Plastic and Reconstructive Surgery–Global Open 12 (4S), 41, 2024"
+    },
+    {
         "title": "A NOVEL TECHNIQUE FOR FABRICATION OF DISSOLVABLE MICRONEEDLE ARRAYS",
         "citation": ""
     },
@@ -53,7 +58,7 @@
         "citation": "Sensors and Actuators A: Physical 184, 160-172, 2012"
     },
     {
-        "title": "A model for bending, torsional, and axial vibrations of micro-and macro-drills including actual drill geometry—Part I: Model development and numerical solution",
+        "title": "A model for bending, torsional, and axial vibrations of micro-and macro-drills including actual drill geometry—part I: model development and numerical solution",
         "pub_year": "2010",
         "citation": ""
     },
@@ -220,7 +225,7 @@
     {
         "title": "Analysis of In Vitro Cytotoxicity of Carbohydrate-Based Materials Used for Dissolvable Microneedle Arrays",
         "pub_year": "2020",
-        "citation": "Pharmaceutical Research 37, 1-18, 2020"
+        "citation": "Pharmaceutical research 37, 1-18, 2020"
     },
     {
         "title": "Analysis of contact dynamics using controlled impact excitations",
@@ -681,19 +686,19 @@
         "citation": "Microscopy and Microanalysis 22 (S3), 1818-1819, 2016"
     },
     {
-        "title": "Mimicking Embedded Vasculature Structure for 3D Cancer on a Chip Approaches through Micromilling (vol 7, 16724, 2017)",
-        "pub_year": "2019",
-        "citation": "SCIENTIFIC REPORTS 9, 2019"
-    },
-    {
         "title": "Mimicking embedded vasculature structure for 3D cancer on a chip approaches through micromilling",
         "pub_year": "2017",
         "citation": "Scientific reports 7 (1), 16724, 2017"
     },
     {
+        "title": "Mimicking embedded vasculature structure for 3D cancer on a chip approaches through micromilling (vol 7, 16724, 2017)",
+        "pub_year": "2019",
+        "citation": "SCIENTIFIC REPORTS 9, 2019"
+    },
+    {
         "title": "Modal testing techniques for microelectromechanical systems (MEMS)",
         "pub_year": "2003",
-        "citation": "Proc. 4th International Symposium on MEMS and Nanotechnology, 124-129, 2003"
+        "citation": "2003 SEM Annual Conference & Exposition on Experimental and Applied …, 2003"
     },
     {
         "title": "Modeling Chip-Evacuation Forces in Drilling for Various Flute Geometries",
@@ -735,7 +740,7 @@
         "citation": "Journal of manufacturing science and engineering 125 (1), 6-13, 2003"
     },
     {
-        "title": "Modeling and prediction of hole profile in drilling, Part 2: Modeling hole profile",
+        "title": "Modeling and prediction of hole profile in drilling, part 2: Modeling hole profile",
         "pub_year": "2003",
         "citation": "J. Manuf. Sci. Eng. 125 (1), 14-20, 2003"
     },
@@ -806,6 +811,11 @@
         "title": "Rotational dynamics of micro-scale cutting tools",
         "pub_year": "2019",
         "citation": "Precision Engineering 60, 1-11, 2019"
+    },
+    {
+        "title": "SP36. Development Of A 3D Freeze-micromilling Process For The Fabrication Of Cartilage Implants In Complex Anatomic Shapes",
+        "pub_year": "2024",
+        "citation": "Plastic and Reconstructive Surgery–Global Open 12 (4S), 103, 2024"
     },
     {
         "title": "Sampling swabs and methods of making the same",
@@ -916,11 +926,6 @@
         "title": "Tip-loaded microneedle arrays for transdermal insertion",
         "pub_year": "2013",
         "citation": ""
-    },
-    {
-        "title": "Tip-loaded microneedle arrays for transdermal insertion",
-        "pub_year": "2023",
-        "citation": "US Patent App. 18/119,197, 2023"
     },
     {
         "title": "Tool-tip dynamics in micromachining with arbitrary tool geometries and the effect of spindle speed",

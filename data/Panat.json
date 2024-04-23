@@ -20,11 +20,6 @@
         "citation": "Advanced Materials, 2304757, 2023"
     },
     {
-        "title": "3D Nano-printed Assay for the Impedance Detection of SARS-CoV-2 Variants at Femtomolar Resolution",
-        "pub_year": "2024",
-        "citation": "Advanced Materials Interfaces, in press., 2024"
-    },
-    {
         "title": "3D Printed Hybrid Electrodes for Lithium-Ion Batteries",
         "pub_year": "2017",
         "citation": "ECS Transactions 77 (11), 1209, 2017"
@@ -98,6 +93,11 @@
         "title": "Aerosol-Jet-Printed Stretchable Electronic Decal Technology",
         "pub_year": "2022",
         "citation": "2022 IEEE 35th International Conference on Micro Electro Mechanical Systems …, 2022"
+    },
+    {
+        "title": "An Advanced Healthcare Sensing Platform for Direct Detection of Viral Proteins in Seconds at Femtomolar Concentrations via Aerosol Jet 3D‐Printed Nano and Biomaterials",
+        "pub_year": "2024",
+        "citation": "Advanced Materials Interfaces, 2400005, 2024"
     },
     {
         "title": "Bond coat surface rumpling in thermal barrier coatings",
@@ -334,9 +334,9 @@
         "citation": "Advanced Functional Materials 32, 2107671, 2022"
     },
     {
-        "title": "Recent Advances in 3D Printing of Biomedical Sensing Devices (Adv. Funct. Mater. 9/2022)",
+        "title": "Recent Advances in 3D Printing of Biomedical Sensing Devices (Adv. Funct. Mater. 9/2022).",
         "pub_year": "2022",
-        "citation": "Advanced Functional Materials 32 (9), 2270057, 2022"
+        "citation": "Advanced Functional Materials 32 (9), 2022"
     },
     {
         "title": "Role of defects in modulating the near band edge emissions of sub-micron ZnO crystals",
@@ -352,11 +352,6 @@
         "title": "Self-assembled axisymmetric microscale periodic wrinkles on elastomer fibers",
         "pub_year": "2017",
         "citation": "Journal of Micro and Nano-Manufacturing 5 (2), 021006, 2017"
-    },
-    {
-        "title": "Sensing of COVID-19 Antibodies in Seconds via Aerosol Jet Printed Three Dimensional Electrodes (preprint)",
-        "pub_year": "2020",
-        "citation": ""
     },
     {
         "title": "Sensing of COVID‐19 Antibodies in Seconds via Aerosol Jet Nanoprinted Reduced‐Graphene‐Oxide‐Coated 3D Electrodes",
@@ -377,6 +372,11 @@
         "title": "StressD: 2D Stress Estimation Using Denoising Diffusion Model",
         "pub_year": "2023",
         "citation": "Computer Methods in Applied Mechanics and Engineering 416, 116343, 2023"
+    },
+    {
+        "title": "Stretchable 3D Printed Circuits",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/539,899, 2024"
     },
     {
         "title": "Stretchable 3D-Printed Circuit Boards",

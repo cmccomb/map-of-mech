@@ -23,11 +23,6 @@
         "citation": ""
     },
     {
-        "title": "2D Triangular Mesh into Quadrilateral Mesh",
-        "pub_year": "2013",
-        "citation": "Computational Mechanics’ 95: Volume 1 and Volume 2 Theory and Applications, 350, 2013"
-    },
-    {
         "title": "2DOF EXTERNAL FIXATOR AND SURGICAL SYSTEM FOR CLUBFOOT CORRECTION",
         "citation": ""
     },
@@ -67,9 +62,9 @@
         "citation": "Cryobiology 3 (53), 405-406, 2006"
     },
     {
-        "title": "A Data Augmentation Method for Data-driven Component Segmentation of Engineering Drawings",
+        "title": "A Data Augmentation Method for Data-Driven Component Segmentation of Engineering Drawings",
         "pub_year": "2024",
-        "citation": "Journal of Computing and Information Science in Engineering 24 (1), 2024"
+        "citation": "Journal of Computing and Information Science in Engineering 24 (1), 011001, 2024"
     },
     {
         "title": "A Framework for 3D Modeling Constraint-Based Description and Non-Manifold Geometric Modeling",
@@ -124,7 +119,7 @@
     {
         "title": "A high-fidelity tactile hand simulator as a training tool to develop competency in percutaneous pinning in residents",
         "pub_year": "2018",
-        "citation": "JAAOS Global Research & Reviews 2 (7), 2018"
+        "citation": "JAAOS Global Research & Reviews 2 (7), e028, 2018"
     },
     {
         "title": "A mathematical theory and applications of non-manifold geometric modeling",
@@ -164,7 +159,7 @@
     {
         "title": "A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2301.08422, 2023"
+        "citation": "IEEE Robotics and Automation Letters, 2023"
     },
     {
         "title": "A11 Session 3: Computerized tools for cryosurgery training: Imaging artifacts, training interface and computational challenges",
@@ -175,11 +170,6 @@
         "title": "Advances in Geometric Modeling and Processing: 4th International Conference, GMP 2006, Pittsburgh, PA, USA, July 26-28, 2006, Proceedings",
         "pub_year": "2006",
         "citation": "Springer-Verlag, 2006"
-    },
-    {
-        "title": "Airfoil GAN: Encoding and synthesizing airfoils for aerodynamic-aware shape optimization",
-        "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2101.04757, 2021"
     },
     {
         "title": "Airfoil GAN: encoding and synthesizing airfoils for aerodynamic shape optimization",
@@ -222,7 +212,7 @@
         "citation": "International Journal of Computational Geometry & Applications 10 (04), 417-440, 2000"
     },
     {
-        "title": "Assessing Tetrahedral Lattice Parameters for Engineering Applications Through Finite Element Analysis",
+        "title": "Assessing tetrahedral lattice parameters for engineering applications through finite element analysis",
         "pub_year": "2021",
         "citation": "3D Printing and Additive Manufacturing 8 (4), 238-252, 2021"
     },
@@ -497,14 +487,9 @@
         "citation": "2013 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2013"
     },
     {
-        "title": "DPMPC-Planner: A real-time UAV trajectory planning framework for complex static environments with dynamic obstacles",
+        "title": "Data augmentation of engineering drawings for data-driven component segmentation",
         "pub_year": "2022",
-        "citation": "2022 International Conference on Robotics and Automation (ICRA), 250-256, 2022"
-    },
-    {
-        "title": "Data Augmentation of Engineering Drawings for Data-Driven Component Segmentation",
-        "pub_year": "2022",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2022"
+        "citation": "International design engineering technical conferences and computers and …, 2022"
     },
     {
         "title": "Data-driven upsampling of point clouds",
@@ -516,14 +501,14 @@
         "citation": "Proc. Geometric Modeling and Processing 4077, 465-484, 0"
     },
     {
-        "title": "Design and Fabrication of Custom-Fit BiPAP and CPAP Masks Using Three-Dimensional Imaging and Three-Dimensional Printing Techniques",
-        "pub_year": "2021",
-        "citation": "Journal of Medical Devices 15 (2), 024502, 2021"
-    },
-    {
         "title": "Design and Fabrication of Custom-Fit Bipap and CPAP Masks Using 3D Imaging and 3D Printing Techniques",
         "pub_year": "2021",
         "citation": "Journal of Medical Devices, 2021"
+    },
+    {
+        "title": "Design and fabrication of custom-fit BiPAP and CPAP masks using three-dimensional imaging and three-dimensional printing techniques",
+        "pub_year": "2021",
+        "citation": "Journal of Medical Devices 15 (2), 024502, 2021"
     },
     {
         "title": "Design optimization of single-port minimally invasive intervention devices",
@@ -558,6 +543,11 @@
         "title": "Development of a three-dimensionally printed ultrasound-guided peripheral intravenous catheter phantom",
         "pub_year": "2021",
         "citation": "Cureus 13 (8), 2021"
+    },
+    {
+        "title": "Dpmpc-planner: A real-time uav trajectory planning framework for complex static environments with dynamic obstacles",
+        "pub_year": "2022",
+        "citation": "2022 International Conference on Robotics and Automation (ICRA), 250-256, 2022"
     },
     {
         "title": "Drawing assist device, drawing assist program, and drawing assist method",
@@ -725,6 +715,11 @@
         "citation": "arXiv preprint arXiv:2309.09121, 2023"
     },
     {
+        "title": "Hex-Dominant Mesh Generation with Directionality Control via Packing",
+        "pub_year": "2002",
+        "citation": "Geometric Modeling and Processing: Theory and Applications: 10-12 July, 2002 …, 2002"
+    },
+    {
         "title": "Hex-Layer: Layered All-Hex Mesh Generation on Thin Section Solids via Chordal Surface Transformation.",
         "pub_year": "2002",
         "citation": "IMR, 169-180, 2002"
@@ -852,7 +847,7 @@
     {
         "title": "Layered Tetrahedral Meshing of Thin-Walled Solids for Plastic",
         "pub_year": "2005",
-        "citation": "Proceedings: SPM..., 245, 2005"
+        "citation": "ACM Symposium on Solid and Physical Modeling: Proceedings, SPM..., 245, 2005"
     },
     {
         "title": "Layered tetrahedral meshing of thin-walled solids for plastic injection molding FEM",
@@ -913,6 +908,11 @@
         "title": "Method and apparatus for updating node position",
         "pub_year": "2001",
         "citation": "US Patent 6,226,405, 2001"
+    },
+    {
+        "title": "Method for evaluating the fit of custom-fit Continuous Positive Airway Pressure masks using finite element analysis",
+        "pub_year": "2024",
+        "citation": "Computer Methods in Biomechanics and Biomedical Engineering, 1-18, 2024"
     },
     {
         "title": "Method, apparatus, and system for computer-aided tracking, navigation and motion teaching",
@@ -1036,7 +1036,7 @@
     {
         "title": "Onboard dynamic-object detection and tracking for autonomous robot navigation with RGB-D camera",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2303.00132, 2023"
+        "citation": "IEEE Robotics and Automation Letters 9 (1), 651-658, 2023"
     },
     {
         "title": "Optimization Framework for Global Path Planning and Local Motion Planning for Robotic Welding of Multiple Large Industrial Parts",
@@ -1062,6 +1062,11 @@
         "title": "Pattern search algorithm for component layout",
         "pub_year": "2006",
         "citation": "US Patent App. 11/254,842, 2006"
+    },
+    {
+        "title": "Pen-based Styling Design of 3D Geometry Using Concept Sketches and",
+        "pub_year": "2006",
+        "citation": "ACM Symposium on Solid and Physical Modeling: Proceedings, SPM..., 149, 2006"
     },
     {
         "title": "Pen-based styling design of 3D geometry using concept sketches and template models",
@@ -1331,6 +1336,11 @@
         "citation": "Carnegie Mellon University, 0"
     },
     {
+        "title": "The 8th international meshing roundtable special issue: advances in mesh generation",
+        "pub_year": "2001",
+        "citation": "Computer-Aided Design 33 (3), 197-197, 2001"
+    },
+    {
         "title": "The Creation and Modification of 3D Models Using Sketches and Curves",
         "pub_year": "2011",
         "citation": "Sketch-based Interfaces and Modeling, 341-367, 2011"
@@ -1404,10 +1414,5 @@
         "title": "Volumetric decomposition via medial object and pen-based user interface for hexahedral mesh generation",
         "pub_year": "2012",
         "citation": "Proceedings of the 20th international meshing roundtable, 179-196, 2012"
-    },
-    {
-        "title": "the 8th international meshing roundtable special issue: advances in mesh generation",
-        "pub_year": "2001",
-        "citation": "Computer-Aided Design 33 (3), 197-197, 2001"
     }
 ]

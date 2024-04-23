@@ -12,7 +12,7 @@
     {
         "title": "An integrated design approach for infill patterning of fused deposition modeling and its application to an airfoil",
         "pub_year": "2017",
-        "citation": "Oak Ridge National Lab.(ORNL), Oak Ridge, TN (United States), 2017"
+        "citation": "Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (United States), 2017"
     },
     {
         "title": "Biological hip torque estimation using a robotic hip exoskeleton",
@@ -68,6 +68,11 @@
         "title": "Estimating Biological Hip Torque During Overground Ambulation: A Machine Learning Approach",
         "pub_year": "2020",
         "citation": "American Society of Biomechanics, 2020"
+    },
+    {
+        "title": "Estimating human joint moments unifies exoskeleton control, reducing user effort",
+        "pub_year": "2024",
+        "citation": "Science Robotics 9 (88), eadi8852, 2024"
     },
     {
         "title": "Exoskeleton systems and methods of use",

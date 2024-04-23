@@ -80,7 +80,7 @@
         "citation": "IEEE Transactions on Robotics 32 (6), 1380-1398, 2016"
     },
     {
-        "title": "Conflict-Based Model Predictive Control for Scalable Multi-Robot Motion Planning",
+        "title": "Conflict-based model predictive control for scalable multi-robot motion planning",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2303.01619, 2023"
     },
@@ -212,7 +212,7 @@
     {
         "title": "Grounding Robot Navigation in Self-Defense Law",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2304.00347, 2023"
+        "citation": "2023 32nd IEEE International Conference on Robot and Human Interactive …, 2023"
     },
     {
         "title": "Hybrid Event Shaping to Stabilize Periodic Hybrid Orbits",
@@ -225,7 +225,7 @@
         "citation": "IEEE Transactions on Robotics, 2023"
     },
     {
-        "title": "Improving Tail Compatibility Through Sequential Distributed Model Predictive Control",
+        "title": "Improving tail compatibility through sequential distributed model predictive control",
         "pub_year": "2021",
         "citation": "RSS Workshop on Software Tools for Real-Time Optimal Control, 2021"
     },
@@ -233,6 +233,11 @@
         "title": "Integrating Passive Dynamic Wobbling with Leg Extension to Produce Stable Gaits in a Two-Actuator Bipedal Robot",
         "pub_year": "2020",
         "citation": "Dynamic Walking, 2020"
+    },
+    {
+        "title": "LORIS: A Lightweight Free-Climbing Robot for Extreme Terrain Exploration",
+        "pub_year": "2024",
+        "citation": "IEEE International Conference on Robotics and Automation, 2024"
     },
     {
         "title": "Laboratory on legs: an architecture for adjustable morphology with legged robots",
@@ -285,6 +290,11 @@
         "citation": "University of Pennsylvania, 2012"
     },
     {
+        "title": "Path to Autonomous Soil Sampling and Analysis by Ground-Based Robots",
+        "pub_year": "2024",
+        "citation": "Available at SSRN 4749146, 2024"
+    },
+    {
         "title": "Pay Attention to How You Drive: Safe and Adaptive Model-Based Reinforcement Learning for Off-Road Driving",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2310.08674, 2023"
@@ -312,7 +322,12 @@
     {
         "title": "Proprioception and reaction for walking among entanglements",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2304.02129, 2023"
+        "citation": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2023"
+    },
+    {
+        "title": "Quad-SDK Update: Estimation, Underbrush, and Other Improvements",
+        "pub_year": "2023",
+        "citation": "IEEE ICRA Late Breaking Results, 2023"
     },
     {
         "title": "Quad-SDK: Full Stack Software Framework for Agile Quadrupedal Locomotion",
@@ -365,12 +380,12 @@
         "citation": "INTEGRATIVE AND COMPARATIVE BIOLOGY 55, E112-E112, 2015"
     },
     {
-        "title": "Saltation Matrices: The Essential Tool for Linearizing Hybrid Dynamical Systems",
+        "title": "Saltation matrices: The essential tool for linearizing hybrid dynamical systems",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2306.06862, 2023"
     },
     {
-        "title": "Scalable minimally actuated leg extension bipedal walker based on 3d passive dynamics",
+        "title": "Scalable minimally actuated leg extension bipedal walker based on 3D passive dynamics",
         "pub_year": "2022",
         "citation": "2022 International Conference on Robotics and Automation (ICRA), 207-213, 2022"
     },
@@ -392,7 +407,7 @@
     {
         "title": "Staged Contact Optimization: Combining Contact-Implicit and Multi-Phase Hybrid Trajectory Optimization",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2304.04923, 2023"
+        "citation": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2023"
     },
     {
         "title": "Standing self-manipulation for a legged robot",
@@ -422,7 +437,7 @@
     {
         "title": "Tail Assisted Dynamic Self Righting: Full Derivations",
         "pub_year": "2012",
-        "citation": ""
+        "citation": "tech. rep., University of Pennsylvania, 2012"
     },
     {
         "title": "Tail assisted dynamic self righting",
@@ -450,6 +465,11 @@
         "citation": "Unmanned Systems Technology XV 8741, 240-251, 2013"
     },
     {
+        "title": "Terrain identification for RHex-type robots",
+        "pub_year": "2013",
+        "citation": "Unmanned Syst Technol XV 8741 (3), 292-298, 2013"
+    },
+    {
         "title": "The Morality of Autonomous Robots",
         "pub_year": "2013",
         "citation": "Journal of Military Ethics 12 (2), 129-141, 2013"
@@ -465,7 +485,7 @@
         "citation": "2023 IEEE-RAS 22nd International Conference on Humanoid Robots (Humanoids), 1-7, 2023"
     },
     {
-        "title": "The uncertainty aware Salted Kalman Filter: State estimation for hybrid systems with uncertain guards",
+        "title": "The uncertainty aware salted kalman filter: State estimation for hybrid systems with uncertain guards",
         "pub_year": "2022",
         "citation": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2022"
     },
@@ -502,7 +522,7 @@
     {
         "title": "Wheel-based trenching: Terramechanics of nonprehensile manipulation for planetary rovers",
         "pub_year": "2018",
-        "citation": "Robotics: Science and Systems Workshop on “Women In Robotics,” Pittsburgh, PA, 2018"
+        "citation": "Robotics: Science and Systems Workshop on “Autonomous Space Robotics …, 2018"
     },
     {
         "title": "X-RHex: A highly mobile hexapedal robot for sensorimotor tasks",

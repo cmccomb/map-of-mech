@@ -30,7 +30,7 @@
         "citation": "Handbook of Moth-Flame Optimization Algorithm: Variants, Hybrids …, 2022"
     },
     {
-        "title": "Activation Pathways of Neurotensin Receptor 1 Elucidated Using Statistical Machine Learning",
+        "title": "Activation pathways of neurotensin receptor 1 elucidated using statistical machine learning",
         "pub_year": "2022",
         "citation": "ACS Chemical Neuroscience 13 (8), 1333-1341, 2022"
     },
@@ -55,6 +55,11 @@
         "citation": "Journal of Computational Design and Engineering 10 (4), 1350-1362, 2023"
     },
     {
+        "title": "AlloyBERT: Alloy Property Prediction with Large Language Models",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.19783, 2024"
+    },
+    {
         "title": "An Energy-Saving Snake Locomotion Pattern Learned in a Physically Constrained Environment With Online Model-Based Policy Gradient Method",
         "pub_year": "2023",
         "citation": "Journal of Mechanisms and Robotics 15 (4), 041007, 2023"
@@ -75,7 +80,7 @@
         "citation": "Biophysical Journal 114 (3), 62a-63a, 2018"
     },
     {
-        "title": "Bio-informed Protein Sequence Generation for Multi-class Virus Mutation Prediction",
+        "title": "Bio-informed protein sequence generation for multi-class virus mutation prediction",
         "pub_year": "2020",
         "citation": "bioRxiv, 2020.06. 11.146167, 2020"
     },
@@ -88,6 +93,11 @@
         "title": "Combining physics-based and evolution-based methods to design antibodies against an evolving virus",
         "pub_year": "2020",
         "citation": "Biophysical Journal 118 (3), 482a, 2020"
+    },
+    {
+        "title": "Computational Recipe for Designing Antibodies against the Ebola Virus",
+        "pub_year": "2020",
+        "citation": "bioRxiv, 2020.04. 04.024430, 2020"
     },
     {
         "title": "Computational approach to designing antibody for ebola virus",
@@ -150,11 +160,6 @@
         "citation": "arXiv e-prints, arXiv: 1803.08993, 2018"
     },
     {
-        "title": "Deep Learning the Physics of Transport Phenomena",
-        "pub_year": "2017",
-        "citation": "arXiv e-prints, arXiv: 1709.02432, 2017"
-    },
-    {
         "title": "Deep learning convective flow using conditional generative adversarial networks",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2005.06422, 2020"
@@ -183,6 +188,11 @@
         "title": "Deep learning the physics of transport phenomena",
         "pub_year": "2017",
         "citation": "arXiv preprint arXiv:1709.02432, 2017"
+    },
+    {
+        "title": "Deep learning the physics of transport phenomena",
+        "pub_year": "2017",
+        "citation": "arXiv e-prints, arXiv: 1709.02432, 2017"
     },
     {
         "title": "Deep reinforcement learning for predicting kinetic pathways to surface reconstruction in a ternary alloy",
@@ -237,7 +247,7 @@
     {
         "title": "Engineering rotating apical-out airway organoid for assessing respiratory cilia motility",
         "pub_year": "2022",
-        "citation": "Iscience 25 (8), 104730, 2022"
+        "citation": "Iscience 25 (8), 2022"
     },
     {
         "title": "Existence of multiple phases of water at nanotube interfaces",
@@ -280,6 +290,11 @@
         "citation": "arXiv:2310.03030, 2023"
     },
     {
+        "title": "GradNav: Accelerated Exploration of Potential Energy Surfaces with Gradient-Based Navigation",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.10358, 2024"
+    },
+    {
         "title": "Graph convolutional networks applied to unstructured flow field data",
         "pub_year": "2021",
         "citation": "Machine Learning: Science and Technology 2 (4), 045020, 2021"
@@ -307,12 +322,17 @@
     {
         "title": "High-resolution melt pool thermal imaging for metals additive manufacturing using the two-color method with a color camera",
         "pub_year": "2023",
-        "citation": "Additive Manufacturing, 103663, 2023"
+        "citation": "Additive Manufacturing 73, 103663, 2023"
     },
     {
         "title": "Hyena neural operator for partial differential equations",
         "pub_year": "2023",
         "citation": "APL Machine Learning 1 (4), 2023"
+    },
+    {
+        "title": "IDP-Bert: Predicting Properties of Intrinsically Disordered Proteins (IDP) Using Large Language Models",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.19762, 2024"
     },
     {
         "title": "Identification of amino acids with sensitive nanoporous MoS2: towards machine learning-based prediction",
@@ -335,6 +355,11 @@
         "citation": "arXiv preprint arXiv:2311.16168, 2023"
     },
     {
+        "title": "Inpainting Computational Fluid Dynamics with Deep Learning",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.17185, 2024"
+    },
+    {
         "title": "Isolating Specific vs. Non-Specific Binding Responses in Conducting Polymer Biosensors for Bio-Fingerprinting",
         "pub_year": "2021",
         "citation": "Sensors 21 (19), 6335, 2021"
@@ -350,9 +375,9 @@
         "citation": "Biophysical Journal 114 (3), 56a, 2018"
     },
     {
-        "title": "Latent Neural PDE Solver for Time-dependent Systems",
-        "pub_year": "2023",
-        "citation": "NeurIPS 2023 AI for Science Workshop, 2023"
+        "title": "Latent Neural PDE Solver: a reduced-order modelling framework for partial differential equations",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.17853, 2024"
     },
     {
         "title": "Learning Lagrangian fluid dynamics with graph neural networks",
@@ -380,9 +405,14 @@
         "citation": "arXiv preprint arXiv:1803.04479, 2018"
     },
     {
+        "title": "Machine Learning in Membrane Design: From Property Prediction to AI-Guided Optimization",
+        "pub_year": "2024",
+        "citation": "Nano letters 24 (10), 2953–2960, 2024"
+    },
+    {
         "title": "Machine learning based approaches to accelerate energy materials discovery and optimization",
         "pub_year": "2018",
-        "citation": "ACS Energy Letters 4 (1), 187-191, 2018"
+        "citation": "ACS energy letters 4 (1), 187-191, 2018"
     },
     {
         "title": "Machine learning force fields and coarse-grained variables in molecular dynamics: application to materials and biological systems",
@@ -393,6 +423,11 @@
         "title": "ManufacturingNet: A machine learning toolbox for engineers",
         "pub_year": "2023",
         "citation": "SoftwareX 23, 101478, 2023"
+    },
+    {
+        "title": "Masked Autoencoders are PDE Learners",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.17728, 2024"
     },
     {
         "title": "Materials Informatics Transformer: A Language Model for Interpretable Materials Properties Prediction",
@@ -412,7 +447,7 @@
     {
         "title": "Mechanisms for hydrolysis of silicon nanomembranes as used in bioresorbable electronics",
         "pub_year": "2015",
-        "citation": "Advanced Materials 27 (11), 1857-1864, 2015"
+        "citation": "Adv. Mater 27 (11), 1857-1864, 2015"
     },
     {
         "title": "MeltpoolNet: Melt pool characteristic prediction in Metal Additive Manufacturing using machine learning",
@@ -435,9 +470,9 @@
         "citation": "Nature Machine Intelligence, 279–287, 2022"
     },
     {
-        "title": "Multi-scale Time-stepping of Partial Differential Equations with Transformers",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2311.02225, 2023"
+        "title": "Multi-scale time-stepping of Partial Differential Equations with transformers",
+        "pub_year": "2024",
+        "citation": "Computer Methods in Applied Mechanics and Engineering 426, 116983, 2024"
     },
     {
         "title": "Multimodal Language and Graph Learning of Adsorption Configuration in Catalysis",
@@ -460,9 +495,9 @@
         "citation": "University of Illinois at Urbana-Champaign, 2015"
     },
     {
-        "title": "Neural Network Predicts Ion Concentration Profiles under Nanoconfinement",
+        "title": "Neural network predicts ion concentration profiles under nanoconfinement",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2304.04896, 2023"
+        "citation": "The Journal of Chemical Physics 159 (9), 2023"
     },
     {
         "title": "Numerical and experimental analysis of wind erosion on a sinusoidal pile",
@@ -480,7 +515,7 @@
         "citation": "Expert Systems with Applications 201, 117058, 2022"
     },
     {
-        "title": "OpenVR: Teleoperation for Manipulation",
+        "title": "Openvr: Teleoperation for manipulation",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2305.09765, 2023"
     },
@@ -500,7 +535,7 @@
         "citation": "arXiv preprint arXiv:2401.16327, 2024"
     },
     {
-        "title": "Peptidebert: A language model based on transformers for peptide property prediction",
+        "title": "PeptideBERT: A language model based on transformers for peptide property prediction",
         "pub_year": "2023",
         "citation": "The Journal of Physical Chemistry Letters 14 (46), 10427-10434, 2023"
     },
@@ -584,11 +619,6 @@
         "citation": "Physical Chemistry Chemical Physics 15 (41), 17993-18000, 2013"
     },
     {
-        "title": "Rotational motion of a single water molecule in a buckyball",
-        "pub_year": "2013",
-        "citation": "PCCP. Physical chemistry chemical physics (Print) 15 (41), 17993-18000, 2013"
-    },
-    {
         "title": "SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2310.02227, 2023"
@@ -602,6 +632,11 @@
         "title": "SculptBot: Pre-Trained Models for 3D Deformable Object Manipulation",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2309.08728, 2023"
+    },
+    {
+        "title": "SculptDiff: Learning Robotic Clay Sculpting from Humans with Goal Conditioned Diffusion Policy",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.10401, 2024"
     },
     {
         "title": "Simultaneous Electrochemical Exfoliation and Covalent Functionalization of MoS2 Membrane for Ion Sieving",
@@ -634,7 +669,7 @@
         "citation": "Additive Manufacturing Letters 5, 100123, 2023"
     },
     {
-        "title": "TPU-GAN: learning temporal coherence from dynamic point cloud sequences",
+        "title": "TPU-GAN: Learning temporal coherence from dynamic point cloud sequences",
         "pub_year": "2021",
         "citation": "International Conference on Learning Representations, 2021"
     },
@@ -694,7 +729,7 @@
         "citation": "Transactions on Machine Learning Research, 2022"
     },
     {
-        "title": "Transformer-based Planning for Symbolic Regression",
+        "title": "Transformer-based planning for symbolic regression",
         "pub_year": "2024",
         "citation": "Advances in Neural Information Processing Systems 36, 2024"
     },
@@ -709,7 +744,7 @@
         "citation": "Proceedings of the National Academy of Sciences 113 (42), 11682-11687, 2016"
     },
     {
-        "title": "Understanding mutation hotspots for the sars-cov-2 spike protein using shannon entropy and k-means clustering",
+        "title": "Understanding mutation hotspots for the SARS-CoV-2 spike protein using Shannon Entropy and K-means clustering",
         "pub_year": "2021",
         "citation": "Computers in biology and medicine 138, 104915, 2021"
     },
@@ -719,9 +754,14 @@
         "citation": "Journal of Chemical Theory and Computation, 2023"
     },
     {
-        "title": "VecMetaPy: A vectorized framework for metaheuristic optimization in Python",
+        "title": "VecMetaPy: a vectorized framework for metaheuristic optimization in Python",
         "pub_year": "2022",
         "citation": "Advances in Engineering Software 166, 103092, 2022"
+    },
+    {
+        "title": "Visuo-Tactile Pretraining for Cable Plugging",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.11898, 2024"
     },
     {
         "title": "Water desalination with a single-layer MoS2 nanopore",

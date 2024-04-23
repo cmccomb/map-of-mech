@@ -20,11 +20,6 @@
         "citation": "Physics of Fluids 19 (8), 2007"
     },
     {
-        "title": "Accurate Direct Measurements of Far-Field Thermal Infrared Emission and its Dynamics",
-        "pub_year": "2022",
-        "citation": "Optica Open, 2022"
-    },
-    {
         "title": "Active control of thermal emission by graphene-nanowire coupled plasmonic metasurfaces",
         "pub_year": "2022",
         "citation": "Physical Review B 106 (11), 115416, 2022"
@@ -51,8 +46,8 @@
     },
     {
         "title": "Brochosome-inspired binary metastructures for pixel-by-pixel thermal signature control",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2310.18173, 2023"
+        "pub_year": "2024",
+        "citation": "Science Advances 10 (9), eadl4027, 2024"
     },
     {
         "title": "Conceptual design of porous volumetric solar receiver using molten salt as heat transfer fluid",
@@ -60,9 +55,9 @@
         "citation": "Applied Energy 301, 117400, 2021"
     },
     {
-        "title": "Crystalline polyethylene nanofibers with the theoretical limit of Young's modulus",
-        "pub_year": "2014",
-        "citation": "Advanced Materials 26 (7), 1065-1070, 2014"
+        "title": "Crystalline polyethylene nanofibers with the theoretical limit of Young's modulus.",
+        "pub_year": "2013",
+        "citation": "Advanced Materials (Deerfield Beach, Fla.) 26 (7), 1065-1070, 2013"
     },
     {
         "title": "Crystalline polymer nanofibers with ultra-high strength and thermal conductivity",
@@ -80,14 +75,14 @@
         "citation": "Frontiers in Energy 17 (1), 134-140, 2023"
     },
     {
-        "title": "Direct Measurement of Electrically Modulated Far-Field Thermal Infrared Emission and its Dynamics",
-        "pub_year": "2023",
-        "citation": "Physical Review Applied 19 (3), 034040, 2023"
-    },
-    {
         "title": "Direct and quantitative photothermal absorption spectroscopy of individual particulates",
         "pub_year": "2013",
         "citation": "Applied Physics Letters 103 (26), 2013"
+    },
+    {
+        "title": "Direct measurement of electrically modulated far-field thermal infrared emission and its dynamics",
+        "pub_year": "2023",
+        "citation": "Physical Review Applied 19 (3), 034040, 2023"
     },
     {
         "title": "Directional control of narrow-band thermal emission from nanoantennas",
@@ -142,7 +137,12 @@
     {
         "title": "Flow and heat transfer in microchannels with rough wall surface",
         "pub_year": "2006",
-        "citation": "Energy Conversion and Management 47 (11-12), 1311-1325, 2006"
+        "citation": "energy conversion and management 47 (11-12), 1311-1325, 2006"
+    },
+    {
+        "title": "Geometric design of antireflective leafhopper brochosomes",
+        "pub_year": "2024",
+        "citation": "Proceedings of the National Academy of Sciences 121 (14), e2312700121, 2024"
     },
     {
         "title": "Graphene plasmonic metasurfaces to steer infrared light",
@@ -165,7 +165,7 @@
         "citation": "Scientific Reports 11 (1), 5765, 2021"
     },
     {
-        "title": "Hierarchical Micro-Nanostructured Surfaces for Isotropic/Anisotropic Liquid Transport",
+        "title": "Hierarchical micro-nanostructured surfaces for isotropic/anisotropic liquid transport",
         "pub_year": "2020",
         "citation": "Langmuir 36 (6), 1569-1573, 2020"
     },
@@ -200,9 +200,9 @@
         "citation": "Science Advances 7 (15), eabd5175, 2021"
     },
     {
-        "title": "Large‐scale nanophotonic solar selective absorbers for high‐efficiency solar thermal energy conversion",
+        "title": "Large-Scale Nanophotonic Solar Selective Absorbers for High-Efficiency Solar Thermal Energy Conversion.",
         "pub_year": "2015",
-        "citation": "Advanced Materials 27 (31), 4585-4591, 2015"
+        "citation": "Advanced Materials (Deerfield Beach, Fla.) 27 (31), 4585-4591, 2015"
     },
     {
         "title": "Metal nanowire based thermal interface materials",
@@ -230,13 +230,13 @@
     },
     {
         "title": "Nanowire-based thermal interface",
-        "pub_year": "2023",
-        "citation": "US Patent App. 17/950,432, 2023"
+        "pub_year": "2022",
+        "citation": "US Patent 11,493,288, 2022"
     },
     {
         "title": "Nanowire-based thermal interface",
-        "pub_year": "2022",
-        "citation": "US Patent 11,493,288, 2022"
+        "pub_year": "2024",
+        "citation": "US Patent 11,933,549, 2024"
     },
     {
         "title": "Near-field energy extraction with hyperbolic metamaterials",
@@ -370,8 +370,8 @@
     },
     {
         "title": "Thermal and Microstructural Characterization of GRCop-84/In718 Bi-metallic Structures Additively Manufactured by Directed Energy Deposition",
-        "pub_year": "2023",
-        "citation": "JOM, 1-11, 2023"
+        "pub_year": "2024",
+        "citation": "JOM 76 (2), 919-929, 2024"
     },
     {
         "title": "Thermal and structural evaluation of composite solar receiver tubes for Gen3 concentrated solar power systems",

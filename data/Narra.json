@@ -1,16 +1,13 @@
 [
     {
-        "title": "A Comparison of Generative Adversarial Networks to Convolutional Neural Networks for Single Track Melt Pool Segmentation Evaluated by Hausdorff Distance",
-        "citation": "Available at SSRN 4080968, 0"
-    },
-    {
-        "title": "A Semantic Segmentation Algorithm for Automated Rapid Melt Pool Identification from Cross-Sectional Micrographs",
-        "citation": "Available at SSRN 4725558, 0"
-    },
-    {
         "title": "A mechanistic explanation of shrinkage porosity in laser powder bed fusion additive manufacturing",
         "pub_year": "2024",
         "citation": "Acta Materialia 266, 119632, 2024"
+    },
+    {
+        "title": "A semantic segmentation algorithm for automated rapid melt pool identification from cross-sectional micrographs",
+        "pub_year": "2024",
+        "citation": "Materials Characterization, 113877, 2024"
     },
     {
         "title": "A statistical approach to determine data requirements for part porosity characterization in laser powder bed fusion additive manufacturing",
@@ -33,14 +30,14 @@
         "citation": "Orthopedic Clinics 50 (1), 13-20, 2019"
     },
     {
-        "title": "An investigation of process parameter modifications on additively manufactured Inconel 718 parts",
+        "title": "An investigation of process parameter modifications on additively manufactured inconel 718 parts",
         "pub_year": "2019",
         "citation": "Journal of Materials Engineering and Performance 28, 620-626, 2019"
     },
     {
-        "title": "Automated Probabilistic Finite Element Model Calibration Tool Based on Uncertainty Quantification and Machine Learning",
-        "pub_year": "2022",
-        "citation": "TMS Artificial Intelligence in Materials and Manufacturing Conference 2022, 2022"
+        "title": "Capturing Local Temperature Evolution During Additive Manufacturing Through Fourier Neural Operators",
+        "pub_year": "2023",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2023"
     },
     {
         "title": "Compensatory Effects of Flipped Learning for Experienced & New Faculty",
@@ -75,7 +72,7 @@
     {
         "title": "Exploring the fabrication limits of thin-wall structures in a laser powder bed fusion process",
         "pub_year": "2020",
-        "citation": "The International Journal of Advanced Manufacturing Technology 110 (1-2 …, 2020"
+        "citation": "The International Journal of Advanced Manufacturing Technology 110 (1), 191-207, 2020"
     },
     {
         "title": "Finding the limits of single-track deposition experiments: an experimental study of melt pool characterization in laser powder bed fusion",

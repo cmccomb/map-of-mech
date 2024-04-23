@@ -62,7 +62,7 @@
     {
         "title": "Correlated missing linker defects increase thermal conductivity in metal–organic framework UiO-66",
         "pub_year": "2023",
-        "citation": "Chemical Science, 2023"
+        "citation": "Chemical Science 14 (24), 6592-6600, 2023"
     },
     {
         "title": "Coupling of organic and inorganic vibrational states and their thermal transport in nanocrystal arrays",
@@ -75,9 +75,9 @@
         "citation": "Journal of Applied Physics 108 (11), 113524, 2010"
     },
     {
-        "title": "Crystalline Polyethylene Nanofibers with the Theoretical Limit of Young's Modulus",
-        "pub_year": "2014",
-        "citation": "Advanced Materials 26 (7), 1065-1070, 2014"
+        "title": "Crystalline polyethylene nanofibers with the theoretical limit of Young's modulus.",
+        "pub_year": "2013",
+        "citation": "Advanced Materials (Deerfield Beach, Fla.) 26 (7), 1065-1070, 2013"
     },
     {
         "title": "Defect‐Mediated Anisotropic Lattice Expansion in ceramics as Evidence for Non‐thermal Coupling between Electromagnetic Fields and Matter",
@@ -218,6 +218,11 @@
         "title": "Introduction to thermal transport",
         "pub_year": "2005",
         "citation": "Materials Today 8 (6), 18-20, 2005"
+    },
+    {
+        "title": "Ion irradiation induced crystalline disorder accelerates interfacial phonon conversion and reduces thermal boundary resistance",
+        "pub_year": "2024",
+        "citation": "Physical Review B 109 (16), 165421, 2024"
     },
     {
         "title": "Lattice dynamics and the nature of structural transitions in organolead halide perovskites",
@@ -398,6 +403,11 @@
         "title": "Pressure-driven water flow through carbon nanotubes: insights from molecular dynamics simulation",
         "pub_year": "2010",
         "citation": "International journal of thermal sciences 49 (2), 281-289, 2010"
+    },
+    {
+        "title": "Quantifying Atomic Structural Disorder Using Procrustes Shape Analysis",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2303.04108, 2023"
     },
     {
         "title": "Quantitative validation of the Boltzmann transport equation phonon thermal conductivity model under the single-mode relaxation time approximation",

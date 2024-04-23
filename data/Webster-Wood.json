@@ -1,6 +1,6 @@
 [
     {
-        "title": "3D printing hydrogel-based soft and biohybrid actuators: a mini-review on fabrication techniques, applications, and challenges",
+        "title": "3D printing hydrogel-based soft and biohybrid actuators: A mini-review on fabrication techniques, applications, and challenges",
         "pub_year": "2021",
         "citation": "Frontiers in Robotics and AI 8, 673533, 2021"
     },
@@ -8,26 +8,6 @@
         "title": "3D-Printed Biohybrid Robots Powered by Neuromuscular Tissue Circuits from Aplysia californica",
         "pub_year": "2017",
         "citation": "Biomimetic and Biohybrid Systems: 6th International Conference, Living …, 2017"
-    },
-    {
-        "title": "A Bioinspired Synthetic Nervous System Controller for Pick-and-Place Manipulation",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.10954, 2023"
-    },
-    {
-        "title": "A Computational Approach for Contactless Muscle Force and Strain Estimations in Distributed Actuation Biohybrid Mesh Constructs",
-        "pub_year": "2022",
-        "citation": "Conference on Biomimetic and Biohybrid Systems, 140-151, 2022"
-    },
-    {
-        "title": "A Computational Approach for Contactless Muscle Force and Strain Estimations in Distributed Actuation Biohybrid Mesh Constructs",
-        "pub_year": "2022",
-        "citation": "Biomimetic and Biohybrid Systems: 11th International Conference, Living …, 2022"
-    },
-    {
-        "title": "A Magnetorheological Fluid-based Damper Towards Increased Biomimetism in Soft Robotic Actuators",
-        "pub_year": "2022",
-        "citation": "2022 International Conference on Robotics and Automation (ICRA), 11445-11451, 2022"
     },
     {
         "title": "A Synthetic Nervous System Controls a Biomechanical Model of Aplysia Feeding",
@@ -38,6 +18,21 @@
         "title": "A biohybrid mechanosensor integrated with a soft robot",
         "pub_year": "2024",
         "citation": "Biophysical Journal 123 (3), 162a, 2024"
+    },
+    {
+        "title": "A bioinspired synthetic nervous system controller for pick-and-place manipulation",
+        "pub_year": "2023",
+        "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 8047-8053, 2023"
+    },
+    {
+        "title": "A computational approach for contactless muscle force and strain estimations in distributed actuation biohybrid mesh constructs",
+        "pub_year": "2022",
+        "citation": "Conference on Biomimetic and Biohybrid Systems, 140-151, 2022"
+    },
+    {
+        "title": "A magnetorheological fluid-based damper towards increased biomimetism in soft robotic actuators",
+        "pub_year": "2022",
+        "citation": "2022 International conference on robotics and automation (ICRA), 11445-11451, 2022"
     },
     {
         "title": "A model of exploration and goal-searching in the cockroach, Blaberus discoidalis",
@@ -80,9 +75,9 @@
         "citation": "Conference on Biomimetic and Biohybrid Systems, 88-100, 2019"
     },
     {
-        "title": "Biodegradable, Sustainable Hydrogel Actuators with Shape and Stiffness Morphing Capabilities via Embedded 3D Printing",
+        "title": "Biodegradable, sustainable hydrogel actuators with shape and stiffness morphing capabilities via embedded 3D printing",
         "pub_year": "2023",
-        "citation": "Advanced Functional Materials, 2303659, 2023"
+        "citation": "Advanced Functional Materials 33 (36), 2303659, 2023"
     },
     {
         "title": "Biohybrid actuators for soft robotics: Challenges in scaling up",
@@ -95,14 +90,14 @@
         "citation": "The Conversation, August, 2016"
     },
     {
-        "title": "Biohybrid robots: Recent progress, challenges, and perspectives",
+        "title": "Biohybrid robots: recent progress, challenges, and perspectives",
         "pub_year": "2022",
-        "citation": "Bioinspiration & Biomimetics, 2022"
+        "citation": "Bioinspiration & biomimetics 18 (1), 015001, 2022"
     },
     {
         "title": "Biomimetic IGA neuron growth modeling with neurite morphometric features and CNN-based prediction",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2304.11306, 2023"
+        "citation": "Computer Methods in Applied Mechanics and Engineering 417, 116213, 2023"
     },
     {
         "title": "Characterization on the second plates: DBU32791 and VU925011",
@@ -117,7 +112,7 @@
     {
         "title": "Control for multifunctionality: bioinspired control based on feeding in Aplysia californica",
         "pub_year": "2020",
-        "citation": "Biological cybernetics 114, 557-588, 2020"
+        "citation": "Biological cybernetics 114 (6), 557-588, 2020"
     },
     {
         "title": "Correction to: Control for multifunctionality: bioinspired control based on feeding in Aplysia californica",
@@ -152,7 +147,7 @@
     {
         "title": "Dynamic extrusion experiments",
         "pub_year": "2011",
-        "citation": "Los Alamos National Lab.(LANL), Los Alamos, NM (United States), 2011"
+        "citation": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States), 2011"
     },
     {
         "title": "Effect of actuating cell source on locomotion of organic living machines with electrocompacted collagen skeleton",
@@ -228,7 +223,7 @@
         "citation": "Climbing and Walking Robots Conference, 4-4, 2022"
     },
     {
-        "title": "Kinesin and dynein mechanics: Measurement methods and research applications",
+        "title": "Kinesin and dynein mechanics: measurement methods and research applications",
         "pub_year": "2018",
         "citation": "Journal of biomechanical engineering 140 (2), 020805, 2018"
     },
@@ -276,7 +271,7 @@
         "citation": "Conference on Biomimetic and Biohybrid Systems, 182-194, 2022"
     },
     {
-        "title": "Semi-Automated Quantitative Evaluation of Neuron Developmental Morphology In Vitro Using the Change-Point Test",
+        "title": "Semi-automated quantitative evaluation of neuron developmental morphology in vitro using the change-point test",
         "pub_year": "2023",
         "citation": "Neuroinformatics 21 (1), 163-176, 2023"
     },
@@ -328,7 +323,7 @@
     {
         "title": "Volumetric MicroCT Intensity Histograms of Fatty Infiltration Correlate with the Mechanical Strength of Rotator Cuff Repairs: An Ex Vivo Rabbit Model",
         "pub_year": "2021",
-        "citation": "Clinical orthopaedics and related research 479 (2), 406, 2021"
+        "citation": "Clinical Orthopaedics and Related Research® 479 (2), 406-418, 2021"
     },
     {
         "title": "Woven collagen biotextiles enable mechanically functional rotator cuff tendon regeneration during repair of segmental tendon defects in vivo",

@@ -295,7 +295,7 @@
         "citation": "Cell preservation technology 3 (3), 169-183, 2005"
     },
     {
-        "title": "Cryomacroscopy of vitrification II: experimental observations and analysis of fracture formation in vitrified VS55 and DP6",
+        "title": "Cryomacroscopy of vitrification II: Experimental observations and analysis of fracture formation in vitrified VS55 and DP6",
         "pub_year": "2005",
         "citation": "Cell preservation technology 3 (3), 184-200, 2005"
     },
@@ -333,6 +333,11 @@
         "title": "Ductile versus brittle behavior of amorphous metals",
         "pub_year": "1983",
         "citation": "Journal of the Mechanics and Physics of Solids 31 (5), 359-388, 1983"
+    },
+    {
+        "title": "Dynamic deformation and damage in cast γ-TiAl during Taylor cylinder impact: Experiments and model validation",
+        "pub_year": "2001",
+        "citation": "3rd International Symposium on Structural Intermetallics (ISSI 2001), 2001"
     },
     {
         "title": "ENRICHING MECHANICS INSTRUCTION WITH PHYSICAL OBECTS",
@@ -416,6 +421,11 @@
         "title": "Gross damage accumulation in frozen rabbit liver due to mechanical stress at cryogenic temperatures",
         "pub_year": "1997",
         "citation": "Cryobiology 34 (4), 394-405, 1997"
+    },
+    {
+        "title": "Growth of interface imperfections in layered plastic solids",
+        "pub_year": "1985",
+        "citation": "Plastic Instability, Proc. Considere Memorial, 175-183, 1985"
     },
     {
         "title": "Identifying the components of modeling through protocol analysis",
@@ -680,7 +690,7 @@
     {
         "title": "Stress-strain measurements and viscoelastic response of blood vessels cryopreserved by vitrification",
         "pub_year": "2007",
-        "citation": "Annals of Biomedical Engineering 35, 2077-2086, 2007"
+        "citation": "Annals of biomedical engineering 35, 2077-2086, 2007"
     },
     {
         "title": "Stresses in fibers spanning an infinite matrix crack",
@@ -883,10 +893,5 @@
         "title": "Work in progress: An interactive cognitively-informed on-line statics course",
         "pub_year": "2006",
         "citation": "Proceedings. Frontiers in Education. 36th Annual Conference, 3-4, 2006"
-    },
-    {
-        "title": "to Initial Matrix Cracking",
-        "pub_year": "2012",
-        "citation": "Inelastic Deformation of Composite Materials: IUTAM Symposium, Troy, New …, 2012"
     }
 ]

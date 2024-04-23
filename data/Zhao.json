@@ -65,8 +65,8 @@
     },
     {
         "title": "Accelerated evaluation of automated vehicles using extracted naturalistic driving data",
-        "pub_year": "2016",
-        "citation": "The Dynamics of Vehicles on Roads and Tracks 18 (3), 287-296, 2016"
+        "pub_year": "2015",
+        "citation": "Proceeding for 24th International Symposium of Vehicles on Road and Tracks, 2015"
     },
     {
         "title": "Accelerated evaluation of automated vehicles using piecewise mixture models",
@@ -81,7 +81,7 @@
     {
         "title": "Accelerated policy evaluation: Learning adversarial environments with adaptive importance sampling",
         "pub_year": "2021",
-        "citation": "arXiv e-prints, arXiv: 2106.10566, 2021"
+        "citation": "arXiv preprint arXiv:2106.10566, 2021"
     },
     {
         "title": "Advanced driver assistance strategies for a single-vehicle overtaking a platoon on the two-lane two-way road",
@@ -139,9 +139,9 @@
         "citation": "Machine Learning for Health (ML4H), 480-497, 2023"
     },
     {
-        "title": "Bayesian Reparameterization of Reward-Conditioned Reinforcement Learning with Energy-based Models",
+        "title": "Bayesian reparameterization of reward-conditioned reinforcement learning with energy-based models",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.11340, 2023"
+        "citation": "International Conference on Machine Learning, 8053-8066, 2023"
     },
     {
         "title": "Benchmarking Robustness of Multimodal Image-Text Models under Distribution Shift",
@@ -154,9 +154,9 @@
         "citation": "NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and …, 2022"
     },
     {
-        "title": "Can Brain Signals Reveal Inner Alignment with Human Languages?",
+        "title": "Can brain signals reveal inner alignment with human languages?",
         "pub_year": "2023",
-        "citation": "The 2023 Conference on Empirical Methods in Natural Language Processing, 2023"
+        "citation": "Findings of the Association for Computational Linguistics: EMNLP 2023, 1789-1804, 2023"
     },
     {
         "title": "Cardiac Disease Diagnosis on Imbalanced Electrocardiography Data Through Optimal Transport Augmentation",
@@ -169,14 +169,14 @@
         "citation": "arXiv preprint arXiv:2110.13939, 2021"
     },
     {
-        "title": "Certifiable Evaluation for Autonomous Vehicle Perception Systems using Deep Importance Sampling (Deep IS)",
-        "pub_year": "2022",
-        "citation": "2022 IEEE 25th International Conference on Intelligent Transportation …, 2022"
-    },
-    {
         "title": "Certifiable deep importance sampling for rare-event simulation of black-box systems",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2111.02204, 2021"
+    },
+    {
+        "title": "Certifiable evaluation for autonomous vehicle perception systems using deep importance sampling (deep is)",
+        "pub_year": "2022",
+        "citation": "2022 IEEE 25th International Conference on Intelligent Transportation …, 2022"
     },
     {
         "title": "Cluster naturalistic driving encounters using deep unsupervised learning",
@@ -194,14 +194,9 @@
         "citation": "2020 IEEE International Conference on Robotics and Automation (ICRA), 4314-4321, 2020"
     },
     {
-        "title": "Coalitional Fairness of Autonomous Vehicles at a T-Intersection",
+        "title": "Coalitional fairness of autonomous vehicles at a t-intersection",
         "pub_year": "2022",
         "citation": "2022 IEEE 25th International Conference on Intelligent Transportation …, 2022"
-    },
-    {
-        "title": "Combining reachability analysis and importance sampling for accelerated evaluation of highly automated vehicles at pedestrian crossing",
-        "pub_year": "2019",
-        "citation": "Dynamic Systems and Control Conference 59162, V003T18A011, 2019"
     },
     {
         "title": "Combining reachability analysis and importance sampling for accelerated evaluation of highway automated vehicles at pedestrian crossing",
@@ -215,7 +210,7 @@
     {
         "title": "Constrained decision transformer for offline safe reinforcement learning",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2302.07351, 2023"
+        "citation": "International Conference on Machine Learning, 21611-21630, 2023"
     },
     {
         "title": "Constrained variational policy optimization for safe reinforcement learning",
@@ -234,13 +229,8 @@
     },
     {
         "title": "Continual Reinforcement Learning with Group Symmetries",
-        "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2210.12301, 2022"
-    },
-    {
-        "title": "Continual Vision-based Reinforcement Learning with Group Symmetries",
         "pub_year": "2023",
-        "citation": "Conference on Robot Learning, 222-240, 2023"
+        "citation": "RSS 2023 Workshop on Symmetries in Robot Learning, 2023"
     },
     {
         "title": "Converting ECG Signals to Images for Efficient Image-text Retrieval via Encoding",
@@ -277,7 +267,7 @@
         "citation": ""
     },
     {
-        "title": "Datasets and Benchmarks for Offline Safe Reinforcement Learning",
+        "title": "Datasets and benchmarks for offline safe reinforcement learning",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2306.09303, 2023"
     },
@@ -322,7 +312,7 @@
         "citation": "The Second Workshop on New Frontiers in Adversarial Machine Learning, 2023"
     },
     {
-        "title": "Digitization of Chinese Traffic Laws: Methodologies, Quantative Analysis, and Usage for Monitoring Driving Compliance",
+        "title": "Digitization of Chinese traffic laws: Methodologies, quantative analysis, and usage for monitoring driving compliance",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2212.04156, 2022"
     },
@@ -448,7 +438,7 @@
     {
         "title": "Goats: Goal sampling adaptation for scooping with curriculum reinforcement learning",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2303.05193, 2023"
+        "citation": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2023"
     },
     {
         "title": "Gradient Shaping for Multi-Constraint Safe Reinforcement Learning",
@@ -456,7 +446,7 @@
         "citation": "arXiv preprint arXiv:2312.15127, 2023"
     },
     {
-        "title": "Group Distributionally Robust Reinforcement Learning with Hierarchical Latent Variables",
+        "title": "Group distributionally robust reinforcement learning with hierarchical latent variables",
         "pub_year": "2023",
         "citation": "International Conference on Artificial Intelligence and Statistics, 2677-2703, 2023"
     },
@@ -496,6 +486,11 @@
         "citation": "IEEE Transactions on Intelligent Transportation Systems 20 (6), 2255-2266, 2018"
     },
     {
+        "title": "Influence of Camera-LiDAR Configuration on 3D Object Detection for Autonomous Driving",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2310.05245, 2023"
+    },
+    {
         "title": "Intelligent and connected vehicles: Current status and future perspectives",
         "pub_year": "2018",
         "citation": "Science China Technological Sciences 61, 1446-1471, 2018"
@@ -508,7 +503,7 @@
     {
         "title": "Interpolation for robust learning: Data augmentation on geodesics",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2302.02092, 2023"
+        "citation": "arXiv preprint arXiv 2302, 2023"
     },
     {
         "title": "Interpretation of Intracardiac Electrograms Through Textual Representations",
@@ -523,17 +518,12 @@
     {
         "title": "Investigating the impact of multi-lidar placement on object detection for autonomous driving",
         "pub_year": "2022",
-        "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2022"
+        "citation": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2022"
     },
     {
         "title": "Labeling Roads with Different Types of Automated Driving Functional Requirements using Machine Learning",
         "pub_year": "2020",
         "citation": "Mobility21, Carnegie Mellon University, 2020"
-    },
-    {
-        "title": "Learning Shared Safety Constraints from Multi-task Demonstrations",
-        "pub_year": "2024",
-        "citation": "Advances in Neural Information Processing Systems 36, 2024"
     },
     {
         "title": "Learning and inferring a driver's braking action in car-following scenarios",
@@ -544,6 +534,11 @@
         "title": "Learning from Sparse Offline Datasets via Conservative Density Estimation",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2401.08819, 2024"
+    },
+    {
+        "title": "Learning shared safety constraints from multi-task demonstrations",
+        "pub_year": "2024",
+        "citation": "Advances in Neural Information Processing Systems 36, 2024"
     },
     {
         "title": "Learning to collide: An adaptive safety-critical scenarios generating method",
@@ -558,7 +553,7 @@
     {
         "title": "Learning to view: Decision transformers for active object detection",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2301.09544, 2023"
+        "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 7140-7146, 2023"
     },
     {
         "title": "LiveSeg: Unsupervised Multimodal Temporal Segmentation of Long Livestream Videos Supplementary Materials",
@@ -590,11 +585,6 @@
         "citation": "2020 IEEE Intelligent Vehicles Symposium (IV), 1197-1204, 2020"
     },
     {
-        "title": "MultiSum: A Dataset for Multimodal Summarization and Thumbnail Generation of Videos",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2306.04216, 2023"
-    },
-    {
         "title": "Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2304.07675, 2023"
@@ -603,6 +593,11 @@
         "title": "Multimodal safety-critical scenarios generation for decision-making algorithms evaluation",
         "pub_year": "2021",
         "citation": "IEEE Robotics and Automation Letters 6 (2), 1551-1558, 2021"
+    },
+    {
+        "title": "Multisum: A dataset for multimodal summarization and thumbnail generation of videos",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2306.04216, 2023"
     },
     {
         "title": "On the robustness of safe reinforcement learning under observational perturbations",
@@ -710,11 +705,6 @@
         "citation": "ICML Workshop on Formal Verification of Machine Learning (WFVML), 2023"
     },
     {
-        "title": "SAnE: smart annotation and evaluation tools for point cloud data",
-        "pub_year": "2020",
-        "citation": "IEEE Access 8, 131848-131858, 2020"
-    },
-    {
         "title": "SCCS: Semantics-Consistent Cross-domain Summarization via Optimal Transport Alignment",
         "pub_year": "2023",
         "citation": "Findings of the Association for Computational Linguistics: ACL 2023, 1584-1601, 2023"
@@ -730,9 +720,19 @@
         "citation": "Advances in Neural Information Processing Systems 35, 25667-25682, 2022"
     },
     {
-        "title": "Safety-aware Causal Representation for Trustworthy Reinforcement Learning in Autonomous Driving",
+        "title": "Safety-Aware Causal Representation for Trustworthy Offline Reinforcement Learning in Autonomous Driving",
+        "pub_year": "2024",
+        "citation": "IEEE Robotics and Automation Letters, 2024"
+    },
+    {
+        "title": "Safety-aware causal representation for trustworthy reinforcement learning in autonomous driving",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2311.10747, 2023"
+    },
+    {
+        "title": "Sane: smart annotation and evaluation tools for point cloud data",
+        "pub_year": "2020",
+        "citation": "IEEE Access 8, 131848-131858, 2020"
     },
     {
         "title": "Scalable Safety-Critical Policy Evaluation with Accelerated Rare Event Sampling",
@@ -824,14 +824,14 @@
         "citation": "arXiv preprint arXiv:2307.15061, 2023"
     },
     {
-        "title": "Towards Robust and Safe Reinforcement Learning with Benign Off-policy Data",
-        "pub_year": "2023",
-        "citation": ""
-    },
-    {
         "title": "Towards affordable on-track testing for autonomous vehicle—A Kriging-based statistical approach",
         "pub_year": "2017",
         "citation": "2017 ieee 20th international conference on intelligent transportation …, 2017"
+    },
+    {
+        "title": "Towards robust and safe reinforcement learning with benign off-policy data",
+        "pub_year": "2023",
+        "citation": "International Conference on Machine Learning, 21586-21610, 2023"
     },
     {
         "title": "Towards secure and safe appified automated vehicles",

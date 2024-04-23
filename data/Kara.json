@@ -23,9 +23,9 @@
         "citation": ""
     },
     {
-        "title": "A Data Augmentation Method for Data-driven Component Segmentation of Engineering Drawings",
+        "title": "A Data Augmentation Method for Data-Driven Component Segmentation of Engineering Drawings",
         "pub_year": "2024",
-        "citation": "Journal of Computing and Information Science in Engineering 24 (1), 2024"
+        "citation": "Journal of Computing and Information Science in Engineering 24 (1), 011001, 2024"
     },
     {
         "title": "A data-driven investigation and estimation of optimal topologies under variable loading configurations",
@@ -106,9 +106,9 @@
         "citation": "carnegie mellon university, 2004"
     },
     {
-        "title": "Automating Style Analysis and Visualization With Explainable AI--Case Studies on Brand Recognition",
+        "title": "Automating Style Analysis and Visualization With Explainable AI-Case Studies on Brand Recognition",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2306.03021, 2023"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2023"
     },
     {
         "title": "BIGNet: A Deep Learning Architecture for Brand Recognition with Geometry-Based Explainability",
@@ -205,9 +205,9 @@
         "citation": "arXiv preprint arXiv:2401.08579, 2023"
     },
     {
-        "title": "DMF-TONN: Direct Mesh-free Topology Optimization using Neural Networks",
+        "title": "DMF-TONN: direct mesh-free topology optimization using neural networks",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.04107, 2023"
+        "citation": "Engineering with Computers, 1-14, 2023"
     },
     {
         "title": "DMS2015-33: Generative interface structure design for supporting existing objects",
@@ -215,9 +215,9 @@
         "citation": "Journal of Visual Languages & Computing 31, 171-183, 2015"
     },
     {
-        "title": "Data Augmentation of Engineering Drawings for Data-Driven Component Segmentation",
+        "title": "Data augmentation of engineering drawings for data-driven component segmentation",
         "pub_year": "2022",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2022"
+        "citation": "International design engineering technical conferences and computers and …, 2022"
     },
     {
         "title": "Data-driven upsampling of point clouds",
@@ -258,6 +258,11 @@
         "title": "Efficient load sampling for worst-case structural analysis under force location uncertainty",
         "pub_year": "2018",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2018"
+    },
+    {
+        "title": "Elucidation of chain dispersity effect on structure and mechanical properties of brush particle solids",
+        "pub_year": "2023",
+        "citation": "APS March Meeting Abstracts 2023, W05. 008, 2023"
     },
     {
         "title": "Enhancing the Structural Performance of Additively Manufactured Objects",
@@ -315,11 +320,6 @@
         "citation": ""
     },
     {
-        "title": "HIERARCHICAL AUTOMATIC MULTILAYER POWER PLANE GENERATION WITH GENETIC OPTIMIZATION AND MULTILAYER PERCEPTRON",
-        "pub_year": "2023",
-        "citation": "Journal of Mechanical Design, 1-16, 2023"
-    },
-    {
         "title": "Hierarchical Automatic Multilayer Power Plane Generation With Genetic Optimization and Multilayer Perceptron",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145, 101706-1, 2023"
@@ -332,7 +332,7 @@
     {
         "title": "Hierarchical Parsing and Recognition of Hand-Sketched Diagrams. 17th ACM User Interface Software Technology (UIST)",
         "pub_year": "2004",
-        "citation": ""
+        "citation": "Sante Fe, NM, 2004"
     },
     {
         "title": "Hierarchical parsing and recognition of hand-sketched diagrams",
@@ -366,8 +366,8 @@
     },
     {
         "title": "Inference of highly time-resolved melt pool visual characteristics and spatially-dependent lack-of-fusion defects in laser powder bed fusion using acoustic and thermal emission …",
-        "pub_year": "2023",
-        "citation": "arXiv e-prints, arXiv: 2310.05289, 2023"
+        "pub_year": "2024",
+        "citation": "Additive Manufacturing, 104057, 2024"
     },
     {
         "title": "Intermodal image-based recognition of planar kinematic mechanisms",
@@ -380,9 +380,9 @@
         "citation": "Middle East Technical University, 1999"
     },
     {
-        "title": "Is Additive Manufacturing an Environmentally and Economically Preferred Alternative for Mass Production?",
+        "title": "Is additive manufacturing an environmentally and economically preferred alternative for mass production?",
         "pub_year": "2023",
-        "citation": "Environmental Science & Technology 57 (16), 6373-6386, 2023"
+        "citation": "Environmental science & technology 57 (16), 6373-6386, 2023"
     },
     {
         "title": "Learning geometric design knowledge from conceptual sketches and its utilization in shape creation and optimization",
@@ -405,6 +405,11 @@
         "citation": "Computer-Aided Design 46, 263-268, 2014"
     },
     {
+        "title": "Multi-scale Topology Optimization using Neural Networks",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.08708, 2024"
+    },
+    {
         "title": "Neural network-based symbol recognition using a few labeled samples",
         "pub_year": "2011",
         "citation": "Computers & Graphics 35 (5), 955-966, 2011"
@@ -423,6 +428,11 @@
         "title": "POETIC SPONTANEITY BEYOND CONTEXT OF MEANING",
         "pub_year": "2019",
         "citation": "Arhitektura, Raziskave 2019, 193-268, 2019"
+    },
+    {
+        "title": "Pen-based Styling Design of 3D Geometry Using Concept Sketches and",
+        "pub_year": "2006",
+        "citation": "ACM Symposium on Solid and Physical Modeling: Proceedings, SPM..., 149, 2006"
     },
     {
         "title": "Pen-based styling design of 3D geometry using concept sketches and template models",
@@ -500,7 +510,7 @@
         "citation": "Technology in Cancer Research & Treatment 17, 1533034618766792, 2018"
     },
     {
-        "title": "Reinforcement Learning for Routing",
+        "title": "Reinforcement learning for routing",
         "pub_year": "2022",
         "citation": "Machine Learning Applications in Electronic Design Automation, 277-306, 2022"
     },

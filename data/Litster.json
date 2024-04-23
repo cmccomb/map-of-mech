@@ -195,6 +195,11 @@
         "citation": "US Patent 8,080,325, 2011"
     },
     {
+        "title": "Covers for electrochemical cells and related methods",
+        "pub_year": "2012",
+        "citation": "US Patent App. 13/293,666, 2012"
+    },
+    {
         "title": "Current distribution in polymer electrolyte membrane fuel cell with active water management",
         "pub_year": "2007",
         "citation": "Journal of Power Sources 174 (1), 272-281, 2007"
@@ -249,7 +254,7 @@
         "citation": "Journal of Power Sources 506, 230039, 2021"
     },
     {
-        "title": "Direct Simulations of Coupled Transport and Reaction on Nano-Scale X-Ray Computed Tomography Images of Platinum Group Metal-Free Catalyst Cathodes",
+        "title": "Direct simulations of coupled transport and reaction on nano-scale X-ray computed tomography images of platinum group metal-free catalyst cathodes",
         "pub_year": "2016",
         "citation": "ECS Transactions 75 (14), 139, 2016"
     },
@@ -360,7 +365,7 @@
     {
         "title": "Expert assessments of the cost and expected future performance of proton exchange membrane fuel cells for vehicles",
         "pub_year": "2019",
-        "citation": "Proceedings of the National Academy of Sciences 116 (11), 4899-4904, 2019"
+        "citation": "Proceedings of the national academy of sciences 116 (11), 4899-4904, 2019"
     },
     {
         "title": "Expert elicitation on paths to advance fuel cell electric vehicles",
@@ -385,7 +390,7 @@
     {
         "title": "Fuel Cell Electrode Analysis with Nano-scale X-ray Computed Tomography",
         "pub_year": "2013",
-        "citation": "Electrochemical Society Meeting Abstracts 223, 124-124, 2013"
+        "citation": "ECS Meeting Abstracts, 124, 2013"
     },
     {
         "title": "Fuel cell performance implications of membrane electrode assembly fabrication with platinum-nickel nanowire catalysts",
@@ -445,7 +450,7 @@
     {
         "title": "Hydrogen storage for fuel cell electric vehicles: expert elicitation and a levelized cost of driving model",
         "pub_year": "2020",
-        "citation": "Environmental Science & Technology 55 (1), 553-562, 2020"
+        "citation": "Environmental science & technology 55 (1), 553-562, 2020"
     },
     {
         "title": "I01A Online Live Session 3",
@@ -559,7 +564,7 @@
     {
         "title": "Increase Porosity of Anodes in Direct Formic Acid Fuel Cells",
         "pub_year": "2013",
-        "citation": "Electrochemical Society Meeting Abstracts 224, 1452-1452, 2013"
+        "citation": "ECS Meeting Abstracts, 1452, 2013"
     },
     {
         "title": "Influence of Ink Formulation and Drying Conditions on Ionomer Distribution in High-Performance Roll-to-Roll-Coated Gas-Diffusion Electrodes",
@@ -623,6 +628,11 @@
         "title": "Ionic Conductivity over Metal/Water Interfaces in Ionomer‐Free Fuel Cell Electrodes",
         "pub_year": "2019",
         "citation": "ChemElectroChem 6 (10), 2659-2666, 2019"
+    },
+    {
+        "title": "Limiting Current Density in Water Vapor-Fed Polymer Electrolyte Membrane Electrolyzers",
+        "pub_year": "2024",
+        "citation": "245th ECS Meeting (May 26-30, 2024), 2024"
     },
     {
         "title": "Limiting Current Measurements of Oxygen Transport Resistance in Platinum Group Metal-Free Fuel Cell Cathodes",
@@ -745,7 +755,7 @@
     {
         "title": "Multifunctional hydrogels with reversible 3D ordered macroporous structures",
         "pub_year": "2015",
-        "citation": "Advanced Science 2 (5), 1500069, 2015"
+        "citation": "Advanced Science 2 (5), 2015"
     },
     {
         "title": "Multiple imaging mode X-ray computed tomography for distinguishing active and inactive phases in lithium-ion battery cathodes",

@@ -15,23 +15,9 @@
         "citation": "Journal of Mechanical Design 139 (11), 111408, 2017"
     },
     {
-        "title": "A Data Mining Methodology for Quantifying Manufacturing Complexity",
-        "citation": ""
-    },
-    {
-        "title": "A Deep Learning Game Theoretic Model for Defending Against Large Scale Smart Grid Attacks",
-        "pub_year": "2022",
-        "citation": "IEEE Transactions on Smart Grid 14 (2), 1188-1197, 2022"
-    },
-    {
         "title": "A Deep Learning Model for Mining Object-Energy Correlations Using Social Media Image Data",
         "pub_year": "2018",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2018"
-    },
-    {
-        "title": "A Pilot Study Investigating STEM Learners’ Ability to Decipher AI-generated Video",
-        "pub_year": "2021",
-        "citation": "2021 ASEE Virtual Annual Conference, 2021"
     },
     {
         "title": "A ReliefF attribute weighting and X-means clustering methodology for top-down product family optimization",
@@ -61,7 +47,7 @@
     {
         "title": "A bisociative design framework for knowledge discovery across seemingly unrelated product domains",
         "pub_year": "2012",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2012"
+        "citation": "International design engineering technical conferences and computers and …, 2012"
     },
     {
         "title": "A comparative study of data-intensive demand modeling techniques in relation to product design and development",
@@ -78,10 +64,6 @@
         "citation": ""
     },
     {
-        "title": "A data mining methodology for predicting early stage Parkinson's disease using non-invasive, high-dimensional gait",
-        "citation": ""
-    },
-    {
         "title": "A data mining methodology for predicting early stage Parkinson's disease using non-invasive, high-dimensional gait sensor data",
         "pub_year": "2015",
         "citation": "IIE transactions on healthcare systems engineering 5 (4), 238-254, 2015"
@@ -92,6 +74,11 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2013"
     },
     {
+        "title": "A deep learning game theoretic model for defending against large scale smart grid attacks",
+        "pub_year": "2022",
+        "citation": "IEEE Transactions on Smart Grid 14 (2), 1188-1197, 2022"
+    },
+    {
         "title": "A machine learning approach to product review disambiguation based on function, form and behavior classification",
         "pub_year": "2017",
         "citation": "Decision Support Systems 97, 81-91, 2017"
@@ -100,6 +87,11 @@
         "title": "A physics-based virtual environment for enhancing the quality of deep generative designs",
         "pub_year": "2018",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2018"
+    },
+    {
+        "title": "A pilot study investigating STEM learners’ ability to decipher AI-generated video",
+        "pub_year": "2021",
+        "citation": "2021 ASEE Virtual Annual Conference, 2021"
     },
     {
         "title": "A privacy preserving data mining methodology for dynamically predicting emerging human threats",
@@ -202,6 +194,16 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2014"
     },
     {
+        "title": "Assessment of Product Archaeology as a Framework for Contextualizing Engineering Design",
+        "pub_year": "2014",
+        "citation": "Association for Engineering Education-Engineering Library Division Papers …, 2014"
+    },
+    {
+        "title": "Assessment of Product Archaeology as a Framework for Contextualizing Engineering Design",
+        "pub_year": "2014",
+        "citation": "ASEE Annual Conference & Exposition, 2014"
+    },
+    {
         "title": "Assessment of product archaeology as a framework for contextualizing engineering design",
         "pub_year": "2014",
         "citation": "2014 ASEE Annual Conference & Exposition, 24.214. 1-24.214. 18, 2014"
@@ -288,10 +290,10 @@
     {
         "title": "Classification of unlabeled online media",
         "pub_year": "2021",
-        "citation": "Scientific Reports 11 (1), 6908, 2021"
+        "citation": "Scientific reports 11 (1), 6908, 2021"
     },
     {
-        "title": "Comparing Attribute-and Form-Based Machine Learning Techniques for Component Prediction",
+        "title": "Comparing attribute-and form-based machine learning techniques for component prediction",
         "pub_year": "2020",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2020"
     },
@@ -574,6 +576,11 @@
         "citation": "Journal of Mechanical Design 141 (11), 110301, 2019"
     },
     {
+        "title": "Machine learning for real-time detection of local heat accumulation in metal additive manufacturing",
+        "pub_year": "2024",
+        "citation": "Materials & Design, 112933, 2024"
+    },
+    {
         "title": "Mining End-of-Life Materials Suitable for Material Resynthesis and Discovering New Application Domains",
         "pub_year": "2014",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2014"
@@ -632,11 +639,6 @@
         "title": "Node Classification using Kernel Propagation in Graph Neural Networks",
         "pub_year": "2021",
         "citation": "Expert Systems with Applications, 114655, 2021"
-    },
-    {
-        "title": "Node classification using kernel propagation in graph neural networks",
-        "pub_year": "2021",
-        "citation": ""
     },
     {
         "title": "On the Analysis of a Compromised Additive Manufacturing System Using Spatio-Temporal Decomposition",

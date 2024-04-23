@@ -7,7 +7,7 @@
     {
         "title": "2D and 3D mechanobiology in human and nonhuman systems",
         "pub_year": "2016",
-        "citation": "ACS Applied Materials & Interfaces 8 (34), 21869-21882, 2016"
+        "citation": "ACS applied materials & interfaces 8 (34), 21869-21882, 2016"
     },
     {
         "title": "390a Monday, February 17, 2014",
@@ -21,7 +21,7 @@
     {
         "title": "3D bio-etching of a complex composite-like embryonic tissue",
         "pub_year": "2015",
-        "citation": "Lab on a chip 15 (16), 3293-3299, 2015"
+        "citation": "Lab on a Chip 15 (16), 3293-3299, 2015"
     },
     {
         "title": "3D chemical pattern control in 2D fluidics devices",
@@ -48,11 +48,6 @@
         "citation": "J Biol Chem 283, 21187-97, 0"
     },
     {
-        "title": "A Biosensing Soft Robot: Integrating Chemical and Optical Responsive Synthetic Cells with Soft Robotics",
-        "pub_year": "2017",
-        "citation": "The FASEB Journal 31, 611.2-611.2, 2017"
-    },
-    {
         "title": "A Design Exploration of Genetically Engineered Myosin Motors",
         "pub_year": "2011",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2011"
@@ -73,6 +68,11 @@
         "citation": "Science Robotics 4 (31), eaax0765, 2019"
     },
     {
+        "title": "A biosensing soft robot: Integrating chemical and optical responsive synthetic cells with soft robotics",
+        "pub_year": "2017",
+        "citation": "The FASEB Journal 31, 611.2-611.2, 2017"
+    },
+    {
         "title": "A coarse-grained Monte Carlo model of cytoskeletal actin filament alignment under cyclic stretch",
         "pub_year": "2011",
         "citation": "Biophysical Journal 100 (3), 34a, 2011"
@@ -80,7 +80,7 @@
     {
         "title": "A mixed reality system combining augmented reality, 3D bio-printed physical environments and inertial measurement unit sensors for task planning",
         "pub_year": "2023",
-        "citation": "Virtual Reality, 1-14, 2023"
+        "citation": "Virtual Reality 27 (3), 1845-1858, 2023"
     },
     {
         "title": "A modular design tool for visualizing complex multiscale systems",
@@ -243,7 +243,7 @@
         "citation": "Langmuir 23 (15), 8129-8134, 2007"
     },
     {
-        "title": "Chemotactic Responses of Jurkat Cells in Microfluidic Flow-Free Gradient Chambers",
+        "title": "Chemotactic responses of jurkat cells in microfluidic flow-free gradient chambers",
         "pub_year": "2020",
         "citation": "Micromachines 11 (4), 384, 2020"
     },
@@ -270,7 +270,7 @@
     {
         "title": "Closed-Loop Circuit Model for Administration of Anticoagulation Treatment",
         "pub_year": "2022",
-        "citation": "JOURNAL OF THE AMERICAN COLLEGE OF SURGEONS 235 (5), S73-S73, 2022"
+        "citation": "Journal of the American College of Surgeons 235 (5), S72, 2022"
     },
     {
         "title": "Closed-loop circuit model of coagulation physiology",
@@ -338,7 +338,7 @@
     {
         "title": "Controlling C2C12 Cytotoxicity on Liquid Metal Embedded Elastomer (LMEE)",
         "pub_year": "2023",
-        "citation": "Advanced Healthcare Materials, 2202430, 2023"
+        "citation": "Advanced Healthcare Materials 12 (17), 2202430, 2023"
     },
     {
         "title": "Controlling Dorsal Ruffles in Cells Through Substrate Stiffness and Mechanical Stimulation",
@@ -607,7 +607,7 @@
     {
         "title": "Engineering living systems on chips: from cells to human on chips",
         "pub_year": "2014",
-        "citation": "Microfluidics and nanofluidics 16, 907-920, 2014"
+        "citation": "Microfluidics and Nanofluidics 16, 907-920, 2014"
     },
     {
         "title": "Evaluating spatial constraints in cellular assembly processes using a Monte Carlo approach",
@@ -720,9 +720,9 @@
         "citation": "Lab on a Chip 19 (7), 1141-1152, 2019"
     },
     {
-        "title": "How Can We Predict Cellular Mechanosensation?: Comment on “Cellular Mechanosensing of the Biophysical Microenvironment: A Review of Mathematical Models of Biophysical …",
+        "title": "How can we predict cellular mechanosensation?: Comment on “Cellular mechanosensing of the biophysical microenvironment: A review of mathematical models of biophysical …",
         "pub_year": "2017",
-        "citation": "Physics of life reviews 22, 120, 2017"
+        "citation": "Physics of life reviews 22, 120-122, 2017"
     },
     {
         "title": "How do control-based approaches enter into biology?",
@@ -763,11 +763,6 @@
         "title": "Inducing Vascular Grammars for Anomaly Classification in Brain Angiograms",
         "pub_year": "2022",
         "citation": "Journal of Engineering and Science in Medical Diagnostics and Therapy 5 (2 …, 2022"
-    },
-    {
-        "title": "Inducing Vascular Grammars for Anomaly Classification in Brain Angiograms",
-        "pub_year": "2022",
-        "citation": ""
     },
     {
         "title": "Intact mangrove root electrodes for desalination",
@@ -895,9 +890,9 @@
         "citation": "Applied Physics A 102, 185-188, 2011"
     },
     {
-        "title": "Material gradients in stretchable substrates toward integrated electronic functionality",
+        "title": "Material Gradients in Stretchable Substrates toward Integrated Electronic Functionality.",
         "pub_year": "2016",
-        "citation": "Advanced Materials 28 (18), 3584-3591, 2016"
+        "citation": "Advanced Materials (Deerfield Beach, Fla.) 28 (18), 3584-3591, 2016"
     },
     {
         "title": "Measuring Cellular Forces Using BioMEMS",
@@ -1015,14 +1010,14 @@
         "citation": "Molecular BioSystems 2 (6-7), 299-304, 2006"
     },
     {
-        "title": "Mimicking Embedded Vasculature Structure for 3D Cancer on a Chip Approaches through Micromilling (vol 7, 16724, 2017)",
-        "pub_year": "2019",
-        "citation": "SCIENTIFIC REPORTS 9, 2019"
-    },
-    {
         "title": "Mimicking embedded vasculature structure for 3D cancer on a chip approaches through micromilling",
         "pub_year": "2017",
         "citation": "Scientific reports 7 (1), 16724, 2017"
+    },
+    {
+        "title": "Mimicking embedded vasculature structure for 3D cancer on a chip approaches through micromilling (vol 7, 16724, 2017)",
+        "pub_year": "2019",
+        "citation": "SCIENTIFIC REPORTS 9, 2019"
     },
     {
         "title": "Modeling and control of a nonlinear mechanism for high performance microfluidic systems",
@@ -1088,11 +1083,6 @@
         "title": "Observations of Sensory Neuron Behaviors on Substrates with Various Stiffnesses through Living Cell Imaging",
         "pub_year": "2009",
         "citation": "Biophysical Journal 96 (3), 479a, 2009"
-    },
-    {
-        "title": "Observations of Sensory Neuron Behaviors on Substrates with Various Stiffnesses through Living Cell Imaging.",
-        "pub_year": "2009",
-        "citation": "Biophysical Society 53rd Annual Meeting, 2009"
     },
     {
         "title": "Optical fabrication of three-dimensional polymeric microstructures",
@@ -1440,7 +1430,7 @@
     {
         "title": "The role of mechanics in biological and bio-inspired systems",
         "pub_year": "2015",
-        "citation": "Nature communications 6 (1), 7418, 2015"
+        "citation": "Nature communications 6 (1), 1-12, 2015"
     },
     {
         "title": "Thermal softening of a particlemodified tungsten-based composite under adiabatic compression",

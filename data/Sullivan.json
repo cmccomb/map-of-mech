@@ -1,5 +1,10 @@
 [
     {
+        "title": "15ebbr",
+        "pub_year": "1993",
+        "citation": "Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (United States …, 1993"
+    },
+    {
         "title": "2016 Roscoe Pound Lecture Generally Applicable Law and the Free Exercise of Religion",
         "citation": ""
     },
@@ -66,17 +71,12 @@
     {
         "title": "A universally applicable method of calculating confidence bands for ice nucleation spectra derived from droplet freezing experiments",
         "pub_year": "2022",
-        "citation": "Atmospheric Measurement Techniques 15 (22), 6819-6836, 2022"
+        "citation": "Atmospheric Measurement Techniques Discussions 2022, 1-26, 2022"
     },
     {
         "title": "ARM Instrument: Eddy Correlation Flux Measurement Smart Flux System (ECORSF)",
         "pub_year": "2019",
         "citation": "Oak Ridge National Lab.(ORNL), Oak Ridge, TN (United States). Atmospheric …, 2019"
-    },
-    {
-        "title": "ARM: Energy Balance Bowen Ratio (EBBR) station: surf. Met and soil data for heat flux, 5-min",
-        "pub_year": "1993",
-        "citation": "Oak Ridge National Lab.(ORNL), Oak Ridge, TN (United States). Atmospheric …, 1993"
     },
     {
         "title": "Advanced aerosol optical tweezers chamber design to facilitate phase-separation and equilibration timescale experiments on complex droplets",
@@ -106,7 +106,7 @@
     {
         "title": "Aerosol–ice formation closure: A Southern Great Plains field campaign",
         "pub_year": "2021",
-        "citation": "Bulletin of the American Meteorological Society 102 (10), E1952-E1971, 2021"
+        "citation": "Bulletin of the American meteorological society 102 (10), E1952-E1971, 2021"
     },
     {
         "title": "Alteration of Heterogeneous Ice Nucleation Properties Induced by Particle Aging",
@@ -116,12 +116,12 @@
     {
         "title": "AmeriFlux AmeriFlux US-A03 ARM-AMF3-Oliktok",
         "pub_year": "2019",
-        "citation": "Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States …, 2019"
+        "citation": "Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United States …, 2019"
     },
     {
         "title": "AmeriFlux AmeriFlux US-A10 ARM-NSA-Barrow",
         "pub_year": "2019",
-        "citation": "Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States …, 2019"
+        "citation": "Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United States …, 2019"
     },
     {
         "title": "An annual cycle of size‐resolved aerosol hygroscopicity at a forested site in Colorado",
@@ -136,7 +136,7 @@
     {
         "title": "Atmospheric aging enhances the ice nucleation ability of biomass-burning aerosol",
         "pub_year": "2021",
-        "citation": "Science advances 7 (9), eabd3440, 2021"
+        "citation": "Science Advances 7 (9), eabd3440, 2021"
     },
     {
         "title": "Atmospheric evolution of the ice nucleation properties of biomass burning aerosol",
@@ -319,6 +319,11 @@
         "citation": "Environmental Science & Technology 51 (21), 12154-12163, 2017"
     },
     {
+        "title": "Evaluating Droplet-Accelerated Chemistry for the UV-Photooxidative Remediation of PFAS",
+        "pub_year": "2023",
+        "citation": "SETAC North America 44th Annual Meeting, 2023"
+    },
+    {
         "title": "Evaluation of ice nucleation properties of agricultural soils using a continuous flow diffusion chamber",
         "pub_year": "2011",
         "citation": "AGU Fall Meeting Abstracts 2011, A13A-0218, 2011"
@@ -331,7 +336,7 @@
     {
         "title": "Experimental study of the role of physicochemical surface processing on the IN ability of mineral dust particles",
         "pub_year": "2011",
-        "citation": "Atmospheric Chemistry and Physics 11 (21), 11131-11144, 2011"
+        "citation": "Atmospheric chemistry and physics 11 (21), 11131-11144, 2011"
     },
     {
         "title": "Exposure Beyond Mass: High-spatial Resolution Exposure to Source-resolved Atmospheric Particle Number and Chemical Mixing State",
@@ -343,19 +348,14 @@
         "citation": ""
     },
     {
+        "title": "FLUXNET-CH4: A global, multi-ecosystem dataset and analysis of methane seasonality from freshwater wetlands",
+        "pub_year": "2021",
+        "citation": "Earth System Science Data Discussions 2021, 1-111, 2021"
+    },
+    {
         "title": "FLUXNET-CH4: a global, multi-ecosystem dataset and analysis of methane seasonality from freshwater wetlands: A global, multi-ecosystem dataset and analysis of methane …",
         "pub_year": "2021",
         "citation": ""
-    },
-    {
-        "title": "FLUXNET-CH4: a global, multi-ecosystem datasetand analysis of methane seasonalityfrom freshwater wetlands",
-        "pub_year": "2021",
-        "citation": "Earth System Science Data 13 (7), 3607-3689, 2021"
-    },
-    {
-        "title": "FLUXNET-CH: a global, multi-ecosystem dataset and analysis of methane seasonality from freshwater wetlands",
-        "pub_year": "2021",
-        "citation": "Earth system science data 13 (7), 3607-3689, 2021"
     },
     {
         "title": "First in situ investigation of a dark wind streak on Mars: Results From the Mars Exploration Rover Spirit and Opportunity Missions",
@@ -439,7 +439,7 @@
     {
         "title": "Ice nuclei measurement validation and application toward modeling ice formation in clouds",
         "pub_year": "2010",
-        "citation": "13th Conference on Cloud Physics, 2010"
+        "citation": "13th Conference on Cloud Physics/13th Conference on Atmospheric Radiation, 2010"
     },
     {
         "title": "Impact of particle generation method on the apparent hygroscopicity of insoluble mineral particles",
@@ -531,7 +531,7 @@
         "citation": "AGU Fall Meeting Abstracts 2013, A32C-05, 2013"
     },
     {
-        "title": "Metallic and crustal elements in biomass-burning aerosol and ash: Prevalence, significance, and similarity to soil particles",
+        "title": "Metallic and crustal elements in biomass-burning aerosol and ash: prevalence, significance, and similarity to soil particles",
         "pub_year": "2020",
         "citation": "ACS Earth and Space Chemistry 5 (1), 136-148, 2020"
     },
@@ -789,6 +789,10 @@
         "citation": ""
     },
     {
+        "title": "This paper is published as part of a PCCP Themed Issue on: Physical Chemistry of Aerosols",
+        "citation": ""
+    },
+    {
         "title": "Timescale for hygroscopic conversion of calcite mineral particles through heterogeneous reaction with nitric acid",
         "pub_year": "2009",
         "citation": "Physical Chemistry Chemical Physics 11 (36), 7826-7837, 2009"
@@ -854,9 +858,9 @@
         "citation": "Environmental Science: Atmospheres 2 (1), 85-99, 2022"
     },
     {
-        "title": "Where did this particle come from? Sources of particle number and mass for human exposure estimates",
+        "title": "Where Did This Particle Come From? Sources of Particle Number and Mass for Human Exposure Estimates",
         "pub_year": "2016",
-        "citation": "Airborne Particulate Matter: Sources, Atmospheric Processes, and Health, 35-71, 2016"
+        "citation": ""
     },
     {
         "title": "Wind-Driven Particle Mobility on Mars: Insights from MER Observations",

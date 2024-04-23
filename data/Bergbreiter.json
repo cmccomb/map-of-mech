@@ -54,9 +54,9 @@
         "citation": "Solid-State Sensors, Actuators, and Microsystems Workshop, Hilton Head, SC 3, 2018"
     },
     {
-        "title": "A Method for 3D Printing and Rapid Prototyping of Fieldable Untethered Soft Robots",
-        "pub_year": "2023",
-        "citation": "Soft Robotics 10 (2), 292-300, 2023"
+        "title": "A Modular Soft Sensing Skin for Fast Measurement of Wing Deformation in Small Unmanned Aerial Vehicles",
+        "pub_year": "2024",
+        "citation": "Soft Robotics, 2024"
     },
     {
         "title": "A New Sensation: Digital Strain Sensing for Disturbance Detection In Flapping Wing Micro Aerial Vehicles",
@@ -71,7 +71,7 @@
     {
         "title": "A comparison of critical shear force in low-voltage, all-polymer electroadhesives to a basic friction model",
         "pub_year": "2017",
-        "citation": "Smart Materials and Structures 26 (2), 025028, 2017"
+        "citation": "Smart materials and structures 26 (2), 025028, 2017"
     },
     {
         "title": "A lightweight, compliant, contact-resistance-based airflow sensor for quadcopter ground effect sensing",
@@ -82,6 +82,11 @@
         "title": "A magnetically transduced whisker for angular displacement and moment sensing",
         "pub_year": "2019",
         "citation": "2019 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2019"
+    },
+    {
+        "title": "A method for 3D printing and rapid prototyping of fieldable untethered soft robots",
+        "pub_year": "2023",
+        "citation": "Soft Robotics 10 (2), 292-300, 2023"
     },
     {
         "title": "A multi-material milli-robot prototyping process",
@@ -151,7 +156,7 @@
     {
         "title": "An ultracompact dual-stage converter for driving electrostatic actuators in mobile microrobots",
         "pub_year": "2013",
-        "citation": "IEEE transactions on power electronics 29 (6), 2991-3000, 2013"
+        "citation": "IEEE Transactions on Power Electronics 29 (6), 2991-3000, 2013"
     },
     {
         "title": "Autonomous jumping microrobots",
@@ -173,7 +178,7 @@
         "citation": ""
     },
     {
-        "title": "Bio-inspired wind frame state sensing and estimation for mav applications",
+        "title": "Bio-inspired wind frame state sensing and estimation for MAV applications",
         "pub_year": "2015",
         "citation": "2015 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2015"
     },
@@ -359,6 +364,10 @@
         "citation": "NATURE 604 (7907), 627-628, 2022"
     },
     {
+        "title": "Examining Vision Sensor for Cm-Scale Robots",
+        "citation": ""
+    },
+    {
         "title": "FLY-EAR INSPIRED Miniature Sensor FOR TWO-DIMENSIONAL SOUND SOURCE LOCALIZATION",
         "citation": ""
     },
@@ -443,7 +452,7 @@
         "citation": "Smart Materials and Structures 22 (1), 014010, 2012"
     },
     {
-        "title": "Increasing the Energy Efficiency of NiTi Unimorph Actuators with a 3D-Printed Passive Layer",
+        "title": "Increasing the energy efficiency of niti unimorph actuators with a 3d-printed passive layer",
         "pub_year": "2020",
         "citation": "Journal of Microelectromechanical Systems 29 (5), 797-803, 2020"
     },
@@ -529,7 +538,7 @@
     {
         "title": "Moving from Practice to Theory: Automatic Control after World War II HIS 285S: History of Science",
         "pub_year": "2005",
-        "citation": "University of California, Berkeley. Online: http://www. eecs. berkeley. edu …, 2005"
+        "citation": "University of California, Berkeley, 33-34, 2005"
     },
     {
         "title": "Moving from practice to theory: Automatic control after world war ii",
@@ -582,7 +591,7 @@
         "citation": "APS March Meeting Abstracts 2022, W03. 008, 2022"
     },
     {
-        "title": "Photobeacon: Design of an optical system for localization and communication in multi-robot systems",
+        "title": "PhotoBeacon: design of an optical system for localization and communication in multi-robot systems",
         "pub_year": "2010",
         "citation": "1st International ICST Conference on Robot Communication and Coordination, 2010"
     },
@@ -618,17 +627,12 @@
     {
         "title": "REU: Improving straight line travel in a miniature wheeled robot",
         "pub_year": "2012",
-        "citation": ""
+        "citation": "Digital Repository at the University of Maryland, 2012"
     },
     {
         "title": "RSSI-based rendezvous on the tiny terrestrial robotic platform (TinyTeRP)",
         "pub_year": "2013",
         "citation": "Inst. Syst. Research and Tech. Rep, 2013"
-    },
-    {
-        "title": "Rapid manufacturing of mechanoreceptive skins for slip detection in robotic grasping",
-        "pub_year": "2017",
-        "citation": "Advanced Materials Technologies 2 (1), 1600188, 2017"
     },
     {
         "title": "Rapid prototyping of microactuators by integrating 3D printed polymeric structures with NiTi thin film",
@@ -670,7 +674,7 @@
         "citation": ""
     },
     {
-        "title": "Scalable minimally actuated leg extension bipedal walker based on 3d passive dynamics",
+        "title": "Scalable minimally actuated leg extension bipedal walker based on 3D passive dynamics",
         "pub_year": "2022",
         "citation": "2022 International Conference on Robotics and Automation (ICRA), 207-213, 2022"
     },
@@ -705,7 +709,7 @@
         "citation": "Small-Scale Robotics. From Nano-to-Millimeter-Sized Robotic Systems and …, 2014"
     },
     {
-        "title": "Soft Airflow Sensors with Artificial Hair Structures and Printed Ionogel Channels for Wind Gust Detection for Small Uncrewed Vehicles",
+        "title": "Soft airflow sensors with artificial hair structures and printed ionogel channels for wind gust detection for small uncrewed vehicles",
         "pub_year": "2023",
         "citation": "IEEE/ASME Transactions on Mechatronics, 2023"
     },
@@ -722,12 +726,17 @@
     {
         "title": "Spider‐Inspired, Fully 3D‐Printed Micro‐Hydraulics for Tiny, Soft Robotics",
         "pub_year": "2023",
-        "citation": "Advanced Functional Materials, 2207435, 2023"
+        "citation": "Advanced Functional Materials 33 (39), 2207435, 2023"
     },
     {
         "title": "Spring and latch dynamics can act as control pathways in ultrafast systems",
         "pub_year": "2023",
         "citation": "Bioinspiration & Biomimetics 18 (2), 026002, 2023"
+    },
+    {
+        "title": "Tactile Sensors: Rapid Manufacturing of Mechanoreceptive Skins for Slip Detection in Robotic Grasping (Adv. Mater. Technol. 1/2017)",
+        "pub_year": "2017",
+        "citation": "Advanced Materials Technologies 2 (1), 2017"
     },
     {
         "title": "The Simplest Walking Robot: A bipedal robot with one actuator and two rigid bodies",
@@ -799,7 +808,7 @@
         "citation": "Bioinspiration & Biomimetics 15 (5), 055005, 2020"
     },
     {
-        "title": "WhiskSight: A reconfigurable, vision-based, optical whisker sensing array for simultaneous contact, airflow, and inertia stimulus detection",
+        "title": "Whisksight: A reconfigurable, vision-based, optical whisker sensing array for simultaneous contact, airflow, and inertia stimulus detection",
         "pub_year": "2021",
         "citation": "IEEE Robotics and Automation Letters 6 (2), 3357-3364, 2021"
     }

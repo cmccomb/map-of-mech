@@ -22,7 +22,7 @@
     {
         "title": "Amplified charge and discharge rates in phase change materials for energy storage using spatially-enhanced thermal conductivity",
         "pub_year": "2016",
-        "citation": "Applied Energy 181, 224-231, 2016"
+        "citation": "Applied energy 181, 224-231, 2016"
     },
     {
         "title": "Analytical interpretation of nondiffusive phonon transport in thermoreflectance thermal conductivity measurements",
@@ -100,7 +100,7 @@
     {
         "title": "Doping-Induced Superconductivity in the van der Waals Superatomic Crystal Re6Se8Cl2",
         "pub_year": "2020",
-        "citation": "Nano Letters 20 (3), 1718-1724, 2020"
+        "citation": "Nano letters 20 (3), 1718-1724, 2020"
     },
     {
         "title": "Economic analysis of grid and wire wrap supported hydride and oxide fueled pressurized water reactors",
@@ -148,12 +148,8 @@
         "citation": "Nano letters 19 (11), 7901-7907, 2019"
     },
     {
-        "title": "Ferroelectric domain walls in PbTiO3 are effective regulators of heat flow at room temperature",
+        "title": "Ferroelectric Domain Walls in PbTiO3 Are Effective Regulators of Heat Flow at Room Temperature",
         "pub_year": "2019",
-        "citation": "American Chemical Society, 2019"
-    },
-    {
-        "title": "Ferroelectric domain walls in PbTiO3 are effective regulators of heat flow at room temperature",
         "citation": ""
     },
     {
@@ -192,13 +188,9 @@
         "citation": "APS March Meeting Abstracts 2017, V18. 006, 2017"
     },
     {
-        "title": "High-Resolution Melt Pool Thermal Imaging for Metals Additive Manufacturing Using the Two-Color Method with a Single Color Camera",
-        "citation": "Available at SSRN 4307946, 0"
-    },
-    {
         "title": "High-resolution melt pool thermal imaging for metals additive manufacturing using the two-color method with a color camera",
         "pub_year": "2023",
-        "citation": "Additive Manufacturing, 103663, 2023"
+        "citation": "Additive Manufacturing 73, 103663, 2023"
     },
     {
         "title": "Hot-spot thermal management by phase change materials enhanced by spatially graded metal meshes",
@@ -425,7 +417,7 @@
     {
         "title": "Shape distortion in sintering results from nonhomogeneous temperature activating a long-range mass transport",
         "pub_year": "2023",
-        "citation": "nature communications 14 (1), 1-11, 2023"
+        "citation": "nature communications 14 (1), 2667, 2023"
     },
     {
         "title": "Signatures of coherent phonon transport in ultralow thermal conductivity two-dimensional Ruddlesden–Popper phase perovskites",
@@ -453,14 +445,14 @@
         "citation": "Nature materials 12 (5), 410-415, 2013"
     },
     {
-        "title": "Surrogate Modeling of Melt Pool Thermal Field using Deep Learning",
-        "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2207.12259, 2022"
-    },
-    {
         "title": "Surrogate modeling of melt pool temperature field using deep learning",
         "pub_year": "2023",
         "citation": "Additive Manufacturing Letters 5, 100123, 2023"
+    },
+    {
+        "title": "Surrogate modeling of melt pool thermal field using deep learning",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2207.12259, 2022"
     },
     {
         "title": "Temperature dependent thermal conductivity and thermal interface resistance of pentacene thin films with varying morphology",
@@ -576,7 +568,7 @@
         "citation": "Scientific Reports 12 (1), 22353, 2022"
     },
     {
-        "title": "Universal Model for Predicting the Thermal Boundary Conductance of a Multilayered-Metal–Dielectric Interface",
+        "title": "Universal model for predicting the thermal boundary conductance of a multilayered-metal–dielectric interface",
         "pub_year": "2021",
         "citation": "Physical Review Applied 15 (6), 064043, 2021"
     },

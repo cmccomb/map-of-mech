@@ -15,7 +15,7 @@
         "citation": "JAMA network open 4 (3), e211728-e211728, 2021"
     },
     {
-        "title": "Automated Classification of Knee X-rays Using Deep Neural Networks Outperforms Radiologist",
+        "title": "Automated classification of knee X-rays using deep neural networks outperforms radiologist",
         "pub_year": "2017",
         "citation": "Morressier, 2017"
     },
@@ -110,7 +110,7 @@
         "citation": "Journal of biomechanics 81, 1-11, 2018"
     },
     {
-        "title": "Markerless Motion Tracking with Noisy Video and IMU Data",
+        "title": "Markerless motion tracking with noisy video and imu data",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Biomedical Engineering, 2023"
     },
@@ -118,6 +118,11 @@
         "title": "Modeling and Predicting Osteoarthritis Progression: Data from the Osteoarthritis Initiative",
         "pub_year": "2018",
         "citation": "Osteoarthritis and Cartilage, 2018"
+    },
+    {
+        "title": "Musculoskeletal Biomechanics and Biomaterials",
+        "pub_year": "2023",
+        "citation": "Orthopaedic Knowledge Update 14, 89-96, 2023"
     },
     {
         "title": "Older asymptomatic women exhibit patterns of thumb carpometacarpal joint space narrowing that precede changes associated with early osteoarthritis",
@@ -155,9 +160,14 @@
         "citation": "PLOS Computational Biology 18 (5), e1009500, 2022"
     },
     {
-        "title": "SRL-Assisted AFM: Generating Planar Unstructured Quadrilateral Meshes with Supervised and Reinforcement Learning-Assisted Advancing Front Method",
+        "title": "REDUCED COMPRESSIVE & SHEAR FORCES FROM GAIT RETRAINING RELATE TO SLOWED CARTILAGE DEGENERATION",
+        "pub_year": "2024",
+        "citation": "Osteoarthritis and Cartilage 32, S28-S29, 2024"
+    },
+    {
+        "title": "SRL-assisted AFM: Generating planar unstructured quadrilateral meshes with supervised and reinforcement learning-assisted advancing front method",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.00540, 2023"
+        "citation": "Journal of Computational Science 72, 102109, 2023"
     },
     {
         "title": "Sensor-based evaluation of physical therapy exercises",
@@ -172,7 +182,7 @@
     {
         "title": "Seven Things to Know about Exercise Monitoring with Inertial Sensing Wearables",
         "pub_year": "2023",
-        "citation": "TechRxiv, 2023"
+        "citation": "Authorea Preprints, 2023"
     },
     {
         "title": "ShortFuse: biomedical time series representations in the presence of structured information",

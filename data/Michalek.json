@@ -213,7 +213,7 @@
         "citation": ""
     },
     {
-        "title": "Design for market systems: Integrating social, economic, and physical sciences to engineer product success",
+        "title": "Design for market systems: integrating social, economic, and physical sciences to engineer product success.",
         "pub_year": "2008",
         "citation": "Mechanical Engineering-CIME 130 (11), 32-37, 2008"
     },
@@ -266,6 +266,11 @@
         "title": "Electric Vehicle Battery Replacement Costs Under Realistic Fast Charging Behaviors",
         "pub_year": "2023",
         "citation": "Electrochemical Society Meeting Abstracts 243, 2777-2777, 2023"
+    },
+    {
+        "title": "Electric vehicle battery chemistry affects supply chain disruption vulnerabilities",
+        "pub_year": "2024",
+        "citation": "Nature Communications 15 (1), 2143, 2024"
     },
     {
         "title": "Emissions Due to Plug-in Electric Vehicle Charging in High Wind Systems",
@@ -324,6 +329,11 @@
         "title": "Externalities of Policy-Induced Scrappage: The Case of Automotive Regulations",
         "pub_year": "2022",
         "citation": "National Bureau of Economic Research, 2022"
+    },
+    {
+        "title": "Fiftieth Anniversary: The Charter Members Greet the Society",
+        "pub_year": "1951",
+        "citation": ""
     },
     {
         "title": "Fleet Use Implications of Policies that Affect Light-Duty Vehicle Scrappage",
@@ -402,7 +412,7 @@
     {
         "title": "Life Cycle Air Pollution, Greenhouse Gas, and Traffic Externality Benefits and Costs of Electrifying Uber and Lyft",
         "pub_year": "2023",
-        "citation": "Environmental Science & Technology, 2023"
+        "citation": "Environmental Science & Technology 57 (23), 8524-8535, 2023"
     },
     {
         "title": "Linking Marketing and Engineering Product Design Decisions via Analytical Target Cascading*",
@@ -542,7 +552,7 @@
     {
         "title": "Relaxations of factorable functions with convex-transformable intermediates",
         "pub_year": "2014",
-        "citation": "Mathematical Programming 144 (1-2), 107-140, 2014"
+        "citation": "Mathematical Programming 144 (1), 107-140, 2014"
     },
     {
         "title": "Reserving the Curb: Optimized Curb Management Can Reduce Delivery Vehicle Double Parking, Traffic Congestion and Energy Consumption",
@@ -616,9 +626,9 @@
         "citation": ""
     },
     {
-        "title": "The Dynamic Costs & Benefits of Technology-Forcing Policy Nested in a Broader Performance Standard: The Case of ZEV & CAFE",
+        "title": "The Dynamic Costs & Benefits Of Technology-Forcing Policy Nested In A Broader Performance Standard: The Case Of Zev & Cafe",
         "pub_year": "2019",
-        "citation": "Energy Transitions in the 21st Century, 37th USAEE/IAEE North American …, 2019"
+        "citation": "Local Energy, Global Markets, 42nd IAEE International Conference, May 29 …, 2019"
     },
     {
         "title": "The economics of utility-scale portable energy storage systems in a high-renewable grid",
@@ -633,11 +643,6 @@
     {
         "title": "The neglected social dimensions to a vehicle-to-grid (V2G) transition: a critical and systematic",
         "citation": ""
-    },
-    {
-        "title": "The winner of the 2011 IJRM Best Paper Award: Enhancing Marketing with Engineering: Optimal Product Line Design for Heterogeneous Markets",
-        "pub_year": "2011",
-        "citation": "International Journal of Research in Marketing 28 (1), 1-12, 2011"
     },
     {
         "title": "Towards understanding the role of interaction effects in visual conjoint analysis",

@@ -172,7 +172,7 @@
     {
         "title": "A mixed reality system combining augmented reality, 3D bio-printed physical environments and inertial measurement unit sensors for task planning",
         "pub_year": "2023",
-        "citation": "Virtual Reality, 1-14, 2023"
+        "citation": "Virtual Reality 27 (3), 1845-1858, 2023"
     },
     {
         "title": "A modular design tool for visualizing complex multiscale systems",
@@ -304,17 +304,12 @@
     {
         "title": "Additive manufacturing process design",
         "pub_year": "2016",
-        "citation": "2016 International Solid Freeform Fabrication Symposium, 2016"
+        "citation": "University of Texas at Austin, 2016"
     },
     {
         "title": "Addressing challenges to problem complexity: Effectiveness of AI assistance during the design process",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021"
-    },
-    {
-        "title": "Agent-Based Approach to Optimal Configuration Design with Application to Manufacturing Process Planning",
-        "pub_year": "2003",
-        "citation": ""
     },
     {
         "title": "Agent-based synthesis of electro-mechanical design configurations",
@@ -330,6 +325,11 @@
         "title": "Aligning Shape Rule Creation with Modular Design: Minimizing the Cost of Using Shape Grammars",
         "pub_year": "2008",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2008"
+    },
+    {
+        "title": "An Agent-Based Approach to Optimal Configuration Design with Application to Manufacturing Process Planning",
+        "pub_year": "2003",
+        "citation": ""
     },
     {
         "title": "An Exploration of the Effects of Managerial Intervention on Engineering Design Team Performance",
@@ -434,7 +434,7 @@
         "citation": "Research in Engineering Design 30, 85-102, 2019"
     },
     {
-        "title": "Artificial Intelligence Impersonating a Human: The Impact of Design Facilitator Identity on Human Designers",
+        "title": "Artificial intelligence impersonating a human: The impact of design facilitator identity on human designers",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (5), 051404, 2023"
     },
@@ -469,9 +469,9 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2008"
     },
     {
-        "title": "Automating Style Analysis and Visualization With Explainable AI--Case Studies on Brand Recognition",
+        "title": "Automating Style Analysis and Visualization With Explainable AI-Case Studies on Brand Recognition",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2306.03021, 2023"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2023"
     },
     {
         "title": "Automating the creation of shape grammar rules",
@@ -603,7 +603,7 @@
     {
         "title": "Computationally derived adaptive inspirational stimuli for real-time design support during concept generation",
         "pub_year": "2019",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2019"
+        "citation": "International design engineering technical conferences and computers and …, 2019"
     },
     {
         "title": "Computer-Based Design",
@@ -704,8 +704,9 @@
         "citation": "Data in Brief 46, 108884, 2023"
     },
     {
-        "title": "Data on the Configuration Design of Internet-Connected Home Cooling Systems by",
-        "citation": ""
+        "title": "Data on the Configuration Design of Internet-Connected Home Cooling Systems by Engineering Students",
+        "pub_year": "2018",
+        "citation": "Engineering Archive, 2018"
     },
     {
         "title": "Data on the Human Versus artificial intelligence process management experiment",
@@ -1005,13 +1006,13 @@
         "citation": "AAAI Spring Symposium. Computational Synthesis, 24-27, 2003"
     },
     {
-        "title": "FOCUS AND MODALITY: DEFINING A ROADMAP TO FUTURE AI-HUMAN TEAMING IN DESIGN",
-        "pub_year": "2023",
-        "citation": "Proceedings of the Design Society 3, 1905-1914, 2023"
-    },
-    {
         "title": "FOR ROBUST OPTIMALITY",
         "citation": ""
+    },
+    {
+        "title": "FUNCTIONAL DIVERSITY AND CONFLICT IN CROSS-FUNCTIONAL PRODUCT DEVELOPMENT TEAMS",
+        "pub_year": "2005",
+        "citation": "Understanding Teams 4, 89, 2005"
     },
     {
         "title": "Fairness and manipulation: an empirical study of Arrow’s impossibility theorem",
@@ -1026,7 +1027,7 @@
     {
         "title": "Final report from the NSF innovation and discovery workshop: The scientific basis of individual and team innovation and discovery",
         "pub_year": "2006",
-        "citation": "National Science Foundation, 2006"
+        "citation": "Washington (DC): National Science Foundation, 2006"
     },
     {
         "title": "First-order necessary conditions for robust optimality",
@@ -1037,6 +1038,11 @@
         "title": "Fixation or inspiration? A meta-analytic review of the role of examples on design processes",
         "pub_year": "2015",
         "citation": "Design Studies 39, 70-99, 2015"
+    },
+    {
+        "title": "Focus and Modality: Defining a Roadmap to Future AI-Human Teaming in Design",
+        "pub_year": "2023",
+        "citation": "Proceedings of the Design Society 3, 1905-1914, 2023"
     },
     {
         "title": "Form Function Fidelity",
@@ -1053,7 +1059,7 @@
         "citation": "Cambridge University Press, 2001"
     },
     {
-        "title": "Functional diversity and conflict in cross-functional product development teams: Considering representational gap and task characteristics",
+        "title": "Functional diversity and conflict in cross-functional product development teams: Considering representational gaps and task characteristics",
         "pub_year": "2005",
         "citation": "Research in management 4, 89-110, 2005"
     },
@@ -1068,7 +1074,7 @@
         "citation": "Research in Engineering Design 9, 195-213, 1997"
     },
     {
-        "title": "Generating DNA Origami Nanostructures through Shape Annealing",
+        "title": "Generating DNA origami nanostructures through shape annealing",
         "pub_year": "2021",
         "citation": "Applied Sciences 11 (7), 2950, 2021"
     },
@@ -1187,11 +1193,6 @@
         "citation": "Journal of Engineering and Science in Medical Diagnostics and Therapy 5 (2 …, 2022"
     },
     {
-        "title": "Inducing Vascular Grammars for Anomaly Classification in Brain Angiograms",
-        "pub_year": "2022",
-        "citation": ""
-    },
-    {
         "title": "Inducing constraint activity in innovative design",
         "pub_year": "1991",
         "citation": "AI EDAM 5 (1), 47-61, 1991"
@@ -1301,11 +1302,6 @@
         "citation": "Proceedings of the 25th Annual Cognitive Science Society, 1386-1386, 2013"
     },
     {
-        "title": "LINDA C. SCHMDT",
-        "pub_year": "1996",
-        "citation": "Artificial Intelligence in Design’96, 325, 1996"
-    },
-    {
         "title": "Languages and semantics of grammatical",
         "pub_year": "1999",
         "citation": ""
@@ -1330,7 +1326,7 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 1999"
     },
     {
-        "title": "Layout optimization of shapeable components with Extended Pattern Search applied to transmission design",
+        "title": "Layout optimization of shapeable components with extended pattern search applied to transmission design",
         "pub_year": "2004",
         "citation": "J. Mech. Des. 126 (1), 188-191, 2004"
     },
@@ -1612,7 +1608,7 @@
         "citation": ""
     },
     {
-        "title": "Pushing the Limits of Vehicle Design: Utilizing a Parametric Shape Grammar to Explore Cross-Over Vehicle Concepts",
+        "title": "Pushing the limits of vehicle design: Utilizing a parametric shape grammar to explore cross-over vehicle concepts",
         "pub_year": "2006",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2006"
     },
@@ -1622,14 +1618,14 @@
         "citation": "Carnegie Mellon University, 1993"
     },
     {
-        "title": "Quantifying Aesthetic Form Preference in a Utility Function",
-        "pub_year": "2008",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2008"
-    },
-    {
         "title": "Quantifying aesthetic form preference in a utility function",
         "pub_year": "2009",
         "citation": ""
+    },
+    {
+        "title": "Quantifying aesthetic form preference in a utility function",
+        "pub_year": "2008",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2008"
     },
     {
         "title": "Quantifying and Maximizing Aesthetic Preference",
@@ -1657,7 +1653,7 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 1993"
     },
     {
-        "title": "Reducing and perceiving design fixation: initial results from an NSF-sponsored workshop",
+        "title": "Reducing and perceiving design fixation: Initial results from an NSF-sponsored workshop",
         "pub_year": "2009",
         "citation": "DS 58-9: Proceedings of ICED 09, the 17th International Conference on …, 2009"
     },
@@ -1700,11 +1696,6 @@
         "title": "Sampling uncertainty in coordinate measurement data analysis",
         "pub_year": "1998",
         "citation": "Precision Engineering 22 (3), 153-163, 1998"
-    },
-    {
-        "title": "Scientific discovery and inventive engineering design.",
-        "pub_year": "2004",
-        "citation": "Computing Reviews 45 (1), 53-54, 2004"
     },
     {
         "title": "Scientific discovery and inventive engineering design: Cognitive and computational similarities",
@@ -1807,14 +1798,14 @@
         "citation": "Journal of Engineering, Design and Technology, 2022"
     },
     {
+        "title": "Surprisingly Stochastic: Learning and Application of Emergent Behavior Using Interactive",
+        "pub_year": "2014",
+        "citation": "Proceedings of the Annual Meeting of the Cognitive Science Society, 36 (36), 2014"
+    },
+    {
         "title": "Surprisingly Stochastic: Learning and Application of Emergent Behavior Using Interactive Simulations of Nano-Mechanical Biological Systems",
         "pub_year": "2014",
         "citation": "Proceedings of the Annual Meeting of the Cognitive Science Society 36 (36), 2014"
-    },
-    {
-        "title": "Swiss Federal Institute of Technology (EPFL)",
-        "pub_year": "2012",
-        "citation": "Artificial Intelligence in Design’98, 365, 2012"
     },
     {
         "title": "Synergistic human-agent methods for deriving effective search strategies: the case of nanoscale design",
@@ -1967,7 +1958,7 @@
         "citation": "Journal of Mechanical Design 138 (10), 101104, 2016"
     },
     {
-        "title": "The evolution and impact of human confidence in artificial intelligence and in themselves on ai-assisted decision-making in design",
+        "title": "The evolution and impact of human confidence in artificial intelligence and in themselves on AI-assisted decision-making in design",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (3), 031401, 2023"
     },
@@ -1987,7 +1978,7 @@
         "citation": "Journal of Experimental Psychology: Learning, Memory, and Cognition 33 (5), 876, 2007"
     },
     {
-        "title": "The influence of process management: uncovering the impact of real-time managerial interventions via a topic modeling approach",
+        "title": "The influence of process management: Uncovering the impact of real-time managerial interventions via a topic modeling approach",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (11), 111401, 2021"
     },
@@ -2020,11 +2011,6 @@
         "title": "Topology design of truss structures by shape annealing",
         "pub_year": "1998",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 1998"
-    },
-    {
-        "title": "Toward Hybrid Teams: A Platform To Understand Human-Computer Collaboration During The Design of Complex Engineered Systems",
-        "pub_year": "2020",
-        "citation": "Engineering Archive, 2020"
     },
     {
         "title": "Toward hybrid teams: A platform to understand human-computer collaboration during the design of complex engineered systems",
@@ -2066,6 +2052,11 @@
         "citation": "DS 31: Proceedings of ICED 03, the 14th International Conference on …, 2003"
     },
     {
+        "title": "Understanding collaboration in sub-structured teams through a computational model of set-based concurrent engineering",
+        "pub_year": "2024",
+        "citation": "Journal of Engineering Design, 1-27, 2024"
+    },
+    {
         "title": "Understanding consumer tradeoffs between form and function through metaconjoint and cognitive neuroscience analyses",
         "pub_year": "2013",
         "citation": "Journal of Mechanical Design 135 (10), 101002, 2013"
@@ -2086,7 +2077,7 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2001"
     },
     {
-        "title": "Understanding the role of open goals in problem solving: impasses and hints",
+        "title": "Understanding the role of open goals in problem solving: Impasses and hints",
         "pub_year": "2007",
         "citation": "Proceedings of the Annual Meeting of the Cognitive Science Society 29 (29), 2007"
     },
@@ -2101,7 +2092,7 @@
         "citation": ""
     },
     {
-        "title": "Unsuccessful external search: using neuroimaging to understand fruitless periods of design ideation involving inspirational stimuli",
+        "title": "Unsuccessful external search: Using neuroimaging to understand fruitless periods of design ideation involving inspirational stimuli",
         "pub_year": "2019",
         "citation": "Design Computing and Cognition'18, 37-54, 2019"
     },
@@ -2111,9 +2102,9 @@
         "citation": "The Role, 2011"
     },
     {
-        "title": "Unwrapping the good news: Packaging pays, and how!",
+        "title": "Unwrapping the Good News: Packaging Pays, and\" How\"! The role of packaging in influencing product valuation",
         "pub_year": "2009",
-        "citation": "ACR Asia-Pacific Advances, 2009"
+        "citation": "Advances in Consumer Research 8, 2009"
     },
     {
         "title": "Use of a 0uality Loss Function",
@@ -2183,7 +2174,7 @@
         "citation": "Proceedings of the annual meeting of the cognitive science society 32 (32), 2010"
     },
     {
-        "title": "When faced with increasing complexity: the effectiveness of artificial intelligence assistance for drone design",
+        "title": "When faced with increasing complexity: The effectiveness of artificial intelligence assistance for drone design",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (2), 021701, 2022"
     },
@@ -2198,11 +2189,12 @@
         "citation": "Translational Vision Science & Technology 9 (9), 36-36, 2020"
     },
     {
-        "title": "„A-Design: Theory and Implementation of an Adaptive",
-        "citation": "Agent based, 0"
-    },
-    {
         "title": "ヒット企業のデザイン戦略: イノベーションを生み続ける組織",
         "citation": "(No Title), 0"
+    },
+    {
+        "title": "創新設計: 如何打造風靡消費者的優良產品",
+        "pub_year": "2006",
+        "citation": "台灣培生教育出版股份有限公司, 2006"
     }
 ]

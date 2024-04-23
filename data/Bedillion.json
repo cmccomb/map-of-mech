@@ -150,7 +150,7 @@
         "citation": "US Patent 7,447,140, 2008"
     },
     {
-        "title": "Fuzzy Logic Control for Mixed conventional/braking Actuation Mobile Robots",
+        "title": "Fuzzy logic control for mixed conventional/braking actuation mobile robots",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1909.06470, 2019"
     },
@@ -200,7 +200,7 @@
         "citation": "IEEE Control Systems Magazine 27 (1), 44-54, 2007"
     },
     {
-        "title": "Leveraging a newly developed sophomore design course to increase students’ career awareness",
+        "title": "Leveraging a Newly Developed Sophomore Design Course to Increase Students’ Career Awareness",
         "pub_year": "2017",
         "citation": "2017 ASEE Annual Conference & Exposition, 2017"
     },
@@ -365,11 +365,6 @@
         "citation": "Carnegie Mellon University, 1997"
     },
     {
-        "title": "Trajectory Tracking of the Mixed conventional/braking Actuation Mobile robots using Model Predictive Control",
-        "pub_year": "2018",
-        "citation": "2018 IEEE 14th International Conference on Control and Automation (ICCA …, 2018"
-    },
-    {
         "title": "Trajectory tracking control for actuator arrays",
         "pub_year": "2012",
         "citation": "IEEE Transactions on Control Systems Technology 21 (6), 2341-2349, 2012"
@@ -380,7 +375,12 @@
         "citation": "2006 American Control Conference, 7 pp., 2006"
     },
     {
-        "title": "Using Benchmarking Methods to Inform Curriculum Changes in Mechanical Engineering Programs",
+        "title": "Trajectory tracking of the mixed conventional/braking actuation mobile robots using model predictive control",
+        "pub_year": "2018",
+        "citation": "2018 IEEE 14th International Conference on Control and Automation (ICCA …, 2018"
+    },
+    {
+        "title": "Using benchmarking methods to inform curriculum changes in mechanical engineering programs",
         "pub_year": "2020",
         "citation": "2020 ASEE Virtual Annual Conference Content Access, 2020"
     },

@@ -10,6 +10,11 @@
         "citation": "Proceedings of the National Academy of Sciences 120 (5), e2210651120, 2023"
     },
     {
+        "title": "Interlocking Metasurfaces",
+        "pub_year": "2024",
+        "citation": "US Patent App. 17/888,846, 2024"
+    },
+    {
         "title": "Interlocking metasurfaces",
         "pub_year": "2023",
         "citation": "Journal of Materials Science 58 (1), 411-419, 2023"
@@ -42,7 +47,7 @@
     {
         "title": "Observing and modelling the legless jumping mechanism of click beetles for bio-inspired robotic design",
         "pub_year": "2017",
-        "citation": ""
+        "citation": "University of Illinois at Urbana-Champaign, 2017"
     },
     {
         "title": "Optimized design of interlocking metasurfaces",
@@ -65,6 +70,11 @@
         "citation": "Integrative and Comparative Biology 62 (5), 1227-1234, 2022"
     },
     {
+        "title": "Solution-driven bioinspired design: Themes of latch-mediated spring-actuated systems",
+        "pub_year": "2024",
+        "citation": "MRS Bulletin, 1-12, 2024"
+    },
+    {
         "title": "Studying the click-beetle self-righting jump mechanics and dynamics as a design guide for a bio-inspired innovative robot",
         "pub_year": "2017",
         "citation": "Entomology 2017, 2017"
@@ -82,6 +92,6 @@
     {
         "title": "The dynamics of ultrafast motion in biological and bio-inspired systems: the case study of click beetles",
         "pub_year": "2021",
-        "citation": ""
+        "citation": "University of Illinois at Urbana-Champaign, 2021"
     }
 ]

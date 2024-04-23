@@ -15,14 +15,29 @@
         "citation": "APS March Meeting Abstracts 2019, K57. 005, 2019"
     },
     {
+        "title": "Beaded metamaterials",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.04227, 2024"
+    },
+    {
         "title": "Beading is the new jamming: leveraging compliance and rigidity in discrete shape morphing structures",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "citation": "APS March Meeting Abstracts 2023, F09. 012, 2023"
+    },
+    {
+        "title": "Beams, Bots, and Beyond: Elastic Path to Microbot Intelligence",
+        "pub_year": "2024",
+        "citation": "Bulletin of the American Physical Society, 2024"
     },
     {
         "title": "Bubble casting soft robotics",
         "pub_year": "2021",
         "citation": "Nature 599 (7884), 229-233, 2021"
+    },
+    {
+        "title": "Bubble casting soft robotics",
+        "pub_year": "2023",
+        "citation": "US Patent App. 18/212,937, 2023"
     },
     {
         "title": "Deformation and bursting of elastic capsules impacting a rigid wall",
@@ -40,6 +55,11 @@
         "citation": "Bulletin of the American Physical Society 65, 2020"
     },
     {
+        "title": "Emergent intelligence of buckling-driven elasto-active structures",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.10614, 2024"
+    },
+    {
         "title": "Fabrication, Form, and Function of Morphomechanical Rods",
         "pub_year": "2023",
         "citation": "Princeton University, 2023"
@@ -50,19 +70,34 @@
         "citation": "Physical Review E 106 (5), 050001, 2022"
     },
     {
+        "title": "Foundations of Molecular Modeling and Simulation: Select Papers from FOMMS 2015",
+        "pub_year": "2016",
+        "citation": "Springer Singapore, 2016"
+    },
+    {
         "title": "From mindless active particles to buckling-mediated intelligent robots",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "citation": "APS March Meeting Abstracts 2023, Q14. 012, 2023"
+    },
+    {
+        "title": "General Form Equation for the Most Energy-Efficient Basketball Shot",
+        "pub_year": "2023",
+        "citation": "Journal of Student Research 12 (3), 2023"
     },
     {
         "title": "Growing elastomeric stalactites on different substrate morphologies",
         "pub_year": "2022",
-        "citation": "Bulletin of the American Physical Society, 2022"
+        "citation": "Bulletin of the American Physical Society 67, 2022"
     },
     {
         "title": "Morphomechanical Rods: From Fabrication to Function",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "citation": "APS March Meeting Abstracts 2023, N12. 003, 2023"
+    },
+    {
+        "title": "Multistability in beadwoven structures",
+        "pub_year": "2024",
+        "citation": "Bulletin of the American Physical Society, 2024"
     },
     {
         "title": "Pneumatic morphorods: curvilinear shape morphing and stability",
@@ -70,14 +105,24 @@
         "citation": "APS March Meeting Abstracts 2022, A21. 009, 2022"
     },
     {
-        "title": "Shaping with plasticity",
-        "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "title": "Screening Self-Assembled Monolayers for Lubrication Properties: Trends and Pitfalls",
+        "pub_year": "2017",
+        "citation": "2017 AIChE Annual Meeting, 2017"
     },
     {
-        "title": "Soft Deployable Structures via Core-Shell Inflatables",
+        "title": "Shaping with plasticity",
         "pub_year": "2023",
-        "citation": "Physical Review Letters 130 (12), 128201, 2023"
+        "citation": "APS March Meeting Abstracts 2023, B14. 006, 2023"
+    },
+    {
+        "title": "Soft deployable structures via core-shell inflatables",
+        "pub_year": "2023",
+        "citation": "Physical review letters 130 (12), 128201, 2023"
+    },
+    {
+        "title": "Stacked Rayleigh-Taylor instabilities grow drops into soft stalactite-like structures",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.09837, 2024"
     },
     {
         "title": "The fingerprint of a flow: Wrinkle patterns in nonuniform coatings on pre-stretched soft foundations",

@@ -195,6 +195,11 @@
         "citation": "Journal of Mechanical Design 139 (9), 2017"
     },
     {
+        "title": "Capturing Local Temperature Evolution during Additive Manufacturing through Fourier Neural Operators",
+        "pub_year": "2024",
+        "citation": "Journal of Manufacturing Science and Engineering, 2024"
+    },
+    {
         "title": "Capturing Local Temperature Evolution during Additive Manufacturing with Fourier Neural Operator",
         "pub_year": "2023",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023"
@@ -505,7 +510,7 @@
         "citation": "Journal of Mechanical Design, 2022"
     },
     {
-        "title": "Hybrid Geometric/Functional Autoencoders for Multi-Lattice Transitions",
+        "title": "Hybrid Geometry/Property Autoencoders for Multi-Lattice Transitions",
         "pub_year": "2023",
         "citation": "34th Annual International Solid Freeform Fabrication Symposium, 2023"
     },
@@ -773,6 +778,11 @@
         "title": "Studying Human Design Teams via Computational Teams of Simulated Annealing Agents",
         "pub_year": "2015",
         "citation": "ASME 2015 International Design Engineering Technical Conferences and …, 2015"
+    },
+    {
+        "title": "Symmetry Heuristics for Stable Reinforcement Learning Design Agents",
+        "pub_year": "2024",
+        "citation": "Design Computing and Cognition’24, 2024"
     },
     {
         "title": "Synthesis of physical processes of permafrost degradation and geophysical and geomechanical properties of permafrost",

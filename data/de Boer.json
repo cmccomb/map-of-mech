@@ -63,7 +63,7 @@
     {
         "title": "Adhesion Strength of Cu/Polyimide Measured by Continuous Micro-Wedge Scratch Test",
         "pub_year": "1993",
-        "citation": "MRS Online Proceedings Library (OPL) 318, 1993"
+        "citation": "MRS Online Proceedings Library (OPL) 318, 323, 1993"
     },
     {
         "title": "Adhesion hysteresis of silane coated microcantilevers",
@@ -78,7 +78,7 @@
     {
         "title": "Adhesion of Tungsten Fine Lines on SiO2 by Micro-Wedge Scratching",
         "pub_year": "1993",
-        "citation": "MRS Online Proceedings Library (OPL) 318, 1993"
+        "citation": "MRS Online Proceedings Library (OPL) 318, 609, 1993"
     },
     {
         "title": "Adhesion of polysilicon microbeams in controlled humidity ambients",
@@ -201,11 +201,6 @@
         "citation": "Nature communications 9 (1), 1664, 2018"
     },
     {
-        "title": "DYNAMICS OF MEMS MICROENGINES USING OPTOELECTRONIC LASER INTERFEROMETRY",
-        "pub_year": "1999",
-        "citation": "Materials Science of Microelectromechanical Systems (MEMS) Devices …, 1999"
-    },
-    {
         "title": "Delaminated titanate and peroxotitanate photocatalysts",
         "pub_year": "2011",
         "citation": "Applied Catalysis B: Environmental 105 (1-2), 69-76, 2011"
@@ -291,7 +286,7 @@
         "citation": "Tribology International 85, 48-55, 2015"
     },
     {
-        "title": "Effects of hot switching and contamination on contact reliability of pt-coated microswitches",
+        "title": "Effects of hot switching and contamination on contact reliability of Pt-coated microswitches",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Components, Packaging and Manufacturing Technology 10 …, 2019"
     },
@@ -306,7 +301,7 @@
         "citation": "Sandia National Laboratories (SNL), Albuquerque, NM, and Livermore, CA …, 2002"
     },
     {
-        "title": "Equilibrium vapor adsorption and capillary force: Exact Laplace–Young equation solution and circular approximation approaches",
+        "title": "Equilibrium vapor adsorption and capillary force: Exact laplace–young equation solution and circular approximation approaches",
         "pub_year": "2010",
         "citation": "Journal of adhesion science and technology 24 (15-16), 2363-2382, 2010"
     },
@@ -338,7 +333,7 @@
     {
         "title": "Fracture toughness of silicon and thin film micro-structures by wedge indentation",
         "pub_year": "1993",
-        "citation": "MRS Online Proceedings Library (OPL) 308, 1993"
+        "citation": "MRS Online Proceedings Library (OPL) 308, 647, 1993"
     },
     {
         "title": "Friction and Adhesion in MEMS.",
@@ -353,7 +348,7 @@
     {
         "title": "Friction in MEMS: from single to multiple asperity contact",
         "pub_year": "2002",
-        "citation": "Int. Congr. Exposition Exp. Appl. Mech, 282-287, 2002"
+        "citation": "SEM Annual Conference & Exposition on Experimental and Applied Mechanics, 2002"
     },
     {
         "title": "Friction measurement in MEMS using a new test structure",
@@ -472,8 +467,8 @@
     },
     {
         "title": "Integrated platform for testing MEMS mechanical properties at the wafer scale by the IMaP methodology",
-        "pub_year": "2001",
-        "citation": "Mechanical Properties of Structural Films 1413, 85, 2001"
+        "pub_year": "2000",
+        "citation": "Sandia National Lab.(SNL-NM), Albuquerque, NM (United States); Sandia …, 2000"
     },
     {
         "title": "Integrated superhard and metallic coatings for MEMS: LDRD 57300 final report.",
@@ -584,11 +579,6 @@
         "title": "Measuring the elastic modulus and residual stress of freestanding thin films using nanoindentation techniques",
         "pub_year": "2009",
         "citation": "Journal of Materials Research 24 (9), 2974-2985, 2009"
-    },
-    {
-        "title": "Mechanics Of Interfacial Crack Propagation In Microscratching Maarten P. de Boer*, John C. Nelson and William W. Gerberich Dept. of Chemical Engineering and Materials Science …",
-        "pub_year": "1996",
-        "citation": "Thin Films Stresses and Mechanical Properties VI: 436, 103, 1996"
     },
     {
         "title": "Mechanics of interfacial crack propagation in microscratching",
@@ -803,7 +793,7 @@
     {
         "title": "Predicting Oxidation Behavior of Multi-Principal Element Alloys by Machine Learning Methods",
         "pub_year": "2022",
-        "citation": "Oxidation of Metals 98 (5-6), 429-450, 2022"
+        "citation": "Oxidation of Metals 98 (5), 429-450, 2022"
     },
     {
         "title": "Predicting fracture in micrometer-scale polycrystalline silicon MEMS structures",
@@ -887,7 +877,7 @@
         "citation": "MRS Online Proceedings Library (OPL) 605, 135, 1999"
     },
     {
-        "title": "Self-Actuating Isothermal Nanomechanical Test Platform for Tensile Creep Measurement of Freestanding Thin Films",
+        "title": "Self-actuating isothermal nanomechanical test platform for tensile creep measurement of freestanding thin films",
         "pub_year": "2021",
         "citation": "Journal of Microelectromechanical Systems 31 (1), 167-175, 2021"
     },
@@ -899,7 +889,7 @@
     {
         "title": "Side-by-side comparison of passive MEMS strain test structures under residual compression",
         "pub_year": "2001",
-        "citation": "Mechanical Properties of Structural Films 1413, 168, 2001"
+        "citation": "ASTM Special Technical Publication 1413, 168-202, 2001"
     },
     {
         "title": "Size-dependent creep master curve of individual electrospun polymer nanofibers",
@@ -944,7 +934,7 @@
     {
         "title": "The influence of coating structure on micromachine stiction",
         "pub_year": "2001",
-        "citation": "Tribology Letters 10 (1-2), 103-108, 2001"
+        "citation": "Tribology Letters 10 (1), 103-108, 2001"
     },
     {
         "title": "The role of van der Waals forces in adhesion of micromachined surfaces",
@@ -969,12 +959,12 @@
     {
         "title": "Thin film adhesion characterization by microwedge scratching of precracked fine lines",
         "pub_year": "1994",
-        "citation": "MRS Online Proceedings Library (OPL) 356, 1994"
+        "citation": "MRS Online Proceedings Library (OPL) 356, 821, 1994"
     },
     {
         "title": "Thin film fine line work of adhesion by microwedge indentation",
         "pub_year": "1994",
-        "citation": "MRS Online Proceedings Library (OPL) 356, 1994"
+        "citation": "MRS Online Proceedings Library (OPL) 356, 693, 1994"
     },
     {
         "title": "Thin film scratch testing in two dimensions—Experiments and analysis",

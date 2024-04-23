@@ -48,6 +48,11 @@
         "citation": "Computational mechanics 46, 3-16, 2010"
     },
     {
+        "title": "A fully-coupled fluid-structure interaction simulation of cerebral aneurysms",
+        "pub_year": "2010",
+        "citation": "Springer Berlin/Heidelberg, 2010"
+    },
+    {
         "title": "A fullyintegrated approach to fluid–structure interaction",
         "pub_year": "2008",
         "citation": "Comput Mech (in preparation), 2008"
@@ -113,11 +118,6 @@
         "citation": "Computer-Aided Design 46, 110-119, 2014"
     },
     {
-        "title": "AFOSR Deliverables Submission Survey",
-        "pub_year": "2014",
-        "citation": "Organization 1, 412-2685332, 2014"
-    },
-    {
         "title": "ANNUAL COUPLED ENERGYPLUS AND COMPUTATIONAL FLUID DYNAMICS SIMULATION OF NATURAL VENTILATION",
         "citation": ""
     },
@@ -179,9 +179,9 @@
         "citation": "Computer Methods in Applied Mechanics and Engineering 345, 52-74, 2019"
     },
     {
-        "title": "An adaptive non-rigid image registration technique using hierarchical B-splines",
-        "pub_year": "2015",
-        "citation": "Computational Vision and Medical Image Processing V-Proceedings of 5th …, 2015"
+        "title": "An adaptive nonrigid image registration technique using hierarchical B-splines",
+        "pub_year": "2016",
+        "citation": "Computational Vision and Medical Image Processing V-Proceedings of 5th …, 2016"
     },
     {
         "title": "An automatic 3D mesh generation method for domains with multiple materials",
@@ -278,7 +278,7 @@
     {
         "title": "Biomimetic IGA neuron growth modeling with neurite morphometric features and CNN-based prediction",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2304.11306, 2023"
+        "citation": "Computer Methods in Applied Mechanics and Engineering 417, 116213, 2023"
     },
     {
         "title": "Biophysical Theory and Modeling-Continuum Diffusion Reaction Rate Calculations of Wild-Type and Mutant Mouse Acetylcholinesterase: Adaptive Finite Element Analysis.",
@@ -336,7 +336,8 @@
     },
     {
         "title": "Centroidal Voronoi Tessellation with Applications in Image and Mesh Processing",
-        "citation": "Carnegie Mellon University, 0"
+        "pub_year": "2016",
+        "citation": "Carnegie Mellon University, 2016"
     },
     {
         "title": "Centroidal Voronoi tessellation based polycube construction for adaptive all-hexahedral mesh generation",
@@ -434,7 +435,7 @@
     {
         "title": "Correction to: Explicit isogeometric topology optimization based on moving morphable voids with closed B-spline boundary curves",
         "pub_year": "2020",
-        "citation": "Structural and Multidisciplinary Optimization 61, 2217-2218, 2020"
+        "citation": "Struct. Multidiscip. Optim 61, 2217-2218, 2020"
     },
     {
         "title": "Correction to: Explicit isogeometric topology optimization based on moving morphable voids with closed B-spline boundary curves",
@@ -464,7 +465,7 @@
     {
         "title": "Data-Driven Methods in Biomechanics",
         "pub_year": "2022",
-        "citation": "Journal of Biomechanical Engineering 144 (12), 120301, 2022"
+        "citation": "Journal of biomechanical engineering 144 (12), 120301, 2022"
     },
     {
         "title": "Deep learning of material transport in complex neurite networks",
@@ -667,7 +668,7 @@
     {
         "title": "Geometric Modeling: Interoperability and New Challenges (Dagstuhl Seminar 21471)",
         "pub_year": "2022",
-        "citation": "Dagstuhl Reports 11 (10), 2022"
+        "citation": "Schloss-Dagstuhl-Leibniz Zentrum für Informatik, 2022"
     },
     {
         "title": "Geometric modeling and mesh generation from scanned images",
@@ -712,6 +713,11 @@
     {
         "title": "High-Fidelity Geometric Modeling and Mesh Generation for Mechanics Characterization of Polycrystalline Materials",
         "pub_year": "2015",
+        "citation": ""
+    },
+    {
+        "title": "High-Fidelity Geometric Modeling and Mesh Generation for Mechanics Characterization of Polycrystalline Materials",
+        "pub_year": "2014",
         "citation": ""
     },
     {
@@ -908,7 +914,7 @@
     {
         "title": "Isogeometric analysis of blood flow: a NURBS-based approach",
         "pub_year": "2018",
-        "citation": "Computational Modelling of Objects Represented in Images, 91-96, 2018"
+        "citation": "Computational Modelling of Objects Represented in Images. Fundamentals …, 2018"
     },
     {
         "title": "Isogeometric analysis-based physics-informed graph neural network for studying traffic jam in neurons",
@@ -1017,6 +1023,11 @@
         "title": "Merge-swap optimization framework for supervoxel generation from three-dimensional point clouds",
         "pub_year": "2020",
         "citation": "Remote Sensing 12 (3), 473, 2020"
+    },
+    {
+        "title": "Mesh Processing in Medical Image Analysis 2012: MICCAI 2012 International Workshop, MeshMed 2012, Nice, France, October 1, 2012, Proceedings",
+        "pub_year": "2012",
+        "citation": "Springer, 2012"
     },
     {
         "title": "Mesh Processing in Medical Image Analysis-a Tutorial",
@@ -1207,6 +1218,11 @@
         "citation": "Elsevier 90, 1-210, 2017"
     },
     {
+        "title": "Proceedings of the 2024 International Meshing Roundtable (IMR)",
+        "pub_year": "2024",
+        "citation": "Society for Industrial and Applied Mathematics, 2024"
+    },
+    {
         "title": "Projection-based reduced order modeling and data-driven artificial viscosity closures for incompressible fluid flows",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2401.17383, 2024"
@@ -1272,7 +1288,7 @@
         "citation": "Archives of Computational Methods in Engineering 26, 381-404, 2019"
     },
     {
-        "title": "Rhino 3D to Abaqus: a T-spline based isogeometric analysis software framework",
+        "title": "Rhino 3D to Abaqus: A T-spline based isogeometric analysis software framework",
         "pub_year": "2016",
         "citation": "Advances in Computational Fluid-Structure Interaction and Flow Simulation …, 2016"
     },
@@ -1291,9 +1307,9 @@
         "citation": ""
     },
     {
-        "title": "SRL-Assisted AFM: Generating Planar Unstructured Quadrilateral Meshes with Supervised and Reinforcement Learning-Assisted Advancing Front Method",
+        "title": "SRL-assisted AFM: Generating planar unstructured quadrilateral meshes with supervised and reinforcement learning-assisted advancing front method",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.00540, 2023"
+        "citation": "Journal of Computational Science 72, 102109, 2023"
     },
     {
         "title": "Scanning Techniques and Image Processing",
@@ -1311,7 +1327,7 @@
         "citation": "Computer-Aided Design 70, 56-66, 2016"
     },
     {
-        "title": "Semi-Automated Quantitative Evaluation of Neuron Developmental Morphology In Vitro Using the Change-Point Test",
+        "title": "Semi-automated quantitative evaluation of neuron developmental morphology in vitro using the change-point test",
         "pub_year": "2023",
         "citation": "Neuroinformatics 21 (1), 163-176, 2023"
     },
@@ -1353,7 +1369,7 @@
     {
         "title": "Special Issue on Artificial Intelligence in Advanced Manufacturing Processes (AiAMP)",
         "pub_year": "2022",
-        "citation": "Journal of Materials Processing Technology 306, 2022"
+        "citation": "Journal of Materials Processing Technology 306 (S AiAMP), 117592, 2022"
     },
     {
         "title": "Special Issue on Data-Driven Methods in Biomechanics",
@@ -1395,14 +1411,14 @@
         "citation": "ENGINEERING WITH COMPUTERS 30 (4), 423-423, 2014"
     },
     {
-        "title": "TCB-spline-based Image Vectorization",
-        "pub_year": "2022",
-        "citation": "ACM Transactions on Graphics (TOG) 41 (3), 1-17, 2022"
-    },
-    {
         "title": "TCB-spline-based isogeometric analysis method with high-quality parameterizations",
         "pub_year": "2022",
         "citation": "Computer Methods in Applied Mechanics and Engineering 393, 114771, 2022"
+    },
+    {
+        "title": "Tcb-spline-based image vectorization",
+        "pub_year": "2022",
+        "citation": "ACM Transactions on Graphics (TOG) 41 (3), 1-17, 2022"
     },
     {
         "title": "Tetrahedral/Hexahedral Finite Element Meshing from Volumetric Imaging Data",
