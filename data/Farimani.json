@@ -75,6 +75,10 @@
         "citation": "Machine Learning: Science and Technology 3 (4), 045015, 2022"
     },
     {
+        "title": "Autonomous Clay Sculpting from Human Demonstrations with Point Cloud Goal Conditioned Diffusion Policy",
+        "citation": "ICRA 2024 Workshop on 3D Visual Representations for Robot Manipulation, 0"
+    },
+    {
         "title": "Binding pathway of opiates to μ-opioid receptors revealed by machine learning",
         "pub_year": "2018",
         "citation": "Biophysical Journal 114 (3), 62a-63a, 2018"
@@ -478,6 +482,11 @@
         "title": "Multimodal Language and Graph Learning of Adsorption Configuration in Catalysis",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2401.07408, 2024"
+    },
+    {
+        "title": "Multimodal learning of heat capacity based on transformers and crystallography pretraining",
+        "pub_year": "2024",
+        "citation": "Journal of Applied Physics 135 (16), 2024"
     },
     {
         "title": "Multiscale modeling of droplet interface bilayer membrane networks",

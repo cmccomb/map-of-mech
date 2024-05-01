@@ -178,11 +178,6 @@
         "citation": ""
     },
     {
-        "title": "An electrically conductive silver-polyacrylamide-alginate hydrogel composite for soft electronics (vol 4, pg 185, 2021)",
-        "pub_year": "2021",
-        "citation": "Nature Electronics 4 (4), 313-313, 2021"
-    },
-    {
         "title": "An electrically conductive silver–polyacrylamide–alginate hydrogel composite for soft electronics",
         "pub_year": "2021",
         "citation": "Nature Electronics 4 (3), 185-192, 2021"
@@ -1344,6 +1339,11 @@
         "title": "Scalable manufacturing of liquid metal circuits",
         "pub_year": "2022",
         "citation": "Advanced Materials Technologies 7 (11), 2200295, 2022"
+    },
+    {
+        "title": "Selective and Controlled Grafting from PVDF-Based Materials by Oxygen-Tolerant Green-Light-Mediated ATRP",
+        "pub_year": "2024",
+        "citation": "ACS Applied Materials & Interfaces, 2024"
     },
     {
         "title": "Self-healing materials for soft-matter machines and electronics",

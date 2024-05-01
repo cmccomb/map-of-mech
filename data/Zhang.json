@@ -29,8 +29,17 @@
         "citation": "Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2016"
     },
     {
+        "title": "A Biomechanical Model of Human Upper Limb for Objective Stroke Rehabilitation Assessment",
+        "pub_year": "2017",
+        "citation": "Carnegie Mellon University, 2017"
+    },
+    {
         "title": "A Coupled T-Spline-Bézier Method for Convergence Study of Isogeometric Analysis on Unstructured Quadrilateral/Hexahedral Meshes",
         "citation": ""
+    },
+    {
+        "title": "A Method to Design Hybrid Lattice Support Structures for LPBF Additive Manufacturing",
+        "citation": "Carnegie Mellon University, 0"
     },
     {
         "title": "A field-based representation of surrounding vehicle motion from a monocular camera",
@@ -634,6 +643,11 @@
         "title": "Foreword to Solid and Physical Modeling 2017.",
         "pub_year": "2017",
         "citation": "Comput. Aided Des. 90, 3, 2017"
+    },
+    {
+        "title": "FreSeg: Frenet-Frame-based Part Segmentation for 3D Curvilinear Structures",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.14435, 2024"
     },
     {
         "title": "Fundamentals to Geometric Modeling and Meshing",
@@ -1360,6 +1374,11 @@
         "title": "Slicing heterogeneous solid using octree-based subdivision and trivariate T-splines for additive manufacturing",
         "pub_year": "2019",
         "citation": "Rapid Prototyping Journal 26 (1), 164-175, 2019"
+    },
+    {
+        "title": "Solid T-spline Modeling for Isogeometric Analysis",
+        "pub_year": "2012",
+        "citation": "Carnegie Mellon University, 2012"
     },
     {
         "title": "Solid T-spline construction from boundary representations for genus-zero geometry",
