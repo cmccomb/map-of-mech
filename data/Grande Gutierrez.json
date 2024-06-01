@@ -2,85 +2,119 @@
     {
         "title": "A 1D–3D hybrid model of patient-specific coronary hemodynamics",
         "pub_year": "2022",
-        "citation": "Cardiovascular Engineering and Technology, 1-12, 2022"
+        "citation": "Cardiovascular Engineering and Technology, 1-12, 2022",
+        "num_citations": 13,
+        "author_pub_id": "HzsuNvEAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Assessment of Coronary Artery Aneurysms Cased By Kawasaki Diesease Using Transluminal",
         "pub_year": "2015",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "HzsuNvEAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Assessment of coronary artery aneurysms caused by Kawasaki disease using transluminal attenuation gradient analysis of computerized tomography angiograms",
         "pub_year": "2017",
-        "citation": "The American journal of cardiology 120 (4), 556-562, 2017"
+        "citation": "The American journal of cardiology 120 (4), 556-562, 2017",
+        "num_citations": 16,
+        "author_pub_id": "HzsuNvEAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Computational blood flow simulations in Kawasaki disease patients: insight into coronary artery aneurysm hemodynamics",
         "pub_year": "2017",
-        "citation": "Global cardiology science & practice 2017 (3), 2017"
+        "citation": "Global cardiology science & practice 2017 (3), 2017",
+        "num_citations": 17,
+        "author_pub_id": "HzsuNvEAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Computational modeling of blood component transport related to coronary artery thrombosis in Kawasaki disease",
         "pub_year": "2021",
-        "citation": "PLoS computational biology 17 (9), e1009331, 2021"
+        "citation": "PLoS computational biology 17 (9), e1009331, 2021",
+        "num_citations": 20,
+        "author_pub_id": "HzsuNvEAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Computational modeling of intra-ventricular hemodynamics and left ventricle thrombosis",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "citation": "Bulletin of the American Physical Society, 2023",
+        "num_citations": 0,
+        "author_pub_id": "HzsuNvEAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Decoding thrombosis through code: a review of computational models",
         "pub_year": "2023",
-        "citation": "Journal of Thrombosis and Haemostasis, 2023"
+        "citation": "Journal of Thrombosis and Haemostasis, 2023",
+        "num_citations": 1,
+        "author_pub_id": "HzsuNvEAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Evaluating the Sensitivity of Coronary Artery Hemodynamics to Anatomical Changes in Angles, Branch Positions, and Diameter Ratios",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "citation": "Bulletin of the American Physical Society, 2023",
+        "num_citations": 0,
+        "author_pub_id": "HzsuNvEAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Hemodynamic Based Thrombotic Risk Stratification in Kawasaki Disease Patients with Coronary Artery Aneurysms",
         "pub_year": "2019",
-        "citation": "Stanford University, 2019"
+        "citation": "Stanford University, 2019",
+        "num_citations": 0,
+        "author_pub_id": "HzsuNvEAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Hemodynamic variables in aneurysms are associated with thrombotic risk in children with Kawasaki disease",
         "pub_year": "2019",
-        "citation": "International journal of cardiology 281, 15-21, 2019"
+        "citation": "International journal of cardiology 281, 15-21, 2019",
+        "num_citations": 53,
+        "author_pub_id": "HzsuNvEAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Intraocular and intracranial pressures during head-down tilt with lower body negative pressure",
         "pub_year": "2015",
-        "citation": "Aviation, Space, and Environmental Medicine 86 (1), 3-7, 2015"
+        "citation": "Aviation, Space, and Environmental Medicine 86 (1), 3-7, 2015",
+        "num_citations": 79,
+        "author_pub_id": "HzsuNvEAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Longitudinal investigation of aortic dissection in mice with computational fluid dynamics",
         "pub_year": "2023",
-        "citation": "Computer Methods in Biomechanics and Biomedical Engineering, 1-14, 2023"
+        "citation": "Computer Methods in Biomechanics and Biomedical Engineering, 1-14, 2023",
+        "num_citations": 2,
+        "author_pub_id": "HzsuNvEAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "MegaFlow2D: A Parametric Dataset for Machine Learning Super-resolution in Computational Fluid Dynamics Simulations",
         "pub_year": "2023",
-        "citation": "2023 IEEE Workshop on Design Automation for CPS and IoT (DESTION), 2023"
+        "citation": "2023 IEEE Workshop on Design Automation for CPS and IoT (DESTION), 2023",
+        "num_citations": 3,
+        "author_pub_id": "HzsuNvEAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Taylor Series Error Correction Network for Super-Resolution of Discretized Partial Differential Equation Solutions",
-        "citation": "Available at SSRN 4731728, 0"
+        "citation": "Available at SSRN 4731728, 0",
+        "num_citations": 0,
+        "author_pub_id": "HzsuNvEAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Taylor series error correction network for super-resolution of discretized fluid solutions",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "citation": "Bulletin of the American Physical Society, 2023",
+        "num_citations": 0,
+        "author_pub_id": "HzsuNvEAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Thrombosis and Hemodynamics: external and intrathrombus gradients",
         "pub_year": "2021",
-        "citation": "Current opinion in biomedical engineering 19, 100316, 2021"
+        "citation": "Current opinion in biomedical engineering 19, 100316, 2021",
+        "num_citations": 4,
+        "author_pub_id": "HzsuNvEAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Thrombotic Risk Assessment in Kawasaki Disease Patients with Coronary Artery Aneurysms using Transluminal Attenuation Gradient Analysis",
         "pub_year": "2015",
-        "citation": "Circulation 131 (suppl_2), A164, 2015"
+        "citation": "Circulation 131 (suppl_2), A164, 2015",
+        "num_citations": 0,
+        "author_pub_id": "HzsuNvEAAAAJ:zYLM7Y9cAGgC"
     }
 ]

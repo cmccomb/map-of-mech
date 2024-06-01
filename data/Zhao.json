@@ -2,885 +2,1262 @@
     {
         "title": "A Kinodynamic Aggressive Trajectory Planner For Narrow Passages",
         "pub_year": "2017",
-        "citation": "arXiv preprint arXiv:1709.05443, 2017"
+        "citation": "arXiv preprint arXiv:1709.05443, 2017",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:O3NaXMp0MMsC"
     },
     {
         "title": "A general framework of learning multi-vehicle interaction patterns from video",
         "pub_year": "2019",
-        "citation": "2019 IEEE Intelligent Transportation Systems Conference (ITSC), 4323-4328, 2019"
+        "citation": "2019 IEEE Intelligent Transportation Systems Conference (ITSC), 4323-4328, 2019",
+        "num_citations": 7,
+        "author_pub_id": "z7tPc9IAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "A learning-based approach for lane departure warning systems with a personalized driver model",
         "pub_year": "2018",
-        "citation": "IEEE Transactions on Vehicular Technology 67 (10), 9145-9157, 2018"
+        "citation": "IEEE Transactions on Vehicular Technology 67 (10), 9145-9157, 2018",
+        "num_citations": 145,
+        "author_pub_id": "z7tPc9IAAAAJ:4OULZ7Gr8RgC"
     },
     {
         "title": "A multi-vehicle trajectories generator to simulate vehicle-to-vehicle encountering scenarios",
         "pub_year": "2019",
-        "citation": "2019 International Conference on Robotics and Automation (ICRA), 4255-4261, 2019"
+        "citation": "2019 International Conference on Robotics and Automation (ICRA), 4255-4261, 2019",
+        "num_citations": 54,
+        "author_pub_id": "z7tPc9IAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "A survey on safety-critical driving scenario generation—A methodological perspective",
         "pub_year": "2023",
-        "citation": "IEEE Transactions on Intelligent Transportation Systems, 2023"
+        "citation": "IEEE Transactions on Intelligent Transportation Systems, 2023",
+        "num_citations": 83,
+        "author_pub_id": "z7tPc9IAAAAJ:1qzjygNMrQYC"
     },
     {
         "title": "A tempt to unify heterogeneous driving databases using traffic primitives",
         "pub_year": "2018",
-        "citation": "2018 21st International Conference on Intelligent Transportation Systems …, 2018"
+        "citation": "2018 21st International Conference on Intelligent Transportation Systems …, 2018",
+        "num_citations": 10,
+        "author_pub_id": "z7tPc9IAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "A versatile approach to evaluating and testing automated vehicles based on kernel methods",
         "pub_year": "2018",
-        "citation": "2018 Annual American Control Conference (ACC), 4796-4802, 2018"
+        "citation": "2018 Annual American Control Conference (ACC), 4796-4802, 2018",
+        "num_citations": 30,
+        "author_pub_id": "z7tPc9IAAAAJ:l7t_Zn2s7bgC"
     },
     {
         "title": "ACCELERATED POLICY EVALUATION WITH ADAPTIVE IMPORTANCE SAMPLING",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:-_dYPAW6P2MC"
     },
     {
         "title": "Accelerated Evaluation of Automated Vehicles using Piecewise Mixture Distribution Models",
         "pub_year": "2016",
-        "citation": "Ann Arbor 1001, 48109, 2016"
+        "citation": "Ann Arbor 1001, 48109, 2016",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:tS2w5q8j5-wC"
     },
     {
         "title": "Accelerated Evaluation of Automated Vehicles.",
         "pub_year": "2016",
-        "citation": ""
+        "citation": "",
+        "num_citations": 63,
+        "author_pub_id": "z7tPc9IAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Accelerated evaluation of automated vehicles in car-following maneuvers",
         "pub_year": "2017",
-        "citation": "IEEE Transactions on Intelligent Transportation Systems 19 (3), 733-744, 2017"
+        "citation": "IEEE Transactions on Intelligent Transportation Systems 19 (3), 733-744, 2017",
+        "num_citations": 239,
+        "author_pub_id": "z7tPc9IAAAAJ:p2g8aNsByqUC"
     },
     {
         "title": "Accelerated evaluation of automated vehicles in lane change scenarios",
         "pub_year": "2015",
-        "citation": "Dynamic Systems and Control Conference 57243, V001T17A002, 2015"
+        "citation": "Dynamic Systems and Control Conference 57243, V001T17A002, 2015",
+        "num_citations": 23,
+        "author_pub_id": "z7tPc9IAAAAJ:ldfaerwXgEUC"
     },
     {
         "title": "Accelerated evaluation of automated vehicles safety in lane-change scenarios based on importance sampling techniques",
         "pub_year": "2016",
-        "citation": "IEEE transactions on intelligent transportation systems 18 (3), 595-607, 2016"
+        "citation": "IEEE transactions on intelligent transportation systems 18 (3), 595-607, 2016",
+        "num_citations": 405,
+        "author_pub_id": "z7tPc9IAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Accelerated evaluation of automated vehicles using extracted naturalistic driving data",
         "pub_year": "2015",
-        "citation": "Proceeding for 24th International Symposium of Vehicles on Road and Tracks, 2015"
+        "citation": "Proceeding for 24th International Symposium of Vehicles on Road and Tracks, 2015",
+        "num_citations": 48,
+        "author_pub_id": "z7tPc9IAAAAJ:B3FOqHPlNUQC"
     },
     {
         "title": "Accelerated evaluation of automated vehicles using piecewise mixture models",
         "pub_year": "2017",
-        "citation": "IEEE Transactions on Intelligent Transportation Systems 19 (9), 2845-2855, 2017"
+        "citation": "IEEE Transactions on Intelligent Transportation Systems 19 (9), 2845-2855, 2017",
+        "num_citations": 90,
+        "author_pub_id": "z7tPc9IAAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Accelerated evaluation of autonomous vehicles in the lane change scenario based on subset simulation technique",
         "pub_year": "2018",
-        "citation": "2018 21st International Conference on Intelligent Transportation Systems …, 2018"
+        "citation": "2018 21st International Conference on Intelligent Transportation Systems …, 2018",
+        "num_citations": 42,
+        "author_pub_id": "z7tPc9IAAAAJ:EUQCXRtRnyEC"
     },
     {
         "title": "Accelerated policy evaluation: Learning adversarial environments with adaptive importance sampling",
         "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2106.10566, 2021"
+        "citation": "arXiv preprint arXiv:2106.10566, 2021",
+        "num_citations": 10,
+        "author_pub_id": "z7tPc9IAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Advanced driver assistance strategies for a single-vehicle overtaking a platoon on the two-lane two-way road",
         "pub_year": "2020",
-        "citation": "IEEE Access 8, 77285-77297, 2020"
+        "citation": "IEEE Access 8, 77285-77297, 2020",
+        "num_citations": 13,
+        "author_pub_id": "z7tPc9IAAAAJ:NhqRSupF_l8C"
     },
     {
         "title": "An accelerated approach to safely and efficiently test pre-production autonomous vehicles on public streets",
         "pub_year": "2018",
-        "citation": "2018 21st International Conference on Intelligent Transportation Systems …, 2018"
+        "citation": "2018 21st International Conference on Intelligent Transportation Systems …, 2018",
+        "num_citations": 21,
+        "author_pub_id": "z7tPc9IAAAAJ:738O_yMBCRsC"
     },
     {
         "title": "An accelerated testing approach for automated vehicles with background traffic described by joint distributions",
         "pub_year": "2017",
-        "citation": "2017 IEEE 20th International Conference on Intelligent Transportation …, 2017"
+        "citation": "2017 IEEE 20th International Conference on Intelligent Transportation …, 2017",
+        "num_citations": 23,
+        "author_pub_id": "z7tPc9IAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "An empirical exploration of cross-domain alignment between language and electroencephalogram",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2208.06348, 2022"
+        "citation": "arXiv preprint arXiv:2208.06348, 2022",
+        "num_citations": 10,
+        "author_pub_id": "z7tPc9IAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "An optimal lidar configuration approach for self-driving cars",
         "pub_year": "2018",
-        "citation": "arXiv preprint arXiv:1805.07843, 2018"
+        "citation": "arXiv preprint arXiv:1805.07843, 2018",
+        "num_citations": 24,
+        "author_pub_id": "z7tPc9IAAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "An\" Xcity\" Optimization Approach to Designing Proving Grounds for Connected and Autonomous Vehicles",
         "pub_year": "2018",
-        "citation": "arXiv preprint arXiv:1808.03089, 2018"
+        "citation": "arXiv preprint arXiv:1808.03089, 2018",
+        "num_citations": 4,
+        "author_pub_id": "z7tPc9IAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Analysis of mandatory and discretionary lane change behaviors for heavy trucks",
         "pub_year": "2017",
-        "citation": "arXiv preprint arXiv:1707.09411, 2017"
+        "citation": "arXiv preprint arXiv:1707.09411, 2017",
+        "num_citations": 28,
+        "author_pub_id": "z7tPc9IAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Analysis of unprotected intersection left-turn conflicts based on naturalistic driving data",
         "pub_year": "2017",
-        "citation": "2017 IEEE Intelligent Vehicles Symposium (IV), 218-223, 2017"
+        "citation": "2017 IEEE Intelligent Vehicles Symposium (IV), 218-223, 2017",
+        "num_citations": 16,
+        "author_pub_id": "z7tPc9IAAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "Are Multimodal Models Robust to Image and Text Perturbations?",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2212.08044, 2022"
+        "citation": "arXiv preprint arXiv:2212.08044, 2022",
+        "num_citations": 21,
+        "author_pub_id": "z7tPc9IAAAAJ:blknAaTinKkC"
     },
     {
         "title": "Assessing Modeling Variability in Autonomous Vehicle Accelerated Evaluation.",
         "pub_year": "2019",
-        "citation": "arXiv preprint arXiv:1904.09306, 2019"
+        "citation": "arXiv preprint arXiv:1904.09306, 2019",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Automated Cardiovascular Record Retrieval by Multimodal Learning between Electrocardiogram and Clinical Report",
         "pub_year": "2023",
-        "citation": "Machine Learning for Health (ML4H), 480-497, 2023"
+        "citation": "Machine Learning for Health (ML4H), 480-497, 2023",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:_Ybze24A_UAC"
     },
     {
         "title": "Bayesian reparameterization of reward-conditioned reinforcement learning with energy-based models",
         "pub_year": "2023",
-        "citation": "International Conference on Machine Learning, 8053-8066, 2023"
+        "citation": "International Conference on Machine Learning, 8053-8066, 2023",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:PR6Y55bgFSsC"
     },
     {
         "title": "Benchmarking Robustness of Multimodal Image-Text Models under Distribution Shift",
         "pub_year": "2023",
-        "citation": "Journal of Data-centric Machine Learning Research, 2023"
+        "citation": "Journal of Data-centric Machine Learning Research, 2023",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:UHK10RUVsp4C"
     },
     {
         "title": "Benchmarking robustness under distribution shift of multimodal image-text models",
         "pub_year": "2022",
-        "citation": "NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and …, 2022"
+        "citation": "NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and …, 2022",
+        "num_citations": 2,
+        "author_pub_id": "z7tPc9IAAAAJ:HoB7MX3m0LUC"
     },
     {
         "title": "Can brain signals reveal inner alignment with human languages?",
         "pub_year": "2023",
-        "citation": "Findings of the Association for Computational Linguistics: EMNLP 2023, 1789-1804, 2023"
+        "citation": "Findings of the Association for Computational Linguistics: EMNLP 2023, 1789-1804, 2023",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:35r97b3x0nAC"
     },
     {
         "title": "Cardiac Disease Diagnosis on Imbalanced Electrocardiography Data Through Optimal Transport Augmentation",
         "pub_year": "2023",
-        "citation": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023"
+        "citation": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
+        "num_citations": 4,
+        "author_pub_id": "z7tPc9IAAAAJ:W5xh706n7nkC"
     },
     {
         "title": "Causalaf: Causal autoregressive flow for goal-directed safety-critical scenes generation",
         "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2110.13939, 2021"
+        "citation": "arXiv preprint arXiv:2110.13939, 2021",
+        "num_citations": 25,
+        "author_pub_id": "z7tPc9IAAAAJ:BrmTIyaxlBUC"
     },
     {
         "title": "Certifiable deep importance sampling for rare-event simulation of black-box systems",
         "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2111.02204, 2021"
+        "citation": "arXiv preprint arXiv:2111.02204, 2021",
+        "num_citations": 7,
+        "author_pub_id": "z7tPc9IAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Certifiable evaluation for autonomous vehicle perception systems using deep importance sampling (deep is)",
         "pub_year": "2022",
-        "citation": "2022 IEEE 25th International Conference on Intelligent Transportation …, 2022"
+        "citation": "2022 IEEE 25th International Conference on Intelligent Transportation …, 2022",
+        "num_citations": 4,
+        "author_pub_id": "z7tPc9IAAAAJ:J-pR_7NvFogC"
     },
     {
         "title": "Cluster naturalistic driving encounters using deep unsupervised learning",
         "pub_year": "2018",
-        "citation": "2018 IEEE Intelligent Vehicles Symposium (IV), 1354-1359, 2018"
+        "citation": "2018 IEEE Intelligent Vehicles Symposium (IV), 1354-1359, 2018",
+        "num_citations": 30,
+        "author_pub_id": "z7tPc9IAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "Clustering of driving encounter scenarios using connected vehicle trajectories",
         "pub_year": "2020",
-        "citation": "IEEE Transactions on intelligent vehicles 5 (3), 485-496, 2020"
+        "citation": "IEEE Transactions on intelligent vehicles 5 (3), 485-496, 2020",
+        "num_citations": 55,
+        "author_pub_id": "z7tPc9IAAAAJ:geHnlv5EZngC"
     },
     {
         "title": "Cmts: A conditional multiple trajectory synthesizer for generating safety-critical driving scenarios",
         "pub_year": "2020",
-        "citation": "2020 IEEE International Conference on Robotics and Automation (ICRA), 4314-4321, 2020"
+        "citation": "2020 IEEE International Conference on Robotics and Automation (ICRA), 4314-4321, 2020",
+        "num_citations": 50,
+        "author_pub_id": "z7tPc9IAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Coalitional fairness of autonomous vehicles at a t-intersection",
         "pub_year": "2022",
-        "citation": "2022 IEEE 25th International Conference on Intelligent Transportation …, 2022"
+        "citation": "2022 IEEE 25th International Conference on Intelligent Transportation …, 2022",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:nb7KW1ujOQ8C"
     },
     {
         "title": "Combining reachability analysis and importance sampling for accelerated evaluation of highway automated vehicles at pedestrian crossing",
         "pub_year": "2021",
-        "citation": "ASME Letters in Dynamic Systems and Control 1 (1), 011017, 2021"
+        "citation": "ASME Letters in Dynamic Systems and Control 1 (1), 011017, 2021",
+        "num_citations": 29,
+        "author_pub_id": "z7tPc9IAAAAJ:1sJd4Hv_s6UC"
     },
     {
         "title": "Constrained Model-based Reinforcement Learning via Robust Planning",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:u9iWguZQMMsC"
     },
     {
         "title": "Constrained decision transformer for offline safe reinforcement learning",
         "pub_year": "2023",
-        "citation": "International Conference on Machine Learning, 21611-21630, 2023"
+        "citation": "International Conference on Machine Learning, 21611-21630, 2023",
+        "num_citations": 27,
+        "author_pub_id": "z7tPc9IAAAAJ:eMMeJKvmdy0C"
     },
     {
         "title": "Constrained variational policy optimization for safe reinforcement learning",
         "pub_year": "2022",
-        "citation": "International Conference on Machine Learning, 13644-13668, 2022"
+        "citation": "International Conference on Machine Learning, 13644-13668, 2022",
+        "num_citations": 58,
+        "author_pub_id": "z7tPc9IAAAAJ:pyW8ca7W8N0C"
     },
     {
         "title": "Constraint-conditioned policy optimization for versatile safe reinforcement learning",
         "pub_year": "2024",
-        "citation": "Advances in Neural Information Processing Systems 36, 2024"
+        "citation": "Advances in Neural Information Processing Systems 36, 2024",
+        "num_citations": 3,
+        "author_pub_id": "z7tPc9IAAAAJ:kzcrU_BdoSEC"
     },
     {
         "title": "Context-aware safe reinforcement learning for non-stationary environments",
         "pub_year": "2021",
-        "citation": "2021 IEEE International Conference on Robotics and Automation (ICRA), 10689 …, 2021"
+        "citation": "2021 IEEE International Conference on Robotics and Automation (ICRA), 10689 …, 2021",
+        "num_citations": 34,
+        "author_pub_id": "z7tPc9IAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Continual Reinforcement Learning with Group Symmetries",
         "pub_year": "2023",
-        "citation": "RSS 2023 Workshop on Symmetries in Robot Learning, 2023"
+        "citation": "RSS 2023 Workshop on Symmetries in Robot Learning, 2023",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "Converting ECG Signals to Images for Efficient Image-text Retrieval via Encoding",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2304.06286, 2023"
+        "citation": "arXiv preprint arXiv:2304.06286, 2023",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:bnK-pcrLprsC"
     },
     {
         "title": "Copa: Certifying robust policies for offline reinforcement learning against poisoning attacks",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2203.08398, 2022"
+        "citation": "arXiv preprint arXiv:2203.08398, 2022",
+        "num_citations": 29,
+        "author_pub_id": "z7tPc9IAAAAJ:u_35RYKgDlwC"
     },
     {
         "title": "Crash avoidance systems-safety evaluation of an important class of electronic control systems",
         "pub_year": "2019",
-        "citation": "University of Michigan, Ann Arbor, Transportation Research Institute, 2019"
+        "citation": "University of Michigan, Ann Arbor, Transportation Research Institute, 2019",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Creative robot tool use with large language models",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2310.13065, 2023"
+        "citation": "arXiv preprint arXiv:2310.13065, 2023",
+        "num_citations": 15,
+        "author_pub_id": "z7tPc9IAAAAJ:dQ2og3OwTAUC"
     },
     {
         "title": "Crop: Certifying robust policies for reinforcement learning through functional smoothing",
         "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2106.09292, 2021"
+        "citation": "arXiv preprint arXiv:2106.09292, 2021",
+        "num_citations": 50,
+        "author_pub_id": "z7tPc9IAAAAJ:P5F9QuxV20EC"
     },
     {
         "title": "Curriculum reinforcement learning using optimal transport via gradual domain adaptation",
         "pub_year": "2022",
-        "citation": "Advances in Neural Information Processing Systems 35, 10656-10670, 2022"
+        "citation": "Advances in Neural Information Processing Systems 35, 10656-10670, 2022",
+        "num_citations": 21,
+        "author_pub_id": "z7tPc9IAAAAJ:bFI3QPDXJZMC"
     },
     {
         "title": "Data augmentation via wasserstein geodesic perturbation for robust electrocardiogram prediction",
-        "citation": ""
+        "citation": "",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:Y5dfb0dijaUC"
     },
     {
         "title": "Datasets and benchmarks for offline safe reinforcement learning",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2306.09303, 2023"
+        "citation": "arXiv preprint arXiv:2306.09303, 2023",
+        "num_citations": 16,
+        "author_pub_id": "z7tPc9IAAAAJ:ye4kPcJQO24C"
     },
     {
         "title": "Deep probabilistic accelerated evaluation: A certifiable rare-event simulation methodology for black-box autonomy",
         "pub_year": "2020",
-        "citation": "arXiv preprint arXiv:2006.15722, 2020"
+        "citation": "arXiv preprint arXiv:2006.15722, 2020",
+        "num_citations": 7,
+        "author_pub_id": "z7tPc9IAAAAJ:ZuybSZzF8UAC"
     },
     {
         "title": "Deep probabilistic accelerated evaluation: A robust certifiable rare-event simulation methodology for black-box safety-critical systems",
         "pub_year": "2021",
-        "citation": "International Conference on Artificial Intelligence and Statistics, 595-603, 2021"
+        "citation": "International Conference on Artificial Intelligence and Statistics, 595-603, 2021",
+        "num_citations": 29,
+        "author_pub_id": "z7tPc9IAAAAJ:vV6vV6tmYwMC"
     },
     {
         "title": "Delay-aware model-based reinforcement learning for continuous control",
         "pub_year": "2021",
-        "citation": "Neurocomputing 450, 119-128, 2021"
+        "citation": "Neurocomputing 450, 119-128, 2021",
+        "num_citations": 60,
+        "author_pub_id": "z7tPc9IAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Delay-aware multi-agent reinforcement learning for cooperative and competitive environments",
         "pub_year": "2020",
-        "citation": "arXiv preprint arXiv:2005.05441, 2020"
+        "citation": "arXiv preprint arXiv:2005.05441, 2020",
+        "num_citations": 25,
+        "author_pub_id": "z7tPc9IAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Density-Adaptive Sampling for Heterogeneous Point Cloud Object Segmentation in Autonomous Vehicle Applications.",
         "pub_year": "2019",
-        "citation": "CVPR Workshops, 26-33, 2019"
+        "citation": "CVPR Workshops, 26-33, 2019",
+        "num_citations": 5,
+        "author_pub_id": "z7tPc9IAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Designing importance samplers to simulate machine learning predictors via optimization",
         "pub_year": "2018",
-        "citation": "2018 Winter Simulation Conference (WSC), 1730-1741, 2018"
+        "citation": "2018 Winter Simulation Conference (WSC), 1730-1741, 2018",
+        "num_citations": 10,
+        "author_pub_id": "z7tPc9IAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "Development and evaluation of two learning-based personalized driver models for car-following behaviors",
         "pub_year": "2017",
-        "citation": "2017 American Control Conference (ACC), 1133-1138, 2017"
+        "citation": "2017 American Control Conference (ACC), 1133-1138, 2017",
+        "num_citations": 30,
+        "author_pub_id": "z7tPc9IAAAAJ:cFHS6HbyZ2cC"
     },
     {
         "title": "Diffscene: Diffusion-based safety-critical scenario generation for autonomous vehicles",
         "pub_year": "2023",
-        "citation": "The Second Workshop on New Frontiers in Adversarial Machine Learning, 2023"
+        "citation": "The Second Workshop on New Frontiers in Adversarial Machine Learning, 2023",
+        "num_citations": 6,
+        "author_pub_id": "z7tPc9IAAAAJ:NJ774b8OgUMC"
     },
     {
         "title": "Digitization of Chinese traffic laws: Methodologies, quantative analysis, and usage for monitoring driving compliance",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2212.04156, 2022"
+        "citation": "arXiv preprint arXiv:2212.04156, 2022",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:eq2jaN3J8jMC"
     },
     {
         "title": "Driving style analysis using primitive driving patterns with Bayesian nonparametric approaches",
         "pub_year": "2018",
-        "citation": "IEEE Transactions on Intelligent Transportation Systems 20 (8), 2986-2998, 2018"
+        "citation": "IEEE Transactions on Intelligent Transportation Systems 20 (8), 2986-2998, 2018",
+        "num_citations": 155,
+        "author_pub_id": "z7tPc9IAAAAJ:D03iK_w7-QYC"
     },
     {
         "title": "Eco-trajectory planning with consideration of queue along congested corridor for hybrid electric vehicles",
         "pub_year": "2019",
-        "citation": "Transportation research record 2673 (9), 277-286, 2019"
+        "citation": "Transportation research record 2673 (9), 277-286, 2019",
+        "num_citations": 47,
+        "author_pub_id": "z7tPc9IAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Effect of GaAs Substrate Temperature on Indium Droplets Grown by Droplet Epitaxy.",
         "pub_year": "2021",
-        "citation": "Journal of Synthetic Crystals 50 (8), 2021"
+        "citation": "Journal of Synthetic Crystals 50 (8), 2021",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:t6usbXjVLHcC"
     },
     {
         "title": "Effect of substrate temperature and annealing on InAs quantum dots grown by droplet epitaxy.",
         "pub_year": "2018",
-        "citation": "Journal of Functional Materials/Gongneng Cailiao 49 (3), 2018"
+        "citation": "Journal of Functional Materials/Gongneng Cailiao 49 (3), 2018",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:HE397vMXCloC"
     },
     {
         "title": "Embodied Executable Policy Learning with Language-based Scene Summarization",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2306.05696, 2023"
+        "citation": "arXiv preprint arXiv:2306.05696, 2023",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:AXPGKjj_ei8C"
     },
     {
         "title": "Empirical study of DSRC performance based on safety pilot model deployment data",
         "pub_year": "2017",
-        "citation": "IEEE Transactions on Intelligent Transportation Systems 18 (10), 2619-2628, 2017"
+        "citation": "IEEE Transactions on Intelligent Transportation Systems 18 (10), 2619-2628, 2017",
+        "num_citations": 74,
+        "author_pub_id": "z7tPc9IAAAAJ:dshw04ExmUIC"
     },
     {
         "title": "Energy efficiency and emission testing for connected and automated vehicles using real-world driving data",
         "pub_year": "2018",
-        "citation": "2018 21st International Conference on Intelligent Transportation Systems …, 2018"
+        "citation": "2018 21st International Conference on Intelligent Transportation Systems …, 2018",
+        "num_citations": 15,
+        "author_pub_id": "z7tPc9IAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Enhancement of low-cost GNSS localization in connected vehicle networks using Rao-Blackwellized particle filters",
         "pub_year": "2016",
-        "citation": "2016 IEEE 19th International Conference on Intelligent Transportation …, 2016"
+        "citation": "2016 IEEE 19th International Conference on Intelligent Transportation …, 2016",
+        "num_citations": 10,
+        "author_pub_id": "z7tPc9IAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Evaluation of Lane Departure Correction Systems Using a Stochastic Driver Model",
         "pub_year": "2017",
-        "citation": "arXiv preprint arXiv:1702.05779, 2017"
+        "citation": "arXiv preprint arXiv:1702.05779, 2017",
+        "num_citations": 2,
+        "author_pub_id": "z7tPc9IAAAAJ:vRqMK49ujn8C"
     },
     {
         "title": "Evaluation of Lane Departure Correction Systems Using a Stochastic Driver Model",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "Evaluation of a semi-autonomous lane departure correction system using naturalistic driving data",
         "pub_year": "2017",
-        "citation": "2017 IEEE Intelligent Vehicles Symposium (IV), 926-932, 2017"
+        "citation": "2017 IEEE Intelligent Vehicles Symposium (IV), 926-932, 2017",
+        "num_citations": 5,
+        "author_pub_id": "z7tPc9IAAAAJ:sSrBHYA8nusC"
     },
     {
         "title": "Evaluation of automated vehicles encountering pedestrians at unsignalized crossings",
         "pub_year": "2017",
-        "citation": "2017 IEEE Intelligent Vehicles Symposium (IV), 1679-1685, 2017"
+        "citation": "2017 IEEE Intelligent Vehicles Symposium (IV), 1679-1685, 2017",
+        "num_citations": 45,
+        "author_pub_id": "z7tPc9IAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Evaluation of automated vehicles in the frontal cut-in scenario—An enhanced approach using piecewise mixture models",
         "pub_year": "2017",
-        "citation": "2017 IEEE International Conference on Robotics and Automation (ICRA), 197-202, 2017"
+        "citation": "2017 IEEE International Conference on Robotics and Automation (ICRA), 197-202, 2017",
+        "num_citations": 37,
+        "author_pub_id": "z7tPc9IAAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "Evaluation of lane departure correction systems using a regenerative stochastic driver model",
         "pub_year": "2017",
-        "citation": "IEEE Transactions on Intelligent Vehicles 2 (3), 221-232, 2017"
+        "citation": "IEEE Transactions on Intelligent Vehicles 2 (3), 221-232, 2017",
+        "num_citations": 40,
+        "author_pub_id": "z7tPc9IAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "Evaluation of the energy efficiency in a mixed traffic with automated vehicles and human controlled vehicles",
         "pub_year": "2018",
-        "citation": "2018 21st International Conference on Intelligent Transportation Systems …, 2018"
+        "citation": "2018 21st International Conference on Intelligent Transportation Systems …, 2018",
+        "num_citations": 12,
+        "author_pub_id": "z7tPc9IAAAAJ:f2IySw72cVMC"
     },
     {
         "title": "Evaluation uncertainty in data-driven self-driving testing",
         "pub_year": "2019",
-        "citation": "2019 IEEE Intelligent Transportation Systems Conference (ITSC), 1902-1907, 2019"
+        "citation": "2019 IEEE Intelligent Transportation Systems Conference (ITSC), 1902-1907, 2019",
+        "num_citations": 21,
+        "author_pub_id": "z7tPc9IAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Extracting traffic primitives directly from naturalistically logged data for self-driving applications",
         "pub_year": "2018",
-        "citation": "IEEE Robotics and Automation Letters 3 (2), 1223-1229, 2018"
+        "citation": "IEEE Robotics and Automation Letters 3 (2), 1223-1229, 2018",
+        "num_citations": 80,
+        "author_pub_id": "z7tPc9IAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Extraction of V2V Encountering Scenarios from Naturalistic Driving Database",
         "pub_year": "2018",
-        "citation": "arXiv preprint arXiv:1802.09917, 2018"
+        "citation": "arXiv preprint arXiv:1802.09917, 2018",
+        "num_citations": 2,
+        "author_pub_id": "z7tPc9IAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "From the lab to the street: Solving the challenge of accelerating automated vehicle testing",
         "pub_year": "2017",
-        "citation": "arXiv preprint arXiv:1707.04792, 2017"
+        "citation": "arXiv preprint arXiv:1707.04792, 2017",
+        "num_citations": 52,
+        "author_pub_id": "z7tPc9IAAAAJ:fQNAKQ3IYiAC"
     },
     {
         "title": "Functional optimal transport: Mapping estimation and domain adaptation for functional data",
         "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2102.03895, 2021"
+        "citation": "arXiv preprint arXiv:2102.03895, 2021",
+        "num_citations": 5,
+        "author_pub_id": "z7tPc9IAAAAJ:q3oQSFYPqjQC"
     },
     {
         "title": "Functional optimal transport: map estimation and domain adaptation for functional data",
         "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2102.03895, 2021"
+        "citation": "arXiv preprint arXiv:2102.03895, 2021",
+        "num_citations": 2,
+        "author_pub_id": "z7tPc9IAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Gap acceptance during lane changes by large-truck drivers—An image-based analysis",
         "pub_year": "2015",
-        "citation": "IEEE transactions on intelligent transportation systems 17 (3), 772-781, 2015"
+        "citation": "IEEE transactions on intelligent transportation systems 17 (3), 772-781, 2015",
+        "num_citations": 25,
+        "author_pub_id": "z7tPc9IAAAAJ:xtRiw3GOFMkC"
+    },
+    {
+        "title": "Generalize by Touching: Tactile Ensemble Skill Transfer for Robotic Furniture Assembly",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.17684, 2024",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:uJ-U7cs_P_0C"
     },
     {
         "title": "Generalizing goal-conditioned reinforcement learning with variational causal reasoning",
         "pub_year": "2022",
-        "citation": "Advances in Neural Information Processing Systems 35, 26532-26548, 2022"
+        "citation": "Advances in Neural Information Processing Systems 35, 26532-26548, 2022",
+        "num_citations": 28,
+        "author_pub_id": "z7tPc9IAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Geoecg: Data augmentation via wasserstein geodesic perturbation for robust electrocardiogram prediction",
         "pub_year": "2022",
-        "citation": "Machine Learning for Healthcare Conference, 172-197, 2022"
+        "citation": "Machine Learning for Healthcare Conference, 172-197, 2022",
+        "num_citations": 11,
+        "author_pub_id": "z7tPc9IAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Goats: Goal sampling adaptation for scooping with curriculum reinforcement learning",
         "pub_year": "2023",
-        "citation": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2023"
+        "citation": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2023",
+        "num_citations": 5,
+        "author_pub_id": "z7tPc9IAAAAJ:_B80troHkn4C"
     },
     {
         "title": "Gradient Shaping for Multi-Constraint Safe Reinforcement Learning",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2312.15127, 2023"
+        "citation": "arXiv preprint arXiv:2312.15127, 2023",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:Fu2w8maKXqMC"
     },
     {
         "title": "Group distributionally robust reinforcement learning with hierarchical latent variables",
         "pub_year": "2023",
-        "citation": "International Conference on Artificial Intelligence and Statistics, 2677-2703, 2023"
+        "citation": "International Conference on Artificial Intelligence and Statistics, 2677-2703, 2023",
+        "num_citations": 10,
+        "author_pub_id": "z7tPc9IAAAAJ:PELIpwtuRlgC"
     },
     {
         "title": "Guardians as You Fall: Active Mode Transition for Safe Falling",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2310.04828, 2023"
+        "citation": "arXiv preprint arXiv:2310.04828, 2023",
+        "num_citations": 2,
+        "author_pub_id": "z7tPc9IAAAAJ:VL0QpB8kHFEC"
     },
     {
         "title": "Highway exiting planner for automated vehicles using reinforcement learning",
         "pub_year": "2020",
-        "citation": "IEEE Transactions on Intelligent Transportation Systems 22 (2), 990-1000, 2020"
+        "citation": "IEEE Transactions on Intelligent Transportation Systems 22 (2), 990-1000, 2020",
+        "num_citations": 53,
+        "author_pub_id": "z7tPc9IAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "How much data are enough? A statistical approach with case study on longitudinal driving behavior",
         "pub_year": "2017",
-        "citation": "IEEE Transactions on Intelligent Vehicles 2 (2), 85-98, 2017"
+        "citation": "IEEE Transactions on Intelligent Vehicles 2 (2), 85-98, 2017",
+        "num_citations": 103,
+        "author_pub_id": "z7tPc9IAAAAJ:5Ul4iDaHHb8C"
     },
     {
         "title": "How to evaluate proving grounds for self-driving? A quantitative approach",
         "pub_year": "2020",
-        "citation": "IEEE Transactions on Intelligent Transportation Systems 22 (9), 5737-5748, 2020"
+        "citation": "IEEE Transactions on Intelligent Transportation Systems 22 (9), 5737-5748, 2020",
+        "num_citations": 18,
+        "author_pub_id": "z7tPc9IAAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "Hyper-decision transformer for efficient online policy adaptation",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2304.08487, 2023"
+        "citation": "arXiv preprint arXiv:2304.08487, 2023",
+        "num_citations": 19,
+        "author_pub_id": "z7tPc9IAAAAJ:wbdj-CoPYUoC"
     },
     {
         "title": "Improving Perception via Sensor Placement: Designing Multi-LiDAR Systems for Autonomous Vehicles",
         "pub_year": "2021",
-        "citation": "arXiv e-prints, arXiv: 2105.00373, 2021"
+        "citation": "arXiv e-prints, arXiv: 2105.00373, 2021",
+        "num_citations": 2,
+        "author_pub_id": "z7tPc9IAAAAJ:b0M2c_1WBrUC"
     },
     {
         "title": "Improving localization accuracy in connected vehicle networks using Rao–Blackwellized particle filters: Theory, simulations, and experiments",
         "pub_year": "2018",
-        "citation": "IEEE Transactions on Intelligent Transportation Systems 20 (6), 2255-2266, 2018"
+        "citation": "IEEE Transactions on Intelligent Transportation Systems 20 (6), 2255-2266, 2018",
+        "num_citations": 42,
+        "author_pub_id": "z7tPc9IAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "Influence of Camera-LiDAR Configuration on 3D Object Detection for Autonomous Driving",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2310.05245, 2023"
+        "citation": "arXiv preprint arXiv:2310.05245, 2023",
+        "num_citations": 2,
+        "author_pub_id": "z7tPc9IAAAAJ:fEOibwPWpKIC"
     },
     {
         "title": "Intelligent and connected vehicles: Current status and future perspectives",
         "pub_year": "2018",
-        "citation": "Science China Technological Sciences 61, 1446-1471, 2018"
+        "citation": "Science China Technological Sciences 61, 1446-1471, 2018",
+        "num_citations": 174,
+        "author_pub_id": "z7tPc9IAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Interpenetrating Cooperative Localization in Dynamic Connected Vehicle Networks",
         "pub_year": "2018",
-        "citation": "arXiv preprint arXiv:1804.10064, 2018"
+        "citation": "arXiv preprint arXiv:1804.10064, 2018",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Interpolation for robust learning: Data augmentation on geodesics",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv 2302, 2023"
+        "citation": "arXiv preprint arXiv 2302, 2023",
+        "num_citations": 3,
+        "author_pub_id": "z7tPc9IAAAAJ:SP6oXDckpogC"
     },
     {
         "title": "Interpretation of Intracardiac Electrograms Through Textual Representations",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2402.01115, 2024"
+        "citation": "arXiv preprint arXiv:2402.01115, 2024",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:ZfRJV9d4-WMC"
     },
     {
         "title": "Interpretation of Intracardiac Electrograms Through Textual Representations",
         "pub_year": "2024",
-        "citation": "arXiv e-prints, arXiv: 2402.01115, 2024"
+        "citation": "arXiv e-prints, arXiv: 2402.01115, 2024",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:2KloaMYe4IUC"
     },
     {
         "title": "Investigating the impact of multi-lidar placement on object detection for autonomous driving",
         "pub_year": "2022",
-        "citation": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2022"
+        "citation": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2022",
+        "num_citations": 42,
+        "author_pub_id": "z7tPc9IAAAAJ:XiSMed-E-HIC"
     },
     {
         "title": "Labeling Roads with Different Types of Automated Driving Functional Requirements using Machine Learning",
         "pub_year": "2020",
-        "citation": "Mobility21, Carnegie Mellon University, 2020"
+        "citation": "Mobility21, Carnegie Mellon University, 2020",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:tKAzc9rXhukC"
     },
     {
         "title": "Learning and inferring a driver's braking action in car-following scenarios",
         "pub_year": "2018",
-        "citation": "IEEE Transactions on Vehicular Technology 67 (5), 3887-3899, 2018"
+        "citation": "IEEE Transactions on Vehicular Technology 67 (5), 3887-3899, 2018",
+        "num_citations": 107,
+        "author_pub_id": "z7tPc9IAAAAJ:4fKUyHm3Qg0C"
     },
     {
         "title": "Learning from Sparse Offline Datasets via Conservative Density Estimation",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2401.08819, 2024"
+        "citation": "arXiv preprint arXiv:2401.08819, 2024",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:7T2F9Uy0os0C"
     },
     {
         "title": "Learning shared safety constraints from multi-task demonstrations",
         "pub_year": "2024",
-        "citation": "Advances in Neural Information Processing Systems 36, 2024"
+        "citation": "Advances in Neural Information Processing Systems 36, 2024",
+        "num_citations": 4,
+        "author_pub_id": "z7tPc9IAAAAJ:tzM49s52ZIMC"
     },
     {
         "title": "Learning to collide: An adaptive safety-critical scenarios generating method",
         "pub_year": "2020",
-        "citation": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2020"
+        "citation": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2020",
+        "num_citations": 85,
+        "author_pub_id": "z7tPc9IAAAAJ:a0OBvERweLwC"
     },
     {
         "title": "Learning to explore (L2E): Deep reinforcement learning-based autonomous exploration for household robot",
         "pub_year": "2023",
-        "citation": ""
+        "citation": "",
+        "num_citations": 2,
+        "author_pub_id": "z7tPc9IAAAAJ:SdhP9T11ey4C"
     },
     {
         "title": "Learning to view: Decision transformers for active object detection",
         "pub_year": "2023",
-        "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 7140-7146, 2023"
+        "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 7140-7146, 2023",
+        "num_citations": 6,
+        "author_pub_id": "z7tPc9IAAAAJ:V3AGJWp-ZtQC"
     },
     {
         "title": "LiveSeg: Unsupervised Multimodal Temporal Segmentation of Long Livestream Videos Supplementary Materials",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:tOudhMTPpwUC"
     },
     {
         "title": "Liveseg: Unsupervised multimodal temporal segmentation of long livestream videos",
         "pub_year": "2023",
-        "citation": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2023"
+        "citation": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2023",
+        "num_citations": 3,
+        "author_pub_id": "z7tPc9IAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Mapper: Multi-agent path planning with evolutionary reinforcement learning in mixed dynamic environments",
         "pub_year": "2020",
-        "citation": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2020"
+        "citation": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2020",
+        "num_citations": 79,
+        "author_pub_id": "z7tPc9IAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+        "title": "Meta-evolve: Continuous robot evolution for one-to-many policy transfer",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2405.03534, 2024",
+        "num_citations": 2,
+        "author_pub_id": "z7tPc9IAAAAJ:VLnqNzywnoUC"
     },
     {
         "title": "Mhms: Multimodal hierarchical multimedia summarization",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2204.03734, 2022"
+        "citation": "arXiv preprint arXiv:2204.03734, 2022",
+        "num_citations": 14,
+        "author_pub_id": "z7tPc9IAAAAJ:RYcK_YlVTxYC"
     },
     {
         "title": "Modeling multi-vehicle interaction scenarios using gaussian random field",
         "pub_year": "2019",
-        "citation": "2019 IEEE Intelligent Transportation Systems Conference (ITSC), 3974-3980, 2019"
+        "citation": "2019 IEEE Intelligent Transportation Systems Conference (ITSC), 3974-3980, 2019",
+        "num_citations": 33,
+        "author_pub_id": "z7tPc9IAAAAJ:K3LRdlH-MEoC"
     },
     {
         "title": "Multi-vehicle interaction scenarios generation with interpretable traffic primitives and gaussian process regression",
         "pub_year": "2020",
-        "citation": "2020 IEEE Intelligent Vehicles Symposium (IV), 1197-1204, 2020"
+        "citation": "2020 IEEE Intelligent Vehicles Symposium (IV), 1197-1204, 2020",
+        "num_citations": 16,
+        "author_pub_id": "z7tPc9IAAAAJ:Tiz5es2fbqcC"
     },
     {
         "title": "Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2304.07675, 2023"
+        "citation": "arXiv preprint arXiv:2304.07675, 2023",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:XiVPGOgt02cC"
     },
     {
         "title": "Multimodal safety-critical scenarios generation for decision-making algorithms evaluation",
         "pub_year": "2021",
-        "citation": "IEEE Robotics and Automation Letters 6 (2), 1551-1558, 2021"
+        "citation": "IEEE Robotics and Automation Letters 6 (2), 1551-1558, 2021",
+        "num_citations": 84,
+        "author_pub_id": "z7tPc9IAAAAJ:UxriW0iASnsC"
     },
     {
         "title": "Multisum: A dataset for multimodal summarization and thumbnail generation of videos",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2306.04216, 2023"
+        "citation": "arXiv preprint arXiv:2306.04216, 2023",
+        "num_citations": 3,
+        "author_pub_id": "z7tPc9IAAAAJ:Mojj43d5GZwC"
     },
     {
         "title": "On the robustness of safe reinforcement learning under observational perturbations",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2205.14691, 2022"
+        "citation": "arXiv preprint arXiv:2205.14691, 2022",
+        "num_citations": 19,
+        "author_pub_id": "z7tPc9IAAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Online legal driving behavior monitoring for self-driving vehicles",
         "pub_year": "2024",
-        "citation": "Nature communications 15 (1), 408, 2024"
+        "citation": "Nature communications 15 (1), 408, 2024",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:_Re3VWB3Y0AC"
     },
     {
         "title": "Optimal design of three-planetary-gear power-split hybrid powertrains",
         "pub_year": "2016",
-        "citation": "International Journal of Automotive Technology 17, 299-309, 2016"
+        "citation": "International Journal of Automotive Technology 17, 299-309, 2016",
+        "num_citations": 51,
+        "author_pub_id": "z7tPc9IAAAAJ:LPZeul_q3PIC"
     },
     {
         "title": "Optimal transport based data augmentation for heart disease diagnosis and prediction",
         "pub_year": "2022",
-        "citation": "ArXiv, abs/2202.00567, 2022"
+        "citation": "ArXiv, abs/2202.00567, 2022",
+        "num_citations": 13,
+        "author_pub_id": "z7tPc9IAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Optimization of vehicle connections in V2V-based cooperative localization",
         "pub_year": "2017",
-        "citation": "2017 IEEE 20th International Conference on Intelligent Transportation …, 2017"
+        "citation": "2017 IEEE 20th International Conference on Intelligent Transportation …, 2017",
+        "num_citations": 7,
+        "author_pub_id": "z7tPc9IAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Overconservativeness of Variance-Based Efficiency Criteria and Probabilistic Efficiency in Rare-Event Simulation",
         "pub_year": "2023",
-        "citation": "Management Science, 2023"
+        "citation": "Management Science, 2023",
+        "num_citations": 5,
+        "author_pub_id": "z7tPc9IAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Physiomtl: Personalizing physiological patterns using optimal transport multi-task regression",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2203.12595, 2022"
+        "citation": "arXiv preprint arXiv:2203.12595, 2022",
+        "num_citations": 4,
+        "author_pub_id": "z7tPc9IAAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "Privacy of Autonomous Vehicles: Risks, Protection Methods, and Future Directions",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2209.04022, 2022"
+        "citation": "arXiv preprint arXiv:2209.04022, 2022",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Probabilistic trajectory prediction for autonomous vehicles with attentive recurrent neural process",
         "pub_year": "2019",
-        "citation": "arXiv preprint arXiv:1910.08102, 2019"
+        "citation": "arXiv preprint arXiv:1910.08102, 2019",
+        "num_citations": 15,
+        "author_pub_id": "z7tPc9IAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Prompting decision transformer for few-shot policy generalization",
         "pub_year": "2022",
-        "citation": "international conference on machine learning, 24631-24645, 2022"
+        "citation": "international conference on machine learning, 24631-24645, 2022",
+        "num_citations": 85,
+        "author_pub_id": "z7tPc9IAAAAJ:D_sINldO8mEC"
     },
     {
         "title": "Rare-event simulation for neural network and random forest predictors",
         "pub_year": "2022",
-        "citation": "ACM Transactions on Modeling and Computer Simulation (TOMACS) 32 (3), 1-33, 2022"
+        "citation": "ACM Transactions on Modeling and Computer Simulation (TOMACS) 32 (3), 1-33, 2022",
+        "num_citations": 22,
+        "author_pub_id": "z7tPc9IAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Rare-event simulation without structural information: a learning-based approach",
         "pub_year": "2018",
-        "citation": "2018 Winter Simulation Conference (WSC), 1826-1837, 2018"
+        "citation": "2018 Winter Simulation Conference (WSC), 1826-1837, 2018",
+        "num_citations": 8,
+        "author_pub_id": "z7tPc9IAAAAJ:SeFeTyx0c_EC"
+    },
+    {
+        "title": "RealGen: Retrieval Augmented Generation for Controllable Traffic Scenarios",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2312.13303, 2023",
+        "num_citations": 2,
+        "author_pub_id": "z7tPc9IAAAAJ:z_wVstp3MssC"
     },
     {
         "title": "Recurrent attentive neural process for sequential data",
         "pub_year": "2019",
-        "citation": "arXiv preprint arXiv:1910.09323, 2019"
+        "citation": "arXiv preprint arXiv:1910.09323, 2019",
+        "num_citations": 36,
+        "author_pub_id": "z7tPc9IAAAAJ:ZHo1McVdvXMC"
     },
     {
         "title": "Reducing Contextual Bias in Cardiac Magnetic Resonance Imaging Deep Learning Using Contrastive Self-Supervision",
         "pub_year": "2023",
-        "citation": "Machine Learning for Healthcare Conference, 473-488, 2023"
+        "citation": "Machine Learning for Healthcare Conference, 473-488, 2023",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:5awf1xo2G04C"
     },
     {
         "title": "Research on the platform design and control system for the wheel-side steering-driving coordination vehicle",
         "pub_year": "2010",
-        "citation": "2010 IEEE International Conference on Mechatronics and Automation, 1276-1281, 2010"
+        "citation": "2010 IEEE International Conference on Mechatronics and Automation, 1276-1281, 2010",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "Ripening Behavior of Al Droplet on GaAs Surface.",
         "pub_year": "2020",
-        "citation": "Journal of Synthetic Crystals 49 (10), 2020"
+        "citation": "Journal of Synthetic Crystals 49 (10), 2020",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:WA5NYHcadZ8C"
     },
     {
         "title": "Road traffic law adaptive decision-making for self-driving vehicles",
         "pub_year": "2022",
-        "citation": "2022 IEEE 25th International Conference on Intelligent Transportation …, 2022"
+        "citation": "2022 IEEE 25th International Conference on Intelligent Transportation …, 2022",
+        "num_citations": 16,
+        "author_pub_id": "z7tPc9IAAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Robust reinforcement learning as a stackelberg game via adaptively-regularized adversarial training",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2202.09514, 2022"
+        "citation": "arXiv preprint arXiv:2202.09514, 2022",
+        "num_citations": 28,
+        "author_pub_id": "z7tPc9IAAAAJ:CHSYGLWDkRkC"
     },
     {
         "title": "Robust unsupervised learning of temporal dynamic vehicle-to-vehicle interactions",
         "pub_year": "2022",
-        "citation": "Transportation research part C: emerging technologies 142, 103768, 2022"
+        "citation": "Transportation research part C: emerging technologies 142, 103768, 2022",
+        "num_citations": 5,
+        "author_pub_id": "z7tPc9IAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Robustness certification of visual perception models via camera motion smoothing",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2210.04625, 2022"
+        "citation": "arXiv preprint arXiv:2210.04625, 2022",
+        "num_citations": 6,
+        "author_pub_id": "z7tPc9IAAAAJ:kRWSkSYxWN8C"
     },
     {
         "title": "Robustness verification for perception models against camera motion perturbations",
         "pub_year": "2023",
-        "citation": "ICML Workshop on Formal Verification of Machine Learning (WFVML), 2023"
+        "citation": "ICML Workshop on Formal Verification of Machine Learning (WFVML), 2023",
+        "num_citations": 2,
+        "author_pub_id": "z7tPc9IAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "SCCS: Semantics-Consistent Cross-domain Summarization via Optimal Transport Alignment",
         "pub_year": "2023",
-        "citation": "Findings of the Association for Computational Linguistics: ACL 2023, 1584-1601, 2023"
+        "citation": "Findings of the Association for Computational Linguistics: ACL 2023, 1584-1601, 2023",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:evX43VCCuoAC"
     },
     {
         "title": "Safe model-based reinforcement learning with robust cross-entropy method",
         "pub_year": "2020",
-        "citation": "arXiv preprint arXiv:2010.07968, 2020"
+        "citation": "arXiv preprint arXiv:2010.07968, 2020",
+        "num_citations": 34,
+        "author_pub_id": "z7tPc9IAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "Safebench: A benchmarking platform for safety evaluation of autonomous vehicles",
         "pub_year": "2022",
-        "citation": "Advances in Neural Information Processing Systems 35, 25667-25682, 2022"
+        "citation": "Advances in Neural Information Processing Systems 35, 25667-25682, 2022",
+        "num_citations": 30,
+        "author_pub_id": "z7tPc9IAAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "Safety-Aware Causal Representation for Trustworthy Offline Reinforcement Learning in Autonomous Driving",
         "pub_year": "2024",
-        "citation": "IEEE Robotics and Automation Letters, 2024"
+        "citation": "IEEE Robotics and Automation Letters, 2024",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:j8SEvjWlNXcC"
     },
     {
         "title": "Safety-aware causal representation for trustworthy reinforcement learning in autonomous driving",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2311.10747, 2023"
+        "citation": "arXiv preprint arXiv:2311.10747, 2023",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:JQOojiI6XY0C"
     },
     {
         "title": "Sane: smart annotation and evaluation tools for point cloud data",
         "pub_year": "2020",
-        "citation": "IEEE Access 8, 131848-131858, 2020"
+        "citation": "IEEE Access 8, 131848-131858, 2020",
+        "num_citations": 22,
+        "author_pub_id": "z7tPc9IAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "Scalable Safety-Critical Policy Evaluation with Accelerated Rare Event Sampling",
         "pub_year": "2022",
-        "citation": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2022"
+        "citation": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2022",
+        "num_citations": 2,
+        "author_pub_id": "z7tPc9IAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Seasondepth: Cross-season monocular depth prediction dataset and benchmark under multiple environments",
         "pub_year": "2023",
-        "citation": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2023"
+        "citation": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2023",
+        "num_citations": 17,
+        "author_pub_id": "z7tPc9IAAAAJ:mB3voiENLucC"
     },
     {
         "title": "Seeing is not believing: Robust reinforcement learning against spurious correlation",
         "pub_year": "2024",
-        "citation": "Advances in Neural Information Processing Systems 36, 2024"
+        "citation": "Advances in Neural Information Processing Systems 36, 2024",
+        "num_citations": 9,
+        "author_pub_id": "z7tPc9IAAAAJ:9vf0nzSNQJEC"
     },
     {
         "title": "Semantic traffic law adaptive decision-making for self-driving vehicles",
         "pub_year": "2023",
-        "citation": "IEEE Transactions on Intelligent Transportation Systems, 2023"
+        "citation": "IEEE Transactions on Intelligent Transportation Systems, 2023",
+        "num_citations": 6,
+        "author_pub_id": "z7tPc9IAAAAJ:WqliGbK-hY8C"
     },
     {
         "title": "Semantically controllable scene generation with guidance of explicit knowledge",
         "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2106.04066, 2021"
+        "citation": "arXiv preprint arXiv:2106.04066, 2021",
+        "num_citations": 12,
+        "author_pub_id": "z7tPc9IAAAAJ:mvPsJ3kp5DgC"
     },
     {
         "title": "Semantics-consistent cross-domain summarization via optimal transport alignment",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2210.04722, 2022"
+        "citation": "arXiv preprint arXiv:2210.04722, 2022",
+        "num_citations": 7,
+        "author_pub_id": "z7tPc9IAAAAJ:rO6llkc54NcC"
     },
     {
         "title": "Semi-Interpenetrating Cooperative Localization in Connected Vehicle Networks",
         "pub_year": "2017",
-        "citation": "arXiv preprint arXiv:1709.05457, 2017"
+        "citation": "arXiv preprint arXiv:1709.05457, 2017",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Sequential experimentation to efficiently test automated vehicles",
         "pub_year": "2017",
-        "citation": "2017 Winter Simulation Conference (WSC), 3078-3089, 2017"
+        "citation": "2017 Winter Simulation Conference (WSC), 3078-3089, 2017",
+        "num_citations": 21,
+        "author_pub_id": "z7tPc9IAAAAJ:J_g5lzvAfSwC"
     },
     {
         "title": "Supplementary Material-Investigating the Impact of Multi-LiDAR Placement on Object Detection for Autonomous Driving",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "Synthesis of different autonomous vehicles test approaches",
         "pub_year": "2018",
-        "citation": "2018 21st International Conference on Intelligent Transportation Systems …, 2018"
+        "citation": "2018 21st International Conference on Intelligent Transportation Systems …, 2018",
+        "num_citations": 16,
+        "author_pub_id": "z7tPc9IAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "System and method for determining optimal lidar placement on autonomous vehicles",
         "pub_year": "2022",
-        "citation": "US Patent 11,474,255, 2022"
+        "citation": "US Patent 11,474,255, 2022",
+        "num_citations": 3,
+        "author_pub_id": "z7tPc9IAAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "System and method for unifying heterogenous datasets using primitives",
         "pub_year": "2022",
-        "citation": "US Patent 11,521,113, 2022"
+        "citation": "US Patent 11,521,113, 2022",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:2P1L_qKh6hAC"
     },
     {
         "title": "Task-agnostic online reinforcement learning with an infinite mixture of gaussian processes",
         "pub_year": "2020",
-        "citation": "Advances in Neural Information Processing Systems 33, 6429-6440, 2020"
+        "citation": "Advances in Neural Information Processing Systems 33, 6429-6440, 2020",
+        "num_citations": 35,
+        "author_pub_id": "z7tPc9IAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Test Against High-Dimensional Uncertainties: Accelerated Evaluation of Autonomous Vehicles with Deep Importance Sampling",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2204.02351, 2022"
+        "citation": "arXiv preprint arXiv:2204.02351, 2022",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:uLbwQdceFCQC"
     },
     {
         "title": "The effects of different In components on the physical properties of InxGa1-xAs.",
         "pub_year": "2018",
-        "citation": "Journal of Functional Materials/Gongneng Cailiao 49 (5), 2018"
+        "citation": "Journal of Functional Materials/Gongneng Cailiao 49 (5), 2018",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:olpn-zPbct0C"
     },
     {
         "title": "The impact of road configuration in V2V-based cooperative localization: Mathematical analysis and real-world evaluation",
         "pub_year": "2017",
-        "citation": "IEEE Transactions on Intelligent Transportation Systems 19 (10), 3220-3229, 2017"
+        "citation": "IEEE Transactions on Intelligent Transportation Systems 19 (10), 3220-3229, 2017",
+        "num_citations": 12,
+        "author_pub_id": "z7tPc9IAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "The impact of road configuration on v2v-based cooperative localization",
         "pub_year": "2017",
-        "citation": "2017 IEEE 85th Vehicular Technology Conference (VTC Spring), 1-6, 2017"
+        "citation": "2017 IEEE 85th Vehicular Technology Conference (VTC Spring), 1-6, 2017",
+        "num_citations": 3,
+        "author_pub_id": "z7tPc9IAAAAJ:uWQEDVKXjbEC"
     },
     {
         "title": "The robodepth challenge: Methods and advancements towards robust depth estimation",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2307.15061, 2023"
+        "citation": "arXiv preprint arXiv:2307.15061, 2023",
+        "num_citations": 8,
+        "author_pub_id": "z7tPc9IAAAAJ:LjlpjdlvIbIC"
     },
     {
         "title": "Towards affordable on-track testing for autonomous vehicle—A Kriging-based statistical approach",
         "pub_year": "2017",
-        "citation": "2017 ieee 20th international conference on intelligent transportation …, 2017"
+        "citation": "2017 ieee 20th international conference on intelligent transportation …, 2017",
+        "num_citations": 25,
+        "author_pub_id": "z7tPc9IAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Towards robust and safe reinforcement learning with benign off-policy data",
         "pub_year": "2023",
-        "citation": "International Conference on Machine Learning, 21586-21610, 2023"
+        "citation": "International Conference on Machine Learning, 21586-21610, 2023",
+        "num_citations": 3,
+        "author_pub_id": "z7tPc9IAAAAJ:1yQoGdGgb4wC"
     },
     {
         "title": "Towards secure and safe appified automated vehicles",
         "pub_year": "2017",
-        "citation": "2017 IEEE Intelligent Vehicles Symposium (IV), 705-711, 2017"
+        "citation": "2017 IEEE Intelligent Vehicles Symposium (IV), 705-711, 2017",
+        "num_citations": 9,
+        "author_pub_id": "z7tPc9IAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Trafficnet: An open naturalistic driving scenario library",
         "pub_year": "2017",
-        "citation": "2017 IEEE 20th International Conference on Intelligent Transportation …, 2017"
+        "citation": "2017 IEEE 20th International Conference on Intelligent Transportation …, 2017",
+        "num_citations": 69,
+        "author_pub_id": "z7tPc9IAAAAJ:fPk4N6BV_jEC"
     },
     {
         "title": "Transfer knowledge from natural language to electrocardiography: Can we detect cardiovascular disease through language models?",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2301.09017, 2023"
+        "citation": "arXiv preprint arXiv:2301.09017, 2023",
+        "num_citations": 9,
+        "author_pub_id": "z7tPc9IAAAAJ:5ugPr518TE4C"
     },
     {
         "title": "Trustworthy reinforcement learning against intrinsic vulnerabilities: Robustness, safety, and generalizability",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2209.08025, 2022"
+        "citation": "arXiv preprint arXiv:2209.08025, 2022",
+        "num_citations": 36,
+        "author_pub_id": "z7tPc9IAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Understanding v2v driving scenarios through traffic primitives",
         "pub_year": "2020",
-        "citation": "IEEE Transactions on Intelligent Transportation Systems 23 (1), 610-619, 2020"
+        "citation": "IEEE Transactions on Intelligent Transportation Systems 23 (1), 610-619, 2020",
+        "num_citations": 23,
+        "author_pub_id": "z7tPc9IAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Unsupervised classification of encountering scenarios using connected vehicle datasets",
         "pub_year": "2021",
-        "citation": "US Patent 11,194,331, 2021"
+        "citation": "US Patent 11,194,331, 2021",
+        "num_citations": 4,
+        "author_pub_id": "z7tPc9IAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Using the Piecewise Mixture Model to Evaluate Automated Vehicles in the Frontal Cut-in Scenario",
         "pub_year": "2016",
-        "citation": "Ann Arbor 1001, 48109, 2016"
+        "citation": "Ann Arbor 1001, 48109, 2016",
+        "num_citations": 1,
+        "author_pub_id": "z7tPc9IAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "What went wrong? closing the sim-to-real gap via differentiable causal discovery",
         "pub_year": "2023",
-        "citation": "Conference on Robot Learning, 734-760, 2023"
+        "citation": "Conference on Robot Learning, 734-760, 2023",
+        "num_citations": 9,
+        "author_pub_id": "z7tPc9IAAAAJ:JoZmwDi-zQgC"
     },
     {
         "title": "Where should we place lidars on the autonomous vehicle?-an optimal design approach",
         "pub_year": "2019",
-        "citation": "2019 International Conference on Robotics and Automation (ICRA), 2793-2799, 2019"
+        "citation": "2019 International Conference on Robotics and Automation (ICRA), 2793-2799, 2019",
+        "num_citations": 29,
+        "author_pub_id": "z7tPc9IAAAAJ:abG-DnoFyZgC"
     },
     {
         "title": "Your Room is not Private: Gradient Inversion Attack for Deep Q-Learning",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2306.09273, 2023"
+        "citation": "arXiv preprint arXiv:2306.09273, 2023",
+        "num_citations": 0,
+        "author_pub_id": "z7tPc9IAAAAJ:tkaPQYYpVKoC"
     }
 ]
