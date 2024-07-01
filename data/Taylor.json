@@ -66,7 +66,7 @@
         "title": "Cell Penetrating Peptides, Novel Vectors for Gene Therapy",
         "pub_year": "2020",
         "citation": "Pharmaceutics 12 (3), 225, 2020",
-        "num_citations": 139,
+        "num_citations": 143,
         "author_pub_id": "eDzzGUQAAAAJ:4xDN1ZYqzskC"
     },
     {
@@ -80,7 +80,7 @@
         "title": "Characterization of neural mechanotransduction response in human traumatic brain injury organoid model",
         "pub_year": "2023",
         "citation": "Scientific reports 13 (1), 13536, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "eDzzGUQAAAAJ:7BrZ7Jt4UNcC"
     },
     {
@@ -115,21 +115,21 @@
         "title": "Effects of hypertrophic and dilated cardiomyopathy mutations on power output by human β-cardiac myosin",
         "pub_year": "2016",
         "citation": "Journal of Experimental Biology 219 (2), 161-167, 2016",
-        "num_citations": 78,
+        "num_citations": 77,
         "author_pub_id": "eDzzGUQAAAAJ:sJsF-0ZLhtgC"
     },
     {
         "title": "Emerging applications at the interface of DNA nanotechnology and cellular membranes: Perspectives from biology, engineering, and physics",
         "pub_year": "2020",
         "citation": "APL bioengineering 4 (4), 2020",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "eDzzGUQAAAAJ:lgwcVrK6X84C"
     },
     {
         "title": "Engineering pro-angiogenic biomaterials via chemoselective extracellular vesicle immobilization",
         "pub_year": "2022",
         "citation": "Biomaterials 281, 121357, 2022",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "eDzzGUQAAAAJ:BzfGm06jWhQC"
     },
     {
@@ -150,7 +150,7 @@
         "title": "Generating DNA Origami Nanostructures through Shape Annealing",
         "pub_year": "2021",
         "citation": "Applied Sciences 11 (7), 2950, 2021",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "eDzzGUQAAAAJ:1lhNe0rCu4AC"
     },
     {
@@ -177,7 +177,7 @@
         "title": "Mechanical coordination in motor ensembles revealed using engineered artificial myosin filaments",
         "pub_year": "2015",
         "citation": "Nature nanotechnology 10 (8), 696-700, 2015",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "eDzzGUQAAAAJ:2tRrZ1ZAMYUC"
     },
     {
@@ -205,15 +205,22 @@
         "title": "Micromechanical DNA origami force sensor",
         "pub_year": "2023",
         "citation": "US Patent 11,708,601, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "eDzzGUQAAAAJ:jgBuDB5drN8C"
     },
     {
         "title": "Mix‐and‐match nanobiosensor design: Logical and spatial programming of biosensors using self‐assembled DNA nanostructures",
         "pub_year": "2018",
         "citation": "Wiley Interdisciplinary Reviews: Nanomedicine and Nanobiotechnology 10 (6 …, 2018",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "eDzzGUQAAAAJ:PVgj2kMGcgYC"
+    },
+    {
+        "title": "Modular DNA Nanoshells for Cell Encapsulation and Ruggedization",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/462,634, 2024",
+        "num_citations": 0,
+        "author_pub_id": "eDzzGUQAAAAJ:XUvXOeBm_78C"
     },
     {
         "title": "Modular self-assembly of gamma-modified peptide nucleic acids in organic solvent mixtures",
@@ -233,7 +240,7 @@
         "title": "Multidimensional structure-function relationships in human β-cardiac myosin from population-scale genetic variation",
         "pub_year": "2016",
         "citation": "Proceedings of the National Academy of Sciences 113 (24), 6701-6706, 2016",
-        "num_citations": 120,
+        "num_citations": 123,
         "author_pub_id": "eDzzGUQAAAAJ:4X0JR2_MtJMC"
     },
     {
@@ -314,6 +321,13 @@
         "author_pub_id": "eDzzGUQAAAAJ:buQ7SEKw-1sC"
     },
     {
+        "title": "Self-assembling single cells across microposts: First axial force measurements in immature cardiomyocytes",
+        "pub_year": "2010",
+        "citation": "Proc. Solid State Sens., Actuators, Microsystems Workshop, Hilton Head, SC, 2010",
+        "num_citations": 2,
+        "author_pub_id": "eDzzGUQAAAAJ:prdVHNxh-e8C"
+    },
+    {
         "title": "Shape-Responsive Nanostructures",
         "pub_year": "2022",
         "citation": "US Patent App. 17/599,423, 2022",
@@ -352,7 +366,7 @@
         "title": "Synthetic cell armor made of DNA origami",
         "pub_year": "2023",
         "citation": "Nano Letters 23 (15), 7076-7085, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "eDzzGUQAAAAJ:LdasjJ6CEcoC"
     },
     {
@@ -366,14 +380,14 @@
         "title": "The phenomenon of twisted growth: humeral torsion in dominant arms of high performance tennis players",
         "pub_year": "2009",
         "citation": "Computer Methods in Biomechanics and Biomedical Engineering 12 (1), 83-93, 2009",
-        "num_citations": 55,
+        "num_citations": 57,
         "author_pub_id": "eDzzGUQAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Tools for Studying Biomechanical Interactions in Cells",
         "pub_year": "2011",
         "citation": "Mechanobiology of Cell-Cell and Cell-Matrix Interactions, 233-265, 2011",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "eDzzGUQAAAAJ:UeHWp8X0CEIC"
     },
     {

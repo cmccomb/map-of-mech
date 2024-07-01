@@ -1,9 +1,9 @@
 [
     {
-        "title": "3D printing hydrogel-based soft and biohybrid actuators: A mini-review on fabrication techniques, applications, and challenges",
+        "title": "3D printing hydrogel-based soft and biohybrid actuators: a mini-review on fabrication techniques, applications, and challenges",
         "pub_year": "2021",
         "citation": "Frontiers in Robotics and AI 8, 673533, 2021",
-        "num_citations": 37,
+        "num_citations": 36,
         "author_pub_id": "jW3whJYAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -66,7 +66,7 @@
         "title": "A segmental mobile robot with active tensegrity bending and noise-driven oscillators",
         "pub_year": "2013",
         "citation": "2013 IEEE/ASME International Conference on Advanced Intelligent Mechatronics …, 2013",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "jW3whJYAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -115,14 +115,14 @@
         "title": "Biodegradable, sustainable hydrogel actuators with shape and stiffness morphing capabilities via embedded 3D printing",
         "pub_year": "2023",
         "citation": "Advanced Functional Materials 33 (36), 2303659, 2023",
-        "num_citations": 13,
+        "num_citations": 17,
         "author_pub_id": "jW3whJYAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Biohybrid actuators for soft robotics: Challenges in scaling up",
         "pub_year": "2020",
         "citation": "Actuators 9 (4), 96, 2020",
-        "num_citations": 34,
+        "num_citations": 36,
         "author_pub_id": "jW3whJYAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -136,7 +136,7 @@
         "title": "Biohybrid robots: recent progress, challenges, and perspectives",
         "pub_year": "2022",
         "citation": "Bioinspiration & biomimetics 18 (1), 015001, 2022",
-        "num_citations": 28,
+        "num_citations": 34,
         "author_pub_id": "jW3whJYAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -164,7 +164,7 @@
         "title": "Control for multifunctionality: bioinspired control based on feeding in Aplysia californica",
         "pub_year": "2020",
         "citation": "Biological cybernetics 114 (6), 557-588, 2020",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "jW3whJYAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -199,7 +199,7 @@
         "title": "Design of a biomimetic tactile sensor for material classification",
         "pub_year": "2022",
         "citation": "2022 International Conference on Robotics and Automation (ICRA), 10774-10780, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "jW3whJYAAAAJ:dhFuZR0502QC"
     },
     {
@@ -220,7 +220,7 @@
         "title": "Effect of actuating cell source on locomotion of organic living machines with electrocompacted collagen skeleton",
         "pub_year": "2016",
         "citation": "Bioinspiration & biomimetics 11 (3), 036012, 2016",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "jW3whJYAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -253,8 +253,15 @@
         "title": "Fabrication of electrocompacted aligned collagen morphs for cardiomyocyte powered living machines",
         "pub_year": "2015",
         "citation": "Biomimetic and Biohybrid Systems: 4th International Conference, Living …, 2015",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "jW3whJYAAAAJ:UeHWp8X0CEIC"
+    },
+    {
+        "title": "Full Hill-type muscle model of the I1/I3 retractor muscle complex in Aplysia californica",
+        "pub_year": "2024",
+        "citation": "Biological Cybernetics, 1-21, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jW3whJYAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "GANGLIA: A Tool for Designing Customized Neuron Circuit Patterns",
@@ -266,7 +273,7 @@
     {
         "title": "Gecko adhesion based sea star crawler robot",
         "pub_year": "2023",
-        "citation": "Frontiers in Robotics and AI 10, 2023",
+        "citation": "Frontiers in Robotics and AI 10, 1209202, 2023",
         "num_citations": 2,
         "author_pub_id": "jW3whJYAAAAJ:j3f4tGmQtD8C"
     },
@@ -288,7 +295,7 @@
         "title": "Human subcutaneous adipose tissue variability is driven by VEGFA, ACTA2, adipocyte density, and ancestral history of the patient",
         "pub_year": "2023",
         "citation": "bioRxiv, 2023.05. 31.543052, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jW3whJYAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -309,7 +316,7 @@
         "title": "Influence of texture and test velocity on the dynamic, high-strain, tensile behavior of zirconium",
         "pub_year": "2012",
         "citation": "Acta Materialia 60 (11), 4379-4392, 2012",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "jW3whJYAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -458,7 +465,7 @@
         "author_pub_id": "jW3whJYAAAAJ:3fE2CSJIrl8C"
     },
     {
-        "title": "Volumetric MicroCT Intensity Histograms of Fatty Infiltration Correlate with the Mechanical Strength of Rotator Cuff Repairs: An Ex Vivo Rabbit Model",
+        "title": "Volumetric MicroCT intensity histograms of fatty infiltration correlate with the mechanical strength of Rotator Cuff repairs: an Ex vivo rabbit model",
         "pub_year": "2021",
         "citation": "Clinical Orthopaedics and Related Research® 479 (2), 406-418, 2021",
         "num_citations": 5,
