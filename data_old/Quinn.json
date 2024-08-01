@@ -3,7 +3,7 @@
         "title": "A systematic approach to process selection in MEMS",
         "pub_year": "2006",
         "citation": "Journal of microelectromechanical systems 15 (5), 1039-1050, 2006",
-        "num_citations": 31,
+        "num_citations": 29,
         "author_pub_id": "2b0ZjdsAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -24,28 +24,28 @@
         "title": "Cell alignment modulated by surface nano-topography–Roles of cell-matrix and cell-cell interactions",
         "pub_year": "2022",
         "citation": "Acta Biomaterialia 142, 149-159, 2022",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "2b0ZjdsAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Combined simulation and experimental study of large deformation of red blood cells in microfluidic systems",
         "pub_year": "2011",
         "citation": "Annals of biomedical engineering 39, 1041-1050, 2011",
-        "num_citations": 113,
+        "num_citations": 112,
         "author_pub_id": "2b0ZjdsAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Computational methods and compositions",
         "pub_year": "2011",
         "citation": "US Patent App. 13/053,139, 2011",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "2b0ZjdsAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Controlled molecular self-assembly of complex three-dimensional structures in soft materials",
         "pub_year": "2018",
         "citation": "Proceedings of the National Academy of Sciences 115 (1), 70-74, 2018",
-        "num_citations": 32,
+        "num_citations": 31,
         "author_pub_id": "2b0ZjdsAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -79,7 +79,7 @@
         "title": "Differential growth and shape formation in plant organs",
         "pub_year": "2018",
         "citation": "Proceedings of the National Academy of Sciences 115 (49), 12359-12364, 2018",
-        "num_citations": 90,
+        "num_citations": 92,
         "author_pub_id": "2b0ZjdsAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -100,14 +100,14 @@
         "title": "Effect of plasmodial RESA protein on deformability of human red blood cells harboring Plasmodium falciparum",
         "pub_year": "2007",
         "citation": "Proceedings of the National Academy of Sciences 104 (22), 9213-9217, 2007",
-        "num_citations": 262,
+        "num_citations": 265,
         "author_pub_id": "2b0ZjdsAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Formation and size distribution of self-assembled vesicles",
         "pub_year": "2017",
         "citation": "Proceedings of the National Academy of Sciences 114 (11), 2910-2915, 2017",
-        "num_citations": 148,
+        "num_citations": 156,
         "author_pub_id": "2b0ZjdsAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -128,8 +128,15 @@
         "title": "Isolation of exosomes from whole blood by integrating acoustics and microfluidics",
         "pub_year": "2017",
         "citation": "Proceedings of the National Academy of Sciences 114 (40), 10584-10589, 2017",
-        "num_citations": 790,
+        "num_citations": 797,
         "author_pub_id": "2b0ZjdsAAAAJ:Wp0gIr-vW9MC"
+    },
+    {
+        "title": "Isolation of exosomes from whole blood by integrating acoustics and microfluidics (vol 114, pg 10584, 2017)",
+        "pub_year": "2020",
+        "citation": "Proceedings of the National Academy of Sciences of the United States of …, 2020",
+        "num_citations": 7,
+        "author_pub_id": "2b0ZjdsAAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "Methods and compositions related to the measurement of material properties",

@@ -10,7 +10,7 @@
         "title": "A semi-wearable robotic device for sit-to-stand assistance",
         "pub_year": "2019",
         "citation": "2019 IEEE 16th International Conference on Rehabilitation Robotics (ICORR …, 2019",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "jcgAPTYAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -24,7 +24,7 @@
         "title": "Biological hip torque estimation using a robotic hip exoskeleton",
         "pub_year": "2020",
         "citation": "2020 8th IEEE RAS/EMBS International Conference for Biomedical Robotics and …, 2020",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "jcgAPTYAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Design and evaluation of a proportional myoelectric controller for hip exoskeletons during walking",
         "pub_year": "2018",
         "citation": "Dynamic Systems and Control Conference 51890, V001T13A005, 2018",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "jcgAPTYAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -73,7 +73,7 @@
         "title": "Effects of assistance during early stance phase using a robotic knee orthosis on energetics, muscle activity, and joint mechanics during incline and decline walking",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Neural Systems and Rehabilitation Engineering 28 (4 …, 2020",
-        "num_citations": 30,
+        "num_citations": 34,
         "author_pub_id": "jcgAPTYAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -101,7 +101,7 @@
         "title": "Estimating human joint moments unifies exoskeleton control, reducing user effort",
         "pub_year": "2024",
         "citation": "Science Robotics 9 (88), eadi8852, 2024",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "jcgAPTYAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -136,28 +136,28 @@
         "title": "Real-time neural network-based gait phase estimation using a robotic hip exoskeleton",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Medical Robotics and Bionics 2 (1), 28-37, 2019",
-        "num_citations": 112,
+        "num_citations": 121,
         "author_pub_id": "jcgAPTYAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Real-time user-independent slope prediction using deep learning for modulation of robotic knee exoskeleton assistance",
         "pub_year": "2021",
         "citation": "IEEE Robotics and Automation Letters 6 (2), 3995-4000, 2021",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "jcgAPTYAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Subject-independent continuous locomotion mode classification for robotic hip exoskeleton applications",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Biomedical Engineering 69 (10), 3234-3242, 2022",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "jcgAPTYAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Subject-independent, biological hip moment estimation during multimodal overground ambulation using deep learning",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Medical Robotics and Bionics 4 (1), 219-229, 2022",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "jcgAPTYAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -171,14 +171,14 @@
         "title": "The effect of hip assistance levels on human energetic cost using robotic hip exoskeletons",
         "pub_year": "2019",
         "citation": "IEEE Robotics and Automation Letters 4 (2), 430-437, 2019",
-        "num_citations": 103,
+        "num_citations": 108,
         "author_pub_id": "jcgAPTYAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "The exoskeleton expansion: improving walking and running economy",
         "pub_year": "2020",
         "citation": "Journal of neuroengineering and rehabilitation 17 (1), 1-9, 2020",
-        "num_citations": 318,
+        "num_citations": 330,
         "author_pub_id": "jcgAPTYAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -192,7 +192,7 @@
         "title": "Wearable sensor-based step length estimation during overground locomotion using a deep convolutional neural network",
         "pub_year": "2021",
         "citation": "2021 43rd Annual International Conference of the IEEE Engineering in …, 2021",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "jcgAPTYAAAAJ:3fE2CSJIrl8C"
     }
 ]

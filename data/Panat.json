@@ -24,21 +24,21 @@
         "title": "3D Assembly of Mxene Networks using a Ceramic Backbone with Controlled Porosity",
         "pub_year": "2023",
         "citation": "Advanced Materials, 2304757, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "y1-WJhYAAAAJ:LjlpjdlvIbIC"
     },
     {
         "title": "3D Printed Microelectrode Arrays",
         "pub_year": "2021",
         "citation": "US Patent App. 16/966,657, 2021",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "y1-WJhYAAAAJ:tS2w5q8j5-wC"
     },
     {
         "title": "3D printed hierarchically-porous microlattice electrode materials for exceptionally high specific capacity and areal capacity lithium ion batteries",
         "pub_year": "2018",
         "citation": "Additive Manufacturing 23, 70-78, 2018",
-        "num_citations": 162,
+        "num_citations": 164,
         "author_pub_id": "y1-WJhYAAAAJ:lSLTfruPkqcC"
     },
     {
@@ -80,7 +80,7 @@
         "title": "A hybrid three-dimensionally structured electrode for lithium-ion batteries via 3D printing",
         "pub_year": "2017",
         "citation": "Materials & Design 119, 417-424, 2017",
-        "num_citations": 143,
+        "num_citations": 150,
         "author_pub_id": "y1-WJhYAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -115,7 +115,7 @@
         "title": "Aerosol Based Direct-Write Micro-Additive Fabrication Method for Sub-mm 3-D Metal-Dielectric Structures",
         "pub_year": "2015",
         "citation": "Journal of Micromechanics and Microengineering 25 (10), 107002, 2015",
-        "num_citations": 109,
+        "num_citations": 110,
         "author_pub_id": "y1-WJhYAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -136,7 +136,7 @@
         "title": "An Advanced Healthcare Sensing Platform for Direct Detection of Viral Proteins in Seconds at Femtomolar Concentrations via Aerosol Jet 3D‐Printed Nano and Biomaterials",
         "pub_year": "2024",
         "citation": "Advanced Materials Interfaces 11 (14), 2400005, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "y1-WJhYAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -150,14 +150,14 @@
         "title": "Breaking the barrier to biomolecule limit-of-detection via 3D printed multi-length-scale graphene-coated electrodes",
         "pub_year": "2021",
         "citation": "Nature Communications 12 (1), 7077-1 to 7077-16, 2021",
-        "num_citations": 39,
+        "num_citations": 41,
         "author_pub_id": "y1-WJhYAAAAJ:1qzjygNMrQYC"
     },
     {
         "title": "CMU Array: A 3D nanoprinted, fully customizable high-density microelectrode array platform",
         "pub_year": "2022",
         "citation": "Science Advances 8 (40), eabj4853, 2022",
-        "num_citations": 55,
+        "num_citations": 59,
         "author_pub_id": "y1-WJhYAAAAJ:tkaPQYYpVKoC"
     },
     {
@@ -191,7 +191,7 @@
         "title": "Electrochemical Biosensors for Rapid and Sensitive Detection of Pathogens and Pathogenic Biomarkers",
         "pub_year": "2023",
         "citation": "US Patent App. 18/013,951, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "y1-WJhYAAAAJ:N5tVd3kTz84C"
     },
     {
@@ -205,7 +205,7 @@
         "title": "Enhanced Battery Performance through Three-Dimensional Structured Electrodes: Experimental and Modeling Study",
         "pub_year": "2018",
         "citation": "Journal of the Electrochemical Society 165 (14), A3566-A3573, 2018",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "y1-WJhYAAAAJ:ldfaerwXgEUC"
     },
     {
@@ -247,7 +247,7 @@
         "title": "High Performance Flexible Temperature Sensors via Nanoparticle Printing",
         "pub_year": "2019",
         "citation": "ACS Applied Nano Materials 2 (5), 3280-3291, 2019",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "y1-WJhYAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -310,7 +310,7 @@
         "title": "Influence of surface morphology on the adhesion strength of epoxy–aluminum interfaces",
         "pub_year": "2003",
         "citation": "Journal of Adhesion Science and Technology 17 (12), 1685-1711, 2003",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "y1-WJhYAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -373,7 +373,7 @@
         "title": "Microscale Additive Manufacturing and Modeling of Interdigitated Capacitive Touch Sensors",
         "pub_year": "2016",
         "citation": "Sensors and Actuators A: Physical 248, 93-104, 2016",
-        "num_citations": 88,
+        "num_citations": 87,
         "author_pub_id": "y1-WJhYAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -408,7 +408,7 @@
         "title": "N-protein based Ultrasensitive SARS-CoV-2 Antibody Detection in Seconds via 3D Nanoprinted Microarchitected Array Electrodes",
         "pub_year": "2022",
         "citation": "Journal of Medical Virology, 1-12, 2022",
-        "num_citations": 34,
+        "num_citations": 36,
         "author_pub_id": "y1-WJhYAAAAJ:J-pR_7NvFogC"
     },
     {
@@ -464,7 +464,7 @@
         "title": "Origami lithium-ion batteries",
         "pub_year": "2014",
         "citation": "Nature communications 5 (1), 3140, 2014",
-        "num_citations": 664,
+        "num_citations": 667,
         "author_pub_id": "y1-WJhYAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -478,7 +478,7 @@
         "title": "Recent Advances in 3D Printing of Biomedical Sensing Devices",
         "pub_year": "2022",
         "citation": "Advanced Functional Materials 32, 2107671, 2022",
-        "num_citations": 82,
+        "num_citations": 88,
         "author_pub_id": "y1-WJhYAAAAJ:V3AGJWp-ZtQC"
     },
     {
@@ -492,7 +492,7 @@
         "title": "Role of defects in modulating the near band edge emissions of sub-micron ZnO crystals",
         "pub_year": "2020",
         "citation": "Optical Materials 109, 110348, 2020",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "y1-WJhYAAAAJ:KxtntwgDAa4C"
     },
     {
@@ -513,7 +513,7 @@
         "title": "Sensing of COVID‐19 Antibodies in Seconds via Aerosol Jet Nanoprinted Reduced‐Graphene‐Oxide‐Coated 3D Electrodes",
         "pub_year": "2021",
         "citation": "Advanced Materials 33 (7), 2006647, 2021",
-        "num_citations": 298,
+        "num_citations": 304,
         "author_pub_id": "y1-WJhYAAAAJ:UxriW0iASnsC"
     },
     {
@@ -534,7 +534,7 @@
         "title": "StressD: 2D Stress Estimation Using Denoising Diffusion Model",
         "pub_year": "2023",
         "citation": "Computer Methods in Applied Mechanics and Engineering 416, 116343, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "y1-WJhYAAAAJ:SdhP9T11ey4C"
     },
     {
@@ -562,21 +562,21 @@
         "title": "Structure, electrical characteristics, and high-temperature stability of aerosol jet printed silver nanoparticle films",
         "pub_year": "2016",
         "citation": "Journal of Applied Physics 120 (7), 2016",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "y1-WJhYAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Super-stretchable metallic interconnects on polymer with a linear strain of up to 100%",
         "pub_year": "2015",
         "citation": "Applied Physics Letters 107 (8), 2015",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "y1-WJhYAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "The application of Lean Six Sigma to the configuration control in Intel’s manufacturing R&D environment",
         "pub_year": "2014",
         "citation": "International Journal of Lean Six Sigma 5 (4), 444-459, 2014",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "y1-WJhYAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -604,7 +604,7 @@
         "title": "Three-dimensional microarchitected materials and devices using nanoparticle assembly by pointwise spatial printing",
         "pub_year": "2017",
         "citation": "Science advances 3 (3), e1601986, 2017",
-        "num_citations": 180,
+        "num_citations": 181,
         "author_pub_id": "y1-WJhYAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -625,7 +625,7 @@
         "title": "Towards high-performance Li-ion batteries via optimized three-dimensional micro-lattice electrode architectures",
         "pub_year": "2020",
         "citation": "Journal of Power Sources 476, 228593, 2020",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "y1-WJhYAAAAJ:nb7KW1ujOQ8C"
     },
     {
@@ -639,7 +639,7 @@
         "title": "Ultra‐Rapid and Ultra‐Sensitive Detection of SARS‐CoV‐2 Antibodies in COVID‐19 Patients via A 3D‐Printed Nanomaterial‐Based Biosensing Platform",
         "pub_year": "2022",
         "citation": "Journal of Medical Virology 94 (12), 5808–5826, 2022",
-        "num_citations": 9,
+        "num_citations": 12,
         "author_pub_id": "y1-WJhYAAAAJ:_B80troHkn4C"
     },
     {

@@ -21,6 +21,13 @@
         "author_pub_id": "HzsuNvEAAAAJ:2osOgNQ5qMEC"
     },
     {
+        "title": "Capturing Local Temperature Evolution During Additive Manufacturing Through Fourier Neural Operators",
+        "pub_year": "2024",
+        "citation": "Journal of Manufacturing Science and Engineering 146 (9), 2024",
+        "num_citations": 0,
+        "author_pub_id": "HzsuNvEAAAAJ:0EnyYjriUFMC"
+    },
+    {
         "title": "Computational blood flow simulations in Kawasaki disease patients: insight into coronary artery aneurysm hemodynamics",
         "pub_year": "2017",
         "citation": "Global cardiology science & practice 2017 (3), 2017",
@@ -31,7 +38,7 @@
         "title": "Computational modeling of blood component transport related to coronary artery thrombosis in Kawasaki disease",
         "pub_year": "2021",
         "citation": "PLoS computational biology 17 (9), e1009331, 2021",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "HzsuNvEAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -73,14 +80,14 @@
         "title": "Intraocular and intracranial pressures during head-down tilt with lower body negative pressure",
         "pub_year": "2015",
         "citation": "Aviation, Space, and Environmental Medicine 86 (1), 3-7, 2015",
-        "num_citations": 79,
+        "num_citations": 81,
         "author_pub_id": "HzsuNvEAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Longitudinal investigation of aortic dissection in mice with computational fluid dynamics",
         "pub_year": "2023",
         "citation": "Computer Methods in Biomechanics and Biomedical Engineering, 1-14, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "HzsuNvEAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -107,7 +114,7 @@
         "title": "Thrombosis and Hemodynamics: external and intrathrombus gradients",
         "pub_year": "2021",
         "citation": "Current opinion in biomedical engineering 19, 100316, 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "HzsuNvEAAAAJ:W7OEmFMy1HYC"
     },
     {

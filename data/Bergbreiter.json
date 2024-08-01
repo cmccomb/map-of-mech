@@ -51,7 +51,7 @@
         "title": "3D‐printed electrostatic microactuators for flexible microsystems",
         "pub_year": "2023",
         "citation": "Advanced Functional Materials 33 (47), 2304991, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "SU0c5P0AAAAJ:dTyEYWd-f8wC"
     },
     {
@@ -93,7 +93,7 @@
         "title": "A comparison of critical shear force in low-voltage, all-polymer electroadhesives to a basic friction model",
         "pub_year": "2017",
         "citation": "Smart Materials and Structures 26 (2), 025028, 2017",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "SU0c5P0AAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -107,14 +107,14 @@
         "title": "A magnetically transduced whisker for angular displacement and moment sensing",
         "pub_year": "2019",
         "citation": "2019 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2019",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "SU0c5P0AAAAJ:UxriW0iASnsC"
     },
     {
         "title": "A method for 3D printing and rapid prototyping of fieldable untethered soft robots",
         "pub_year": "2023",
         "citation": "Soft Robotics 10 (2), 292-300, 2023",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "SU0c5P0AAAAJ:kRWSkSYxWN8C"
     },
     {
@@ -170,14 +170,14 @@
         "title": "A two-step fabrication method for 3D printed microactuators: characterization and actuated mechanisms",
         "pub_year": "2020",
         "citation": "Journal of Microelectromechanical Systems 29 (4), 544-552, 2020",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "SU0c5P0AAAAJ:uWQEDVKXjbEC"
     },
     {
         "title": "A whisker-inspired fin sensor for multi-directional airflow sensing",
         "pub_year": "2020",
         "citation": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2020",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "SU0c5P0AAAAJ:K3LRdlH-MEoC"
     },
     {
@@ -274,7 +274,7 @@
         "title": "Bridge risk investigation diagnostic grouped exploratory (BRIDGE) bot",
         "pub_year": "2017",
         "citation": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2017",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "SU0c5P0AAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -323,14 +323,14 @@
         "title": "Contact-resistive sensing of touch and airflow using a rat whisker",
         "pub_year": "2018",
         "citation": "2018 7th IEEE International Conference on Biomedical Robotics and …, 2018",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "SU0c5P0AAAAJ:dfsIfKJdRG4C"
     },
     {
         "title": "Controlled assembly of liquid metal inclusions as a general approach for multifunctional composites",
         "pub_year": "2020",
         "citation": "Advanced Materials 32 (46), 2002929, 2020",
-        "num_citations": 84,
+        "num_citations": 86,
         "author_pub_id": "SU0c5P0AAAAJ:WbkHhVStYXYC"
     },
     {
@@ -576,14 +576,14 @@
         "title": "Fusion of video and inertial sensing data via dynamic optimization of a biomechanical model",
         "pub_year": "2023",
         "citation": "Journal of biomechanics 155, 111617, 2023",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "SU0c5P0AAAAJ:XiVPGOgt02cC"
     },
     {
         "title": "Gait exploration of sub-2 g robots using magnetic actuation",
         "pub_year": "2016",
         "citation": "IEEE Robotics and Automation Letters 2 (1), 34-40, 2016",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "SU0c5P0AAAAJ:hMod-77fHWUC"
     },
     {
@@ -611,7 +611,7 @@
         "title": "Hierarchical integration of thin-film NiTi actuators using additive manufacturing for microrobotics",
         "pub_year": "2020",
         "citation": "Journal of Microelectromechanical Systems 29 (5), 867-873, 2020",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "SU0c5P0AAAAJ:Tiz5es2fbqcC"
     },
     {
@@ -798,7 +798,7 @@
         "title": "Multimaterial 3D printing for microrobotic mechanisms",
         "pub_year": "2020",
         "citation": "Soft robotics 7 (1), 59-67, 2020",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "SU0c5P0AAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -826,7 +826,7 @@
         "title": "Optimized electrostatic inchworm motors using a flexible driving arm",
         "pub_year": "2012",
         "citation": "Journal of Micromechanics and Microengineering 23 (1), 015018, 2012",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "SU0c5P0AAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -862,6 +862,13 @@
         "citation": "1st International ICST Conference on Robot Communication and Coordination, 2010",
         "num_citations": 8,
         "author_pub_id": "SU0c5P0AAAAJ:ufrVoPGSRksC"
+    },
+    {
+        "title": "Picotaur: A 15 mg Hexapedal Robot with Electrostatically Driven, 3D‐Printed Legs",
+        "pub_year": "2024",
+        "citation": "Advanced Intelligent Systems, 2400196, 2024",
+        "num_citations": 0,
+        "author_pub_id": "SU0c5P0AAAAJ:W5xh706n7nkC"
     },
     {
         "title": "Piezoelectric actuator array for motion-enabled reconfigurable RF circuits",
@@ -983,7 +990,7 @@
         "title": "Scalable minimally actuated leg extension bipedal walker based on 3D passive dynamics",
         "pub_year": "2022",
         "citation": "2022 International Conference on Robotics and Automation (ICRA), 207-213, 2022",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "SU0c5P0AAAAJ:BrmTIyaxlBUC"
     },
     {
@@ -1053,7 +1060,7 @@
         "title": "Spider‐Inspired, Fully 3D‐Printed Micro‐Hydraulics for Tiny, Soft Robotics",
         "pub_year": "2023",
         "citation": "Advanced Functional Materials 33 (39), 2207435, 2023",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "SU0c5P0AAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -1067,7 +1074,7 @@
         "title": "Tactile Sensors: Rapid Manufacturing of Mechanoreceptive Skins for Slip Detection in Robotic Grasping (Adv. Mater. Technol. 1/2017)",
         "pub_year": "2017",
         "citation": "Advanced Materials Technologies 2 (1), 2017",
-        "num_citations": 65,
+        "num_citations": 64,
         "author_pub_id": "SU0c5P0AAAAJ:GnPB-g6toBAC"
     },
     {
@@ -1095,7 +1102,7 @@
         "title": "The principles of cascading power limits in small, fast biological and engineered systems",
         "pub_year": "2018",
         "citation": "Science 360 (6387), eaao1082, 2018",
-        "num_citations": 212,
+        "num_citations": 214,
         "author_pub_id": "SU0c5P0AAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -1116,14 +1123,14 @@
         "title": "Touch the wind: Simultaneous airflow, drag and interaction sensing on a multirotor",
         "pub_year": "2020",
         "citation": "2020 IEEE/RSJ international conference on intelligent robots and systems …, 2020",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "SU0c5P0AAAAJ:KxtntwgDAa4C"
     },
     {
         "title": "Toward autonomy in sub-gram terrestrial robots",
         "pub_year": "2019",
         "citation": "Annual Review of Control, Robotics, and Autonomous Systems 2 (1), 231-252, 2019",
-        "num_citations": 64,
+        "num_citations": 68,
         "author_pub_id": "SU0c5P0AAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -1171,14 +1178,14 @@
         "title": "Viscoelastic legs for open-loop control of gram-scale robots",
         "pub_year": "2020",
         "citation": "Bioinspiration & Biomimetics 15 (5), 055005, 2020",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "SU0c5P0AAAAJ:p2g8aNsByqUC"
     },
     {
         "title": "Whisksight: A reconfigurable, vision-based, optical whisker sensing array for simultaneous contact, airflow, and inertia stimulus detection",
         "pub_year": "2021",
         "citation": "IEEE Robotics and Automation Letters 6 (2), 3357-3364, 2021",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "SU0c5P0AAAAJ:tOudhMTPpwUC"
     }
 ]

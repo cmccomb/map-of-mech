@@ -1,12 +1,5 @@
 [
     {
-        "title": "15ebbr",
-        "pub_year": "1993",
-        "citation": "Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (United States …, 1993",
-        "num_citations": 0,
-        "author_pub_id": "wXSgFr4AAAAJ:tzM49s52ZIMC"
-    },
-    {
         "title": "189. Connectome Signatures of Depression, Cannabis use, and Comorbid Depression and Cannabis Use: Evidence From the Human Connectome Project",
         "pub_year": "2024",
         "citation": "Biological Psychiatry 95 (10), S177, 2024",
@@ -32,6 +25,13 @@
         "citation": "Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (United States …, 1997",
         "num_citations": 0,
         "author_pub_id": "wXSgFr4AAAAJ:IRz6iEL74y4C"
+    },
+    {
+        "title": "5ebbr",
+        "pub_year": "1993",
+        "citation": "Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (United States …, 1993",
+        "num_citations": 0,
+        "author_pub_id": "wXSgFr4AAAAJ:tzM49s52ZIMC"
     },
     {
         "title": "A Comparison of Single Particle Composition and CCN Activity during the 2007 and 2008 San Diego Wildfires",
@@ -65,7 +65,7 @@
         "title": "A comprehensive characterization of ice nucleation by three different types of cellulose particles immersed in water",
         "pub_year": "2019",
         "citation": "Atmospheric Chemistry and Physics 19 (7), 4823-4849, 2019",
-        "num_citations": 58,
+        "num_citations": 62,
         "author_pub_id": "wXSgFr4AAAAJ:WqliGbK-hY8C"
     },
     {
@@ -106,14 +106,14 @@
     {
         "title": "A universally applicable method of calculating confidence bands for ice nucleation spectra derived from droplet freezing experiments",
         "pub_year": "2022",
-        "citation": "Atmospheric Measurement Techniques Discussions 2022, 1-26, 2022",
+        "citation": "Atmospheric Measurement Techniques 15 (22), 6819-6836, 2022",
         "num_citations": 3,
         "author_pub_id": "wXSgFr4AAAAJ:LO7wyVUgiFcC"
     },
     {
         "title": "ARM Instrument: Eddy Correlation Flux Measurement Smart Flux System (ECORSF)",
         "pub_year": "2019",
-        "citation": "Oak Ridge National Lab.(ORNL), Oak Ridge, TN (United States). Atmospheric …, 2019",
+        "citation": "Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (United States …, 2019",
         "num_citations": 0,
         "author_pub_id": "wXSgFr4AAAAJ:mNrWkgRL2YcC"
     },
@@ -121,7 +121,7 @@
         "title": "Advanced aerosol optical tweezers chamber design to facilitate phase-separation and equilibration timescale experiments on complex droplets",
         "pub_year": "2016",
         "citation": "Aerosol Science and Technology 50 (12), 1327-1341, 2016",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "wXSgFr4AAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -135,14 +135,14 @@
         "title": "Aerosol optical tweezers constrain the morphology evolution of liquid-liquid phase-separated atmospheric particles",
         "pub_year": "2020",
         "citation": "Chem 6 (1), 204-220, 2020",
-        "num_citations": 67,
+        "num_citations": 69,
         "author_pub_id": "wXSgFr4AAAAJ:kzcrU_BdoSEC"
     },
     {
         "title": "Aerosol optical tweezers elucidate the chemistry, acidity, phase separations, and morphology of atmospheric microdroplets",
         "pub_year": "2020",
         "citation": "Accounts of Chemical Research 53 (11), 2498-2509, 2020",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "wXSgFr4AAAAJ:BwyfMAYsbu0C"
     },
     {
@@ -195,10 +195,17 @@
         "author_pub_id": "wXSgFr4AAAAJ:uc_IGeMz5qoC"
     },
     {
+        "title": "Atmospheric Science-L14815-Initial uptake of ozone on Saharan dust at atmospheric relative humidities (DOI 10.1029/2005GLO23317)",
+        "pub_year": "2005",
+        "citation": "Geophysical Research Letters 32 (14), 2005",
+        "num_citations": 4,
+        "author_pub_id": "wXSgFr4AAAAJ:8xutWZnSdmoC"
+    },
+    {
         "title": "Atmospheric aging enhances the ice nucleation ability of biomass-burning aerosol",
         "pub_year": "2021",
         "citation": "Science Advances 7 (9), eabd3440, 2021",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "wXSgFr4AAAAJ:i2xiXl-TujoC"
     },
     {
@@ -212,7 +219,7 @@
         "title": "Biomass burning as a potential source for atmospheric ice nuclei: Western wildfires and prescribed burns",
         "pub_year": "2012",
         "citation": "Geophysical Research Letters 39 (11), 2012",
-        "num_citations": 60,
+        "num_citations": 62,
         "author_pub_id": "wXSgFr4AAAAJ:5nxA0vEk-isC"
     },
     {
@@ -226,7 +233,7 @@
         "title": "Bringing the ocean into the laboratory to probe the chemical complexity of sea spray aerosol",
         "pub_year": "2013",
         "citation": "Proceedings of the National Academy of Sciences 110 (19), 7550-7555, 2013",
-        "num_citations": 523,
+        "num_citations": 528,
         "author_pub_id": "wXSgFr4AAAAJ:WF5omc3nYNoC"
     },
     {
@@ -239,8 +246,8 @@
     {
         "title": "Brownness of organics in aerosols from biomass burning linked to their black carbon content",
         "pub_year": "2014",
-        "citation": "Nature geoscience 7 (9), 647-650, 2014",
-        "num_citations": 496,
+        "citation": "Nature Geoscience 7 (9), 647-650, 2014",
+        "num_citations": 498,
         "author_pub_id": "wXSgFr4AAAAJ:k_IJM867U9cC"
     },
     {
@@ -261,21 +268,21 @@
         "title": "Characteristics of ice nucleating particles in and around California winter storms",
         "pub_year": "2019",
         "citation": "Journal of Geophysical Research: Atmospheres 124 (21), 11530-11551, 2019",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "wXSgFr4AAAAJ:PR6Y55bgFSsC"
     },
     {
         "title": "Characterization of Asian dust during ACE-Asia",
         "pub_year": "2006",
         "citation": "Global and Planetary change 52 (1-4), 23-56, 2006",
-        "num_citations": 256,
+        "num_citations": 260,
         "author_pub_id": "wXSgFr4AAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Characterization of individual aerosol particles",
         "pub_year": "2018",
         "citation": "Physical chemistry of gas-liquid interfaces, 353-402, 2018",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "wXSgFr4AAAAJ:5ugPr518TE4C"
     },
     {
@@ -289,7 +296,7 @@
         "title": "Chemical processing does not always impair heterogeneous ice nucleation of mineral dust particles",
         "pub_year": "2010",
         "citation": "Geophysical Research Letters 37 (24), 2010",
-        "num_citations": 114,
+        "num_citations": 115,
         "author_pub_id": "wXSgFr4AAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -314,10 +321,10 @@
         "author_pub_id": "wXSgFr4AAAAJ:eJXPG6dFmWUC"
     },
     {
-        "title": "Conflicts of Interest in the Assessment of Chemicals, Waste, and Pollution",
+        "title": "Conflicts of interest in the assessment of chemicals, waste, and pollution",
         "pub_year": "2023",
         "citation": "Environmental science & technology 57 (48), 19066-19077, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "wXSgFr4AAAAJ:bKqednn6t2AC"
     },
     {
@@ -380,7 +387,7 @@
         "title": "Direct observations of the atmospheric processing of Asian mineral dust",
         "pub_year": "2007",
         "citation": "Atmospheric Chemistry and Physics 7 (5), 1213-1236, 2007",
-        "num_citations": 469,
+        "num_citations": 471,
         "author_pub_id": "wXSgFr4AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -401,7 +408,7 @@
         "title": "Dust and biological aerosols from the Sahara and Asia influence precipitation in the western US",
         "pub_year": "2013",
         "citation": "science 339 (6127), 1572-1578, 2013",
-        "num_citations": 555,
+        "num_citations": 560,
         "author_pub_id": "wXSgFr4AAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -415,7 +422,7 @@
         "title": "Effect of chemical mixing state on the hygroscopicity and cloud nucleation properties of calcium mineral dust particles",
         "pub_year": "2009",
         "citation": "Atmospheric Chemistry and Physics 9 (10), 3303-3316, 2009",
-        "num_citations": 278,
+        "num_citations": 279,
         "author_pub_id": "wXSgFr4AAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -429,7 +436,7 @@
         "title": "Effect of secondary organic aerosol coating thickness on the real-time detection and characterization of biomass-burning soot by two particle mass spectrometers",
         "pub_year": "2016",
         "citation": "Atmospheric Measurement Techniques 9 (12), 6117-6137, 2016",
-        "num_citations": 40,
+        "num_citations": 37,
         "author_pub_id": "wXSgFr4AAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -443,7 +450,7 @@
         "title": "Emerging investigator series: determination of biphasic core–shell droplet properties using aerosol optical tweezers",
         "pub_year": "2018",
         "citation": "Environmental Science: Processes & Impacts 20 (11), 1512-1523, 2018",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "wXSgFr4AAAAJ:wbdj-CoPYUoC"
     },
     {
@@ -471,14 +478,14 @@
         "title": "Evaluation of iodide chemical ionization mass spectrometry for gas and aerosol-phase per-and polyfluoroalkyl substances (PFAS) analysis",
         "pub_year": "2023",
         "citation": "Environmental Science: Processes & Impacts 25 (2), 277-287, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "wXSgFr4AAAAJ:WJVC3Jt7v1AC"
     },
     {
         "title": "Experimental study of the role of physicochemical surface processing on the IN ability of mineral dust particles",
         "pub_year": "2011",
         "citation": "Atmospheric chemistry and physics 11 (21), 11131-11144, 2011",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "wXSgFr4AAAAJ:ufrVoPGSRksC"
     },
     {
@@ -498,7 +505,7 @@
         "title": "FLUXNET-CH4: A global, multi-ecosystem dataset and analysis of methane seasonality from freshwater wetlands",
         "pub_year": "2021",
         "citation": "Earth System Science Data Discussions 2021, 1-111, 2021",
-        "num_citations": 111,
+        "num_citations": 116,
         "author_pub_id": "wXSgFr4AAAAJ:HeT0ZceujKMC"
     },
     {
@@ -519,7 +526,7 @@
         "title": "Following particle-particle mixing in atmospheric secondary organic aerosols by using isotopically labeled terpenes",
         "pub_year": "2018",
         "citation": "Chem 4 (2), 318-333, 2018",
-        "num_citations": 50,
+        "num_citations": 49,
         "author_pub_id": "wXSgFr4AAAAJ:VOx2b1Wkg3QC"
     },
     {
@@ -553,8 +560,15 @@
         "title": "Heterogeneous ice nucleation properties of natural desert dust particles coated with a surrogate of secondary organic aerosol",
         "pub_year": "2019",
         "citation": "Atmospheric Chemistry and Physics 19 (7), 5091-5110, 2019",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "wXSgFr4AAAAJ:t6usbXjVLHcC"
+    },
+    {
+        "title": "Heterogeneous kinetics of N2O5 reactive uptake and chlorine activation in authentic biomass burning aerosol",
+        "pub_year": "2017",
+        "citation": "AGU Fall Meeting Abstracts 2017, A13J-05, 2017",
+        "num_citations": 0,
+        "author_pub_id": "wXSgFr4AAAAJ:Ehil0879vHcC"
     },
     {
         "title": "Heterogeneous reaction kinetics of authentic biomass burning aerosol with nitrogen oxides under nocturnal conditions",
@@ -644,7 +658,7 @@
         "title": "Influence of functional groups on organic aerosol cloud condensation nucleus activity",
         "pub_year": "2014",
         "citation": "Environmental science & technology 48 (17), 10182-10190, 2014",
-        "num_citations": 101,
+        "num_citations": 103,
         "author_pub_id": "wXSgFr4AAAAJ:maZDTaKrznsC"
     },
     {
@@ -658,7 +672,7 @@
         "title": "Initial uptake of ozone on Saharan dust at atmospheric relative humidities",
         "pub_year": "2005",
         "citation": "Geophysical research letters 32 (14), 2005",
-        "num_citations": 40,
+        "num_citations": 34,
         "author_pub_id": "wXSgFr4AAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -672,7 +686,7 @@
         "title": "Integrating laboratory and field data to quantify the immersion freezing ice nucleation activity of mineral dust particles",
         "pub_year": "2015",
         "citation": "Atmospheric Chemistry and Physics 15 (1), 393-409, 2015",
-        "num_citations": 388,
+        "num_citations": 398,
         "author_pub_id": "wXSgFr4AAAAJ:isC4tDSrTZIC"
     },
     {
@@ -700,14 +714,14 @@
         "title": "Investigations of the diurnal cycle and mixing state of oxalic acid in individual particles in Asian aerosol outflow",
         "pub_year": "2007",
         "citation": "Environmental Science Technology 41 (23), 8062-8069, 2007",
-        "num_citations": 183,
+        "num_citations": 184,
         "author_pub_id": "wXSgFr4AAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Irreversible loss of ice nucleation active sites in mineral dust particles caused by sulphuric acid condensation",
         "pub_year": "2010",
         "citation": "Atmospheric Chemistry and Physics 10 (23), 11471-11487, 2010",
-        "num_citations": 181,
+        "num_citations": 183,
         "author_pub_id": "wXSgFr4AAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -721,7 +735,7 @@
         "title": "Laboratory measurements of ice nuclei concentrations from ocean water spray",
         "pub_year": "2013",
         "citation": "AIP Conference Proceedings 1527 (1), 941-944, 2013",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "wXSgFr4AAAAJ:IWHjjKOFINEC"
     },
     {
@@ -752,7 +766,7 @@
         "author_pub_id": "wXSgFr4AAAAJ:j3f4tGmQtD8C"
     },
     {
-        "title": "Metallic and crustal elements in biomass-burning aerosol and ash: prevalence, significance, and similarity to soil particles",
+        "title": "Metallic and crustal elements in biomass-burning aerosol and ash: Prevalence, significance, and similarity to soil particles",
         "pub_year": "2020",
         "citation": "ACS Earth and Space Chemistry 5 (1), 136-148, 2020",
         "num_citations": 21,
@@ -762,7 +776,7 @@
         "title": "Mineral dust is a sink for chlorine in the marine boundary layer",
         "pub_year": "2007",
         "citation": "Atmospheric Environment 41 (34), 7166-7179, 2007",
-        "num_citations": 129,
+        "num_citations": 130,
         "author_pub_id": "wXSgFr4AAAAJ:qjMakFHDy7sC"
     },
     {
@@ -783,7 +797,7 @@
         "title": "Moving beyond fine particle mass: high-spatial resolution exposure to source-resolved atmospheric particle number and chemical mixing state",
         "pub_year": "2020",
         "citation": "Environmental health perspectives 128 (1), 017009, 2020",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "wXSgFr4AAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -825,7 +839,7 @@
         "title": "Optical properties of black carbon in cookstove emissions coated with secondary organic aerosols: Measurements and modeling",
         "pub_year": "2016",
         "citation": "Aerosol Science and Technology 50 (11), 1264-1276, 2016",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "wXSgFr4AAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -873,7 +887,7 @@
     {
         "title": "Preventing spread of aerosolized infectious particles during medical procedures: A lab-based analysis of an inexpensive plastic enclosure",
         "pub_year": "2022",
-        "citation": "PLoS One 17 (9), e0273194, 2022",
+        "citation": "Plos one 17 (9), e0273194, 2022",
         "num_citations": 0,
         "author_pub_id": "wXSgFr4AAAAJ:2VqYfGB8ITEC"
     },
@@ -916,7 +930,7 @@
         "title": "Production of secondary organic aerosol during aging of biomass burning smoke from fresh fuels and its relationship to VOC precursors",
         "pub_year": "2019",
         "citation": "Journal of Geophysical Research: Atmospheres 124 (6), 3583-3606, 2019",
-        "num_citations": 83,
+        "num_citations": 86,
         "author_pub_id": "wXSgFr4AAAAJ:9vf0nzSNQJEC"
     },
     {
@@ -930,7 +944,7 @@
         "title": "Quantifying errors in the aerosol mixing-state index based on limited particle sample size",
         "pub_year": "2020",
         "citation": "Aerosol Science and Technology 54 (12), 1527-1541, 2020",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "wXSgFr4AAAAJ:epqYDVWIO7EC"
     },
     {
@@ -972,14 +986,14 @@
         "title": "Role of molecular size in cloud droplet activation",
         "pub_year": "2009",
         "citation": "Geophysical research letters 36 (22), 2009",
-        "num_citations": 64,
+        "num_citations": 63,
         "author_pub_id": "wXSgFr4AAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Sea spray aerosol as a unique source of ice nucleating particles",
         "pub_year": "2016",
         "citation": "Proceedings of the National Academy of Sciences 113 (21), 5797-5803, 2016",
-        "num_citations": 399,
+        "num_citations": 406,
         "author_pub_id": "wXSgFr4AAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -1007,14 +1021,14 @@
         "title": "Single-particle elemental analysis of vacuum bag dust samples collected from the International Space Station by SEM/EDX and sp-ICP-ToF-MS",
         "pub_year": "2021",
         "citation": "Aerosol Science and Technology 55 (5), 571-585, 2021",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "wXSgFr4AAAAJ:VaXvl8Fpj5cC"
     },
     {
         "title": "Spatial variability of sources and mixing state of atmospheric particles in a metropolitan area",
         "pub_year": "2018",
         "citation": "Environmental science & technology 52 (12), 6807-6815, 2018",
-        "num_citations": 50,
+        "num_citations": 53,
         "author_pub_id": "wXSgFr4AAAAJ:kRWSkSYxWN8C"
     },
     {
@@ -1076,14 +1090,14 @@
         "title": "The Fifth International Workshop on Ice Nucleation phase 2 (FIN-02): laboratory intercomparison of ice nucleation measurements",
         "pub_year": "2018",
         "citation": "Atmospheric Measurement Techniques 11 (11), 6231-6257, 2018",
-        "num_citations": 87,
+        "num_citations": 92,
         "author_pub_id": "wXSgFr4AAAAJ:olpn-zPbct0C"
     },
     {
         "title": "The Surface Atmosphere Integrated Field Laboratory (SAIL) Campaign",
         "pub_year": "2023",
         "citation": "Bulletin of the American Meteorological Society 104 (12), E2192-E2222, 2023",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "wXSgFr4AAAAJ:DJbcl8HfkQkC"
     },
     {
@@ -1104,7 +1118,7 @@
         "title": "The unstable ice nucleation properties of Snomax® bacterial particles",
         "pub_year": "2016",
         "citation": "Journal of Geophysical Research: Atmospheres 121 (19), 11,666-11,678, 2016",
-        "num_citations": 73,
+        "num_citations": 75,
         "author_pub_id": "wXSgFr4AAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -1137,14 +1151,14 @@
         "title": "Trace gas emissions from combustion of peat, crop residue, biofuels, grasses, and other fuels: configuration and FTIR component of the fourth Fire Lab at Missoula Experiment …",
         "pub_year": "2014",
         "citation": "Atmospheric Chemistry & Physics Discussions 14 (7), 2014",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "wXSgFr4AAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Trace gas emissions from combustion of peat, crop residue, domestic biofuels, grasses, and other fuels: configuration and Fourier transform infrared (FTIR) component of the …",
         "pub_year": "2014",
         "citation": "Atmospheric chemistry and physics 14 (18), 9727-9754, 2014",
-        "num_citations": 225,
+        "num_citations": 228,
         "author_pub_id": "wXSgFr4AAAAJ:blknAaTinKkC"
     },
     {
@@ -1165,7 +1179,7 @@
         "title": "Upscaling wetland methane emissions from the FLUXNET‐CH4 Eddy covariance network (UpCH4 v1. 0): Model development, network assessment, and budget comparison",
         "pub_year": "2023",
         "citation": "AGU Advances 4 (5), e2023AV000956, 2023",
-        "num_citations": 6,
+        "num_citations": 8,
         "author_pub_id": "wXSgFr4AAAAJ:HtS1dXgVpQUC"
     },
     {
@@ -1218,7 +1232,7 @@
         "author_pub_id": "wXSgFr4AAAAJ:nZcligLrVowC"
     },
     {
-        "title": "Where Did This Particle Come From? Sources of Particle Number and Mass for Human Exposure Estimates",
+        "title": "Where did this particle come from? Sources of particle number and mass for human exposure estimates",
         "pub_year": "2016",
         "citation": "",
         "num_citations": 10,

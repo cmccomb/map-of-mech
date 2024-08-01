@@ -3,7 +3,7 @@
         "title": "A mechanistic explanation of shrinkage porosity in laser powder bed fusion additive manufacturing",
         "pub_year": "2024",
         "citation": "Acta Materialia 266, 119632, 2024",
-        "num_citations": 2,
+        "num_citations": 6,
         "author_pub_id": "LxF27NYAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -38,7 +38,7 @@
         "title": "Accelerating high-fidelity thermal process simulation of laser powder bed fusion via the computational fluid dynamics imposed finite element method (CIFEM)",
         "pub_year": "2022",
         "citation": "Additive Manufacturing Letters 3, 100081, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "LxF27NYAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -52,7 +52,7 @@
         "title": "An investigation of process parameter modifications on additively manufactured Inconel 718 parts",
         "pub_year": "2019",
         "citation": "Journal of Materials Engineering and Performance 28, 620-626, 2019",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "LxF27NYAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -73,7 +73,7 @@
         "title": "Defect structure process maps for laser powder bed fusion additive manufacturing",
         "pub_year": "2020",
         "citation": "Additive Manufacturing 36, 101552, 2020",
-        "num_citations": 239,
+        "num_citations": 248,
         "author_pub_id": "LxF27NYAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -94,14 +94,14 @@
         "title": "Enabling Part-Scale Scanwise process simulation for predicting melt pool variation in LPBF by combining GPU-based Matrix-free FEM and adaptive Remeshing",
         "pub_year": "2022",
         "citation": "Additive Manufacturing Letters 3, 100051, 2022",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "LxF27NYAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Evaluating the effect of processing parameters on porosity in electron beam melted Ti-6Al-4V via synchrotron X-ray microtomography",
         "pub_year": "2016",
         "citation": "Jom 68, 765-771, 2016",
-        "num_citations": 182,
+        "num_citations": 185,
         "author_pub_id": "LxF27NYAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -115,14 +115,14 @@
         "title": "Experimental investigation of in-situ microstructural transformations in wire arc additively manufactured maraging 250-grade steel",
         "pub_year": "2022",
         "citation": "Materials Characterization 190, 112065, 2022",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "LxF27NYAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Exploring the fabrication limits of thin-wall structures in a laser powder bed fusion process",
         "pub_year": "2020",
         "citation": "The International Journal of Advanced Manufacturing Technology 110 (1), 191-207, 2020",
-        "num_citations": 94,
+        "num_citations": 95,
         "author_pub_id": "LxF27NYAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -164,7 +164,7 @@
         "title": "Location specific solidification microstructure control in electron beam melting of Ti-6Al-4V",
         "pub_year": "2018",
         "citation": "Additive Manufacturing 19, 160-166, 2018",
-        "num_citations": 72,
+        "num_citations": 75,
         "author_pub_id": "LxF27NYAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -178,7 +178,7 @@
         "title": "Metal additive manufacturing: cost competitive beyond low volumes",
         "pub_year": "2017",
         "citation": "Journal of Manufacturing Science and Engineering 139 (8), 081010, 2017",
-        "num_citations": 164,
+        "num_citations": 165,
         "author_pub_id": "LxF27NYAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -213,14 +213,14 @@
         "title": "Rapid solidification: selective laser melting of AlSi10Mg",
         "pub_year": "2016",
         "citation": "Jom 68, 960-966, 2016",
-        "num_citations": 240,
+        "num_citations": 247,
         "author_pub_id": "LxF27NYAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Synchrotron-based X-ray microtomography characterization of the effect of processing variables on porosity formation in laser power-bed additive manufacturing of Ti-6Al-4V",
         "pub_year": "2017",
         "citation": "Jom 69, 479-484, 2017",
-        "num_citations": 340,
+        "num_citations": 346,
         "author_pub_id": "LxF27NYAAAAJ:IjCSPb-OGe4C"
     },
     {
