@@ -3,15 +3,22 @@
         "title": "3D printing hydrogel-based soft and biohybrid actuators: a mini-review on fabrication techniques, applications, and challenges",
         "pub_year": "2021",
         "citation": "Frontiers in Robotics and AI 8, 673533, 2021",
-        "num_citations": 36,
+        "num_citations": 40,
         "author_pub_id": "jW3whJYAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "3D-Printed Biohybrid Robots Powered by Neuromuscular Tissue Circuits from Aplysia californica",
         "pub_year": "2017",
         "citation": "Biomimetic and Biohybrid Systems: 6th International Conference, Living …, 2017",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "jW3whJYAAAAJ:hqOjcs7Dif8C"
+    },
+    {
+        "title": "A Preliminary Study on Factors That Drive Patient Variability in Human Subcutaneous Adipose Tissues",
+        "pub_year": "2024",
+        "citation": "Cells 13 (15), 1240, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jW3whJYAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "A Synthetic Nervous System Controls a Biomechanical Model of Aplysia Feeding",
@@ -94,7 +101,7 @@
         "title": "Aplysia Californica as a Novel Source of Material for Biohybrid Robots and Organic Machines",
         "pub_year": "2016",
         "citation": "Biomimetic and Biohybrid Systems: 5th International Conference, Living …, 2016",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "jW3whJYAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -115,14 +122,14 @@
         "title": "Biodegradable, sustainable hydrogel actuators with shape and stiffness morphing capabilities via embedded 3D printing",
         "pub_year": "2023",
         "citation": "Advanced Functional Materials 33 (36), 2303659, 2023",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "jW3whJYAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Biohybrid actuators for soft robotics: Challenges in scaling up",
         "pub_year": "2020",
         "citation": "Actuators 9 (4), 96, 2020",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "jW3whJYAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -136,14 +143,14 @@
         "title": "Biohybrid robots: recent progress, challenges, and perspectives",
         "pub_year": "2022",
         "citation": "Bioinspiration & biomimetics 18 (1), 015001, 2022",
-        "num_citations": 34,
+        "num_citations": 40,
         "author_pub_id": "jW3whJYAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Biomimetic IGA neuron growth modeling with neurite morphometric features and CNN-based prediction",
         "pub_year": "2023",
         "citation": "Computer Methods in Applied Mechanics and Engineering 417, 116213, 2023",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "jW3whJYAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -157,7 +164,7 @@
         "title": "Continuous fiber extruder for desktop 3D printers toward long fiber embedded hydrogel 3D printing",
         "pub_year": "2022",
         "citation": "HardwareX 11, e00297, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "jW3whJYAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -199,7 +206,7 @@
         "title": "Design of a biomimetic tactile sensor for material classification",
         "pub_year": "2022",
         "citation": "2022 International Conference on Robotics and Automation (ICRA), 10774-10780, 2022",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "jW3whJYAAAAJ:dhFuZR0502QC"
     },
     {
@@ -229,6 +236,13 @@
         "citation": "AIP Conference Proceedings, 2012",
         "num_citations": 0,
         "author_pub_id": "jW3whJYAAAAJ:Zph67rFs4hoC"
+    },
+    {
+        "title": "Ethics and responsibility in biohybrid robotics research",
+        "pub_year": "2024",
+        "citation": "Proceedings of the National Academy of Sciences 121 (31), e2310458121, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jW3whJYAAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "FRESH-Printing of a Multi-actuator Biodegradable Robot Arm for Articulation and Grasping",
@@ -330,14 +344,14 @@
         "title": "Kinesin and dynein mechanics: measurement methods and research applications",
         "pub_year": "2018",
         "citation": "Journal of biomechanical engineering 140 (2), 020805, 2018",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "jW3whJYAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Long-fiber embedded hydrogel 3D printing for structural reinforcement",
         "pub_year": "2021",
         "citation": "ACS biomaterials science & engineering 8 (1), 303-313, 2021",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "jW3whJYAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -363,14 +377,21 @@
         "title": "Modeling neuron growth using isogeometric collocation based phase field method",
         "pub_year": "2022",
         "citation": "Scientific Reports 12 (1), 8120, 2022",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "jW3whJYAAAAJ:R3hNpaxXUhUC"
+    },
+    {
+        "title": "Neurodevelopmental disorders modeling using isogeometric analysis, dynamic domain expansion and local refinement",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2407.00810, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jW3whJYAAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "Organismal engineering: Toward a robotic taxonomic key for devices using organic materials",
         "pub_year": "2017",
         "citation": "Science robotics 2 (12), eaap9281, 2017",
-        "num_citations": 69,
+        "num_citations": 72,
         "author_pub_id": "jW3whJYAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -384,8 +405,15 @@
         "title": "Quantitative evaluation of neuron developmental morphology in vitro using the change-point test",
         "pub_year": "2022",
         "citation": "",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "jW3whJYAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+        "title": "Roadmap for Animate Matter",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2407.10623, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jW3whJYAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "SLUGBOT, an Aplysia-Inspired Robotic Grasper for Studying Control",
@@ -398,7 +426,7 @@
         "title": "Semi-automated quantitative evaluation of neuron developmental morphology in vitro using the change-point test",
         "pub_year": "2023",
         "citation": "Neuroinformatics 21 (1), 163-176, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "jW3whJYAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -454,7 +482,7 @@
         "title": "Tuning the mechanical and geometric properties of electrochemically aligned collagen threads toward applications in biohybrid robotics",
         "pub_year": "2021",
         "citation": "Journal of Biomechanical Engineering 143 (5), 051005, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "jW3whJYAAAAJ:9ZlFYXVOiuMC"
     },
     {

@@ -17,7 +17,7 @@
         "title": "A route towards sustainability through engineered polymeric interfaces",
         "pub_year": "2014",
         "citation": "Advanced Materials Interfaces 1 (4), 1400117, 2014",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "NNSeBe4AAAAJ:YEBtnu9hOHUC"
     },
     {
@@ -38,14 +38,14 @@
         "title": "Carbon-coated high capacity layered Li [Li0. 2Mn0. 54Ni0. 13Co0. 13] O2 cathodes",
         "pub_year": "2010",
         "citation": "Electrochemistry Communications 12 (6), 750-753, 2010",
-        "num_citations": 256,
+        "num_citations": 257,
         "author_pub_id": "NNSeBe4AAAAJ:m03se8k-GH0C"
     },
     {
         "title": "Conductive Surface Modification with Aluminum of High Capacity Layered Li[Li0.2Mn0.54Ni0.13Co0.13]O2 Cathodes",
         "pub_year": "2010",
         "citation": "The Journal of Physical Chemistry C 114 (20), 9528-9533, 2010",
-        "num_citations": 215,
+        "num_citations": 216,
         "author_pub_id": "NNSeBe4AAAAJ:1Lk_dUza_R0C"
     },
     {
@@ -126,6 +126,12 @@
         "author_pub_id": "NNSeBe4AAAAJ:9UF2BbDYXHIC"
     },
     {
+        "title": "Energy-Efficient Synthesis of Ti3c2tx Mxene for Electromagnetic Shielding",
+        "citation": "Available at SSRN 4914590, 0",
+        "num_citations": 0,
+        "author_pub_id": "NNSeBe4AAAAJ:Qs68GpkTGbMC"
+    },
+    {
         "title": "Engineering lithium-ion battery cathodes for high-voltage applications using electromagnetic excitation",
         "pub_year": "2020",
         "citation": "Journal of Materials Science 55, 12177-12190, 2020",
@@ -138,6 +144,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "NNSeBe4AAAAJ:YIdQ7BAI8VoC"
+    },
+    {
+        "title": "Evaluating the sintering behaviors of ceramic oxide powders processed via binder jet additive manufacturing",
+        "pub_year": "2024",
+        "citation": "International Journal of Ceramic Engineering & Science, e10236, 2024",
+        "num_citations": 0,
+        "author_pub_id": "NNSeBe4AAAAJ:SZzxPo9m4nkC"
     },
     {
         "title": "Experimental and theoretical analyses of ZnO nanoparticles deposited onto single-wall carbon nanotubes",
@@ -192,14 +205,14 @@
         "title": "In situ synchrotron pair distribution function analysis to monitor synthetic pathways under electromagnetic excitation",
         "pub_year": "2020",
         "citation": "Journal of Materials Chemistry A 8 (31), 15909-15918, 2020",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "NNSeBe4AAAAJ:Iq19BMNozs4C"
     },
     {
         "title": "Influence of polymer–metal interface on the photovoltaic properties and long-term stability of nc-TiO2-P3HT hybrid solar cells",
         "pub_year": "2010",
         "citation": "Solar Energy Materials and Solar Cells 94 (5), 907-914, 2010",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "NNSeBe4AAAAJ:XAEgxC7iu0MC"
     },
     {
@@ -248,8 +261,15 @@
         "title": "Making the Case for Scaling up Microwave Sintering of Ceramics",
         "pub_year": "2024",
         "citation": "Advanced Engineering Materials, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "NNSeBe4AAAAJ:yRRszJvrVdAC"
+    },
+    {
+        "title": "Materials Chemistry for Biosensors",
+        "pub_year": "2017",
+        "citation": "2017 AIChE Annual Meeting, 2017",
+        "num_citations": 0,
+        "author_pub_id": "NNSeBe4AAAAJ:BzPC9jo9PWgC"
     },
     {
         "title": "Mechanistic Insights into Low Temperature Ceramic Thin Film Growth and Crystallization Using Microwave Radiation",
@@ -325,7 +345,7 @@
         "title": "Pair distribution function analysis driven by atomistic simulations: Application to microwave radiation synthesized TiO2 and ZrO2",
         "pub_year": "2023",
         "citation": "Computational Materials Science 218, 111964, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "NNSeBe4AAAAJ:KVXOKlNwS8oC"
     },
     {
@@ -339,7 +359,7 @@
         "title": "Parametric analysis to quantify process input influence on the printed densities of binder jetted alumina ceramics",
         "pub_year": "2019",
         "citation": "Additive Manufacturing 30, 100864, 2019",
-        "num_citations": 57,
+        "num_citations": 59,
         "author_pub_id": "NNSeBe4AAAAJ:cocyvO7vrcwC"
     },
     {
@@ -367,7 +387,7 @@
         "title": "Rechargeable Soft‐Matter EGaIn‐MnO2 Battery for Stretchable Electronics",
         "pub_year": "2019",
         "citation": "Advanced Energy Materials 9 (46), 1902798, 2019",
-        "num_citations": 71,
+        "num_citations": 73,
         "author_pub_id": "NNSeBe4AAAAJ:SC9kKMAi-DoC"
     },
     {
@@ -376,6 +396,20 @@
         "citation": "Applied Surface Science 256 (11), 3386-3389, 2010",
         "num_citations": 19,
         "author_pub_id": "NNSeBe4AAAAJ:uqZYSrDi9MMC"
+    },
+    {
+        "title": "SYMPOSIUM PM05",
+        "pub_year": "2018",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NNSeBe4AAAAJ:-Z8x4v2cOtkC"
+    },
+    {
+        "title": "Spreading anomaly semantic segmentation and 3D reconstruction of binder jet additive manufacturing powder bed images",
+        "pub_year": "2024",
+        "citation": "The International Journal of Advanced Manufacturing Technology, 1-13, 2024",
+        "num_citations": 0,
+        "author_pub_id": "NNSeBe4AAAAJ:cAUKuAERoUMC"
     },
     {
         "title": "Structural characterization and luminescence of porous single crystalline ZnO nanodisks with sponge-like morphology",

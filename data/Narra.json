@@ -3,7 +3,7 @@
         "title": "A mechanistic explanation of shrinkage porosity in laser powder bed fusion additive manufacturing",
         "pub_year": "2024",
         "citation": "Acta Materialia 266, 119632, 2024",
-        "num_citations": 6,
+        "num_citations": 8,
         "author_pub_id": "LxF27NYAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -31,14 +31,14 @@
         "title": "Accelerating Thermal Simulations in Additive Manufacturing by Training Physics-Informed Neural Networks With Randomly Synthesized Data",
         "pub_year": "2024",
         "citation": "Journal of Computing and Information Science in Engineering 24, 011004-1, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "LxF27NYAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Accelerating high-fidelity thermal process simulation of laser powder bed fusion via the computational fluid dynamics imposed finite element method (CIFEM)",
         "pub_year": "2022",
         "citation": "Additive Manufacturing Letters 3, 100081, 2022",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "LxF27NYAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -52,14 +52,14 @@
         "title": "An investigation of process parameter modifications on additively manufactured Inconel 718 parts",
         "pub_year": "2019",
         "citation": "Journal of Materials Engineering and Performance 28, 620-626, 2019",
-        "num_citations": 47,
+        "num_citations": 50,
         "author_pub_id": "LxF27NYAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Capturing Local Temperature Evolution During Additive Manufacturing Through Fourier Neural Operators",
         "pub_year": "2024",
         "citation": "Journal of Manufacturing Science and Engineering 146 (9), 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "LxF27NYAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -73,14 +73,14 @@
         "title": "Defect structure process maps for laser powder bed fusion additive manufacturing",
         "pub_year": "2020",
         "citation": "Additive Manufacturing 36, 101552, 2020",
-        "num_citations": 248,
+        "num_citations": 255,
         "author_pub_id": "LxF27NYAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Defect structure process maps for laser powder bed fusion additive manufacturing. Addit Manuf 36: 101552",
         "pub_year": "2020",
         "citation": "",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "LxF27NYAAAAJ:dhFuZR0502QC"
     },
     {
@@ -101,7 +101,7 @@
         "title": "Evaluating the effect of processing parameters on porosity in electron beam melted Ti-6Al-4V via synchrotron X-ray microtomography",
         "pub_year": "2016",
         "citation": "Jom 68, 765-771, 2016",
-        "num_citations": 185,
+        "num_citations": 186,
         "author_pub_id": "LxF27NYAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -122,21 +122,21 @@
         "title": "Exploring the fabrication limits of thin-wall structures in a laser powder bed fusion process",
         "pub_year": "2020",
         "citation": "The International Journal of Advanced Manufacturing Technology 110 (1), 191-207, 2020",
-        "num_citations": 95,
+        "num_citations": 98,
         "author_pub_id": "LxF27NYAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Fatigue-based process window for laser beam powder bed fusion additive manufacturing",
         "pub_year": "2024",
         "citation": "International Journal of Fatigue, 108428, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "LxF27NYAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Finding the limits of single-track deposition experiments: An experimental study of melt pool characterization in laser powder bed fusion",
         "pub_year": "2023",
         "citation": "Materials & Design 231, 112069, 2023",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "LxF27NYAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -157,14 +157,14 @@
         "title": "Limits of dispersoid size and number density in oxide dispersion strengthened alloys fabricated with powder bed fusion-laser beam",
         "pub_year": "2024",
         "citation": "Additive Manufacturing 81, 104022, 2024",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "LxF27NYAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Location specific solidification microstructure control in electron beam melting of Ti-6Al-4V",
         "pub_year": "2018",
         "citation": "Additive Manufacturing 19, 160-166, 2018",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "LxF27NYAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -178,7 +178,7 @@
         "title": "Metal additive manufacturing: cost competitive beyond low volumes",
         "pub_year": "2017",
         "citation": "Journal of Manufacturing Science and Engineering 139 (8), 081010, 2017",
-        "num_citations": 165,
+        "num_citations": 168,
         "author_pub_id": "LxF27NYAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -192,7 +192,7 @@
         "title": "Powder bed fusion–metals",
         "pub_year": "2022",
         "citation": "Elsevier, 2022",
-        "num_citations": 6,
+        "num_citations": 8,
         "author_pub_id": "LxF27NYAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -206,21 +206,21 @@
         "title": "Process qualification of laser powder bed fusion based on processing-defect structure-fatigue properties in Ti-6Al-4V",
         "pub_year": "2023",
         "citation": "Journal of Materials Processing Technology 311, 117775, 2023",
-        "num_citations": 21,
+        "num_citations": 25,
         "author_pub_id": "LxF27NYAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Rapid solidification: selective laser melting of AlSi10Mg",
         "pub_year": "2016",
         "citation": "Jom 68, 960-966, 2016",
-        "num_citations": 247,
+        "num_citations": 250,
         "author_pub_id": "LxF27NYAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Synchrotron-based X-ray microtomography characterization of the effect of processing variables on porosity formation in laser power-bed additive manufacturing of Ti-6Al-4V",
         "pub_year": "2017",
         "citation": "Jom 69, 479-484, 2017",
-        "num_citations": 346,
+        "num_citations": 353,
         "author_pub_id": "LxF27NYAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -234,14 +234,14 @@
         "title": "Trends in solidification grain size and morphology for additive manufacturing of Ti-6Al-4V",
         "pub_year": "2017",
         "citation": "Jom 69, 2706-2710, 2017",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "LxF27NYAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Use of non-spherical hydride-dehydride (HDH) powder in powder bed fusion additive manufacturing",
         "pub_year": "2020",
         "citation": "Additive Manufacturing 34, 101188, 2020",
-        "num_citations": 53,
+        "num_citations": 55,
         "author_pub_id": "LxF27NYAAAAJ:ufrVoPGSRksC"
     }
 ]

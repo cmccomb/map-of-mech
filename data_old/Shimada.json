@@ -42,7 +42,7 @@
         "title": "3 D discrete skeleton generation by wave propagation on PR-octree for finite element mesh sizing",
         "pub_year": "2004",
         "citation": "ACM Symposium on Solid and Physical Modeling: Proceedings of the ninth ACM …, 2004",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "pgcK25AAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -56,14 +56,14 @@
         "title": "3D Printing of Customizable Phantoms to Replace Cadaveric Models in Upper Extremity Surgical Residency Training",
         "pub_year": "2022",
         "citation": "Materials 15 (2), 694, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "pgcK25AAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "3D shape synthesis for conceptual design and optimization using variational autoencoders",
         "pub_year": "2019",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2019",
-        "num_citations": 61,
+        "num_citations": 63,
         "author_pub_id": "pgcK25AAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -91,7 +91,7 @@
         "title": "A Data Augmentation Method for Data-Driven Component Segmentation of Engineering Drawings",
         "pub_year": "2024",
         "citation": "Journal of Computing and Information Science in Engineering 24 (1), 011001, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "pgcK25AAAAAJ:bz8QjSJIRt4C"
     },
     {
@@ -126,7 +126,7 @@
         "title": "A computational framework for automatic online path generation of robotic inspection tasks via coverage planning and reinforcement learning",
         "pub_year": "2018",
         "citation": "IEEE Access 6, 54854-54864, 2018",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "pgcK25AAAAAJ:tYavs44e6CUC"
     },
     {
@@ -154,7 +154,7 @@
         "title": "A deep reinforcement learning approach for global routing",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (6), 061701, 2020",
-        "num_citations": 97,
+        "num_citations": 99,
         "author_pub_id": "pgcK25AAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -203,7 +203,7 @@
         "title": "A real-time dynamic obstacle tracking and mapping system for UAV navigation and collision avoidance with an RGB-D camera",
         "pub_year": "2023",
         "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 10645 …, 2023",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "pgcK25AAAAAJ:86PQX7AUzd4C"
     },
     {
@@ -217,14 +217,14 @@
         "title": "A survey of computational approaches to three-dimensional layout problems",
         "pub_year": "2002",
         "citation": "Computer-Aided Design 34 (8), 597-611, 2002",
-        "num_citations": 301,
+        "num_citations": 302,
         "author_pub_id": "pgcK25AAAAAJ:nrtMV_XWKgEC"
     },
     {
         "title": "A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles",
         "pub_year": "2023",
         "citation": "IEEE Robotics and Automation Letters, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "pgcK25AAAAAJ:rmuvC79q63oC"
     },
     {
@@ -245,7 +245,7 @@
         "title": "Airfoil GAN: encoding and synthesizing airfoils for aerodynamic shape optimization",
         "pub_year": "2023",
         "citation": "Journal of Computational Design and Engineering 10 (4), 1350-1362, 2023",
-        "num_citations": 16,
+        "num_citations": 19,
         "author_pub_id": "pgcK25AAAAAJ:ldfaerwXgEUC"
     },
     {
@@ -427,21 +427,21 @@
         "title": "Automatic hex-dominant mesh generation for Complex flow configurations",
         "pub_year": "2018",
         "citation": "SAE International Journal of Engines 11 (6), 615-624, 2018",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "pgcK25AAAAAJ:Fu2w8maKXqMC"
     },
     {
         "title": "Automatic triangular mesh generation of trimmed parametric surfaces for finite element analysis",
         "pub_year": "1998",
         "citation": "Computer Aided Geometric Design 15 (3), 199-222, 1998",
-        "num_citations": 178,
+        "num_citations": 179,
         "author_pub_id": "pgcK25AAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Autonomous UAV exploration of dynamic environments via incremental sampling and probabilistic roadmap",
         "pub_year": "2021",
         "citation": "IEEE Robotics and Automation Letters 6 (2), 2729-2736, 2021",
-        "num_citations": 95,
+        "num_citations": 97,
         "author_pub_id": "pgcK25AAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -462,7 +462,7 @@
         "title": "Bubble mesh: automated triangular meshing of non-manifold geometry by sphere packing",
         "pub_year": "1995",
         "citation": "Proceedings of the third ACM symposium on Solid modeling and applications …, 1995",
-        "num_citations": 306,
+        "num_citations": 309,
         "author_pub_id": "pgcK25AAAAAJ:k_IJM867U9cC"
     },
     {
@@ -504,7 +504,7 @@
         "title": "Combining geometry and domain knowledge to interpret hand-drawn diagrams",
         "pub_year": "2005",
         "citation": "Computers & Graphics 29 (4), 547-562, 2005",
-        "num_citations": 182,
+        "num_citations": 184,
         "author_pub_id": "pgcK25AAAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -518,7 +518,7 @@
         "title": "Component segmentation of engineering drawings using Graph Convolutional Networks",
         "pub_year": "2023",
         "citation": "Computers in Industry 147, 103885, 2023",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "pgcK25AAAAAJ:_axFR9aDTf0C"
     },
     {
@@ -539,28 +539,28 @@
         "title": "Computer-aided bone distraction",
         "pub_year": "2004",
         "citation": "US Patent 6,701,174, 2004",
-        "num_citations": 539,
+        "num_citations": 542,
         "author_pub_id": "pgcK25AAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Computer-aided bone distraction",
         "pub_year": "2010",
         "citation": "US Patent 7,837,621, 2010",
-        "num_citations": 151,
+        "num_citations": 152,
         "author_pub_id": "pgcK25AAAAAJ:2P1L_qKh6hAC"
     },
     {
         "title": "Computer-aided orthopedic surgery",
         "pub_year": "2004",
         "citation": "US Patent 6,711,432, 2004",
-        "num_citations": 626,
+        "num_citations": 628,
         "author_pub_id": "pgcK25AAAAAJ:i2xiXl-TujoC"
     },
     {
         "title": "Computer-aided orthopedic surgery",
         "pub_year": "2004",
         "citation": "US Patent App. 10/636,311, 2004",
-        "num_citations": 362,
+        "num_citations": 365,
         "author_pub_id": "pgcK25AAAAAJ:VOx2b1Wkg3QC"
     },
     {
@@ -644,21 +644,21 @@
         "title": "Coordinated aerial-ground robot exploration via monte-carlo view quality rendering",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2011.05275, 2020",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "pgcK25AAAAAJ:WbkHhVStYXYC"
     },
     {
         "title": "Cost‐and time‐effective three‐dimensional bone‐shape reconstruction from X‐ray images",
         "pub_year": "2007",
         "citation": "The international journal of medical robotics and computer assisted surgery …, 2007",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "pgcK25AAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Coverage path planning using path primitive sampling and primitive coverage graph for visual inspection",
         "pub_year": "2019",
         "citation": "2019 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2019",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "pgcK25AAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -679,14 +679,14 @@
         "title": "Current trends and issues in automatic mesh generation",
         "pub_year": "2006",
         "citation": "Computer-Aided Design and Applications 3 (6), 741-750, 2006",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "pgcK25AAAAAJ:uLbwQdceFCQC"
     },
     {
         "title": "Custom-fit three-dimensional-printed BiPAP mask to improve compliance in patients requiring long-term noninvasive ventilatory support",
         "pub_year": "2018",
         "citation": "Journal of medical devices 12 (3), 031003, 2018",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "pgcK25AAAAAJ:tOudhMTPpwUC"
     },
     {
@@ -700,14 +700,14 @@
         "title": "DPMPC-Planner: A real-time UAV trajectory planning framework for complex static environments with dynamic obstacles",
         "pub_year": "2022",
         "citation": "2022 International Conference on Robotics and Automation (ICRA), 250-256, 2022",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "pgcK25AAAAAJ:g3aElNc5_aQC"
     },
     {
         "title": "Data augmentation of engineering drawings for data-driven component segmentation",
         "pub_year": "2022",
         "citation": "International design engineering technical conferences and computers and …, 2022",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "pgcK25AAAAAJ:P5F9QuxV20EC"
     },
     {
@@ -734,7 +734,7 @@
         "title": "Design and fabrication of custom-fit BiPAP and CPAP masks using three-dimensional imaging and three-dimensional printing techniques",
         "pub_year": "2021",
         "citation": "Journal of Medical Devices 15 (2), 024502, 2021",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "pgcK25AAAAAJ:WqliGbK-hY8C"
     },
     {
@@ -784,6 +784,13 @@
         "citation": "Journal of Mechanical Design 136 (5), 051001, 2014",
         "num_citations": 6,
         "author_pub_id": "pgcK25AAAAAJ:KlAtU1dfN6UC"
+    },
+    {
+        "title": "Development of a Novel Soft Tissue Measurement Device for Individualized Finite Element Modeling in Custom-Fit CPAP Mask Evaluation",
+        "pub_year": "2024",
+        "citation": "Annals of Biomedical Engineering, 1-12, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pgcK25AAAAAJ:_5tno0g5mFcC"
     },
     {
         "title": "Development of a three-dimensionally printed ultrasound-guided peripheral intravenous catheter phantom",
@@ -845,7 +852,7 @@
         "title": "Face clustering of a large-scale cad model for surface mesh generation",
         "pub_year": "2001",
         "citation": "Computer-Aided Design 33 (3), 251-261, 2001",
-        "num_citations": 80,
+        "num_citations": 82,
         "author_pub_id": "pgcK25AAAAAJ:kzcrU_BdoSEC"
     },
     {
@@ -908,14 +915,14 @@
         "title": "Framework for automatic generation of facades on free-form surfaces",
         "pub_year": "2017",
         "citation": "Frontiers of Architectural Research 6 (3), 273-289, 2017",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "pgcK25AAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Frontier-based automatic-differentiable information gain measure for robotic exploration of unknown 3D environments",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2011.05288, 2020",
-        "num_citations": 15,
+        "num_citations": 18,
         "author_pub_id": "pgcK25AAAAAJ:uWiczbcajpAC"
     },
     {
@@ -992,7 +999,7 @@
         "title": "Graph neural network-enabled manufacturing method classification from engineering drawings",
         "pub_year": "2022",
         "citation": "Computers in Industry 142, 103697, 2022",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "pgcK25AAAAAJ:4DMP91E08xMC"
     },
     {
@@ -1041,7 +1048,7 @@
         "title": "Hexahedral Mesh Matching: Converting non‐conforming hexahedral‐to‐hexahedral interfaces into conforming interfaces",
         "pub_year": "2010",
         "citation": "International journal for numerical methods in engineering 82 (12), 1475-1509, 2010",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "pgcK25AAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1293,7 +1300,7 @@
         "title": "Method for evaluating the fit of custom-fit Continuous Positive Airway Pressure masks using finite element analysis",
         "pub_year": "2024",
         "citation": "Computer Methods in Biomechanics and Biomedical Engineering, 1-18, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "pgcK25AAAAAJ:umqufdRvDiIC"
     },
     {
@@ -1320,14 +1327,14 @@
         "title": "Model-based coverage motion planning for industrial 3D shape inspection applications",
         "pub_year": "2017",
         "citation": "2017 13th IEEE Conference on Automation Science and Engineering (CASE), 1293 …, 2017",
-        "num_citations": 24,
+        "num_citations": 26,
         "author_pub_id": "pgcK25AAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Model-based view planning for building inspection and surveillance using voxel dilation, medial objects, and random-key genetic algorithm",
         "pub_year": "2018",
         "citation": "Journal of Computational Design and Engineering 5 (3), 337-347, 2018",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "pgcK25AAAAAJ:08ZZubdj9fEC"
     },
     {
@@ -1383,7 +1390,7 @@
         "title": "Multi-UAV coverage path planning for the inspection of large and complex structures",
         "pub_year": "2020",
         "citation": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2020",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "pgcK25AAAAAJ:9Nmd_mFXekcC"
     },
     {
@@ -1467,14 +1474,14 @@
         "title": "Onboard dynamic-object detection and tracking for autonomous robot navigation with rgb-d camera",
         "pub_year": "2023",
         "citation": "IEEE Robotics and Automation Letters 9 (1), 651-658, 2023",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "pgcK25AAAAAJ:kh2fBNsKQNwC"
     },
     {
         "title": "Optimization Framework for Global Path Planning and Local Motion Planning for Robotic Welding of Multiple Large Industrial Parts",
         "pub_year": "2023",
         "citation": "2023 IEEE 19th International Conference on Automation Science and …, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "pgcK25AAAAAJ:0izLItjtcgwC"
     },
     {
@@ -1606,7 +1613,7 @@
         "title": "Redesigning Aerospace Components Using a Coupled Topology Optimization and Lattice Generation Approach",
         "pub_year": "2024",
         "citation": "3D Printing and Additive Manufacturing, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "pgcK25AAAAAJ:a9-T7VOCCH8C"
     },
     {
@@ -1641,14 +1648,14 @@
         "title": "Robotic exploration of unknown 2d environment using a frontier-based automatic-differentiable information gain measure",
         "pub_year": "2020",
         "citation": "2020 IEEE/ASME International Conference on Advanced Intelligent Mechatronics …, 2020",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "pgcK25AAAAAJ:j8SEvjWlNXcC"
     },
     {
         "title": "SAGA-Net: efficient pointcloud completion with shape-assisted graph attention neural network",
         "pub_year": "2022",
         "citation": "Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing, 569-576, 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "pgcK25AAAAAJ:t6usbXjVLHcC"
     },
     {
@@ -1662,14 +1669,14 @@
         "title": "Sampling-based coverage motion planning for industrial inspection application with redundant robotic system",
         "pub_year": "2017",
         "citation": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2017",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "pgcK25AAAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "Sampling-based view planning for 3d visual coverage task with unmanned aerial vehicle",
         "pub_year": "2016",
         "citation": "2016 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2016",
-        "num_citations": 58,
+        "num_citations": 60,
         "author_pub_id": "pgcK25AAAAAJ:_xSYboBqXhAC"
     },
     {
@@ -1822,7 +1829,7 @@
         "title": "Surface mesh segmentation and smooth surface extraction through region growing",
         "pub_year": "2005",
         "citation": "Computer aided geometric design 22 (8), 771-792, 2005",
-        "num_citations": 243,
+        "num_citations": 246,
         "author_pub_id": "pgcK25AAAAAJ:lSLTfruPkqcC"
     },
     {
@@ -1850,14 +1857,14 @@
         "title": "System and method for displaying shadows by dividing surfaces by occlusion into umbra penumbra, and illuminated regions from discontinuity edges and generating mesh",
         "pub_year": "1998",
         "citation": "US Patent 5,808,620, 1998",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "pgcK25AAAAAJ:b1wdh0AR-JQC"
     },
     {
         "title": "System and method for three-dimensional shape generation from partial and incomplete views, and interactive design system using same",
         "pub_year": "2006",
         "citation": "US Patent App. 11/135,528, 2006",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "pgcK25AAAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -1912,7 +1919,7 @@
         "title": "Three-dimensional bone shape reconstruction from X-ray images using hierarchical free-form deformation and nonlinear optimization",
         "pub_year": "2004",
         "citation": "International Congress Series 1268, 1291-1291, 2004",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "pgcK25AAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -1926,7 +1933,7 @@
         "title": "Three-dimensional ship hull encoding and optimization via deep neural networks",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (10), 101701, 2022",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "pgcK25AAAAAJ:ClCfbGk0d_YC"
     },
     {
@@ -1961,7 +1968,7 @@
         "title": "Unconstrained plastering—Hexahedral mesh generation via advancing‐front geometry decomposition",
         "pub_year": "2010",
         "citation": "International journal for numerical methods in engineering 81 (2), 135-171, 2010",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "pgcK25AAAAAJ:evX43VCCuoAC"
     },
     {
@@ -1989,7 +1996,7 @@
         "title": "Vision-aided UAV navigation and dynamic obstacle avoidance using gradient-based B-spline trajectory optimization",
         "pub_year": "2023",
         "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 1214-1220, 2023",
-        "num_citations": 10,
+        "num_citations": 13,
         "author_pub_id": "pgcK25AAAAAJ:PVjk1bu6vJQC"
     },
     {

@@ -92,7 +92,7 @@
         "title": "A biosensing soft robot: Autonomous parsing of chemical signals through integrated organic and inorganic interfaces",
         "pub_year": "2019",
         "citation": "Science Robotics 4 (31), eaax0765, 2019",
-        "num_citations": 104,
+        "num_citations": 109,
         "author_pub_id": "sLEB9iYAAAAJ:sNmaIFBj_lkC"
     },
     {
@@ -253,7 +253,7 @@
         "title": "Bio-inspired soft robotics: Material selection, actuation, and design",
         "pub_year": "2018",
         "citation": "Extreme Mechanics Letters 22, 51-59, 2018",
-        "num_citations": 340,
+        "num_citations": 351,
         "author_pub_id": "sLEB9iYAAAAJ:_axFR9aDTf0C"
     },
     {
@@ -420,7 +420,7 @@
         "title": "Composite polymer systems with control of local substrate elasticity and their effect on cytoskeletal and morphological characteristics of adherent cells",
         "pub_year": "2009",
         "citation": "Biomaterials 30 (18), 3136-3142, 2009",
-        "num_citations": 126,
+        "num_citations": 127,
         "author_pub_id": "sLEB9iYAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -475,7 +475,7 @@
         "title": "Controlling C2C12 Cytotoxicity on Liquid Metal Embedded Elastomer (LMEE)",
         "pub_year": "2023",
         "citation": "Advanced Healthcare Materials 12 (17), 2202430, 2023",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "sLEB9iYAAAAJ:QD3KBmkZPeQC"
     },
     {
@@ -510,7 +510,7 @@
         "title": "Controlling mammalian cell spreading and cytoskeletal arrangement with conveniently fabricated continuous wavy features on poly (dimethylsiloxane)",
         "pub_year": "2002",
         "citation": "Langmuir 18 (8), 3273-3280, 2002",
-        "num_citations": 266,
+        "num_citations": 267,
         "author_pub_id": "sLEB9iYAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -573,7 +573,7 @@
         "title": "Defining the role of syndecan-4 in mechanotransduction using surface-modification approaches",
         "pub_year": "2009",
         "citation": "Proceedings of the National Academy of Sciences 106 (52), 22102-22107, 2009",
-        "num_citations": 135,
+        "num_citations": 136,
         "author_pub_id": "sLEB9iYAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -887,7 +887,7 @@
         "title": "Fabrication of circular microfluidic channels by combining mechanical micromilling and soft lithography",
         "pub_year": "2011",
         "citation": "Lab on a Chip 11 (8), 1550-1555, 2011",
-        "num_citations": 196,
+        "num_citations": 198,
         "author_pub_id": "sLEB9iYAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -912,6 +912,13 @@
         "author_pub_id": "sLEB9iYAAAAJ:J-pR_7NvFogC"
     },
     {
+        "title": "Fly Me to the Micron: Microtechnologies for Drosophila Research",
+        "pub_year": "2024",
+        "citation": "Annual Review of Biomedical Engineering 26 (1), 441-473, 2024",
+        "num_citations": 0,
+        "author_pub_id": "sLEB9iYAAAAJ:IaI1MmNe2tcC"
+    },
+    {
         "title": "Force-controlled inorganic crystallization lithography",
         "pub_year": "2006",
         "citation": "Journal of the American Chemical Society 128 (37), 12080-12081, 2006",
@@ -922,7 +929,7 @@
         "title": "Freeform 3D Ice Printing (3D‐ICE) at the Micro Scale",
         "pub_year": "2022",
         "citation": "Advanced Science 9 (27), 2201566, 2022",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "sLEB9iYAAAAJ:LgRImbQfgY4C"
     },
     {
@@ -964,7 +971,7 @@
         "title": "Hierarchical machine learning for high-fidelity 3D printed biopolymers",
         "pub_year": "2020",
         "citation": "ACS Biomaterials Science & Engineering 6 (12), 7021-7031, 2020",
-        "num_citations": 53,
+        "num_citations": 56,
         "author_pub_id": "sLEB9iYAAAAJ:HeT0ZceujKMC"
     },
     {
@@ -985,7 +992,7 @@
         "title": "High-throughput mechanotransduction in Drosophila embryos with mesofluidics",
         "pub_year": "2019",
         "citation": "Lab on a Chip 19 (7), 1141-1152, 2019",
-        "num_citations": 29,
+        "num_citations": 32,
         "author_pub_id": "sLEB9iYAAAAJ:kh2fBNsKQNwC"
     },
     {
@@ -1104,7 +1111,7 @@
         "title": "Integrating synthetic cells and flexible electronics for the control of bio-opto-fluidic materials",
         "pub_year": "2014",
         "citation": "Biophysical Journal 106 (2), 617a-618a, 2014",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "sLEB9iYAAAAJ:_Ybze24A_UAC"
     },
     {
@@ -1230,7 +1237,7 @@
         "title": "Material Gradients in Stretchable Substrates toward Integrated Electronic Functionality.",
         "pub_year": "2016",
         "citation": "Advanced Materials (Deerfield Beach, Fla.) 28 (18), 3584-3591, 2016",
-        "num_citations": 70,
+        "num_citations": 72,
         "author_pub_id": "sLEB9iYAAAAJ:gsN89kCJA0AC"
     },
     {
@@ -1258,7 +1265,7 @@
         "title": "Mechanical loading of stem cells for improvement of transplantation outcome in a model of acute myocardial infarction: the role of loading history",
         "pub_year": "2012",
         "citation": "Tissue Engineering Part A 18 (11-12), 1101-1108, 2012",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "sLEB9iYAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -1279,14 +1286,14 @@
         "title": "Mechanical stretch and shear flow induced reorganization and recruitment of fibronectin in fibroblasts",
         "pub_year": "2011",
         "citation": "Scientific reports 1 (1), 147, 2011",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "sLEB9iYAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Mechanochemical actuators of embryonic epithelial contractility",
         "pub_year": "2014",
         "citation": "Proceedings of the National Academy of Sciences 111 (40), 14366-14371, 2014",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "sLEB9iYAAAAJ:t7zJ5fGR-2UC"
     },
     {
@@ -1319,6 +1326,13 @@
     },
     {
         "title": "Method for object detection using hierarchical deep learning",
+        "pub_year": "2022",
+        "citation": "US Patent 11,367,189, 2022",
+        "num_citations": 1,
+        "author_pub_id": "sLEB9iYAAAAJ:u-coK7KVo8oC"
+    },
+    {
+        "title": "Method for object detection using hierarchical deep learning",
         "pub_year": "2024",
         "citation": "US Patent App. 18/391,820, 2024",
         "num_citations": 0,
@@ -1330,13 +1344,6 @@
         "citation": "US Patent 11,893,811, 2024",
         "num_citations": 0,
         "author_pub_id": "sLEB9iYAAAAJ:GFxP56DSvIMC"
-    },
-    {
-        "title": "Method for object detection using hierarchical deep learning",
-        "pub_year": "2022",
-        "citation": "US Patent 11,367,189, 2022",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:u-coK7KVo8oC"
     },
     {
         "title": "Method of optical fabrication of three-dimensional polymeric structures with out of plane profile control",
@@ -1384,7 +1391,7 @@
         "title": "Microfluidics for understanding model organisms",
         "pub_year": "2022",
         "citation": "Nature communications 13 (1), 3195, 2022",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "sLEB9iYAAAAJ:Ak0FvsSvgGUC"
     },
     {
@@ -1447,7 +1454,7 @@
         "title": "Modeling the transmittance of anisotropic diffuse radiation towards estimating energy losses in solar panel coverings",
         "pub_year": "2020",
         "citation": "Applied energy 268, 114872, 2020",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "sLEB9iYAAAAJ:dBIO0h50nwkC"
     },
     {
@@ -1475,7 +1482,7 @@
         "title": "Molecular crowding shapes gene expression in synthetic cellular nanosystems",
         "pub_year": "2013",
         "citation": "Nature nanotechnology 8 (8), 602-608, 2013",
-        "num_citations": 253,
+        "num_citations": 254,
         "author_pub_id": "sLEB9iYAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -1577,6 +1584,13 @@
         "author_pub_id": "sLEB9iYAAAAJ:9Nmd_mFXekcC"
     },
     {
+        "title": "Physics of microscale freeform 3D printing of ice",
+        "pub_year": "2024",
+        "citation": "Proceedings of the National Academy of Sciences 121 (30), e2322330121, 2024",
+        "num_citations": 0,
+        "author_pub_id": "sLEB9iYAAAAJ:FiytvqdAVhgC"
+    },
+    {
         "title": "Planes, Trains, Automobiles.... and Cells?",
         "pub_year": "2019",
         "citation": "2nd International Conference on Nanomaterials Science and Mechanical …, 2019",
@@ -1622,7 +1636,7 @@
         "title": "Polymeric microlenses for real-time aqueous and nonaqueous organic imaging",
         "pub_year": "2006",
         "citation": "Applied physics letters 88 (5), 2006",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "sLEB9iYAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -1699,7 +1713,7 @@
         "title": "Probing cell structure responses through a shear and stretching mechanical stimulation technique",
         "pub_year": "2010",
         "citation": "Cell biochemistry and biophysics 56, 115-124, 2010",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "sLEB9iYAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -1734,7 +1748,7 @@
         "title": "Probing localized neural mechanotransduction through surface-modified elastomeric matrices and electrophysiology",
         "pub_year": "2010",
         "citation": "nature protocols 5 (4), 714-724, 2010",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "sLEB9iYAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -1821,10 +1835,10 @@
         "author_pub_id": "sLEB9iYAAAAJ:ye4kPcJQO24C"
     },
     {
-        "title": "Sequential involvement of Cdk1, mTOR and p53 in apoptosis induced by the HIV-1 envelope",
+        "title": "Sequential involvement of Cdk1, mTOR and p53 in apoptosis induced by the HIV‐1 envelope",
         "pub_year": "2002",
-        "citation": "The EMBO journal 21 (15), 4070-4080, 2002",
-        "num_citations": 184,
+        "citation": "The EMBO journal, 2002",
+        "num_citations": 185,
         "author_pub_id": "sLEB9iYAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1936,7 +1950,7 @@
         "title": "Sudden motility reversal indicates sensing of magnetic field gradients in Magnetospirillum magneticum AMB-1 strain",
         "pub_year": "2015",
         "citation": "The ISME journal 9 (6), 1399-1409, 2015",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "sLEB9iYAAAAJ:nrtMV_XWKgEC"
     },
     {
@@ -1998,7 +2012,7 @@
         "title": "The role of mechanics in biological and bio-inspired systems",
         "pub_year": "2015",
         "citation": "Nature communications 6 (1), 1-12, 2015",
-        "num_citations": 220,
+        "num_citations": 223,
         "author_pub_id": "sLEB9iYAAAAJ:vbGhcppDl1QC"
     },
     {
@@ -2123,7 +2137,7 @@
         "title": "Toward vasculature in skeletal muscle-on-a-chip through thermo-responsive sacrificial templates",
         "pub_year": "2020",
         "citation": "Micromachines 11 (10), 907, 2020",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "sLEB9iYAAAAJ:HtS1dXgVpQUC"
     },
     {
@@ -2151,7 +2165,7 @@
         "title": "Tumor-on-a-chip for integrating a 3D tumor microenvironment: chemical and mechanical factors",
         "pub_year": "2020",
         "citation": "Lab on a Chip 20 (5), 873-888, 2020",
-        "num_citations": 97,
+        "num_citations": 99,
         "author_pub_id": "sLEB9iYAAAAJ:mlAyqtXpCwEC"
     },
     {
@@ -2228,7 +2242,7 @@
         "title": "Urban solar harvesting: The importance of diffuse shadows in complex environments",
         "pub_year": "2023",
         "citation": "Renewable and Sustainable Energy Reviews 175, 113155, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "sLEB9iYAAAAJ:uDGL6kOW6j0C"
     },
     {
