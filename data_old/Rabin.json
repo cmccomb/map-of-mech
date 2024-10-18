@@ -45,7 +45,7 @@
         "title": "114 Thermal expansion of a carotid artery model permeated with the cryoprotective cocktail DP6 and synthetic ice modulators at cryogenic temperatures",
         "pub_year": "2013",
         "citation": "Cryobiology 67 (3), 430, 2013",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "INTSXtcAAAAJ:hkOj_22Ku90C"
     },
     {
@@ -59,7 +59,7 @@
         "title": "13 Solid Mechanics Aspects of",
         "pub_year": "2006",
         "citation": "Advances in biopreservation, 359, 2006",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "INTSXtcAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -211,7 +211,7 @@
         "title": "A new cryomacroscope device (Type III) for visualization of physical events in cryopreservation with applications to vitrification and synthetic ice modulators",
         "pub_year": "2013",
         "citation": "Cryobiology 67 (3), 264-273, 2013",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "INTSXtcAAAAJ:UxriW0iASnsC"
     },
     {
@@ -232,7 +232,7 @@
         "title": "A new device for mechanical testing of blood vessels at cryogenic temperatures",
         "pub_year": "2007",
         "citation": "Experimental mechanics 47, 337-346, 2007",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "INTSXtcAAAAJ:1sJd4Hv_s6UC"
     },
     {
@@ -246,7 +246,7 @@
         "title": "A new thermal model for bone drilling with applications to orthopaedic surgery",
         "pub_year": "2011",
         "citation": "Medical engineering & physics 33 (10), 1234-1244, 2011",
-        "num_citations": 196,
+        "num_citations": 200,
         "author_pub_id": "INTSXtcAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -309,21 +309,21 @@
         "title": "An efficient numerical solution for the multidimensional solidification (or melting) problem using a microcomputer",
         "pub_year": "1993",
         "citation": "International journal of heat and mass transfer 36 (3), 673-683, 1993",
-        "num_citations": 79,
+        "num_citations": 80,
         "author_pub_id": "INTSXtcAAAAJ:tkaPQYYpVKoC"
     },
     {
         "title": "An efficient numerical technique for bioheat simulations and its application to computerized cryosurgery planning",
         "pub_year": "2007",
         "citation": "Computer methods and programs in biomedicine 85 (1), 41-50, 2007",
-        "num_citations": 95,
+        "num_citations": 96,
         "author_pub_id": "INTSXtcAAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "An experimental investigation on thermal exposure during bone drilling",
         "pub_year": "2012",
         "citation": "Medical engineering & physics 34 (10), 1510-1520, 2012",
-        "num_citations": 219,
+        "num_citations": 222,
         "author_pub_id": "INTSXtcAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -365,28 +365,28 @@
         "title": "Analysis of crystallization during rewarming in suboptimal vitrification conditions: a semi-empirical approach",
         "pub_year": "2021",
         "citation": "Cryobiology 103, 70-80, 2021",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "INTSXtcAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Analysis of polarized-light effects in glass-promoting solutions with applications to cryopreservation and organ banking",
         "pub_year": "2018",
         "citation": "PloS one 13 (6), e0199155, 2018",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "INTSXtcAAAAJ:mvPsJ3kp5DgC"
     },
     {
         "title": "Analysis of the effect of partial vitrification on stress development in cryopreserved blood vessels",
         "pub_year": "2007",
         "citation": "Medical Engineering & Physics 29 (6), 661-670, 2007",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "INTSXtcAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Analysis of thermal stresses around a cryosurgical probe",
         "pub_year": "1996",
         "citation": "Cryobiology 33 (2), 276-290, 1996",
-        "num_citations": 72,
+        "num_citations": 73,
         "author_pub_id": "INTSXtcAAAAJ:LjlpjdlvIbIC"
     },
     {
@@ -441,7 +441,7 @@
         "title": "Can thermal expansion differences between cryopreserved tissue and cryoprotective agents alone cause cracking?",
         "pub_year": "2009",
         "citation": "CryoLetters 30 (6), 414-421, 2009",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "INTSXtcAAAAJ:XiVPGOgt02cC"
     },
     {
@@ -559,7 +559,7 @@
         "title": "Continuum mechanics analysis of fracture progression in the vitrified cryoprotective agent DP6",
         "pub_year": "2008",
         "citation": "",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "INTSXtcAAAAJ:dhFuZR0502QC"
     },
     {
@@ -601,21 +601,21 @@
         "title": "Cryomacroscopy of vitrification I: a prototype and experimental observations on the cocktails VS55 and DP6",
         "pub_year": "2005",
         "citation": "Cell preservation technology 3 (3), 169-183, 2005",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "INTSXtcAAAAJ:J_g5lzvAfSwC"
     },
     {
         "title": "Cryomacroscopy of vitrification II: Experimental observations and analysis of fracture formation in vitrified VS55 and DP6",
         "pub_year": "2005",
         "citation": "Cell preservation technology 3 (3), 184-200, 2005",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "INTSXtcAAAAJ:8AbLer7MMksC"
     },
     {
         "title": "Cryopreservation of carotid artery segments via vitrification subject to marginal thermal conditions: correlation of freezing visualization with functional recovery",
         "pub_year": "2008",
         "citation": "Cryobiology 57 (1), 1-8, 2008",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "INTSXtcAAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -726,7 +726,7 @@
         "title": "Fracture formation in vitrified thin films of cryoprotectants",
         "pub_year": "2006",
         "citation": "Cryobiology 53 (1), 75-95, 2006",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "INTSXtcAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -768,14 +768,14 @@
         "title": "Gross damage accumulation in frozen rabbit liver due to mechanical stress at cryogenic temperatures",
         "pub_year": "1997",
         "citation": "Cryobiology 34 (4), 394-405, 1997",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "INTSXtcAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Improved tissue cryopreservation using inductive heating of magnetic nanoparticles",
         "pub_year": "2017",
         "citation": "Science translational medicine 9 (379), eaah4586, 2017",
-        "num_citations": 281,
+        "num_citations": 284,
         "author_pub_id": "INTSXtcAAAAJ:nrtMV_XWKgEC"
     },
     {
@@ -789,14 +789,14 @@
         "title": "Infrared temperature sensing of mechanically loaded specimens: thermal analysis",
         "pub_year": "2000",
         "citation": "Experimental Mechanics 40, 197-202, 2000",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "INTSXtcAAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "Integrated solar collector storage system based on a salt-hydrate phase-change material",
         "pub_year": "1995",
         "citation": "Solar Energy 55 (6), 435-444, 1995",
-        "num_citations": 195,
+        "num_citations": 196,
         "author_pub_id": "INTSXtcAAAAJ:wbdj-CoPYUoC"
     },
     {
@@ -810,14 +810,14 @@
         "title": "Is intracellular hyperthermia superior to extracellular hyperthermia in the thermal sense?",
         "pub_year": "2002",
         "citation": "International Journal of Hyperthermia 18 (3), 194-202, 2002",
-        "num_citations": 276,
+        "num_citations": 277,
         "author_pub_id": "INTSXtcAAAAJ:u9iWguZQMMsC"
     },
     {
         "title": "Is isochoric vitrification feasible?",
         "pub_year": "2023",
         "citation": "Cryobiology 111, 9-15, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "INTSXtcAAAAJ:kzcrU_BdoSEC"
     },
     {
@@ -838,14 +838,14 @@
         "title": "Large surface deformation due to thermo-mechanical effects during cryopreservation by vitrification–mathematical model and experimental validation",
         "pub_year": "2023",
         "citation": "Plos one 18 (3), e0282613, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "INTSXtcAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "Large thermal conductivity differences between the crystalline and vitrified states of DMSO with applications to cryopreservation",
         "pub_year": "2015",
         "citation": "PLoS One 10 (5), e0125862, 2015",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "INTSXtcAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -866,7 +866,7 @@
         "title": "Mathematical modeling of surface deformation during vitrification",
         "pub_year": "2021",
         "citation": "Cryobiology 102, 34-41, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "INTSXtcAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -928,7 +928,7 @@
         "title": "Numerical solution of the multidimensional freezing problem during cryosurgery",
         "pub_year": "1998",
         "citation": "",
-        "num_citations": 245,
+        "num_citations": 246,
         "author_pub_id": "INTSXtcAAAAJ:XiSMed-E-HIC"
     },
     {
@@ -941,7 +941,7 @@
         "title": "On the effects of thermal history on the development and relaxation of thermo-mechanical stress in cryopreservation",
         "pub_year": "2014",
         "citation": "Cryogenics 64, 86-94, 2014",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "INTSXtcAAAAJ:0KyAp5RtaNEC"
     },
     {
@@ -962,21 +962,21 @@
         "title": "Perspective: temperature-dependent density and thermal expansion of cryoprotective agents",
         "pub_year": "2022",
         "citation": "CryoLetters 43 (1), 1-9, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "INTSXtcAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Polarized light scanning cryomacroscopy, part I: Experimental apparatus and observations of vitrification, crystallization, and photoelasticity effects",
         "pub_year": "2016",
         "citation": "Cryobiology 73 (2), 261-271, 2016",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "INTSXtcAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Polarized light scanning cryomacroscopy, part II: Thermal modeling and analysis of experimental observations",
         "pub_year": "2016",
         "citation": "Cryobiology 73 (2), 272-281, 2016",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "INTSXtcAAAAJ:dTyEYWd-f8wC"
     },
     {
@@ -1011,7 +1011,7 @@
         "title": "Scaling effects on the residual thermomechanical stress during ice-free cooling to storage temperature",
         "pub_year": "2020",
         "citation": "Journal of Applied Mechanics 87 (10), 101003, 2020",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "INTSXtcAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -1039,14 +1039,14 @@
         "title": "Stress-strain measurements and viscoelastic response of blood vessels cryopreserved by vitrification",
         "pub_year": "2007",
         "citation": "Annals of biomedical engineering 35, 2077-2086, 2007",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "INTSXtcAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Stress–strain measurements in vitrified arteries permeated with synthetic ice modulators",
         "pub_year": "2015",
         "citation": "Journal of biomechanical engineering 137 (8), 081007, 2015",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "INTSXtcAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1128,7 +1128,7 @@
         "title": "The effect of temperature gradients on stress development during cryopreservation via vitrification",
         "pub_year": "2007",
         "citation": "Cell preservation technology 5 (2), 104-115, 2007",
-        "num_citations": 83,
+        "num_citations": 84,
         "author_pub_id": "INTSXtcAAAAJ:nb7KW1ujOQ8C"
     },
     {
@@ -1142,14 +1142,14 @@
         "title": "The effect of thermal expansion of ingredients on the cocktails VS55 and DP6",
         "pub_year": "2004",
         "citation": "Cell Preservation Technology 2 (3), 215-226, 2004",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "INTSXtcAAAAJ:JoZmwDi-zQgC"
     },
     {
         "title": "The promise of organ and tissue preservation to transform medicine",
         "pub_year": "2017",
         "citation": "Nature biotechnology 35 (6), 530-542, 2017",
-        "num_citations": 486,
+        "num_citations": 492,
         "author_pub_id": "INTSXtcAAAAJ:BrmTIyaxlBUC"
     },
     {
@@ -1163,7 +1163,7 @@
         "title": "The scanning cryomacroscope–A device prototype for the study of cryopreservation",
         "pub_year": "2014",
         "citation": "Cryogenics 62, 118-128, 2014",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "INTSXtcAAAAJ:uLbwQdceFCQC"
     },
     {
@@ -1190,7 +1190,7 @@
         "title": "Thermal Expansion of blood vessels in low cryogenic temperatures, Part II: Vitrification with VS55, DP6, and 7.05 M DMSO",
         "pub_year": "2006",
         "citation": "Cryobiology 52 (2), 284-294, 2006",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "INTSXtcAAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -1225,7 +1225,7 @@
         "title": "Thermal analysis of marginal conditions to facilitate cryopreservation by vitrification using a semi-empirical approach",
         "pub_year": "2019",
         "citation": "Cryobiology 91, 128-136, 2019",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "INTSXtcAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -1246,56 +1246,56 @@
         "title": "Thermal conductivity of cryoprotective agents loaded with nanoparticles, with application to recovery of preserved tissues and organs from cryogenic storage",
         "pub_year": "2020",
         "citation": "PLoS One 15 (9), e0238941, 2020",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "INTSXtcAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "Thermal conductivity of the cryoprotective cocktail DP6 in cryogenic temperatures, in the presence and absence of synthetic ice modulators",
         "pub_year": "2016",
         "citation": "Cryobiology 73 (2), 196-202, 2016",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "INTSXtcAAAAJ:HoB7MX3m0LUC"
     },
     {
         "title": "Thermal expansion measurements of cryoprotective agents. Part I: A new experimental apparatus",
         "pub_year": "2003",
         "citation": "Cryobiology 46 (3), 254-263, 2003",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "INTSXtcAAAAJ:SdhP9T11ey4C"
     },
     {
         "title": "Thermal expansion measurements of cryoprotective agents. Part II: measurements of DP6 and VS55, and comparison with DMSO",
         "pub_year": "2003",
         "citation": "Cryobiology 46 (3), 264-270, 2003",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "INTSXtcAAAAJ:ldfaerwXgEUC"
     },
     {
         "title": "Thermal expansion measurements of frozen biological tissues at cryogenic temperatures",
         "pub_year": "1998",
         "citation": "",
-        "num_citations": 89,
+        "num_citations": 90,
         "author_pub_id": "INTSXtcAAAAJ:fEOibwPWpKIC"
     },
     {
         "title": "Thermal expansion of blood vessels and muscle specimens permeated with DMSO, DP6, and VS55 at cryogenic temperatures",
         "pub_year": "2005",
         "citation": "Annals of Biomedical Engineering 33, 1213-1228, 2005",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "INTSXtcAAAAJ:dQ2og3OwTAUC"
     },
     {
         "title": "Thermal expansion of blood vessels in low cryogenic temperatures Part I: A new experimental device",
         "pub_year": "2006",
         "citation": "Cryobiology 52 (2), 269-283, 2006",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "INTSXtcAAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Thermal expansion of blood vessels in low cryogenic temperatures, Part II: Vitrification with VS55, DP6, and 7.05 M DMSO",
         "pub_year": "2006",
         "citation": "Cryobiology 52 (2), 284-294, 2006",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "INTSXtcAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -1309,21 +1309,21 @@
         "title": "Thermal expansion of the cryoprotectant cocktail DP6 combined with synthetic ice modulators in presence and absence of biological tissues",
         "pub_year": "2012",
         "citation": "Cryobiology 65 (2), 117-125, 2012",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "INTSXtcAAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Thermal expansion of the cryoprotective agent cocktail DP6 in combination with various synthetic ice modulators",
         "pub_year": "2017",
         "citation": "ASME Bioengineering and Biotransport Conference, 2017",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "INTSXtcAAAAJ:SeFeTyx0c_EC"
     },
     {
         "title": "Thermal expansion of vitrified blood vessels permeated with DP6 and synthetic ice modulators",
         "pub_year": "2014",
         "citation": "Cryobiology 68 (3), 318-326, 2014",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "INTSXtcAAAAJ:rO6llkc54NcC"
     },
     {
@@ -1351,21 +1351,21 @@
         "title": "Thermo-mechanical stress analysis of cryopreservation in cryobags and the potential benefit of nanowarming",
         "pub_year": "2017",
         "citation": "Cryobiology 76, 129-139, 2017",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "INTSXtcAAAAJ:9vf0nzSNQJEC"
     },
     {
         "title": "Thermo-mechanics aspects of isochoric cryopreservation: A new modeling approach and comparison with experimental data",
         "pub_year": "2022",
         "citation": "Plos one 17 (4), e0267852, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "INTSXtcAAAAJ:AXPGKjj_ei8C"
     },
     {
         "title": "Thermomechanical stress analyses of nanowarming-assisted recovery from cryopreservation by vitrification in human heart and rat heart models",
         "pub_year": "2023",
         "citation": "Plos one 18 (8), e0290063, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "INTSXtcAAAAJ:eq2jaN3J8jMC"
     },
     {
@@ -1379,15 +1379,21 @@
         "title": "Thermomechanical stress analysis of rabbit kidney and human kidney during cryopreservation by vitrification with the application of radiofrequency heating",
         "pub_year": "2021",
         "citation": "Cryobiology 100, 180-192, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "INTSXtcAAAAJ:a0OBvERweLwC"
     },
     {
         "title": "Thermomechanical stress in cryopreservation via vitrification with nanoparticle heating as a stress-moderating effect",
         "pub_year": "2016",
         "citation": "Journal of biomechanical engineering 138 (1), 011010, 2016",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "INTSXtcAAAAJ:L8Ckcad2t8MC"
+    },
+    {
+        "title": "Thermomechanics Modeling and Visualization of Physical Effects to Improve Cryopreservation by Vitrification",
+        "citation": "Annual Review of Heat Transfer, 0",
+        "num_citations": 0,
+        "author_pub_id": "INTSXtcAAAAJ:AvfA0Oy_GE0C"
     },
     {
         "title": "Towards intra‐operative computerized planning of prostate cryosurgery",
@@ -1400,7 +1406,7 @@
         "title": "Two-phase computerized planning of cryosurgery using bubble-packing and force-field analogy",
         "pub_year": "2006",
         "citation": "",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "INTSXtcAAAAJ:olpn-zPbct0C"
     },
     {
@@ -1449,14 +1455,14 @@
         "title": "Viscosity of cryoprotective agents near glass transition: a new device, technique, and data on DMSO, DP6, and VS55",
         "pub_year": "2009",
         "citation": "Experimental mechanics 49, 663-672, 2009",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "INTSXtcAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Vitreous tissue cryopreservation using blood vessel models and cryomacroscopy for scale-up studies",
         "pub_year": "2018",
         "citation": "Cryobiology 80, 161, 2018",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "INTSXtcAAAAJ:5awf1xo2G04C"
     },
     {
@@ -1470,14 +1476,14 @@
         "title": "Vitrification and rewarming of magnetic nanoparticle‐loaded rat hearts",
         "pub_year": "2022",
         "citation": "Advanced materials technologies 7 (3), 2100873, 2022",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "INTSXtcAAAAJ:WqliGbK-hY8C"
     },
     {
         "title": "Vitrification of carotid artery segments: an integrated study of thermophysical events and functional recovery toward scale-up for clinical applications",
         "pub_year": "2006",
         "citation": "Cell preservation technology 4 (4), 236-244, 2006",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "INTSXtcAAAAJ:35N4QoGY0k4C"
     },
     {

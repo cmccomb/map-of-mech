@@ -83,7 +83,7 @@
         "title": "Accurate method for determining adhesion of cantilever beams",
         "pub_year": "1999",
         "citation": "Journal of applied physics 86 (2), 817-827, 1999",
-        "num_citations": 313,
+        "num_citations": 316,
         "author_pub_id": "P1OWCkAAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -160,7 +160,7 @@
         "title": "Capillary adhesion between elastically hard rough surfaces",
         "pub_year": "2007",
         "citation": "Experimental mechanics 47, 171-183, 2007",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "P1OWCkAAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -174,7 +174,7 @@
         "title": "Capillary-induced crack healing between surfaces of nanoscale roughness",
         "pub_year": "2014",
         "citation": "Langmuir 30 (39), 11625-11633, 2014",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "P1OWCkAAAAAJ:ldfaerwXgEUC"
     },
     {
@@ -258,7 +258,7 @@
         "title": "Crack Healing Between Rough Polycrystalline Silicon Hydrophilic Surfaces in n-Pentanol and Water Vapors",
         "pub_year": "2015",
         "citation": "Tribology Letters 59, 1-12, 2015",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "P1OWCkAAAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -279,7 +279,7 @@
         "title": "Crystalline polymer nanofibers with ultra-high strength and thermal conductivity",
         "pub_year": "2018",
         "citation": "Nature communications 9 (1), 1664, 2018",
-        "num_citations": 135,
+        "num_citations": 136,
         "author_pub_id": "P1OWCkAAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -384,7 +384,7 @@
         "title": "Effect of adhesion on dynamic and static friction in surface micromachining",
         "pub_year": "2004",
         "citation": "Applied Physics Letters 84 (13), 2451-2453, 2004",
-        "num_citations": 84,
+        "num_citations": 86,
         "author_pub_id": "P1OWCkAAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -405,7 +405,7 @@
         "title": "Effects of electrical current and temperature on contamination-induced degradation in ohmic switch contacts",
         "pub_year": "2015",
         "citation": "Tribology International 85, 48-55, 2015",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "P1OWCkAAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -440,7 +440,7 @@
         "title": "Evidence for pre-sliding tangential deflections in MEMS friction",
         "pub_year": "2003",
         "citation": "TRANSDUCERS'03. 12th International Conference on Solid-State Sensors …, 2003",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "P1OWCkAAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -468,7 +468,7 @@
         "title": "Experimental insights into adhesion and friction between nominally dry rough surfaces",
         "pub_year": "2022",
         "citation": "MRS Bulletin 47 (12), 1237-1246, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "P1OWCkAAAAAJ:g3aElNc5_aQC"
     },
     {
@@ -538,7 +538,7 @@
         "title": "Full assessment of micromachine friction within the rate–state framework: Experiments",
         "pub_year": "2016",
         "citation": "Tribology letters 63, 1-15, 2016",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "P1OWCkAAAAAJ:BrmTIyaxlBUC"
     },
     {
@@ -568,6 +568,13 @@
         "citation": "Growth of silicon carbide nanoparticles using tetraethylorthosilicate for …, 2006",
         "num_citations": 0,
         "author_pub_id": "P1OWCkAAAAAJ:yD5IFk8b50cC"
+    },
+    {
+        "title": "High fidelity frictional models for MEMS",
+        "pub_year": "2004",
+        "citation": "SAND2004-4791, Sandia National Laboratories, Albuquerque, 2004",
+        "num_citations": 2,
+        "author_pub_id": "P1OWCkAAAAAJ:ClCfbGk0d_YC"
     },
     {
         "title": "High fidelity frictional models for MEMS.",
@@ -615,7 +622,7 @@
         "title": "Impact of contact materials and operating conditions on stability of micromechanical switches",
         "pub_year": "2013",
         "citation": "Tribology Letters 51, 341-356, 2013",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "P1OWCkAAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -643,7 +650,7 @@
         "title": "In situ wear studies of surface micromachined interfaces subject to controlled loading",
         "pub_year": "2006",
         "citation": "Wear 260 (6), 580-593, 2006",
-        "num_citations": 69,
+        "num_citations": 70,
         "author_pub_id": "P1OWCkAAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -699,7 +706,7 @@
         "title": "Interferometry of actuated microcantilevers to determine material properties and test structure nonidealities in MEMS",
         "pub_year": "2001",
         "citation": "Journal of Microelectromechanical Systems 10 (3), 336-346, 2001",
-        "num_citations": 163,
+        "num_citations": 164,
         "author_pub_id": "P1OWCkAAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -762,7 +769,7 @@
         "title": "Low voltage cold and hot switching in nanoswitches cleaned by in situ oxygen plasma can achieve low stable contact resistance",
         "pub_year": "2024",
         "citation": "Journal of Applied Physics 135 (2), 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "P1OWCkAAAAAJ:k8Z6L05lTy4C"
     },
     {
@@ -818,7 +825,7 @@
         "title": "Measuring the elastic modulus and residual stress of freestanding thin films using nanoindentation techniques",
         "pub_year": "2009",
         "citation": "Journal of Materials Research 24 (9), 2974-2985, 2009",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "P1OWCkAAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -832,14 +839,14 @@
         "title": "Mechanics of microcantilever beams subject to combined electrostatic and adhesive forces",
         "pub_year": "2002",
         "citation": "Journal of Microelectromechanical Systems 11 (6), 754-764, 2002",
-        "num_citations": 138,
+        "num_citations": 139,
         "author_pub_id": "P1OWCkAAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Mechanochemical effects of adsorbates at nanoelectromechanical switch contacts",
         "pub_year": "2019",
         "citation": "ACS applied materials & interfaces 11 (42), 39238-39247, 2019",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "P1OWCkAAAAAJ:ye4kPcJQO24C"
     },
     {
@@ -944,7 +951,7 @@
         "title": "Microwedge indentation of the thin film fine line—I. Mechanics",
         "pub_year": "1996",
         "citation": "Acta materialia 44 (8), 3169-3175, 1996",
-        "num_citations": 130,
+        "num_citations": 131,
         "author_pub_id": "P1OWCkAAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1000,7 +1007,7 @@
         "title": "On-chip laboratory suite for testing of free-standing metal film mechanical properties, Part II–Experiments",
         "pub_year": "2008",
         "citation": "Acta materialia 56 (14), 3313-3326, 2008",
-        "num_citations": 35,
+        "num_citations": 34,
         "author_pub_id": "P1OWCkAAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -1063,7 +1070,7 @@
         "title": "Phase Change Nanoelectromechanical Relay for Nonvolatile Low Leakage Switching",
         "pub_year": "2022",
         "citation": "Advanced Electronic Materials 8 (9), 2200085, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "P1OWCkAAAAAJ:4MWp96NkSFoC"
     },
     {
@@ -1160,7 +1167,7 @@
         "title": "Rate-state friction in microelectromechanical systems interfaces: Experiment and theory",
         "pub_year": "2014",
         "citation": "Journal of Applied Physics 116 (24), 2014",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "P1OWCkAAAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -1283,7 +1290,7 @@
         "title": "Stress mapping of micromachined polycrystalline silicon devices via confocal Raman microscopy",
         "pub_year": "2014",
         "citation": "Applied Physics Letters 104 (19), 2014",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "P1OWCkAAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -1325,7 +1332,7 @@
         "title": "The impact of solution agglomeration on the deposition of self-assembled monolayers",
         "pub_year": "2000",
         "citation": "Langmuir 16 (20), 7742-7751, 2000",
-        "num_citations": 231,
+        "num_citations": 233,
         "author_pub_id": "P1OWCkAAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -1339,7 +1346,7 @@
         "title": "The role of van der Waals forces in adhesion of micromachined surfaces",
         "pub_year": "2005",
         "citation": "Nature materials 4 (8), 629-634, 2005",
-        "num_citations": 595,
+        "num_citations": 599,
         "author_pub_id": "P1OWCkAAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1360,7 +1367,7 @@
         "title": "Thermodynamics of capillary adhesion between rough surfaces",
         "pub_year": "2007",
         "citation": "Journal of colloid and interface science 311 (1), 171-185, 2007",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "P1OWCkAAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -1423,7 +1430,7 @@
         "title": "Van der waals and capillary adhesion of polycrystalline silicon micromachined surfaces",
         "pub_year": "2012",
         "citation": "Scanning Probe Microscopy in Nanoscience and Nanotechnology 3, 363-393, 2012",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "P1OWCkAAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -1443,7 +1450,7 @@
         "title": "van der Waals force-induced crack healing in dry rough interfaces",
         "pub_year": "2016",
         "citation": "Journal of Physics D: Applied Physics 49 (7), 075303, 2016",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "P1OWCkAAAAAJ:8AbLer7MMksC"
     }
 ]

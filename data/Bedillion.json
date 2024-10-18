@@ -14,10 +14,17 @@
         "author_pub_id": "UIS_G1YAAAAJ:WF5omc3nYNoC"
     },
     {
+        "title": "A Programmable Substrate to Study Robots Jumping from Non-rigid Surfaces",
+        "pub_year": "2024",
+        "citation": "IEEE Robotics and Automation Letters, 2024",
+        "num_citations": 0,
+        "author_pub_id": "UIS_G1YAAAAJ:f2IySw72cVMC"
+    },
+    {
         "title": "A distributed manipulation concept using selective braking",
         "pub_year": "2014",
         "citation": "2014 American Control Conference, 3322-3328, 2014",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "UIS_G1YAAAAJ:TQgYirikUcIC"
     },
     {
@@ -38,7 +45,7 @@
         "title": "Actuator Array Manipulation Using Low Resolution Local Sensing",
         "pub_year": "2014",
         "citation": "ASME International Mechanical Engineering Congress and Exposition 46476 …, 2014",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "UIS_G1YAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -66,7 +73,7 @@
         "title": "Charge-based scanning probe readback of nanometer-scale ferroelectric domain patterns at megahertz rates",
         "pub_year": "2009",
         "citation": "Nanotechnology 20 (22), 225501, 2009",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "UIS_G1YAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -136,14 +143,14 @@
         "title": "Distributed sensing in actuator array manipulation",
         "pub_year": "2013",
         "citation": "ASME International Mechanical Engineering Congress and Exposition 56246 …, 2013",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "UIS_G1YAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "Early Incorporation of Design for Manufacturing in the Engineering Curriculum",
         "pub_year": "2015",
         "citation": "2015 ASEE Annual Conference & Exposition, 26.564. 1-26.564. 14, 2015",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "UIS_G1YAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -430,7 +437,7 @@
         "title": "Servo sector format with large lithographic tolerances",
         "pub_year": "2009",
         "citation": "US Patent 7,576,942, 2009",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "UIS_G1YAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -514,7 +521,7 @@
         "title": "Trajectory tracking control for actuator arrays",
         "pub_year": "2012",
         "citation": "IEEE Transactions on Control Systems Technology 21 (6), 2341-2349, 2012",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "UIS_G1YAAAAJ:aqlVkmm33-oC"
     },
     {

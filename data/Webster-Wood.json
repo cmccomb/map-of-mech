@@ -38,21 +38,21 @@
         "title": "A bioinspired synthetic nervous system controller for pick-and-place manipulation",
         "pub_year": "2023",
         "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 8047-8053, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "jW3whJYAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "A computational approach for contactless muscle force and strain estimations in distributed actuation biohybrid mesh constructs",
         "pub_year": "2022",
         "citation": "Conference on Biomimetic and Biohybrid Systems, 140-151, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "jW3whJYAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "A computational neural model that incorporates both intrinsic dynamics and sensory feedback in the Aplysia feeding network",
         "pub_year": "2024",
         "citation": "Biological Cybernetics, 1-27, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jW3whJYAAAAJ:blknAaTinKkC"
     },
     {
@@ -87,14 +87,14 @@
         "title": "A tunable magnet-based tactile sensor framework",
         "pub_year": "2020",
         "citation": "2020 IEEE SENSORS, 1-4, 2020",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "jW3whJYAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "An integrated computer vision system for real-time monitoring and control of long-fiber embedded hydrogel 3D printing",
         "pub_year": "2022",
         "citation": "Materials Today: Proceedings 70, 376-381, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "jW3whJYAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -122,14 +122,14 @@
         "title": "Biodegradable, sustainable hydrogel actuators with shape and stiffness morphing capabilities via embedded 3D printing",
         "pub_year": "2023",
         "citation": "Advanced Functional Materials 33 (36), 2303659, 2023",
-        "num_citations": 19,
+        "num_citations": 22,
         "author_pub_id": "jW3whJYAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Biohybrid actuators for soft robotics: Challenges in scaling up",
         "pub_year": "2020",
         "citation": "Actuators 9 (4), 96, 2020",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "jW3whJYAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -143,7 +143,7 @@
         "title": "Biohybrid robots: recent progress, challenges, and perspectives",
         "pub_year": "2022",
         "citation": "Bioinspiration & biomimetics 18 (1), 015001, 2022",
-        "num_citations": 42,
+        "num_citations": 50,
         "author_pub_id": "jW3whJYAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -206,7 +206,7 @@
         "title": "Design of a biomimetic tactile sensor for material classification",
         "pub_year": "2022",
         "citation": "2022 International Conference on Robotics and Automation (ICRA), 10774-10780, 2022",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "jW3whJYAAAAJ:dhFuZR0502QC"
     },
     {
@@ -227,7 +227,7 @@
         "title": "Effect of actuating cell source on locomotion of organic living machines with electrocompacted collagen skeleton",
         "pub_year": "2016",
         "citation": "Bioinspiration & biomimetics 11 (3), 036012, 2016",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "jW3whJYAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -273,7 +273,7 @@
     {
         "title": "Full Hill-type muscle model of the I1/I3 retractor muscle complex in Aplysia californica",
         "pub_year": "2024",
-        "citation": "Biological Cybernetics, 1-21, 2024",
+        "citation": "Biological Cybernetics 118 (3), 165-185, 2024",
         "num_citations": 0,
         "author_pub_id": "jW3whJYAAAAJ:hMod-77fHWUC"
     },
@@ -288,7 +288,7 @@
         "title": "Gecko adhesion based sea star crawler robot",
         "pub_year": "2023",
         "citation": "Frontiers in Robotics and AI 10, 1209202, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "jW3whJYAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -306,11 +306,25 @@
         "author_pub_id": "jW3whJYAAAAJ:M3ejUd6NZC8C"
     },
     {
+        "title": "Hitting the Gym: Reinforcement Learning Control of Exercise-Strengthened Biohybrid Robots in Simulation",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2408.16069, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jW3whJYAAAAJ:O3NaXMp0MMsC"
+    },
+    {
         "title": "Human subcutaneous adipose tissue variability is driven by VEGFA, ACTA2, adipocyte density, and ancestral history of the patient",
         "pub_year": "2023",
         "citation": "bioRxiv, 2023.05. 31.543052, 2023",
         "num_citations": 1,
         "author_pub_id": "jW3whJYAAAAJ:RHpTSmoSYBkC"
+    },
+    {
+        "title": "Incorporating buccal mass planar mechanics and anatomical features improves neuromechanical modeling of Aplysia feeding behavior",
+        "pub_year": "2024",
+        "citation": "bioRxiv, 2024.09. 17.613591, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jW3whJYAAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "Influence of Shock Prestraining and Texture on the Dynamic-Tensile- Extrusion of High-Purity Zirconium",
@@ -344,7 +358,7 @@
         "title": "Kinesin and dynein mechanics: measurement methods and research applications",
         "pub_year": "2018",
         "citation": "Journal of biomechanical engineering 140 (2), 020805, 2018",
-        "num_citations": 34,
+        "num_citations": 38,
         "author_pub_id": "jW3whJYAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -391,7 +405,7 @@
         "title": "Organismal engineering: Toward a robotic taxonomic key for devices using organic materials",
         "pub_year": "2017",
         "citation": "Science robotics 2 (12), eaap9281, 2017",
-        "num_citations": 72,
+        "num_citations": 74,
         "author_pub_id": "jW3whJYAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -440,7 +454,7 @@
         "title": "Simulating muscular thin films using thermal contraction capabilities in finite element analysis tools",
         "pub_year": "2016",
         "citation": "Journal of the Mechanical Behavior of Biomedical Materials 63, 326-336, 2016",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "jW3whJYAAAAJ:TQgYirikUcIC"
     },
     {
@@ -475,7 +489,7 @@
         "title": "The Tall, the Squat, & the Bendy: Parametric Modeling and Simulation Towards Multi-functional Biohybrid Robots",
         "pub_year": "2023",
         "citation": "Conference on Biomimetic and Biohybrid Systems, 217-226, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jW3whJYAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -496,14 +510,14 @@
         "title": "Volumetric MicroCT intensity histograms of fatty infiltration correlate with the mechanical strength of Rotator Cuff repairs: an Ex vivo rabbit model",
         "pub_year": "2021",
         "citation": "Clinical Orthopaedics and Related Research® 479 (2), 406-418, 2021",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "jW3whJYAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Woven collagen biotextiles enable mechanically functional rotator cuff tendon regeneration during repair of segmental tendon defects in vivo",
         "pub_year": "2019",
         "citation": "Journal of Biomedical Materials Research Part B: Applied Biomaterials 107 (6 …, 2019",
-        "num_citations": 43,
+        "num_citations": 48,
         "author_pub_id": "jW3whJYAAAAJ:8k81kl-MbHgC"
     }
 ]

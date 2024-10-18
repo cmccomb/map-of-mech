@@ -9,7 +9,7 @@
         "title": "2D to 3D volumetric reconstruction of human spine for diagnosis and prognosis of spinal deformities",
         "pub_year": "2021",
         "citation": "Conference: 16th US national congress on computational mechanics, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "dzHYBKcAAAAJ:Ef4XXjhdXvQC"
     },
     {
@@ -23,7 +23,7 @@
         "title": "3D finite element meshing from imaging data",
         "pub_year": "2005",
         "citation": "Computer methods in applied mechanics and engineering 194 (48), 5083-5106, 2005",
-        "num_citations": 245,
+        "num_citations": 246,
         "author_pub_id": "dzHYBKcAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -53,6 +53,20 @@
         "author_pub_id": "dzHYBKcAAAAJ:o0tJHVzi6PsC"
     },
     {
+        "title": "A Modified Simulated Annealing-Based Method for Hybrid Lattice Support Structure Design in LPBF Additive Manufacturing",
+        "pub_year": "2024",
+        "citation": "Journal of Computing and Information Science in Engineering 24 (12), 2024",
+        "num_citations": 0,
+        "author_pub_id": "dzHYBKcAAAAJ:LYDvBi7O6RsC"
+    },
+    {
+        "title": "A Multi-Sized Unit Cell Method for the Design of LPBF Lattice Support Structures Concerning Complex Geometries",
+        "pub_year": "2024",
+        "citation": "Journal of Computing and Information Science in Engineering, 1-36, 2024",
+        "num_citations": 0,
+        "author_pub_id": "dzHYBKcAAAAJ:Sw8WaQuuSIgC"
+    },
+    {
         "title": "A field-based representation of surrounding vehicle motion from a monocular camera",
         "pub_year": "2018",
         "citation": "2018 IEEE Intelligent Vehicles Symposium (IV), 1761-1766, 2018",
@@ -70,7 +84,7 @@
         "title": "A fully-coupled fluid-structure interaction simulation of cerebral aneurysms",
         "pub_year": "2010",
         "citation": "Computational mechanics 46, 3-16, 2010",
-        "num_citations": 290,
+        "num_citations": 295,
         "author_pub_id": "dzHYBKcAAAAJ:maZDTaKrznsC"
     },
     {
@@ -98,7 +112,7 @@
         "title": "A novel dynamic multilevel technique for image registration",
         "pub_year": "2015",
         "citation": "Computers & Mathematics with Applications 69 (9), 909-925, 2015",
-        "num_citations": 21,
+        "num_citations": 24,
         "author_pub_id": "dzHYBKcAAAAJ:F9HO9s0W2bwC"
     },
     {
@@ -119,7 +133,7 @@
         "title": "A novel hybrid IGA-EIEQ numerical method for the Allen–Cahn/Cahn–Hilliard equations on complex curved surfaces",
         "pub_year": "2023",
         "citation": "Computer Methods in Applied Mechanics and Engineering 404, 115767, 2023",
-        "num_citations": 12,
+        "num_citations": 14,
         "author_pub_id": "dzHYBKcAAAAJ:rQKKVauEoioC"
     },
     {
@@ -133,7 +147,7 @@
         "title": "A prototype mesh generation tool for CFD simulations in architecture domain",
         "pub_year": "2010",
         "citation": "Building and Environment 45 (10), 2253-2262, 2010",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "dzHYBKcAAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -154,7 +168,7 @@
         "title": "A three-dimensional finite element model of human atrial anatomy: new methods for cubic Hermite meshes with extraordinary vertices",
         "pub_year": "2013",
         "citation": "Medical image analysis 17 (5), 525-537, 2013",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "dzHYBKcAAAAJ:rTD5ala9j4wC"
     },
     {
@@ -194,7 +208,7 @@
         "title": "Adaptive FEM-based nonrigid image registration using truncated hierarchical B-splines",
         "pub_year": "2016",
         "citation": "Computers & Mathematics with Applications 72 (8), 2028-2040, 2016",
-        "num_citations": 37,
+        "num_citations": 39,
         "author_pub_id": "dzHYBKcAAAAJ:INdAjOZKYREC"
     },
     {
@@ -215,7 +229,7 @@
         "title": "Adaptive and quality quadrilateral/hexahedral meshing from volumetric data",
         "pub_year": "2006",
         "citation": "Computer methods in applied mechanics and engineering 195 (9-12), 942-960, 2006",
-        "num_citations": 307,
+        "num_citations": 308,
         "author_pub_id": "dzHYBKcAAAAJ:y7JhAc_VBLgC"
     },
     {
@@ -255,14 +269,14 @@
         "title": "An adaptive isogeometric analysis collocation method with a recovery-based error estimator",
         "pub_year": "2019",
         "citation": "Computer Methods in Applied Mechanics and Engineering 345, 52-74, 2019",
-        "num_citations": 35,
+        "num_citations": 37,
         "author_pub_id": "dzHYBKcAAAAJ:dHRcJqc9SEQC"
     },
     {
         "title": "An adaptive nonrigid image registration technique using hierarchical B-splines",
         "pub_year": "2016",
         "citation": "Computational Vision and Medical Image Processing V-Proceedings of 5th …, 2016",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "dzHYBKcAAAAJ:-ZoC36zw86wC"
     },
     {
@@ -297,14 +311,14 @@
         "title": "An isogeometric collocation method using superconvergent points",
         "pub_year": "2015",
         "citation": "Computer Methods in Applied Mechanics and Engineering 284, 1073-1097, 2015",
-        "num_citations": 135,
+        "num_citations": 136,
         "author_pub_id": "dzHYBKcAAAAJ:w7CBUyPWg-0C"
     },
     {
         "title": "An octree-based dual contouring method for triangular and tetrahedral mesh generation with guaranteed angle range",
         "pub_year": "2014",
         "citation": "Engineering with Computers 30, 211-222, 2014",
-        "num_citations": 47,
+        "num_citations": 49,
         "author_pub_id": "dzHYBKcAAAAJ:_tF6a-HnqWAC"
     },
     {
@@ -317,7 +331,7 @@
         "title": "Analysis-suitable unstructured T-splines: Multiple extraordinary points per face",
         "pub_year": "2022",
         "citation": "Computer Methods in Applied Mechanics and Engineering 391, 114494, 2022",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "dzHYBKcAAAAJ:ZppSRAJs3i8C"
     },
     {
@@ -338,7 +352,7 @@
         "title": "Arbitrary-degree T-splines for isogeometric analysis of fully nonlinear Kirchhoff–Love shells",
         "pub_year": "2017",
         "citation": "Computer-Aided Design 82, 140-153, 2017",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "dzHYBKcAAAAJ:wE8AsS3ykUMC"
     },
     {
@@ -366,7 +380,7 @@
         "title": "Automatic unstructured all-hexahedral mesh generation from B-Reps for non-manifold CAD assemblies",
         "pub_year": "2011",
         "citation": "Engineering with Computers, 1-15, 2011",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "dzHYBKcAAAAJ:uLbwQdceFCQC"
     },
     {
@@ -427,7 +441,7 @@
         "title": "Blended B-spline construction on unstructured quadrilateral and hexahedral meshes with optimal convergence rates in isogeometric analysis",
         "pub_year": "2018",
         "citation": "Computer Methods in Applied Mechanics and Engineering 341, 609-639, 2018",
-        "num_citations": 70,
+        "num_citations": 72,
         "author_pub_id": "dzHYBKcAAAAJ:q82PccF7nXcC"
     },
     {
@@ -489,7 +503,7 @@
         "title": "Challenges and Advances in Image-Based Geometric Modeling and Mesh Generation",
         "pub_year": "2013",
         "citation": "Image-Based Geometric Modeling and Mesh Generation, 1-10, 2013",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "dzHYBKcAAAAJ:_Ybze24A_UAC"
     },
     {
@@ -558,7 +572,7 @@
         "title": "Computational vascular fluid–structure interaction: methodology and application to cerebral aneurysms",
         "pub_year": "2010",
         "citation": "Biomechanics and modeling in mechanobiology 9, 481-498, 2010",
-        "num_citations": 301,
+        "num_citations": 304,
         "author_pub_id": "dzHYBKcAAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -579,7 +593,7 @@
         "title": "Continuum diffusion reaction rate calculations of wild-type and mutant mouse acetylcholinesterase: adaptive finite element analysis",
         "pub_year": "2004",
         "citation": "Biophysical Journal 87 (3), 1558-1566, 2004",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "dzHYBKcAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -599,7 +613,7 @@
         "title": "Converting an unstructured quadrilateral mesh to a standard T-spline surface",
         "pub_year": "2011",
         "citation": "Computational Mechanics 48, 477-498, 2011",
-        "num_citations": 91,
+        "num_citations": 92,
         "author_pub_id": "dzHYBKcAAAAJ:dshw04ExmUIC"
     },
     {
@@ -634,14 +648,14 @@
         "title": "Coupled EnergyPlus and computational fluid dynamics simulation for natural ventilation",
         "pub_year": "2013",
         "citation": "Building and Environment 68, 100-113, 2013",
-        "num_citations": 126,
+        "num_citations": 127,
         "author_pub_id": "dzHYBKcAAAAJ:LXmCCkuhhTsC"
     },
     {
         "title": "Coupling Simulated Annealing and Homogenization to Design Thermally Conductive Hybrid Lattice Support Structures for LPBF",
         "pub_year": "2023",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "dzHYBKcAAAAJ:0dtNEdnCFDAC"
     },
     {
@@ -652,10 +666,17 @@
         "author_pub_id": "dzHYBKcAAAAJ:5N-NJrZHaHcC"
     },
     {
+        "title": "Data-Driven Methods in Biomechanics",
+        "pub_year": "2022",
+        "citation": "Journal of Biomechanical Engineering 144 (12), 2022",
+        "num_citations": 0,
+        "author_pub_id": "dzHYBKcAAAAJ:b8wqy9DyMDUC"
+    },
+    {
         "title": "Data-driven identification of stable sparse differential operators using constrained regression",
         "pub_year": "2024",
         "citation": "Computer Methods in Applied Mechanics and Engineering 429, 117149, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "dzHYBKcAAAAJ:SNyOjmPOlygC"
     },
     {
@@ -696,7 +717,7 @@
         "title": "Determination of wall tension in cerebral artery aneurysms by numerical simulation",
         "pub_year": "2008",
         "citation": "Stroke 39 (12), 3172-3178, 2008",
-        "num_citations": 210,
+        "num_citations": 212,
         "author_pub_id": "dzHYBKcAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -710,7 +731,7 @@
         "title": "Diffusional channeling in the sulfate-activating complex: combined continuum modeling and coarse-grained Brownian dynamics studies",
         "pub_year": "2008",
         "citation": "Biophysical journal 95 (10), 4659-4667, 2008",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "dzHYBKcAAAAJ:bFI3QPDXJZMC"
     },
     {
@@ -731,7 +752,7 @@
         "title": "Dual Contouring for domains with topology ambiguity",
         "pub_year": "2012",
         "citation": "Computer Methods in Applied Mechanics and Engineering 217, 34-45, 2012",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "dzHYBKcAAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -745,14 +766,14 @@
         "title": "Dynamic data‐driven finite element models for laser treatment of cancer",
         "pub_year": "2007",
         "citation": "Numerical Methods for Partial Differential Equations: An International …, 2007",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "dzHYBKcAAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "Dynamic lung modeling and tumor tracking using deformable image registration and geometric smoothing",
         "pub_year": "2012",
         "citation": "Computational Modelling of Objects Represented in Images III: Fundamentals …, 2012",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "dzHYBKcAAAAJ:HtEfBTGE9r8C"
     },
     {
@@ -800,7 +821,7 @@
         "title": "Exact 3D boundary representation in finite element analysis based on Cartesian grids independent of the geometry",
         "pub_year": "2015",
         "citation": "International Journal for Numerical Methods in Engineering 103 (6), 445-468, 2015",
-        "num_citations": 77,
+        "num_citations": 79,
         "author_pub_id": "dzHYBKcAAAAJ:DwWRdx-KAo4C"
     },
     {
@@ -814,7 +835,7 @@
         "title": "Explicit isogeometric topology optimization based on moving morphable voids with closed B-spline boundary curves",
         "pub_year": "2020",
         "citation": "Structural and Multidisciplinary Optimization 61, 963-982, 2020",
-        "num_citations": 40,
+        "num_citations": 42,
         "author_pub_id": "dzHYBKcAAAAJ:E10ZYwHxBI8C"
     },
     {
@@ -837,6 +858,13 @@
         "citation": "Computer Methods in Applied Mechanics and Engineering 299, 316-336, 2016",
         "num_citations": 63,
         "author_pub_id": "dzHYBKcAAAAJ:mS4qin7VKjkC"
+    },
+    {
+        "title": "Fast and Robust Hexahedral Mesh Optimization via Augmented Lagrangian, L-BFGS, and Line Search",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2410.11656, 2024",
+        "num_citations": 0,
+        "author_pub_id": "dzHYBKcAAAAJ:6MVT8mER-OMC"
     },
     {
         "title": "Feature-aligned surface parameterization using secondary Laplace operator and loop subdivision",
@@ -863,21 +891,21 @@
         "title": "Finite element analysis of the time-dependent Smoluchowski equation for acetylcholinesterase reaction rate calculations",
         "pub_year": "2007",
         "citation": "Biophysical Journal 92 (10), 3397-3406, 2007",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "dzHYBKcAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "Finite element meshing for cardiac analysis",
         "pub_year": "2004",
         "citation": "Univ. of Texas at Austin: ICES Technical Report 2004, 4-26, 2004",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "dzHYBKcAAAAJ:nb7KW1ujOQ8C"
     },
     {
         "title": "Finite element solution of the steady-state Smoluchowski equation for rate constant calculations",
         "pub_year": "2004",
         "citation": "Biophysical Journal 86 (4), 2017-2029, 2004",
-        "num_citations": 103,
+        "num_citations": 104,
         "author_pub_id": "dzHYBKcAAAAJ:4DMP91E08xMC"
     },
     {
@@ -933,7 +961,7 @@
         "title": "Geodesy: Self-rising 2.5 d tiles by printing along 2d geodesic closed path",
         "pub_year": "2019",
         "citation": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems …, 2019",
-        "num_citations": 55,
+        "num_citations": 61,
         "author_pub_id": "dzHYBKcAAAAJ:rrpmhsargb8C"
     },
     {
@@ -961,7 +989,7 @@
         "title": "Geometric modeling and mesh generation from scanned images",
         "pub_year": "2016",
         "citation": "CRC Press, 2016",
-        "num_citations": 109,
+        "num_citations": 110,
         "author_pub_id": "dzHYBKcAAAAJ:i6LplTXqhpIC"
     },
     {
@@ -975,7 +1003,7 @@
         "title": "Guaranteed-quality all-quadrilateral mesh generation with feature preservation",
         "pub_year": "2009",
         "citation": "Proceedings of the 18th International Meshing Roundtable, 45-63, 2009",
-        "num_citations": 60,
+        "num_citations": 62,
         "author_pub_id": "dzHYBKcAAAAJ:geHnlv5EZngC"
     },
     {
@@ -996,7 +1024,7 @@
         "title": "HexGen and Hex2Spline: polycube-based hexahedral mesh generation and unstructured spline construction for isogeometric analysis framework in LS-DYNA",
         "pub_year": "2020",
         "citation": "Springer INdAM Serie: Proceedings of INdAM Workshop “Geometric Challenges in …, 2020",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "dzHYBKcAAAAJ:uqZYSrDi9MMC"
     },
     {
@@ -1057,7 +1085,7 @@
         "title": "Hybrid IGA-FEA of fiber reinforced thermoplastic composites for forward design of AI-enabled 4D printing",
         "pub_year": "2022",
         "citation": "Journal of Materials Processing Technology 302, 117497, 2022",
-        "num_citations": 13,
+        "num_citations": 16,
         "author_pub_id": "dzHYBKcAAAAJ:xyzrkeHX5M4C"
     },
     {
@@ -1078,7 +1106,7 @@
         "title": "HybridOctree_Hex: Hybrid octree-based adaptive all-hexahedral mesh generation with Jacobian control",
         "pub_year": "2024",
         "citation": "Journal of Computational Science 78, 102278, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "dzHYBKcAAAAJ:DGpvO1n63MYC"
     },
     {
@@ -1196,7 +1224,7 @@
         "title": "Image-based modelling for adolescent idiopathic scoliosis: mechanistic machine learning analysis and prediction",
         "pub_year": "2021",
         "citation": "Computer methods in applied mechanics and engineering 374, 113590, 2021",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "dzHYBKcAAAAJ:7CU1mCQUTf4C"
     },
     {
@@ -1210,7 +1238,7 @@
         "title": "Immersed finite element method and its applications to biological systems",
         "pub_year": "2006",
         "citation": "Computer methods in applied mechanics and engineering 195 (13-16), 1722-1749, 2006",
-        "num_citations": 355,
+        "num_citations": 357,
         "author_pub_id": "dzHYBKcAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -1231,7 +1259,7 @@
         "title": "Integrating CAD with Abaqus: a practical isogeometric analysis software platform for industrial applications",
         "pub_year": "2017",
         "citation": "Computers & Mathematics with Applications 74 (7), 1648-1660, 2017",
-        "num_citations": 61,
+        "num_citations": 63,
         "author_pub_id": "dzHYBKcAAAAJ:FKYJxdYMdFIC"
     },
     {
@@ -1244,7 +1272,7 @@
         "title": "Interpolatory Catmull-Clark volumetric subdivision over unstructured hexahedral meshes for modeling and simulation applications",
         "pub_year": "2020",
         "citation": "Computer Aided Geometric Design 80, 101867, 2020",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "dzHYBKcAAAAJ:SFU-2amZ4xQC"
     },
     {
@@ -1285,7 +1313,7 @@
         "title": "Isogeometric analysis based on extended Catmull–Clark subdivision",
         "pub_year": "2016",
         "citation": "Computers & Mathematics with Applications 71 (1), 105-119, 2016",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "dzHYBKcAAAAJ:RgMnzfD6kpIC"
     },
     {
@@ -1306,35 +1334,35 @@
         "title": "Isogeometric analysis-based physics-informed graph neural network for studying traffic jam in neurons",
         "pub_year": "2023",
         "citation": "Computer Methods in Applied Mechanics and Engineering 403, 115757, 2023",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "dzHYBKcAAAAJ:pxLfhFzThFYC"
     },
     {
         "title": "Isogeometric collocation using analysis-suitable T-splines of arbitrary degree",
         "pub_year": "2016",
         "citation": "Computer Methods in Applied Mechanics and Engineering 301, 164-186, 2016",
-        "num_citations": 60,
+        "num_citations": 62,
         "author_pub_id": "dzHYBKcAAAAJ:bxPAEoiBajcC"
     },
     {
         "title": "Isogeometric fluid-structure interaction: theory, algorithms, and computations",
         "pub_year": "2008",
         "citation": "Computational mechanics 43, 3-37, 2008",
-        "num_citations": 1177,
+        "num_citations": 1183,
         "author_pub_id": "dzHYBKcAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Isogeometric fluid–structure interaction analysis with applications to arterial blood flow",
         "pub_year": "2006",
         "citation": "Computational Mechanics 38, 310-322, 2006",
-        "num_citations": 916,
+        "num_citations": 921,
         "author_pub_id": "dzHYBKcAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Joint image segmentation and registration based on a dynamic level set approach using truncated hierarchical B-splines",
         "pub_year": "2019",
         "citation": "Computers & Mathematics with Applications 78 (10), 3250-3267, 2019",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "dzHYBKcAAAAJ:rKYHOwt5kWwC"
     },
     {
@@ -1423,7 +1451,7 @@
         "title": "Magnetic resonance imaging-based computational modelling of blood flow and nanomedicine deposition in patients with peripheral arterial disease",
         "pub_year": "2015",
         "citation": "Journal of The Royal Society Interface 12 (106), 20150001, 2015",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "dzHYBKcAAAAJ:ON9TkA72AHEC"
     },
     {
@@ -1437,14 +1465,14 @@
         "title": "Material characterization and precise finite element analysis of fiber reinforced thermoplastic composites for 4D printing",
         "pub_year": "2020",
         "citation": "Computer-Aided Design 122, 102817, 2020",
-        "num_citations": 64,
+        "num_citations": 66,
         "author_pub_id": "dzHYBKcAAAAJ:Lpa4s8qvUTIC"
     },
     {
         "title": "Medical image interpolation based on multi-resolution registration",
         "pub_year": "2013",
         "citation": "Computers & Mathematics with Applications 66 (1), 1-18, 2013",
-        "num_citations": 81,
+        "num_citations": 85,
         "author_pub_id": "dzHYBKcAAAAJ:JTqpx9DYBaYC"
     },
     {
@@ -1465,7 +1493,7 @@
         "title": "Mesh Processing in Medical Image Analysis-a Tutorial",
         "pub_year": "2012",
         "citation": "IEEE, 2012",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "dzHYBKcAAAAJ:nrtMV_XWKgEC"
     },
     {
@@ -1546,10 +1574,17 @@
         "author_pub_id": "dzHYBKcAAAAJ:oYVvnHz_XzQC"
     },
     {
+        "title": "Monte Carlo simulation of spatial frequency domain imaging for breast tumors during compression",
+        "pub_year": "2024",
+        "citation": "Journal of Biomedical Optics 29 (9), 096001-096001, 2024",
+        "num_citations": 0,
+        "author_pub_id": "dzHYBKcAAAAJ:YXeC4bxG7-IC"
+    },
+    {
         "title": "MorphingCircuit: An integrated design, simulation, and fabrication workflow for self-morphing electronics",
         "pub_year": "2020",
         "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2020",
-        "num_citations": 37,
+        "num_citations": 40,
         "author_pub_id": "dzHYBKcAAAAJ:GO2DTSf4MZMC"
     },
     {
@@ -1604,15 +1639,22 @@
         "title": "Next-generation prognosis framework for pediatric spinal deformities using bio-informed deep learning networks",
         "pub_year": "2022",
         "citation": "Engineering with Computers 38 (5), 4061-4084, 2022",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "dzHYBKcAAAAJ:Fx13dKtzC7kC"
     },
     {
         "title": "Non-body-fitted fluid–structure interaction: Divergence-conforming B-splines, fully-implicit dynamics, and variational formulation",
         "pub_year": "2018",
         "citation": "Journal of Computational Physics 374, 625-653, 2018",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "dzHYBKcAAAAJ:0klj8wIChNAC"
+    },
+    {
+        "title": "Nonintrusive projection-based reduced order modeling using stable learned differential operators",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2410.11253, 2024",
+        "num_citations": 0,
+        "author_pub_id": "dzHYBKcAAAAJ:LiF7i2gyBHwC"
     },
     {
         "title": "Oden Institute REPORT 19-10",
@@ -1639,7 +1681,7 @@
         "title": "Optimizing heat shock protein expression induced by prostate cancer laser therapy through predictive computational models",
         "pub_year": "2006",
         "citation": "Journal of biomedical optics 11 (4), 041113-041113-16, 2006",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "dzHYBKcAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -1660,21 +1702,21 @@
         "title": "Patient specific heart models from high resolution CT",
         "pub_year": "2018",
         "citation": "Computational Modelling of Objects Represented in Images. Fundamentals …, 2018",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "dzHYBKcAAAAJ:tS2w5q8j5-wC"
     },
     {
         "title": "Patient-specific isogeometric fluid–structure interaction analysis of thoracic aortic blood flow due to implantation of the Jarvik 2000 left ventricular assist device",
         "pub_year": "2009",
         "citation": "Computer Methods in Applied Mechanics and Engineering 198 (45-46), 3534-3550, 2009",
-        "num_citations": 497,
+        "num_citations": 499,
         "author_pub_id": "dzHYBKcAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Patient-specific vascular NURBS modeling for isogeometric analysis of blood flow",
         "pub_year": "2007",
         "citation": "Computer methods in applied mechanics and engineering 196 (29-30), 2943-2959, 2007",
-        "num_citations": 532,
+        "num_citations": 537,
         "author_pub_id": "dzHYBKcAAAAJ:6ZxmRoH8BuwC"
     },
     {
@@ -1695,7 +1737,7 @@
         "title": "Point cloud resampling using centroidal Voronoi tessellation methods",
         "pub_year": "2018",
         "citation": "Computer-Aided Design 102, 12-21, 2018",
-        "num_citations": 44,
+        "num_citations": 46,
         "author_pub_id": "dzHYBKcAAAAJ:QZWLLlSfqgYC"
     },
     {
@@ -1730,14 +1772,14 @@
         "title": "Projection-based reduced order modeling and data-driven artificial viscosity closures for incompressible fluid flows",
         "pub_year": "2024",
         "citation": "Computer Methods in Applied Mechanics and Engineering 425, 116930, 2024",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "dzHYBKcAAAAJ:0BSZZHtHo6cC"
     },
     {
         "title": "Quadratic serendipity element shape functions on general planar polygons",
         "pub_year": "2022",
         "citation": "Computer Methods in Applied Mechanics and Engineering 392, 114703, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "dzHYBKcAAAAJ:MUocvVTjX6cC"
     },
     {
@@ -1751,14 +1793,14 @@
         "title": "Quality improvement and feature capture in hexahedral meshes",
         "pub_year": "2006",
         "citation": "The University of Utah, Tech. Rep. UUSCI-2006-029, 2006",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "dzHYBKcAAAAJ:vRqMK49ujn8C"
     },
     {
         "title": "Quality improvement of non‐manifold hexahedral meshes for critical feature determination of microstructure materials",
         "pub_year": "2010",
         "citation": "International journal for numerical methods in engineering 82 (11), 1406-1423, 2010",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "dzHYBKcAAAAJ:XvxMoLDsR5gC"
     },
     {
@@ -1772,7 +1814,7 @@
         "title": "Quality meshing of implicit solvation models of biomolecular structures",
         "pub_year": "2006",
         "citation": "Computer aided geometric design 23 (6), 510-530, 2006",
-        "num_citations": 151,
+        "num_citations": 152,
         "author_pub_id": "dzHYBKcAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -1793,7 +1835,7 @@
         "title": "Reaction diffusion system prediction based on convolutional neural network",
         "pub_year": "2020",
         "citation": "Scientific reports 10 (1), 3894, 2020",
-        "num_citations": 73,
+        "num_citations": 77,
         "author_pub_id": "dzHYBKcAAAAJ:6gSKFiM3XosC"
     },
     {
@@ -1821,14 +1863,14 @@
         "title": "Review of patient-specific vascular modeling: template-based isogeometric framework and the case for CAD",
         "pub_year": "2019",
         "citation": "Archives of Computational Methods in Engineering 26, 381-404, 2019",
-        "num_citations": 43,
+        "num_citations": 45,
         "author_pub_id": "dzHYBKcAAAAJ:eJjLl3UG7CkC"
     },
     {
         "title": "Rhino 3D to Abaqus: A T-spline based isogeometric analysis software framework",
         "pub_year": "2016",
         "citation": "Advances in Computational Fluid-Structure Interaction and Flow Simulation …, 2016",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "dzHYBKcAAAAJ:DrOLxFoABAwC"
     },
     {
@@ -1842,7 +1884,7 @@
         "title": "RibSeg v2: A Large-scale Benchmark for Rib Labeling and Anatomical Centerline Extraction",
         "pub_year": "2024",
         "citation": "IEEE Transactions on Medical Imaging 43 (1), 570-581, 2024",
-        "num_citations": 8,
+        "num_citations": 11,
         "author_pub_id": "dzHYBKcAAAAJ:SgTKrLvt1DcC"
     },
     {
@@ -1855,7 +1897,7 @@
         "title": "SNF-ROM: Projection-based nonlinear reduced order modeling with smooth neural fields",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2405.14890, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "dzHYBKcAAAAJ:BSZS1fLCB98C"
     },
     {
@@ -1876,7 +1918,7 @@
         "title": "Seamless integration of design and Kirchhoff–Love shell analysis using analysis-suitable unstructured T-splines",
         "pub_year": "2020",
         "citation": "Computer Methods in Applied Mechanics and Engineering 360, 112765, 2020",
-        "num_citations": 82,
+        "num_citations": 85,
         "author_pub_id": "dzHYBKcAAAAJ:X1xEhyGaivYC"
     },
     {
@@ -1918,7 +1960,7 @@
         "title": "Simulearn: Fast and accurate simulator to support morphing materials design and workflows",
         "pub_year": "2020",
         "citation": "Proceedings of the 33rd Annual ACM Symposium on User Interface Software and …, 2020",
-        "num_citations": 17,
+        "num_citations": 20,
         "author_pub_id": "dzHYBKcAAAAJ:cG0OFEevkNgC"
     },
     {
@@ -1946,7 +1988,7 @@
         "title": "Solid T-spline construction from boundary representations for genus-zero geometry",
         "pub_year": "2012",
         "citation": "Computer Methods in Applied Mechanics and Engineering, 2012",
-        "num_citations": 200,
+        "num_citations": 201,
         "author_pub_id": "dzHYBKcAAAAJ:WqliGbK-hY8C"
     },
     {
@@ -1955,12 +1997,6 @@
         "citation": "Journal of Materials Processing Technology 306 (S AiAMP), 117592, 2022",
         "num_citations": 0,
         "author_pub_id": "dzHYBKcAAAAJ:e0CZ6poB34oC"
-    },
-    {
-        "title": "Special Issue on Data-Driven Methods in Biomechanics",
-        "citation": "Journal of Biomechanical Engineering, 0",
-        "num_citations": 0,
-        "author_pub_id": "dzHYBKcAAAAJ:b8wqy9DyMDUC"
     },
     {
         "title": "Structure-aligned guidance estimation in surface parameterization using eigenfunction-based cross field",
@@ -1980,21 +2016,21 @@
         "title": "Surface Curvature as a Classifier of Abdominal Aortic Aneurysms: A Comparative Analysis",
         "pub_year": "2012",
         "citation": "Annals of Biomedical Engineering, 1-15, 2012",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "dzHYBKcAAAAJ:dBIO0h50nwkC"
     },
     {
         "title": "Surface Smoothing and Quality Improvement of Quadrilateral/Hexahedral Meshes with Geometric Flow",
         "pub_year": "2009",
         "citation": "Communications in Numerical Methods in Engineering 25 (1), 1-18, 2009",
-        "num_citations": 180,
+        "num_citations": 181,
         "author_pub_id": "dzHYBKcAAAAJ:5awf1xo2G04C"
     },
     {
         "title": "Surface remeshing: A systematic literature review of methods and research directions",
         "pub_year": "2020",
         "citation": "IEEE transactions on visualization and computer graphics 28 (3), 1680-1713, 2020",
-        "num_citations": 47,
+        "num_citations": 49,
         "author_pub_id": "dzHYBKcAAAAJ:d3xjRt2Mi1YC"
     },
     {
@@ -2022,7 +2058,7 @@
         "title": "Tcb-spline-based image vectorization",
         "pub_year": "2022",
         "citation": "ACM Transactions on Graphics (TOG) 41 (3), 1-17, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "dzHYBKcAAAAJ:oMtqKo3K3HAC"
     },
     {
@@ -2036,7 +2072,7 @@
         "title": "Tetrameric mouse acetylcholinesterase: continuum diffusion rate calculations by solving the steady-state Smoluchowski equation using finite element methods",
         "pub_year": "2005",
         "citation": "Biophysical Journal 88 (3), 1659-1665, 2005",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "dzHYBKcAAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -2055,7 +2091,7 @@
         "title": "The divergence-conforming immersed boundary method: Application to vesicle and capsule dynamics",
         "pub_year": "2021",
         "citation": "Journal of Computational Physics 425, 109872, 2021",
-        "num_citations": 38,
+        "num_citations": 42,
         "author_pub_id": "dzHYBKcAAAAJ:jODAHDUrbwUC"
     },
     {
@@ -2089,28 +2125,28 @@
         "title": "Tissue-scale, personalized modeling and simulation of prostate cancer growth",
         "pub_year": "2016",
         "citation": "Proceedings of the National Academy of Sciences 113 (48), E7663-E7671, 2016",
-        "num_citations": 104,
+        "num_citations": 109,
         "author_pub_id": "dzHYBKcAAAAJ:wTekDMGr9GkC"
     },
     {
         "title": "Topology optimization of phononic-like structures using experimental material interpolation model for additive manufactured lattice infills",
         "pub_year": "2021",
         "citation": "Computer Methods in Applied Mechanics and Engineering 377, 113717, 2021",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "dzHYBKcAAAAJ:1Lk_dUza_R0C"
     },
     {
         "title": "Trivariate solid T-spline construction from boundary triangulations with arbitrary genus topology",
         "pub_year": "2013",
         "citation": "Computer-Aided Design 45 (2), 351-360, 2013",
-        "num_citations": 157,
+        "num_citations": 158,
         "author_pub_id": "dzHYBKcAAAAJ:LO7wyVUgiFcC"
     },
     {
         "title": "Truncated T-splines: fundamentals and methods",
         "pub_year": "2017",
         "citation": "Computer Methods in Applied Mechanics and Engineering 316, 349-372, 2017",
-        "num_citations": 105,
+        "num_citations": 106,
         "author_pub_id": "dzHYBKcAAAAJ:0iM-huCvmk0C"
     },
     {
@@ -2138,7 +2174,7 @@
         "title": "Two and three dimensional image registration based on B-spline composition and level sets",
         "pub_year": "2017",
         "citation": "Communications in Computational Physics 21 (2), 600-622, 2017",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "dzHYBKcAAAAJ:2u1QkWOsl3MC"
     },
     {
@@ -2152,7 +2188,7 @@
         "title": "Unit-based design of cross-flow heat exchangers for LPBF additive manufacturing",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (1), 012002, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "dzHYBKcAAAAJ:ZbXHRDTBJTgC"
     },
     {
