@@ -21,17 +21,10 @@
         "author_pub_id": "Fr9Vhe4AAAAJ:R3hNpaxXUhUC"
     },
     {
-        "title": "Automated classification of knee X-rays using deep neural networks outperforms radiologist",
-        "pub_year": "2017",
-        "citation": "Morressier, 2017",
-        "num_citations": 5,
-        "author_pub_id": "Fr9Vhe4AAAAJ:qxL8FJ1GzNcC"
-    },
-    {
         "title": "Automated classification of radiographic knee osteoarthritis severity using deep neural networks",
         "pub_year": "2020",
         "citation": "Radiology: Artificial Intelligence 2 (2), e190065, 2020",
-        "num_citations": 112,
+        "num_citations": 114,
         "author_pub_id": "Fr9Vhe4AAAAJ:aqlVkmm33-oC"
     },
     {
@@ -40,13 +33,6 @@
         "citation": "Osteoarthritis and Cartilage 26, S441, 2018",
         "num_citations": 19,
         "author_pub_id": "Fr9Vhe4AAAAJ:ULOm3_A8WrAC"
-    },
-    {
-        "title": "Capacitive Sensing for Natural Environment Biomechanics Monitoring",
-        "pub_year": "2022",
-        "citation": "https://www.researchsquare.com/article/rs-1902381/v2, 2022",
-        "num_citations": 1,
-        "author_pub_id": "Fr9Vhe4AAAAJ:TQgYirikUcIC"
     },
     {
         "title": "Changes in local bone density in early thumb carpometacarpal joint osteoarthritis",
@@ -80,7 +66,7 @@
         "title": "Fusion of video and inertial sensing data via dynamic optimization of a biomechanical model",
         "pub_year": "2023",
         "citation": "Journal of biomechanics 155, 111617, 2023",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "Fr9Vhe4AAAAJ:TFP_iSt0sucC"
     },
     {
@@ -101,14 +87,14 @@
         "title": "HybridOctree_Hex: Hybrid octree-based adaptive all-hexahedral mesh generation with Jacobian control",
         "pub_year": "2024",
         "citation": "Journal of Computational Science 78, 102278, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "Fr9Vhe4AAAAJ:blknAaTinKkC"
     },
     {
         "title": "IMU and smartphone camera fusion for knee adduction and knee flexion moment estimation during walking",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Industrial Informatics 19 (2), 1445-1455, 2022",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "Fr9Vhe4AAAAJ:HDshCWvjkbEC"
     },
     {
@@ -122,14 +108,14 @@
         "title": "In vivo kinematics of the thumb carpometacarpal joint during three isometric functional tasks",
         "pub_year": "2014",
         "citation": "Clinical Orthopaedics and Related Research® 472, 1114-1122, 2014",
-        "num_citations": 79,
+        "num_citations": 81,
         "author_pub_id": "Fr9Vhe4AAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "In vivo kinematics of the trapeziometacarpal joint during thumb extension-flexion and abduction-adduction",
         "pub_year": "2015",
         "citation": "The Journal of hand surgery 40 (2), 289-296, 2015",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "Fr9Vhe4AAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -157,14 +143,14 @@
         "title": "Markerless motion tracking with noisy video and imu data",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Biomedical Engineering 70 (11), 3082-3092, 2023",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "Fr9Vhe4AAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "Modeling and Predicting Osteoarthritis Progression: Data from the Osteoarthritis Initiative",
         "pub_year": "2018",
         "citation": "Osteoarthritis and Cartilage, 2018",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "Fr9Vhe4AAAAJ:_kc_bZDykSQC"
     },
     {
@@ -178,15 +164,8 @@
         "title": "Older asymptomatic women exhibit patterns of thumb carpometacarpal joint space narrowing that precede changes associated with early osteoarthritis",
         "pub_year": "2015",
         "citation": "Journal of biomechanics 48 (13), 3634-3640, 2015",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "Fr9Vhe4AAAAJ:_FxGoFyzp5QC"
-    },
-    {
-        "title": "Open source and automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning",
-        "pub_year": "2021",
-        "citation": "Osteoarthritis and Cartilage 29, S43-S44, 2021",
-        "num_citations": 1,
-        "author_pub_id": "Fr9Vhe4AAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning",
@@ -206,7 +185,7 @@
         "title": "Physical Activity Is Associated with Changes in Knee Cartilage Microstructure",
         "pub_year": "2018",
         "citation": "Osteoarthritis and cartilage, 2018",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "Fr9Vhe4AAAAJ:Zph67rFs4hoC"
     },
     {
@@ -222,13 +201,6 @@
         "citation": "PLOS Computational Biology 18 (5), e1009500, 2022",
         "num_citations": 3,
         "author_pub_id": "Fr9Vhe4AAAAJ:qUcmZB5y_30C"
-    },
-    {
-        "title": "REDUCED COMPRESSIVE & SHEAR FORCES FROM GAIT RETRAINING RELATE TO SLOWED CARTILAGE DEGENERATION",
-        "pub_year": "2024",
-        "citation": "Osteoarthritis and Cartilage 32, S28-S29, 2024",
-        "num_citations": 0,
-        "author_pub_id": "Fr9Vhe4AAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "SRL-assisted AFM: generating planar unstructured quadrilateral meshes with supervised and reinforcement learning-assisted advancing front method",
@@ -297,7 +269,7 @@
         "title": "Wham: Reconstructing world-grounded humans with accurate 3d motion",
         "pub_year": "2024",
         "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2024",
-        "num_citations": 23,
+        "num_citations": 27,
         "author_pub_id": "Fr9Vhe4AAAAJ:JV2RwH3_ST0C"
     }
 ]

@@ -3,21 +3,21 @@
         "title": "3D shape synthesis for conceptual design and optimization using variational autoencoders",
         "pub_year": "2019",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2019",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "_X2eOeQAAAAJ:J-pR_7NvFogC"
     },
     {
         "title": "3D topology optimization using convolutional neural networks",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1808.07440, 2018",
-        "num_citations": 182,
+        "num_citations": 184,
         "author_pub_id": "_X2eOeQAAAAJ:u9iWguZQMMsC"
     },
     {
         "title": "4DMesh: 4D printing morphing non-developable mesh surfaces",
         "pub_year": "2018",
         "citation": "Proceedings of the 31st Annual ACM Symposium on User Interface Software and …, 2018",
-        "num_citations": 97,
+        "num_citations": 98,
         "author_pub_id": "_X2eOeQAAAAJ:Tiz5es2fbqcC"
     },
     {
@@ -50,7 +50,7 @@
         "title": "A data-driven investigation and estimation of optimal topologies under variable loading configurations",
         "pub_year": "2016",
         "citation": "Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2016",
-        "num_citations": 113,
+        "num_citations": 114,
         "author_pub_id": "_X2eOeQAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -132,7 +132,7 @@
         "title": "Attention routing: track-assignment detailed routing using attention-based reinforcement learning",
         "pub_year": "2020",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2020",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "_X2eOeQAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -257,7 +257,7 @@
         "title": "Conceptual design and modification of freeform surfaces using dual shape representations in augmented reality environments",
         "pub_year": "2012",
         "citation": "Computer-Aided Design 44 (10), 1020-1032, 2012",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "_X2eOeQAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -271,7 +271,7 @@
         "title": "Concurrent structure and process optimization for minimum cost metal additive manufacturing",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (6), 061701, 2019",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "_X2eOeQAAAAJ:K3LRdlH-MEoC"
     },
     {
@@ -292,7 +292,7 @@
         "title": "DMF-TONN: direct mesh-free topology optimization using neural networks",
         "pub_year": "2024",
         "citation": "Engineering with Computers 40 (4), 2227-2240, 2024",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "_X2eOeQAAAAJ:_Re3VWB3Y0AC"
     },
     {
@@ -327,7 +327,7 @@
         "title": "Design of target specific peptide inhibitors using generative deep learning and molecular dynamics simulations",
         "pub_year": "2024",
         "citation": "Nature Communications 15 (1), 1611, 2024",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "_X2eOeQAAAAJ:JQOojiI6XY0C"
     },
     {
@@ -348,7 +348,7 @@
         "title": "Development of a general calibration model and long-term performance evaluation of low-cost sensors for air pollutant gas monitoring",
         "pub_year": "2019",
         "citation": "Atmospheric Measurement Techniques 12 (2), 903-920, 2019",
-        "num_citations": 145,
+        "num_citations": 147,
         "author_pub_id": "_X2eOeQAAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -376,7 +376,7 @@
         "title": "Enhancing the structural performance of additively manufactured objects through build orientation optimization",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (11), 111410, 2015",
-        "num_citations": 162,
+        "num_citations": 163,
         "author_pub_id": "_X2eOeQAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -523,7 +523,7 @@
         "title": "Inference of highly time-resolved melt pool visual characteristics and spatially-dependent lack-of-fusion defects in laser powder bed fusion using acoustic and thermal emission …",
         "pub_year": "2024",
         "citation": "Additive Manufacturing 83, 104057, 2024",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "_X2eOeQAAAAJ:VLnqNzywnoUC"
     },
     {
@@ -544,7 +544,7 @@
         "title": "Is additive manufacturing an environmentally and economically preferred alternative for mass production?",
         "pub_year": "2023",
         "citation": "Environmental science & technology 57 (16), 6373-6386, 2023",
-        "num_citations": 24,
+        "num_citations": 27,
         "author_pub_id": "_X2eOeQAAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -558,7 +558,7 @@
         "title": "Lightweight structure design under force location uncertainty",
         "pub_year": "2017",
         "citation": "ACM Transactions on Graphics (TOG) 36 (4), 1-13, 2017",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "_X2eOeQAAAAJ:bFI3QPDXJZMC"
     },
     {
@@ -760,7 +760,7 @@
         "title": "Semantic shape editing using deformation handles",
         "pub_year": "2015",
         "citation": "ACM Transactions on Graphics (TOG) 34 (4), 1-12, 2015",
-        "num_citations": 163,
+        "num_citations": 165,
         "author_pub_id": "_X2eOeQAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -870,14 +870,14 @@
         "title": "Stress field prediction in cantilevered structures using convolutional neural networks",
         "pub_year": "2020",
         "citation": "Journal of Computing and Information Science in Engineering 20 (1), 011002, 2020",
-        "num_citations": 215,
+        "num_citations": 219,
         "author_pub_id": "_X2eOeQAAAAJ:VOx2b1Wkg3QC"
     },
     {
         "title": "Stressgan: A generative deep learning model for two-dimensional stress distribution prediction",
         "pub_year": "2021",
         "citation": "Journal of Applied Mechanics 88 (5), 051005, 2021",
-        "num_citations": 109,
+        "num_citations": 110,
         "author_pub_id": "_X2eOeQAAAAJ:Y5dfb0dijaUC"
     },
     {
@@ -886,6 +886,13 @@
         "citation": "Computer Graphics Forum 38 (5), 85-98, 2019",
         "num_citations": 12,
         "author_pub_id": "_X2eOeQAAAAJ:5Ul4iDaHHb8C"
+    },
+    {
+        "title": "Sub-millisecond keyhole pore detection in laser powder bed fusion using sound and light sensors and machine learning",
+        "pub_year": "2024",
+        "citation": "Materials Futures, 2024",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:vDijr-p_gm4C"
     },
     {
         "title": "Supporting early styling design of automobiles using sketch-based 3d shape construction",
@@ -945,7 +952,7 @@
     {
         "title": "Topology-Agnostic Graph U-Nets for Scalar Field Prediction on Unstructured Meshes",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2410.06406, 2024",
+        "citation": "Journal of Mechanical Design, 1-18, 2024",
         "num_citations": 0,
         "author_pub_id": "_X2eOeQAAAAJ:epqYDVWIO7EC"
     },
@@ -953,7 +960,7 @@
         "title": "Topologygan: Topology optimization using generative adversarial networks based on physical fields over the initial domain",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (3), 031715, 2021",
-        "num_citations": 214,
+        "num_citations": 217,
         "author_pub_id": "_X2eOeQAAAAJ:Mojj43d5GZwC"
     },
     {

@@ -31,7 +31,7 @@
         "title": "A dynamic global-coefficient mixed subgrid-scale model for large-eddy simulation of turbulent flows",
         "pub_year": "2013",
         "citation": "International Journal of Heat and Fluid Flow 42, 94-104, 2013",
-        "num_citations": 29,
+        "num_citations": 31,
         "author_pub_id": "lViJAdQAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -66,14 +66,14 @@
         "title": "Combustion modeling of diesel combustion with partially premixed conditions",
         "pub_year": "2007",
         "citation": "SAE Technical Paper, 2007",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "lViJAdQAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Comparison of the characteristic time (CTC), representative interactive flamelet (RIF), and direct integration with detailed chemistry combustion models against optical …",
         "pub_year": "2006",
         "citation": "SAE transactions, 61-82, 2006",
-        "num_citations": 158,
+        "num_citations": 159,
         "author_pub_id": "lViJAdQAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -115,7 +115,7 @@
         "title": "Effect of pilot injection timing, pilot quantity and intake charge conditions on performance and emissions for an advanced low-pilot-ignited natural gas engine",
         "pub_year": "2004",
         "citation": "International journal of Engine research 5 (4), 329-348, 2004",
-        "num_citations": 102,
+        "num_citations": 103,
         "author_pub_id": "lViJAdQAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -185,7 +185,7 @@
         "title": "Mixed convective cooling of a rectangular cavity with inlet and exit openings on differentially heated side walls",
         "pub_year": "2003",
         "citation": "Numerical Heat Transfer: Part A: Applications 44 (3), 233-253, 2003",
-        "num_citations": 187,
+        "num_citations": 188,
         "author_pub_id": "lViJAdQAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -255,7 +255,7 @@
         "title": "Simulations of aerosol filtration by vegetation: Validation of existing models with available lab data and application to near-roadway scenario",
         "pub_year": "2016",
         "citation": "Aerosol Science and Technology 50 (9), 937-946, 2016",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "lViJAdQAAAAJ:mgoTDWlsYNUC"
     },
     {
@@ -283,7 +283,7 @@
         "title": "Strategies for Reduced NOx Emissions in Pilot-Ignited Natural Gas Engines",
         "pub_year": "2004",
         "citation": "J. Eng. Gas Turbines Power 126 (3), 665-671, 2004",
-        "num_citations": 154,
+        "num_citations": 155,
         "author_pub_id": "lViJAdQAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -297,7 +297,7 @@
         "title": "The advanced injection low pilot ignited natural gas engine: A combustion analysis",
         "pub_year": "2006",
         "citation": "Journal of engineering for gas turbines and power 128 (1), 213-218, 2006",
-        "num_citations": 112,
+        "num_citations": 113,
         "author_pub_id": "lViJAdQAAAAJ:Tyk-4Ss8FVUC"
     },
     {
