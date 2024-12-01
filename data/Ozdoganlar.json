@@ -85,7 +85,7 @@
         "title": "A model for bending, torsional, and axial vibrations of micro-and macro-drills including actual drill geometry—part I: model development and numerical solution",
         "pub_year": "2010",
         "citation": "",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "F3UFKWMAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -113,21 +113,21 @@
         "title": "A multi-orientation error separation technique for spindle metrology of miniature ultra-high-speed spindles",
         "pub_year": "2016",
         "citation": "Precision Engineering 43, 119-131, 2016",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "F3UFKWMAAAAJ:UxriW0iASnsC"
     },
     {
         "title": "A new thermal model for bone drilling with applications to orthopaedic surgery",
         "pub_year": "2011",
         "citation": "Medical engineering & physics 33 (10), 1234-1244, 2011",
-        "num_citations": 201,
+        "num_citations": 202,
         "author_pub_id": "F3UFKWMAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "A novel test artifact for performance evaluation of additive manufacturing processes",
         "pub_year": "2014",
         "citation": "American Society for Precision Engineering Conference, 2014",
-        "num_citations": 12,
+        "num_citations": 15,
         "author_pub_id": "F3UFKWMAAAAJ:u9iWguZQMMsC"
     },
     {
@@ -155,7 +155,7 @@
         "title": "A rotating-tip-based mechanical nano-manufacturing process: nanomilling",
         "pub_year": "2010",
         "citation": "Nanoscale research letters 5, 1403-1407, 2010",
-        "num_citations": 100,
+        "num_citations": 101,
         "author_pub_id": "F3UFKWMAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -169,7 +169,7 @@
         "title": "A spectral-Tchebychev technique for solving linear and nonlinear beam equations",
         "pub_year": "2009",
         "citation": "Journal of Sound and Vibration 321 (1-2), 375-404, 2009",
-        "num_citations": 122,
+        "num_citations": 124,
         "author_pub_id": "F3UFKWMAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -183,14 +183,14 @@
         "title": "A technique for measuring radial error motions of ultra-high-speed miniature spindles used for micromachining",
         "pub_year": "2012",
         "citation": "Precision Engineering 36 (1), 104-120, 2012",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "F3UFKWMAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "A three-dimensional model for the dynamics of micro-endmills including bending, torsional and axial vibrations",
         "pub_year": "2011",
         "citation": "Precision Engineering 35 (1), 24-37, 2011",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "F3UFKWMAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -274,7 +274,7 @@
         "title": "An experimental investigation on thermal exposure during bone drilling",
         "pub_year": "2012",
         "citation": "Medical engineering & physics 34 (10), 1510-1520, 2012",
-        "num_citations": 222,
+        "num_citations": 224,
         "author_pub_id": "F3UFKWMAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -420,7 +420,7 @@
         "title": "Chronic tissue response to carboxymethyl cellulose based dissolvable insertion needle for ultra-small neural probes",
         "pub_year": "2014",
         "citation": "Biomaterials 35 (34), 9255-9268, 2014",
-        "num_citations": 208,
+        "num_citations": 211,
         "author_pub_id": "F3UFKWMAAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -553,7 +553,7 @@
         "title": "EGaIn–metal interfacing for liquid metal circuitry and microelectronics integration",
         "pub_year": "2018",
         "citation": "Advanced Materials Interfaces 5 (10), 1701596, 2018",
-        "num_citations": 214,
+        "num_citations": 220,
         "author_pub_id": "F3UFKWMAAAAJ:t6usbXjVLHcC"
     },
     {
@@ -602,7 +602,7 @@
         "title": "Enhancing the structural performance of additively manufactured objects through build orientation optimization",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (11), 111410, 2015",
-        "num_citations": 155,
+        "num_citations": 157,
         "author_pub_id": "F3UFKWMAAAAJ:dshw04ExmUIC"
     },
     {
@@ -693,7 +693,7 @@
         "title": "Feasibility of metal additive manufacturing for fabricating custom surgical instrumentation for hip and knee implants",
         "pub_year": "2019",
         "citation": "Procedia Manufacturing 34, 772-779, 2019",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "F3UFKWMAAAAJ:hkOj_22Ku90C"
     },
     {
@@ -714,8 +714,15 @@
         "title": "Freeform 3D Ice Printing (3D‐ICE) at the Micro Scale",
         "pub_year": "2022",
         "citation": "Advanced Science 9 (27), 2201566, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "F3UFKWMAAAAJ:uWiczbcajpAC"
+    },
+    {
+        "title": "Freeform Fabrication of Three-Dimensional Structures Using a Droplet-On-Demand Process With Continuous and Frequency Modulated Material Deposition",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/686,058, 2024",
+        "num_citations": 0,
+        "author_pub_id": "F3UFKWMAAAAJ:kz9GbA2Ns4gC"
     },
     {
         "title": "Full‐thickness Engineered Skin Tissue with 3D Biomimetic Micro‐topography",
@@ -728,7 +735,7 @@
         "title": "Green micromachining of ceramics using tungsten carbide micro-endmills",
         "pub_year": "2019",
         "citation": "Journal of Materials Processing Technology 267, 268-279, 2019",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "F3UFKWMAAAAJ:PELIpwtuRlgC"
     },
     {
@@ -763,7 +770,7 @@
         "title": "High‐density soft‐matter electronics with micron‐scale line width",
         "pub_year": "2014",
         "citation": "Advanced materials 26 (30), 5211-5216, 2014",
-        "num_citations": 246,
+        "num_citations": 248,
         "author_pub_id": "F3UFKWMAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -902,14 +909,14 @@
         "title": "Micro/meso-scale mechanical machining 2020: a two-decade state-of-the-field review",
         "pub_year": "2020",
         "citation": "Journal of Manufacturing Science and Engineering 142 (11), 110809, 2020",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "F3UFKWMAAAAJ:2KloaMYe4IUC"
     },
     {
         "title": "Microendmill dynamics including the actual fluted geometry and setup errors—Part I: Model Development and Numerical Solution",
         "pub_year": "2008",
         "citation": "",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "F3UFKWMAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -937,7 +944,7 @@
         "title": "Micromilling of microbarbs for medical implants",
         "pub_year": "2008",
         "citation": "International Journal of Machine Tools and Manufacture 48 (3-4), 459-472, 2008",
-        "num_citations": 151,
+        "num_citations": 152,
         "author_pub_id": "F3UFKWMAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1137,7 +1144,7 @@
         "title": "Radial throw in micromachining: Measurement and analysis",
         "pub_year": "2018",
         "citation": "Precision Engineering 54, 21-32, 2018",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "F3UFKWMAAAAJ:WA5NYHcadZ8C"
     },
     {
@@ -1179,21 +1186,21 @@
         "title": "Scalable manufacturing of liquid metal circuits",
         "pub_year": "2022",
         "citation": "Advanced Materials Technologies 7 (11), 2200295, 2022",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "F3UFKWMAAAAJ:EkHepimYqZsC"
     },
     {
         "title": "Skin-targeted delivery of extracellular vesicle-encapsulated curcumin using dissolvable microneedle arrays",
         "pub_year": "2022",
         "citation": "Acta Biomaterialia 149, 198-212, 2022",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "F3UFKWMAAAAJ:URolC5Kub84C"
     },
     {
         "title": "Soft Electronics Manufacturing Using Microcontact Printing",
         "pub_year": "2019",
         "citation": "Advanced Functional Materials, 2019",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "F3UFKWMAAAAJ:Fu2w8maKXqMC"
     },
     {
@@ -1249,7 +1256,7 @@
         "title": "The effect of spindle dynamics on tool-tip radial throw in micromachining",
         "pub_year": "2020",
         "citation": "Journal of Manufacturing Processes 56, 1397-1403, 2020",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "F3UFKWMAAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -1277,14 +1284,14 @@
         "title": "Three dimensional dynamics of pretwisted beams: A spectral-Tchebychev solution",
         "pub_year": "2014",
         "citation": "Journal of Sound and Vibration 333 (10), 2823-2839, 2014",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "F3UFKWMAAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "Three dimensional dynamics of rotating structures under mixed boundary conditions",
         "pub_year": "2015",
         "citation": "Journal of Sound and Vibration 358, 176-191, 2015",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "F3UFKWMAAAAJ:uWQEDVKXjbEC"
     },
     {

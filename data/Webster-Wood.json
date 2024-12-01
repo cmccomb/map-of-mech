@@ -3,7 +3,7 @@
         "title": "3D printing hydrogel-based soft and biohybrid actuators: a mini-review on fabrication techniques, applications, and challenges",
         "pub_year": "2021",
         "citation": "Frontiers in Robotics and AI 8, 673533, 2021",
-        "num_citations": 41,
+        "num_citations": 44,
         "author_pub_id": "jW3whJYAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -94,14 +94,14 @@
         "title": "An integrated computer vision system for real-time monitoring and control of long-fiber embedded hydrogel 3D printing",
         "pub_year": "2022",
         "citation": "Materials Today: Proceedings 70, 376-381, 2022",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "jW3whJYAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "Aplysia Californica as a Novel Source of Material for Biohybrid Robots and Organic Machines",
         "pub_year": "2016",
         "citation": "Biomimetic and Biohybrid Systems: 5th International Conference, Living …, 2016",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "jW3whJYAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -122,14 +122,14 @@
         "title": "Biodegradable, sustainable hydrogel actuators with shape and stiffness morphing capabilities via embedded 3D printing",
         "pub_year": "2023",
         "citation": "Advanced Functional Materials 33 (36), 2303659, 2023",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "jW3whJYAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Biohybrid actuators for soft robotics: Challenges in scaling up",
         "pub_year": "2020",
         "citation": "Actuators 9 (4), 96, 2020",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "jW3whJYAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -143,7 +143,7 @@
         "title": "Biohybrid robots: recent progress, challenges, and perspectives",
         "pub_year": "2022",
         "citation": "Bioinspiration & biomimetics 18 (1), 015001, 2022",
-        "num_citations": 52,
+        "num_citations": 54,
         "author_pub_id": "jW3whJYAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -164,7 +164,7 @@
         "title": "Continuous fiber extruder for desktop 3D printers toward long fiber embedded hydrogel 3D printing",
         "pub_year": "2022",
         "citation": "HardwareX 11, e00297, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "jW3whJYAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -180,6 +180,13 @@
         "citation": "Biological Cybernetics 115, 191-191, 2021",
         "num_citations": 0,
         "author_pub_id": "jW3whJYAAAAJ:roLk4NBRz8UC"
+    },
+    {
+        "title": "Cytotoxicity and Characterization of 3D-Printable Resins Using a Low-Cost Printer for Muscle-based Biohybrid Devices",
+        "pub_year": "2024",
+        "citation": "bioRxiv, 2024.10. 31.621115, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jW3whJYAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Design and Characterization of Viscoelastic McKibben Actuators with Tunable Force-Velocity Curves",
@@ -227,7 +234,7 @@
         "title": "Effect of actuating cell source on locomotion of organic living machines with electrocompacted collagen skeleton",
         "pub_year": "2016",
         "citation": "Bioinspiration & biomimetics 11 (3), 036012, 2016",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "jW3whJYAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -241,7 +248,7 @@
         "title": "Ethics and responsibility in biohybrid robotics research",
         "pub_year": "2024",
         "citation": "Proceedings of the National Academy of Sciences 121 (31), e2310458121, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jW3whJYAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -351,7 +358,7 @@
         "title": "It’s Alive! From Bioinspired to Biohybrid Robots",
         "pub_year": "2022",
         "citation": "Climbing and Walking Robots Conference, 4-4, 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jW3whJYAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -365,7 +372,7 @@
         "title": "Long-fiber embedded hydrogel 3D printing for structural reinforcement",
         "pub_year": "2021",
         "citation": "ACS biomaterials science & engineering 8 (1), 303-313, 2021",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "jW3whJYAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -396,8 +403,8 @@
     },
     {
         "title": "Neurodevelopmental disorders modeling using isogeometric analysis, dynamic domain expansion and local refinement",
-        "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2407.00810, 2024",
+        "pub_year": "2025",
+        "citation": "Computer Methods in Applied Mechanics and Engineering 433, 117534, 2025",
         "num_citations": 0,
         "author_pub_id": "jW3whJYAAAAJ:NMxIlDl6LWMC"
     },
@@ -405,7 +412,7 @@
         "title": "Organismal engineering: Toward a robotic taxonomic key for devices using organic materials",
         "pub_year": "2017",
         "citation": "Science robotics 2 (12), eaap9281, 2017",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "jW3whJYAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -517,7 +524,7 @@
         "title": "Woven collagen biotextiles enable mechanically functional rotator cuff tendon regeneration during repair of segmental tendon defects in vivo",
         "pub_year": "2019",
         "citation": "Journal of Biomedical Materials Research Part B: Applied Biomaterials 107 (6 …, 2019",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "jW3whJYAAAAJ:8k81kl-MbHgC"
     }
 ]

@@ -226,7 +226,7 @@
         "title": "An ultracompact dual-stage converter for driving electrostatic actuators in mobile microrobots",
         "pub_year": "2013",
         "citation": "IEEE Transactions on Power Electronics 29 (6), 2991-3000, 2013",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "SU0c5P0AAAAJ:dhFuZR0502QC"
     },
     {
@@ -274,14 +274,14 @@
         "title": "Bio‐inspired large‐area soft sensing skins to measure UAV wing deformation in flight",
         "pub_year": "2021",
         "citation": "Advanced Functional Materials 31 (23), 2100679, 2021",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "SU0c5P0AAAAJ:vRqMK49ujn8C"
     },
     {
         "title": "Bridge risk investigation diagnostic grouped exploratory (BRIDGE) bot",
         "pub_year": "2017",
         "citation": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2017",
-        "num_citations": 42,
+        "num_citations": 36,
         "author_pub_id": "SU0c5P0AAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -337,7 +337,7 @@
         "title": "Controlled assembly of liquid metal inclusions as a general approach for multifunctional composites",
         "pub_year": "2020",
         "citation": "Advanced Materials 32 (46), 2002929, 2020",
-        "num_citations": 95,
+        "num_citations": 97,
         "author_pub_id": "SU0c5P0AAAAJ:WbkHhVStYXYC"
     },
     {
@@ -487,7 +487,7 @@
         "title": "Efficient electrostatic inchworm motors with simple control and high force density",
         "pub_year": "2011",
         "citation": "2011 16th International Solid-State Sensors, Actuators and Microsystems …, 2011",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "SU0c5P0AAAAJ:5nxA0vEk-isC"
     },
     {
@@ -562,7 +562,7 @@
         "title": "Flow separation sensing on airfoil using a 3D printed biomimetic artificial hair sensor",
         "pub_year": "2022",
         "citation": "Bioinspiration & Biomimetics 17 (4), 046003, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "SU0c5P0AAAAJ:eJXPG6dFmWUC"
     },
     {
@@ -583,7 +583,7 @@
         "title": "Fusion of video and inertial sensing data via dynamic optimization of a biomechanical model",
         "pub_year": "2023",
         "citation": "Journal of biomechanics 155, 111617, 2023",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "SU0c5P0AAAAJ:XiVPGOgt02cC"
     },
     {
@@ -639,7 +639,7 @@
         "title": "Identifying Contact Distance Uncertainty in Whisker Sensing with Tapered, Flexible Whiskers",
         "pub_year": "2023",
         "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 607-613, 2023",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "SU0c5P0AAAAJ:Y5dfb0dijaUC"
     },
     {
@@ -1017,7 +1017,7 @@
         "title": "Sensor Placement for Flapping Wing Model Using Stochastic Observability Gramians",
         "pub_year": "2024",
         "citation": "2024 American Control Conference (ACC), 4960-4966, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "SU0c5P0AAAAJ:WqliGbK-hY8C"
     },
     {
@@ -1080,14 +1080,14 @@
         "title": "Spring and latch dynamics can act as control pathways in ultrafast systems",
         "pub_year": "2023",
         "citation": "Bioinspiration & Biomimetics 18 (2), 026002, 2023",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "SU0c5P0AAAAJ:olpn-zPbct0C"
     },
     {
         "title": "Tactile Sensors: Rapid Manufacturing of Mechanoreceptive Skins for Slip Detection in Robotic Grasping (Adv. Mater. Technol. 1/2017)",
         "pub_year": "2017",
         "citation": "Advanced Materials Technologies 2 (1), 2017",
-        "num_citations": 68,
+        "num_citations": 67,
         "author_pub_id": "SU0c5P0AAAAJ:GnPB-g6toBAC"
     },
     {
@@ -1115,7 +1115,7 @@
         "title": "The principles of cascading power limits in small, fast biological and engineered systems",
         "pub_year": "2018",
         "citation": "Science 360 (6387), eaao1082, 2018",
-        "num_citations": 224,
+        "num_citations": 226,
         "author_pub_id": "SU0c5P0AAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -1150,7 +1150,7 @@
         "title": "Toward autonomy in sub-gram terrestrial robots",
         "pub_year": "2019",
         "citation": "Annual Review of Control, Robotics, and Autonomous Systems 2 (1), 231-252, 2019",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "SU0c5P0AAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -1178,7 +1178,7 @@
         "title": "Use of a MEMS differential pressure sensor to detect ground, ceiling, and walls on small quadrotors",
         "pub_year": "2021",
         "citation": "IEEE Robotics and Automation Letters 6 (3), 4568-4575, 2021",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "SU0c5P0AAAAJ:08ZZubdj9fEC"
     },
     {
@@ -1205,7 +1205,7 @@
         "title": "Whisksight: A reconfigurable, vision-based, optical whisker sensing array for simultaneous contact, airflow, and inertia stimulus detection",
         "pub_year": "2021",
         "citation": "IEEE Robotics and Automation Letters 6 (2), 3357-3364, 2021",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "SU0c5P0AAAAJ:tOudhMTPpwUC"
     }
 ]

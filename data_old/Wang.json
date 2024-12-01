@@ -17,7 +17,7 @@
         "title": "Achieving extreme stiffness for beam-plate-shell-combined lattice metamaterial through a multilayer strategy and topology optimization",
         "pub_year": "2023",
         "citation": "",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "VPWy3N8AAAAJ:aqlVkmm33-oC"
     },
     {
@@ -45,14 +45,14 @@
         "title": "Data-driven metamaterial design with Laplace-Beltrami spectrum as “shape-DNA”",
         "pub_year": "2020",
         "citation": "Structural and multidisciplinary optimization 61, 2613-2628, 2020",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "VPWy3N8AAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Data-driven multiscale design of cellular composites with multiclass microstructures for natural frequency maximization",
         "pub_year": "2022",
         "citation": "Composite Structures 280, 114949, 2022",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "VPWy3N8AAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -66,21 +66,21 @@
         "title": "Data-driven topology optimization with multiclass microstructures using latent variable Gaussian process",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (3), 031708, 2021",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "VPWy3N8AAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Data‐Driven Design for Metamaterials and Multiscale Systems: A Review",
         "pub_year": "2024",
         "citation": "Advanced Materials 36 (8), 2305254, 2024",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "VPWy3N8AAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Deep generative modeling for mechanistic-based learning and design of metamaterial systems",
         "pub_year": "2020",
         "citation": "Computer Methods in Applied Mechanics and Engineering 372, 113377, 2020",
-        "num_citations": 226,
+        "num_citations": 233,
         "author_pub_id": "VPWy3N8AAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -108,7 +108,7 @@
         "title": "Globally approximate gaussian processes for big data with application to data-driven metamaterials design",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (11), 111402, 2019",
-        "num_citations": 71,
+        "num_citations": 72,
         "author_pub_id": "VPWy3N8AAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -122,14 +122,14 @@
         "title": "METASET: Exploring shape and property spaces for data-driven metamaterials design",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (3), 031707, 2021",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "VPWy3N8AAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Mechanical cloak via data-driven aperiodic metamaterial design",
         "pub_year": "2022",
         "citation": "Proceedings of the National Academy of Sciences 119 (13), e2122185119, 2022",
-        "num_citations": 71,
+        "num_citations": 73,
         "author_pub_id": "VPWy3N8AAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -150,7 +150,7 @@
         "title": "Remixing functionally graded structures: data-driven topology optimization with multiclass shape blending",
         "pub_year": "2022",
         "citation": "Structural and Multidisciplinary Optimization 65 (5), 135, 2022",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "VPWy3N8AAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -164,14 +164,14 @@
         "title": "Scalable gaussian processes for data-driven design using big data with categorical factors",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (2), 021703, 2022",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "VPWy3N8AAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Ultrastiff metamaterials generated through a multilayer strategy and topology optimization",
         "pub_year": "2024",
         "citation": "Nature Communications 15 (1), 2984, 2024",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "VPWy3N8AAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -185,7 +185,7 @@
         "title": "t-metaset: Task-aware acquisition of metamaterial datasets through diversity-based active learning",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (3), 031704, 2023",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "VPWy3N8AAAAJ:kNdYIx-mwKoC"
     }
 ]

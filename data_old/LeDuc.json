@@ -51,7 +51,7 @@
         "title": "3D freeform ice printing for fabricating biomimetic vascular networks in engineered tissue",
         "pub_year": "2024",
         "citation": "Biophysical Journal 123 (3), 436a, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "sLEB9iYAAAAJ:PaBasH6fAo0C"
     },
     {
@@ -113,7 +113,7 @@
         "title": "A mixed reality system combining augmented reality, 3D bio-printed physical environments and inertial measurement unit sensors for task planning",
         "pub_year": "2023",
         "citation": "Virtual Reality 27 (3), 1845-1858, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "sLEB9iYAAAAJ:wMgC3FpKEyYC"
     },
     {
@@ -253,7 +253,7 @@
         "title": "Bio-inspired soft robotics: Material selection, actuation, and design",
         "pub_year": "2018",
         "citation": "Extreme Mechanics Letters 22, 51-59, 2018",
-        "num_citations": 372,
+        "num_citations": 377,
         "author_pub_id": "sLEB9iYAAAAJ:_axFR9aDTf0C"
     },
     {
@@ -281,7 +281,7 @@
         "title": "Biomimetic scaffolds with three-dimensional undulated microtopographies",
         "pub_year": "2017",
         "citation": "Biomaterials 128, 109-120, 2017",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "sLEB9iYAAAAJ:i2xiXl-TujoC"
     },
     {
@@ -330,7 +330,7 @@
         "title": "Characterization of neural mechanotransduction response in human traumatic brain injury organoid model",
         "pub_year": "2023",
         "citation": "Scientific reports 13 (1), 13536, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "sLEB9iYAAAAJ:48xauSegjOkC"
     },
     {
@@ -420,7 +420,7 @@
         "title": "Composite polymer systems with control of local substrate elasticity and their effect on cytoskeletal and morphological characteristics of adherent cells",
         "pub_year": "2009",
         "citation": "Biomaterials 30 (18), 3136-3142, 2009",
-        "num_citations": 126,
+        "num_citations": 127,
         "author_pub_id": "sLEB9iYAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -503,7 +503,7 @@
         "title": "Controlling magnetotactic bacteria through an integrated nanofabricated metallic island and optical microscope approach",
         "pub_year": "2014",
         "citation": "Scientific reports 4 (1), 4104, 2014",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "sLEB9iYAAAAJ:7T2F9Uy0os0C"
     },
     {
@@ -566,14 +566,14 @@
         "title": "Decidual vasculopathy identification in whole slide images using multiresolution hierarchical convolutional neural networks",
         "pub_year": "2020",
         "citation": "The American Journal of Pathology 190 (10), 2111-2122, 2020",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "sLEB9iYAAAAJ:4vMrXwiscB8C"
     },
     {
         "title": "Defining the role of syndecan-4 in mechanotransduction using surface-modification approaches",
         "pub_year": "2009",
         "citation": "Proceedings of the National Academy of Sciences 106 (52), 22102-22107, 2009",
-        "num_citations": 137,
+        "num_citations": 138,
         "author_pub_id": "sLEB9iYAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -887,7 +887,7 @@
         "title": "Fabrication of circular microfluidic channels by combining mechanical micromilling and soft lithography",
         "pub_year": "2011",
         "citation": "Lab on a Chip 11 (8), 1550-1555, 2011",
-        "num_citations": 202,
+        "num_citations": 203,
         "author_pub_id": "sLEB9iYAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -1062,8 +1062,15 @@
         "title": "Intact mangrove root electrodes for desalination",
         "pub_year": "2019",
         "citation": "RSC advances 9 (9), 4735-4743, 2019",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "sLEB9iYAAAAJ:0izLItjtcgwC"
+    },
+    {
+        "title": "Integrated Electronic Device with Flexible and Stretchable Substrate",
+        "pub_year": "2020",
+        "citation": "US Patent App. 16/572,652, 2020",
+        "num_citations": 1,
+        "author_pub_id": "sLEB9iYAAAAJ:IRz6iEL74y4C"
     },
     {
         "title": "Integrated biomimetic carbon nanotube composites for in vivo systems",
@@ -1092,13 +1099,6 @@
         "citation": "US Patent 10,462,897, 2019",
         "num_citations": 3,
         "author_pub_id": "sLEB9iYAAAAJ:Ri6SYOTghG4C"
-    },
-    {
-        "title": "Integrated electronic device with flexible and stretchable substrate",
-        "pub_year": "2024",
-        "citation": "US Patent 12,096,553, 2024",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:IRz6iEL74y4C"
     },
     {
         "title": "Integrated lithographic membranes and surface adhesion chemistry for three-dimensional cellular stimulation",
@@ -1237,7 +1237,7 @@
         "title": "Material Gradients in Stretchable Substrates toward Integrated Electronic Functionality.",
         "pub_year": "2016",
         "citation": "Advanced Materials (Deerfield Beach, Fla.) 28 (18), 3584-3591, 2016",
-        "num_citations": 77,
+        "num_citations": 76,
         "author_pub_id": "sLEB9iYAAAAJ:gsN89kCJA0AC"
     },
     {
@@ -1265,7 +1265,7 @@
         "title": "Mechanical loading of stem cells for improvement of transplantation outcome in a model of acute myocardial infarction: the role of loading history",
         "pub_year": "2012",
         "citation": "Tissue Engineering Part A 18 (11-12), 1101-1108, 2012",
-        "num_citations": 42,
+        "num_citations": 41,
         "author_pub_id": "sLEB9iYAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -1326,13 +1326,6 @@
     },
     {
         "title": "Method for object detection using hierarchical deep learning",
-        "pub_year": "2022",
-        "citation": "US Patent 11,367,189, 2022",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:u-coK7KVo8oC"
-    },
-    {
-        "title": "Method for object detection using hierarchical deep learning",
         "pub_year": "2024",
         "citation": "US Patent App. 18/391,820, 2024",
         "num_citations": 0,
@@ -1344,6 +1337,13 @@
         "citation": "US Patent 11,893,811, 2024",
         "num_citations": 0,
         "author_pub_id": "sLEB9iYAAAAJ:GFxP56DSvIMC"
+    },
+    {
+        "title": "Method for object detection using hierarchical deep learning",
+        "pub_year": "2022",
+        "citation": "US Patent 11,367,189, 2022",
+        "num_citations": 0,
+        "author_pub_id": "sLEB9iYAAAAJ:u-coK7KVo8oC"
     },
     {
         "title": "Method of optical fabrication of three-dimensional polymeric structures with out of plane profile control",
@@ -1412,7 +1412,7 @@
         "title": "Mimicking embedded vasculature structure for 3D cancer on a chip approaches through micromilling",
         "pub_year": "2017",
         "citation": "Scientific reports 7 (1), 16724, 2017",
-        "num_citations": 42,
+        "num_citations": 44,
         "author_pub_id": "sLEB9iYAAAAJ:edDO8Oi4QzsC"
     },
     {
@@ -1622,7 +1622,7 @@
         "title": "Polycarbonate heat molding for soft lithography",
         "pub_year": "2020",
         "citation": "Small 16 (16), 2000241, 2020",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "sLEB9iYAAAAJ:9c2xU6iGI7YC"
     },
     {
@@ -1727,7 +1727,7 @@
         "title": "Probing cellular dynamics with a chemical signal generator",
         "pub_year": "2009",
         "citation": "PloS one 4 (3), e4847, 2009",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "sLEB9iYAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1831,7 +1831,7 @@
         "title": "Selective chemical treatment of cellular microdomains using multiple laminar streams",
         "pub_year": "2003",
         "citation": "Chemistry & biology 10 (2), 123-130, 2003",
-        "num_citations": 283,
+        "num_citations": 284,
         "author_pub_id": "sLEB9iYAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -1873,7 +1873,7 @@
         "title": "Soft robotics informs how an early echinoderm moved",
         "pub_year": "2023",
         "citation": "Proceedings of the National Academy of Sciences 120 (46), e2306580120, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "sLEB9iYAAAAJ:1lhNe0rCu4AC"
     },
     {
@@ -1965,6 +1965,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "sLEB9iYAAAAJ:OcBU2YAGkTUC"
+    },
+    {
+        "title": "Surgical Training Outcomes Using a Mixed Reality Combination System",
+        "pub_year": "2024",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "sLEB9iYAAAAJ:kw52XkFRtyQC"
     },
     {
         "title": "Surprisingly Stochastic: Learning and Application of Emergent Behavior Using Interactive Simulations of Nano-Mechanical Biological Systems",
@@ -2165,7 +2172,7 @@
         "title": "Tracking of scalpel motions with an inertial measurement unit system",
         "pub_year": "2022",
         "citation": "IEEE Sensors Journal 22 (5), 4651-4660, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "sLEB9iYAAAAJ:Bg7qf7VwUHIC"
     },
     {

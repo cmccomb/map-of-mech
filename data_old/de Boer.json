@@ -83,7 +83,7 @@
         "title": "Accurate method for determining adhesion of cantilever beams",
         "pub_year": "1999",
         "citation": "Journal of applied physics 86 (2), 817-827, 1999",
-        "num_citations": 316,
+        "num_citations": 317,
         "author_pub_id": "P1OWCkAAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -244,7 +244,7 @@
         "title": "Contamination Thresholds of Pt- and -Coated Ohmic Switches",
         "pub_year": "2013",
         "citation": "Journal of microelectromechanical systems 22 (6), 1248-1250, 2013",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "P1OWCkAAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -279,7 +279,7 @@
         "title": "Crystalline polymer nanofibers with ultra-high strength and thermal conductivity",
         "pub_year": "2018",
         "citation": "Nature communications 9 (1), 1664, 2018",
-        "num_citations": 136,
+        "num_citations": 137,
         "author_pub_id": "P1OWCkAAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -307,14 +307,14 @@
         "title": "Demonstration of an in situ on-chip tensile tester",
         "pub_year": "2009",
         "citation": "Journal of Micromechanics and Microengineering 19 (8), 082001, 2009",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "P1OWCkAAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Demonstration of tantalum as a structural material for MEMS thermal actuators",
         "pub_year": "2021",
         "citation": "Microsystems & Nanoengineering 7 (1), 6, 2021",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "P1OWCkAAAAAJ:nrtMV_XWKgEC"
     },
     {
@@ -622,7 +622,7 @@
         "title": "Impact of contact materials and operating conditions on stability of micromechanical switches",
         "pub_year": "2013",
         "citation": "Tribology Letters 51, 341-356, 2013",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "P1OWCkAAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -706,7 +706,7 @@
         "title": "Interferometry of actuated microcantilevers to determine material properties and test structure nonidealities in MEMS",
         "pub_year": "2001",
         "citation": "Journal of Microelectromechanical Systems 10 (3), 336-346, 2001",
-        "num_citations": 164,
+        "num_citations": 165,
         "author_pub_id": "P1OWCkAAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -839,7 +839,7 @@
         "title": "Mechanics of microcantilever beams subject to combined electrostatic and adhesive forces",
         "pub_year": "2002",
         "citation": "Journal of Microelectromechanical Systems 11 (6), 754-764, 2002",
-        "num_citations": 139,
+        "num_citations": 140,
         "author_pub_id": "P1OWCkAAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -1126,7 +1126,7 @@
         "title": "Predicting Oxidation Behavior of Multi-Principal Element Alloys by Machine Learning Methods",
         "pub_year": "2022",
         "citation": "Oxidation of Metals 98 (5), 429-450, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "P1OWCkAAAAAJ:L7CI7m0gUJcC"
     },
     {
@@ -1346,7 +1346,7 @@
         "title": "The role of van der Waals forces in adhesion of micromachined surfaces",
         "pub_year": "2005",
         "citation": "Nature materials 4 (8), 629-634, 2005",
-        "num_citations": 599,
+        "num_citations": 600,
         "author_pub_id": "P1OWCkAAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1450,7 +1450,7 @@
         "title": "van der Waals force-induced crack healing in dry rough interfaces",
         "pub_year": "2016",
         "citation": "Journal of Physics D: Applied Physics 49 (7), 075303, 2016",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "P1OWCkAAAAAJ:8AbLer7MMksC"
     }
 ]

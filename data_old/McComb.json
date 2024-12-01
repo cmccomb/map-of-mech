@@ -24,7 +24,7 @@
         "title": "A Conceptual Framework for Multidisciplinary Design Research with Example Application to Agent-Based Modeling",
         "pub_year": "2022",
         "citation": "Design Studies, 2022",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "0P9w_S0AAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "A Multi-Agent Reinforcement Learning Framework for Intelligent Manufacturing with Autonomous Mobile Robots",
         "pub_year": "2021",
         "citation": "International Conference on Engineering Design, 2021",
-        "num_citations": 19,
+        "num_citations": 21,
         "author_pub_id": "0P9w_S0AAAAJ:t6usbXjVLHcC"
     },
     {
@@ -80,7 +80,7 @@
         "title": "A Review of Part Filtering Methods for Additive Manufacturing",
         "pub_year": "2020",
         "citation": "ASME 2020 International Design Engineering Technical Conferences and …, 2020",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "0P9w_S0AAAAJ:uWQEDVKXjbEC"
     },
     {
@@ -94,7 +94,7 @@
         "title": "A Strategic Decision-making Architecture Toward Hybrid Teams for Dynamic Competitive Problems",
         "pub_year": "2021",
         "citation": "Decision Support Systems, 2021",
-        "num_citations": 24,
+        "num_citations": 26,
         "author_pub_id": "0P9w_S0AAAAJ:VOx2b1Wkg3QC"
     },
     {
@@ -108,7 +108,7 @@
         "title": "A cautionary tale about the impact of AI on human design teams",
         "pub_year": "2021",
         "citation": "Design Studies 72, 100990, 2021",
-        "num_citations": 104,
+        "num_citations": 107,
         "author_pub_id": "0P9w_S0AAAAJ:q3oQSFYPqjQC"
     },
     {
@@ -150,7 +150,7 @@
         "title": "Addressing Challenges to Problem Complexity: Effectiveness of AI Assistance During the Design Process",
         "pub_year": "2021",
         "citation": "ASME 2021 International Design Engineering Technical Conferences and …, 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "0P9w_S0AAAAJ:bnK-pcrLprsC"
     },
     {
@@ -234,7 +234,7 @@
         "title": "Are you feeling me? An exploration of empathy development in engineering design education",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design, 2021",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "0P9w_S0AAAAJ:08ZZubdj9fEC"
     },
     {
@@ -290,14 +290,14 @@
         "title": "Capturing Human Sequence-Learning Abilities in Configuration Design Tasks through Markov Chains",
         "pub_year": "2017",
         "citation": "Journal of Mechanical Design 139 (9), 2017",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "0P9w_S0AAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Capturing Local Temperature Evolution during Additive Manufacturing through Fourier Neural Operators",
         "pub_year": "2024",
         "citation": "Journal of Manufacturing Science and Engineering, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "0P9w_S0AAAAJ:FPJr55Dyh1AC"
     },
     {
@@ -339,7 +339,7 @@
         "title": "Comparing Human and Cognitive Assistant Facilitated Brainstorming Sessions",
         "pub_year": "2022",
         "citation": "Journal of Engineering Design, 2022",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "0P9w_S0AAAAJ:PR6Y55bgFSsC"
     },
     {
@@ -409,7 +409,7 @@
         "title": "Conceptual Design Generation Using Large Language Models",
         "pub_year": "2023",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023",
-        "num_citations": 32,
+        "num_citations": 36,
         "author_pub_id": "0P9w_S0AAAAJ:KUbvn5osdkgC"
     },
     {
@@ -500,7 +500,7 @@
         "title": "Decoding the Agility of Artificial Intelligence-Assisted Human Design Teams",
         "pub_year": "2022",
         "citation": "Design Studies, 2022",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "0P9w_S0AAAAJ:UHK10RUVsp4C"
     },
     {
@@ -535,7 +535,7 @@
         "title": "Design Repository Effectiveness for 3D Convolutional Neural Networks: Application to Additive Manufacturing",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design, 2019",
-        "num_citations": 106,
+        "num_citations": 107,
         "author_pub_id": "0P9w_S0AAAAJ:BqipwSGYUEgC"
     },
     {
@@ -605,14 +605,14 @@
         "title": "Does empathy lead to creativity? A simulation-based investigation on the role of team trait empathy on nominal group concept generation and early concept screening",
         "pub_year": "2023",
         "citation": "AI EDAM 37, e23, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "0P9w_S0AAAAJ:S16KYo8Pm5AC"
     },
     {
         "title": "Drawing Inspiration From Human Design Teams For Better Search And Optimization: The Heterogeneous Simulated Annealing Teams Algorithm",
         "pub_year": "2016",
         "citation": "Journal of Mechanical Design, 2016",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "0P9w_S0AAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -709,9 +709,9 @@
     {
         "title": "Exploring the Capabilities of Large Language Models for Generating Diverse Design Solutions",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2405.02345, 2024",
-        "num_citations": 2,
-        "author_pub_id": "0P9w_S0AAAAJ:YohjEiUPhakC"
+        "citation": "Journal of Computing and Information Science in Engineering, 2024",
+        "num_citations": 3,
+        "author_pub_id": "0P9w_S0AAAAJ:4hFrxpcac9AC"
     },
     {
         "title": "Exploring the Impact of Set-Based Concurrent Engineering Through Multi Agent System Simulation",
@@ -738,7 +738,7 @@
         "title": "Focus and Modality: Defining A Roadmap to Future AI-Human Teaming in Design",
         "pub_year": "2023",
         "citation": "International Conference on Engineering Design, 2023",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "0P9w_S0AAAAJ:EYYDruWGBe4C"
     },
     {
@@ -787,7 +787,7 @@
         "title": "Human versus Artificial Intelligence: A Data-Driven Approach to Real-Time Process Management During Complex Engineering Design",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design, 2022",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "0P9w_S0AAAAJ:dTyEYWd-f8wC"
     },
     {
@@ -801,7 +801,7 @@
         "title": "Idea Selection in Design Teams: A Computational Framework and Insights in the Presence of Influencers",
         "pub_year": "2022",
         "citation": "Design Science, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "0P9w_S0AAAAJ:ipzZ9siozwsC"
     },
     {
@@ -843,7 +843,7 @@
         "title": "Impossible by design? Fairness, strategy, and Arrow’s impossibility theorem",
         "pub_year": "2017",
         "citation": "Design Science, 2017",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "0P9w_S0AAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -878,7 +878,7 @@
         "title": "Investigating the Relationship between Mindfulness, Stress, and Creativity in Introductory Engineering Design",
         "pub_year": "2023",
         "citation": "Design Science, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "0P9w_S0AAAAJ:gsN89kCJA0AC"
     },
     {
@@ -892,7 +892,7 @@
         "title": "Learning To Design From Humans: Imitating Human Designers Through Deep Learning",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design, 2019",
-        "num_citations": 111,
+        "num_citations": 112,
         "author_pub_id": "0P9w_S0AAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -1025,7 +1025,7 @@
         "title": "No Time for That?: An Investigation of Mindfulness and Stress in First-Year Engineering Design",
         "pub_year": "2022",
         "citation": "Design Science, 2022",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "0P9w_S0AAAAJ:JQOojiI6XY0C"
     },
     {
@@ -1360,7 +1360,7 @@
         "title": "Uncovering Potential Bias in Engineering Design: A Comparative Review of Bias Research in Medicine",
         "pub_year": "2023",
         "citation": "Design Science, 2023",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "0P9w_S0AAAAJ:b1wdh0AR-JQC"
     },
     {
@@ -1395,7 +1395,7 @@
         "title": "Using Autoencoded Voxel Patterns To Predict Part Mass, Required Support Material, and Build Time",
         "pub_year": "2018",
         "citation": "29th Annual International Solid Freeform Fabrication Symposium, 2018",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "0P9w_S0AAAAJ:k_IJM867U9cC"
     },
     {
@@ -1458,14 +1458,14 @@
         "title": "Virtual and face-to-face team collaboration comparison through an agent-based simulation",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "0P9w_S0AAAAJ:kzcrU_BdoSEC"
     },
     {
         "title": "When faced with increasing complexity: The effectiveness of AI assistance for drone design",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design, 2022",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "0P9w_S0AAAAJ:tkaPQYYpVKoC"
     },
     {

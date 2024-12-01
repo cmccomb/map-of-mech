@@ -17,7 +17,7 @@
         "title": "Assessing the applicability of quantum corrections to classical thermal conductivity predictions",
         "pub_year": "2009",
         "citation": "Physical Review B 79 (22), 224305, 2009",
-        "num_citations": 252,
+        "num_citations": 253,
         "author_pub_id": "HmNtygkAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Broadband phonon mean free path contributions to thermal conductivity measured using frequency domain thermoreflectance",
         "pub_year": "2013",
         "citation": "Nature communications 4, 1640, 2013",
-        "num_citations": 697,
+        "num_citations": 701,
         "author_pub_id": "HmNtygkAAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -66,7 +66,7 @@
         "title": "Complex superlattice unit cell designs for reduced thermal conductivity",
         "pub_year": "2008",
         "citation": "Physical Review B 77 (18), 184302, 2008",
-        "num_citations": 188,
+        "num_citations": 189,
         "author_pub_id": "HmNtygkAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -94,7 +94,7 @@
         "title": "Coupling of organic and inorganic vibrational states and their thermal transport in nanocrystal arrays",
         "pub_year": "2014",
         "citation": "The Journal of Physical Chemistry C 118 (14), 7288-7295, 2014",
-        "num_citations": 94,
+        "num_citations": 95,
         "author_pub_id": "HmNtygkAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -108,7 +108,7 @@
         "title": "Crystalline polyethylene nanofibers with the theoretical limit of Young's modulus.",
         "pub_year": "2013",
         "citation": "Advanced Materials (Deerfield Beach, Fla.) 26 (7), 1065-1070, 2013",
-        "num_citations": 51,
+        "num_citations": 50,
         "author_pub_id": "HmNtygkAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -136,7 +136,7 @@
         "title": "Design and modeling of a fluid-based micro-scale electrocaloric refrigeration system",
         "pub_year": "2014",
         "citation": "International Journal of Heat and Mass Transfer 72, 559-564, 2014",
-        "num_citations": 95,
+        "num_citations": 96,
         "author_pub_id": "HmNtygkAAAAJ:f2IySw72cVMC"
     },
     {
@@ -185,7 +185,7 @@
         "title": "Effect of interfacial species mixing on phonon transport in semiconductor superlattices",
         "pub_year": "2009",
         "citation": "Physical Review B 79 (7), 075316, 2009",
-        "num_citations": 170,
+        "num_citations": 171,
         "author_pub_id": "HmNtygkAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -206,7 +206,7 @@
         "title": "Electrocaloric characterization of a poly (vinylidene fluoride-trifluoroethylene-chlorofluoroethylene) terpolymer by infrared imaging",
         "pub_year": "2014",
         "citation": "Applied Physics Letters 105 (3), 031906, 2014",
-        "num_citations": 41,
+        "num_citations": 40,
         "author_pub_id": "HmNtygkAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -276,7 +276,7 @@
         "title": "High-throughput screening of hypothetical metal-organic frameworks for thermal conductivity",
         "pub_year": "2023",
         "citation": "npj Computational Materials 9 (1), 11, 2023",
-        "num_citations": 41,
+        "num_citations": 44,
         "author_pub_id": "HmNtygkAAAAJ:s-mE-ZzancgC"
     },
     {
@@ -311,7 +311,7 @@
         "title": "Intrinsically Thermally Conductive Polymers",
         "pub_year": "2024",
         "citation": "Materials Horizons, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "HmNtygkAAAAJ:4p3FJGzxjgAC"
     },
     {
@@ -350,6 +350,13 @@
         "author_pub_id": "HmNtygkAAAAJ:o0tJHVzi6PsC"
     },
     {
+        "title": "Machine learning for thermal transport",
+        "pub_year": "2024",
+        "citation": "Journal of Applied Physics 136 (16), 2024",
+        "num_citations": 0,
+        "author_pub_id": "HmNtygkAAAAJ:W91e3rS6dHEC"
+    },
+    {
         "title": "Mapping phonon modes from reduced-dimensional to bulk systems",
         "pub_year": "2019",
         "citation": "Journal of Applied Physics 126 (14), 144302, 2019",
@@ -374,7 +381,7 @@
         "title": "Mode-wise thermal conductivity of bismuth telluride",
         "pub_year": "2013",
         "citation": "Journal of Heat Transfer 135 (9), 091102, 2013",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "HmNtygkAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -409,7 +416,7 @@
         "title": "Nanoconfinement between Graphene Walls Suppresses the Near-Wall Diffusion of the Ionic Liquid [BMIM][PF6]",
         "pub_year": "2021",
         "citation": "The Journal of Physical Chemistry B 125 (17), 4527-4535, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "HmNtygkAAAAJ:_cFkbNEifk0C"
     },
     {
@@ -451,7 +458,7 @@
         "title": "Origins of thermal conductivity changes in strained crystals",
         "pub_year": "2014",
         "citation": "Physical Review B 90 (23), 235201, 2014",
-        "num_citations": 111,
+        "num_citations": 114,
         "author_pub_id": "HmNtygkAAAAJ:kVKjLOQJbwAC"
     },
     {
@@ -465,14 +472,14 @@
         "title": "Pair distribution function analysis for oxide defect identification through feature extraction and supervised learning",
         "pub_year": "2023",
         "citation": "APL Machine Learning 1 (2), 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "HmNtygkAAAAJ:bNB6FdaCRgEC"
     },
     {
         "title": "Phonon Dynamics at Surfaces and Interfaces and Its Implications in Energy Transport in Nanostructured Materials—An opinion Paper",
         "pub_year": "2015",
         "citation": "Nanoscale and Microscale Thermophysical Engineering 19 (2), 166-182, 2015",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "HmNtygkAAAAJ:DGpvO1n63MYC"
     },
     {
@@ -493,7 +500,7 @@
         "title": "Phonon properties and thermal conductivity from first principles, lattice dynamics, and the Boltzmann transport equation",
         "pub_year": "2019",
         "citation": "Journal of Applied Physics 125 (1), 011101, 2019",
-        "num_citations": 213,
+        "num_citations": 215,
         "author_pub_id": "HmNtygkAAAAJ:j33aPA1ap8EC"
     },
     {
@@ -514,7 +521,7 @@
         "title": "Phonon transport in periodic silicon nanoporous films with feature sizes greater than 100 nm",
         "pub_year": "2013",
         "citation": "Physical Review B 87 (19), 195301, 2013",
-        "num_citations": 200,
+        "num_citations": 201,
         "author_pub_id": "HmNtygkAAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -542,21 +549,21 @@
         "title": "Predicting alloy vibrational mode properties using lattice dynamics calculations, molecular dynamics simulations, and the virtual crystal approximation",
         "pub_year": "2013",
         "citation": "Journal of Applied Physics 114 (2), 023507, 2013",
-        "num_citations": 98,
+        "num_citations": 99,
         "author_pub_id": "HmNtygkAAAAJ:rO6llkc54NcC"
     },
     {
         "title": "Predicting phonon dispersion relations and lifetimes from the spectral energy density",
         "pub_year": "2010",
         "citation": "Physical Review B 81 (8), 081411, 2010",
-        "num_citations": 429,
+        "num_citations": 430,
         "author_pub_id": "HmNtygkAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Predicting phonon properties and thermal conductivity from anharmonic lattice dynamics calculations and molecular dynamics simulations",
         "pub_year": "2009",
         "citation": "Physical Review B 79 (6), 064301, 2009",
-        "num_citations": 451,
+        "num_citations": 452,
         "author_pub_id": "HmNtygkAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -570,7 +577,7 @@
         "title": "Predicting the thermal conductivity of inorganic and polymeric glasses: The role of anharmonicity",
         "pub_year": "2009",
         "citation": "Journal of Applied Physics 105 (3), 034906, 2009",
-        "num_citations": 128,
+        "num_citations": 129,
         "author_pub_id": "HmNtygkAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -591,14 +598,14 @@
         "title": "Quantitative validation of the Boltzmann transport equation phonon thermal conductivity model under the single-mode relaxation time approximation",
         "pub_year": "2004",
         "citation": "Physical Review B 69 (9), 094303, 2004",
-        "num_citations": 452,
+        "num_citations": 454,
         "author_pub_id": "HmNtygkAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "Reassessing fast water transport through carbon nanotubes",
         "pub_year": "2008",
         "citation": "Nano letters 8 (9), 2788-2793, 2008",
-        "num_citations": 774,
+        "num_citations": 775,
         "author_pub_id": "HmNtygkAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -633,7 +640,7 @@
         "title": "Role of phonon dispersion in lattice thermal conductivity modeling",
         "pub_year": "2004",
         "citation": "Journal of Heat Transfer 126, 376-380, 2004",
-        "num_citations": 131,
+        "num_citations": 132,
         "author_pub_id": "HmNtygkAAAAJ:u_35RYKgDlwC"
     },
     {
@@ -675,14 +682,14 @@
         "title": "Strongly anisotropic in-plane thermal transport in single-layer black phosphorene",
         "pub_year": "2015",
         "citation": "Scientific reports 5, 8501, 2015",
-        "num_citations": 573,
+        "num_citations": 574,
         "author_pub_id": "HmNtygkAAAAJ:tswL-GKFg8UC"
     },
     {
         "title": "Surface chemistry mediates thermal transport in three-dimensional nanocrystal arrays",
         "pub_year": "2013",
         "citation": "Nature materials 12 (5), 410-415, 2013",
-        "num_citations": 273,
+        "num_citations": 274,
         "author_pub_id": "HmNtygkAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -717,7 +724,7 @@
         "title": "Thermal boundary resistance predictions from molecular dynamics simulations and theoretical calculations",
         "pub_year": "2009",
         "citation": "Physical Review B 80 (16), 165304, 2009",
-        "num_citations": 382,
+        "num_citations": 383,
         "author_pub_id": "HmNtygkAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -745,7 +752,7 @@
         "title": "Thermal conductivity accumulation in amorphous silica and amorphous silicon",
         "pub_year": "2014",
         "citation": "Physical Review B 89 (14), 144303, 2014",
-        "num_citations": 322,
+        "num_citations": 324,
         "author_pub_id": "HmNtygkAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -787,21 +794,21 @@
         "title": "Thermal conductivity of metal-organic framework 5 (MOF-5): Part I. Molecular dynamics simulations",
         "pub_year": "2007",
         "citation": "International Journal of Heat and Mass Transfer 50 (3-4), 393-404, 2007",
-        "num_citations": 229,
+        "num_citations": 230,
         "author_pub_id": "HmNtygkAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Thermal transport by phonons and electrons in aluminum, silver, and gold from first principles",
         "pub_year": "2016",
         "citation": "Physical Review B 93 (8), 081206, 2016",
-        "num_citations": 254,
+        "num_citations": 255,
         "author_pub_id": "HmNtygkAAAAJ:7xtfDMUJqJkC"
     },
     {
         "title": "Thermally conductive ultra-low-k dielectric layers based on two-dimensional covalent organic frameworks",
         "pub_year": "2021",
         "citation": "Nature Materials, 1-7, 2021",
-        "num_citations": 204,
+        "num_citations": 205,
         "author_pub_id": "HmNtygkAAAAJ:tJ_1M1FLfZ0C"
     },
     {
@@ -843,21 +850,21 @@
         "title": "Vibrational mean free paths and thermal conductivity of amorphous silicon from non-equilibrium molecular dynamics simulations",
         "pub_year": "2016",
         "citation": "AIP Advances 6 (12), 121904, 2016",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "HmNtygkAAAAJ:cAUKuAERoUMC"
     },
     {
         "title": "Vibrational mismatch of metal leads controls thermal conductance of self-assembled monolayer junctions",
         "pub_year": "2015",
         "citation": "Nano letters 15 (5), 2985-2991, 2015",
-        "num_citations": 130,
+        "num_citations": 132,
         "author_pub_id": "HmNtygkAAAAJ:0BSZZHtHo6cC"
     },
     {
         "title": "Water flow in carbon nanotubes: transition to subcontinuum transport",
         "pub_year": "2009",
         "citation": "Physical Review Letters 102 (18), 184502, 2009",
-        "num_citations": 537,
+        "num_citations": 539,
         "author_pub_id": "HmNtygkAAAAJ:e5wmG9Sq2KIC"
     },
     {
