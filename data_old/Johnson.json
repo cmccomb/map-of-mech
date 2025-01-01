@@ -31,7 +31,7 @@
         "title": "A terramechanics model for high slip angle and skid with prediction of wheel-soil interaction geometry",
         "pub_year": "2024",
         "citation": "Journal of Terramechanics 111, 9-19, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "GN5Mc3UAAAAJ:zGdJYJv2LkUC"
     },
     {
@@ -108,14 +108,14 @@
         "title": "Comparative design, scaling, and control of appendages for inertial reorientation",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Robotics 32 (6), 1380-1398, 2016",
-        "num_citations": 73,
+        "num_citations": 75,
         "author_pub_id": "GN5Mc3UAAAAJ:cWzG1nlazyYC"
     },
     {
         "title": "Conflict-based model predictive control for scalable multi-robot motion planning",
         "pub_year": "2024",
         "citation": "2024 IEEE International Conference on Robotics and Automation (ICRA), 14562 …, 2024",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "GN5Mc3UAAAAJ:DrR-2ekChdkC"
     },
     {
@@ -150,21 +150,21 @@
         "title": "Contact-implicit trajectory optimization using orthogonal collocation",
         "pub_year": "2019",
         "citation": "IEEE Robotics and Automation Letters 4 (2), 2242-2249, 2019",
-        "num_citations": 92,
+        "num_citations": 95,
         "author_pub_id": "GN5Mc3UAAAAJ:ubry08Y2EpUC"
     },
     {
         "title": "Convergent iLQR for safe trajectory planning and control of legged robots",
         "pub_year": "2024",
         "citation": "2024 IEEE International Conference on Robotics and Automation (ICRA), 8051-8057, 2024",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "GN5Mc3UAAAAJ:HJSXoJQnj-YC"
     },
     {
         "title": "Convergent planning",
         "pub_year": "2016",
         "citation": "IEEE Robotics and Automation Letters 1 (2), 1044-1051, 2016",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "GN5Mc3UAAAAJ:4vMrXwiscB8C"
     },
     {
@@ -206,7 +206,7 @@
         "title": "Design of a modular snake robot",
         "pub_year": "2007",
         "citation": "Intelligent Robots and Systems, 2007. IROS 2007. IEEE/RSJ International …, 2007",
-        "num_citations": 365,
+        "num_citations": 368,
         "author_pub_id": "GN5Mc3UAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -227,7 +227,7 @@
         "title": "Direct Drive Hands: Force-Motion Transparency in Gripper Design",
         "pub_year": "2019",
         "citation": "Robotics: Science and Systems, 2019",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "GN5Mc3UAAAAJ:BzfGm06jWhQC"
     },
     {
@@ -248,7 +248,7 @@
         "title": "Domain adaptation using system invariant dynamics models",
         "pub_year": "2021",
         "citation": "Learning for Dynamics and Control, 1130-1141, 2021",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "GN5Mc3UAAAAJ:OBSaB-F7qqsC"
     },
     {
@@ -262,7 +262,7 @@
         "title": "Enabling Dynamic Behaviors With Aerodynamic Drag in Lightweight Tails",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Robotics, 2021",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "GN5Mc3UAAAAJ:DBa1UEJaJKAC"
     },
     {
@@ -339,7 +339,7 @@
         "title": "Hybrid iLQR model predictive control for contact implicit stabilization on legged robots",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Robotics, 2023",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "GN5Mc3UAAAAJ:5bg8sr1QxYwC"
     },
     {
@@ -367,7 +367,7 @@
         "title": "Laboratory on legs: an architecture for adjustable morphology with legged robots",
         "pub_year": "2012",
         "citation": "Proceedings of SPIE 8387, 83870W, 2012",
-        "num_citations": 90,
+        "num_citations": 91,
         "author_pub_id": "GN5Mc3UAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -395,7 +395,7 @@
         "title": "MiniRHex: A Small, Open-source, Fully Programmable Walking Hexapod",
         "pub_year": "2018",
         "citation": "",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "GN5Mc3UAAAAJ:jgBuDB5drN8C"
     },
     {
@@ -430,7 +430,7 @@
         "title": "Optimal Covariance Steering of Linear Stochastic Systems with Hybrid Transitions",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2410.13222, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "GN5Mc3UAAAAJ:27LrP4qxOz0C"
     },
     {
@@ -446,6 +446,13 @@
         "citation": "University of Pennsylvania, 2012",
         "num_citations": 5,
         "author_pub_id": "GN5Mc3UAAAAJ:eQOLeE2rZwMC"
+    },
+    {
+        "title": "Path Integral Control for Hybrid Dynamical Systems",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2411.00659, 2024",
+        "num_citations": 0,
+        "author_pub_id": "GN5Mc3UAAAAJ:YlPif8NxrbYC"
     },
     {
         "title": "Path to Autonomous Soil Sampling and Analysis by Ground-Based Robots",
@@ -471,7 +478,7 @@
     {
         "title": "Picotaur: A 15 mg Hexapedal Robot with Electrostatically Driven, 3D‐Printed Legs",
         "pub_year": "2024",
-        "citation": "Advanced Intelligent Systems, 2400196, 2024",
+        "citation": "Advanced Intelligent Systems 6 (10), 2400196, 2024",
         "num_citations": 1,
         "author_pub_id": "GN5Mc3UAAAAJ:DyXnQzXoVgIC"
     },
@@ -598,7 +605,7 @@
         "title": "Saltation matrices: The essential tool for linearizing hybrid dynamical systems",
         "pub_year": "2024",
         "citation": "Proceedings of the IEEE, 2024",
-        "num_citations": 12,
+        "num_citations": 15,
         "author_pub_id": "GN5Mc3UAAAAJ:rbm3iO8VlycC"
     },
     {
@@ -633,7 +640,7 @@
         "title": "Staged Contact Optimization: Combining Contact-Implicit and Multi-Phase Hybrid Trajectory Optimization",
         "pub_year": "2023",
         "citation": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "GN5Mc3UAAAAJ:PkcyUWeTMh0C"
     },
     {
@@ -682,21 +689,21 @@
         "title": "Tail assisted dynamic self righting",
         "pub_year": "2012",
         "citation": "Adaptive mobile robotics, 611-620, 2012",
-        "num_citations": 100,
+        "num_citations": 101,
         "author_pub_id": "GN5Mc3UAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Tail-assisted rigid and compliant legged leaping",
         "pub_year": "2015",
         "citation": "2015 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2015",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "GN5Mc3UAAAAJ:mNrWkgRL2YcC"
     },
     {
         "title": "Tartandrive: A large-scale dataset for learning off-road dynamics models",
         "pub_year": "2022",
         "citation": "2022 International Conference on Robotics and Automation (ICRA), 2546-2552, 2022",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "GN5Mc3UAAAAJ:VN7nJs4JPk0C"
     },
     {
@@ -724,7 +731,7 @@
         "title": "The Morality of Autonomous Robots",
         "pub_year": "2013",
         "citation": "Journal of Military Ethics 12 (2), 129-141, 2013",
-        "num_citations": 161,
+        "num_citations": 162,
         "author_pub_id": "GN5Mc3UAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -808,7 +815,7 @@
         "title": "X-RHex: A highly mobile hexapedal robot for sensorimotor tasks",
         "pub_year": "2010",
         "citation": "University of Pennsylvania, 2010",
-        "num_citations": 151,
+        "num_citations": 153,
         "author_pub_id": "GN5Mc3UAAAAJ:u-x6o8ySG0sC"
     },
     {

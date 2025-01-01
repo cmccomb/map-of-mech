@@ -3,21 +3,21 @@
         "title": "3D shape synthesis for conceptual design and optimization using variational autoencoders",
         "pub_year": "2019",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2019",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "_X2eOeQAAAAJ:J-pR_7NvFogC"
     },
     {
         "title": "3D topology optimization using convolutional neural networks",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1808.07440, 2018",
-        "num_citations": 184,
+        "num_citations": 185,
         "author_pub_id": "_X2eOeQAAAAJ:u9iWguZQMMsC"
     },
     {
         "title": "4DMesh: 4D printing morphing non-developable mesh surfaces",
         "pub_year": "2018",
         "citation": "Proceedings of the 31st Annual ACM Symposium on User Interface Software and …, 2018",
-        "num_citations": 98,
+        "num_citations": 99,
         "author_pub_id": "_X2eOeQAAAAJ:Tiz5es2fbqcC"
     },
     {
@@ -50,14 +50,14 @@
         "title": "A data-driven investigation and estimation of optimal topologies under variable loading configurations",
         "pub_year": "2016",
         "citation": "Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2016",
-        "num_citations": 114,
+        "num_citations": 115,
         "author_pub_id": "_X2eOeQAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "A deep reinforcement learning approach for global routing",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (6), 061701, 2020",
-        "num_citations": 102,
+        "num_citations": 104,
         "author_pub_id": "_X2eOeQAAAAJ:LPZeul_q3PIC"
     },
     {
@@ -132,7 +132,7 @@
         "title": "Attention routing: track-assignment detailed routing using attention-based reinforcement learning",
         "pub_year": "2020",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2020",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "_X2eOeQAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -160,7 +160,7 @@
         "title": "BIGNet: A Deep Learning Architecture for Brand Recognition with Geometry-Based Explainability",
         "pub_year": "2024",
         "citation": "Journal of Mechanical Design 146 (5), 051701, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "_X2eOeQAAAAJ:j8SEvjWlNXcC"
     },
     {
@@ -174,7 +174,7 @@
         "title": "CCFD-Net: A novel deep learning model for credit card fraud detection",
         "pub_year": "2021",
         "citation": "2021 IEEE 22nd International Conference on Information Reuse and Integration …, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "_X2eOeQAAAAJ:WqliGbK-hY8C"
     },
     {
@@ -201,7 +201,7 @@
         "title": "Co-abstraction of shape collections",
         "pub_year": "2012",
         "citation": "ACM Transactions on Graphics (TOG) 31 (6), 1-11, 2012",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "_X2eOeQAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -222,7 +222,7 @@
         "title": "Component segmentation of engineering drawings using Graph Convolutional Networks",
         "pub_year": "2023",
         "citation": "Computers in Industry 147, 103885, 2023",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "_X2eOeQAAAAJ:Fu2w8maKXqMC"
     },
     {
@@ -250,7 +250,7 @@
         "title": "Computer-aided patient-specific coronary artery graft design improvements using CFD coupled shape optimizer",
         "pub_year": "2011",
         "citation": "Cardiovascular engineering and technology 2, 35-47, 2011",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "_X2eOeQAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -264,7 +264,7 @@
         "title": "Concurrent build direction, part segmentation, and topology optimization for additive manufacturing using neural networks",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (9), 2023",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "_X2eOeQAAAAJ:uLbwQdceFCQC"
     },
     {
@@ -292,7 +292,7 @@
         "title": "DMF-TONN: direct mesh-free topology optimization using neural networks",
         "pub_year": "2024",
         "citation": "Engineering with Computers 40 (4), 2227-2240, 2024",
-        "num_citations": 12,
+        "num_citations": 15,
         "author_pub_id": "_X2eOeQAAAAJ:_Re3VWB3Y0AC"
     },
     {
@@ -313,7 +313,7 @@
         "title": "Data-driven upsampling of point clouds",
         "pub_year": "2019",
         "citation": "Computer-Aided Design 112, 1-13, 2019",
-        "num_citations": 34,
+        "num_citations": 36,
         "author_pub_id": "_X2eOeQAAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -327,7 +327,7 @@
         "title": "Design of target specific peptide inhibitors using generative deep learning and molecular dynamics simulations",
         "pub_year": "2024",
         "citation": "Nature Communications 15 (1), 1611, 2024",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "_X2eOeQAAAAJ:JQOojiI6XY0C"
     },
     {
@@ -340,7 +340,7 @@
     {
         "title": "Development of a cognitive tutor for learning truss analysis",
         "pub_year": "2014",
-        "citation": "Proceedings of the American Society for Engineering Education Annual …, 2014",
+        "citation": "2014 ASEE Annual Conference & Exposition, 24.413. 1-24.413. 14, 2014",
         "num_citations": 3,
         "author_pub_id": "_X2eOeQAAAAJ:isC4tDSrTZIC"
     },
@@ -348,7 +348,7 @@
         "title": "Development of a general calibration model and long-term performance evaluation of low-cost sensors for air pollutant gas monitoring",
         "pub_year": "2019",
         "citation": "Atmospheric Measurement Techniques 12 (2), 903-920, 2019",
-        "num_citations": 147,
+        "num_citations": 150,
         "author_pub_id": "_X2eOeQAAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -376,7 +376,7 @@
         "title": "Enhancing the structural performance of additively manufactured objects through build orientation optimization",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (11), 111410, 2015",
-        "num_citations": 163,
+        "num_citations": 165,
         "author_pub_id": "_X2eOeQAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -404,7 +404,7 @@
         "title": "Flaw detection in metal additive manufacturing using deep learned acoustic features",
         "pub_year": "2020",
         "citation": "Workshop of conference on neural information processing systems, 2020",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "_X2eOeQAAAAJ:dTyEYWd-f8wC"
     },
     {
@@ -425,7 +425,7 @@
         "title": "From engineering diagrams to engineering models: Visual recognition and applications",
         "pub_year": "2011",
         "citation": "Computer-Aided Design 43 (3), 278-292, 2011",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "_X2eOeQAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -446,7 +446,7 @@
         "title": "Graph neural network-enabled manufacturing method classification from engineering drawings",
         "pub_year": "2022",
         "citation": "Computers in Industry 142, 103697, 2022",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "_X2eOeQAAAAJ:ye4kPcJQO24C"
     },
     {
@@ -467,7 +467,7 @@
         "title": "Hierarchical Automatic Power Plane Generation with Genetic Optimization and Multilayer Perceptron",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2210.16314, 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "_X2eOeQAAAAJ:_Ybze24A_UAC"
     },
     {
@@ -495,7 +495,7 @@
         "title": "Improved Patient-Specific Coronary Artery Graft Configurations Using CFD Coupled Shape Optimizer",
         "pub_year": "2009",
         "citation": "Summer Bioengineering Conference 48913, 1167-1168, 2009",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "_X2eOeQAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -544,7 +544,7 @@
         "title": "Is additive manufacturing an environmentally and economically preferred alternative for mass production?",
         "pub_year": "2023",
         "citation": "Environmental science & technology 57 (16), 6373-6386, 2023",
-        "num_citations": 27,
+        "num_citations": 31,
         "author_pub_id": "_X2eOeQAAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -558,7 +558,7 @@
         "title": "Lightweight structure design under force location uncertainty",
         "pub_year": "2017",
         "citation": "ACM Transactions on Graphics (TOG) 36 (4), 1-13, 2017",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "_X2eOeQAAAAJ:bFI3QPDXJZMC"
     },
     {
@@ -579,7 +579,7 @@
         "title": "Multi-scale Topology Optimization using Neural Networks",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2404.08708, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "_X2eOeQAAAAJ:yB1At4FlUx8C"
     },
     {
@@ -593,7 +593,7 @@
         "title": "Optimization of part consolidation for minimum production costs and time using additive manufacturing",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (7), 072001, 2020",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "_X2eOeQAAAAJ:eflP2zaiRacC"
     },
     {
@@ -635,14 +635,14 @@
         "title": "Placement in integrated circuits using cyclic reinforcement learning and simulated annealing",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2011.07577, 2020",
-        "num_citations": 38,
+        "num_citations": 40,
         "author_pub_id": "_X2eOeQAAAAJ:JoZmwDi-zQgC"
     },
     {
         "title": "Prediction of Nitrogen Concentration in Fuel Cells Using Data-Driven Modeling",
         "pub_year": "2019",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2019",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "_X2eOeQAAAAJ:eJXPG6dFmWUC"
     },
     {
@@ -670,7 +670,7 @@
         "title": "Procedural modeling using autoencoder networks",
         "pub_year": "2015",
         "citation": "Proceedings of the 28th Annual ACM Symposium on User Interface Software …, 2015",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "_X2eOeQAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -684,7 +684,7 @@
         "title": "Real-time prediction of soft tissue deformations using data-driven nonlinear presurgical simulations",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2010.13823, 2020",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "_X2eOeQAAAAJ:PELIpwtuRlgC"
     },
     {
@@ -760,7 +760,7 @@
         "title": "Semantic shape editing using deformation handles",
         "pub_year": "2015",
         "citation": "ACM Transactions on Graphics (TOG) 34 (4), 1-12, 2015",
-        "num_citations": 165,
+        "num_citations": 167,
         "author_pub_id": "_X2eOeQAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -870,14 +870,14 @@
         "title": "Stress field prediction in cantilevered structures using convolutional neural networks",
         "pub_year": "2020",
         "citation": "Journal of Computing and Information Science in Engineering 20 (1), 011002, 2020",
-        "num_citations": 219,
+        "num_citations": 227,
         "author_pub_id": "_X2eOeQAAAAJ:VOx2b1Wkg3QC"
     },
     {
         "title": "Stressgan: A generative deep learning model for two-dimensional stress distribution prediction",
         "pub_year": "2021",
         "citation": "Journal of Applied Mechanics 88 (5), 051005, 2021",
-        "num_citations": 110,
+        "num_citations": 113,
         "author_pub_id": "_X2eOeQAAAAJ:Y5dfb0dijaUC"
     },
     {
@@ -890,7 +890,7 @@
     {
         "title": "Sub-millisecond keyhole pore detection in laser powder bed fusion using sound and light sensors and machine learning",
         "pub_year": "2024",
-        "citation": "Materials Futures, 2024",
+        "citation": "Materials Futures 3 (4), 045001, 2024",
         "num_citations": 0,
         "author_pub_id": "_X2eOeQAAAAJ:vDijr-p_gm4C"
     },
@@ -939,7 +939,7 @@
         "title": "Topology optimization using neural networks with conditioning field initialization for improved efficiency",
         "pub_year": "2023",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "_X2eOeQAAAAJ:tzM49s52ZIMC"
     },
     {
@@ -951,8 +951,8 @@
     },
     {
         "title": "Topology-Agnostic Graph U-Nets for Scalar Field Prediction on Unstructured Meshes",
-        "pub_year": "2024",
-        "citation": "Journal of Mechanical Design, 1-18, 2024",
+        "pub_year": "2025",
+        "citation": "Journal of Mechanical Design 147 (4), 2025",
         "num_citations": 0,
         "author_pub_id": "_X2eOeQAAAAJ:epqYDVWIO7EC"
     },
@@ -960,7 +960,7 @@
         "title": "Topologygan: Topology optimization using generative adversarial networks based on physical fields over the initial domain",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (3), 031715, 2021",
-        "num_citations": 217,
+        "num_citations": 226,
         "author_pub_id": "_X2eOeQAAAAJ:Mojj43d5GZwC"
     },
     {

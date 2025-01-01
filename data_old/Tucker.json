@@ -3,21 +3,21 @@
         "title": "3d design using generative adversarial networks and physics-based validation",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (7), 071701, 2020",
-        "num_citations": 120,
+        "num_citations": 121,
         "author_pub_id": "8N6uFIkAAAAJ:ZIQyR8VWHtoC"
     },
     {
         "title": "A Bayesian Sampling Method for Product Feature Extraction from Large Scale Textual Data",
         "pub_year": "2016",
         "citation": "Journal of Mechanical Design, 2016",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "8N6uFIkAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "A Convolutional Neural Network Model for Predicting a Product's Function, Given Its Form",
         "pub_year": "2017",
         "citation": "Journal of Mechanical Design 139 (11), 111408, 2017",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "8N6uFIkAAAAJ:bzhzIcV5SW4C"
     },
     {
@@ -35,18 +35,18 @@
         "author_pub_id": "8N6uFIkAAAAJ:9yKSN-GCB0IC"
     },
     {
-        "title": "A Study on the Effectiveness of Using Integrated Nonlinear Storytelling and Simulation-Based Learning Game in an Operations Research Course",
-        "pub_year": "2022",
-        "citation": "2022 ASEE Annual Conference & Exposition, 2022",
-        "num_citations": 1,
-        "author_pub_id": "8N6uFIkAAAAJ:COU-sansr_wC"
-    },
-    {
         "title": "A Study on the Effectiveness of the CLICK Approach in an Operations Research Course",
         "pub_year": "2021",
         "citation": "ASEE annual conference, 2021",
         "num_citations": 3,
         "author_pub_id": "8N6uFIkAAAAJ:_8B_re9sV0EC"
+    },
+    {
+        "title": "A Study on the Effectiveness of using Integrated Nonlinear Storytelling and Simulation-based Learning Game in an Operations Research Course",
+        "pub_year": "2022",
+        "citation": "ASEE Annual Conference proceedings, 2022",
+        "num_citations": 1,
+        "author_pub_id": "8N6uFIkAAAAJ:COU-sansr_wC"
     },
     {
         "title": "A Validation Neural Network (VNN) metamodel for predicting the performance of deep generative designs",
@@ -107,7 +107,7 @@
         "title": "A deep learning game theoretic model for defending against large scale smart grid attacks",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Smart Grid 14 (2), 1188-1197, 2022",
-        "num_citations": 9,
+        "num_citations": 12,
         "author_pub_id": "8N6uFIkAAAAJ:10ZmGoIvuzkC"
     },
     {
@@ -127,7 +127,7 @@
     {
         "title": "A pilot study investigating STEM learners’ ability to decipher AI-generated video",
         "pub_year": "2021",
-        "citation": "2021 ASEE Virtual Annual Conference, 2021",
+        "citation": "2021 ASEE Virtual Annual Conference Content Access, 2021",
         "num_citations": 2,
         "author_pub_id": "8N6uFIkAAAAJ:gqMmJtG4vxUC"
     },
@@ -149,7 +149,7 @@
         "title": "A quantitative method for evaluating the complexity of implementing and performing game features in physically-interactive gamified applications",
         "pub_year": "2017",
         "citation": "Computers in Human Behavior 71, 42-58, 2017",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "8N6uFIkAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -163,21 +163,21 @@
         "title": "A sparsity preserving genetic algorithm for extracting diverse functional 3D designs from deep generative neural networks",
         "pub_year": "2020",
         "citation": "Design Science 6, e11, 2020",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "8N6uFIkAAAAJ:YpRCXavlr0AC"
     },
     {
         "title": "Accelerating process development for 3D printing of new metal alloys",
         "pub_year": "2024",
         "citation": "Nature Communications 15 (1), 582, 2024",
-        "num_citations": 6,
+        "num_citations": 8,
         "author_pub_id": "8N6uFIkAAAAJ:Fla6ZGMkO9sC"
     },
     {
         "title": "Adaptive gamification and its impact on performance",
         "pub_year": "2021",
         "citation": "International conference on human-computer interaction, 327-341, 2021",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "8N6uFIkAAAAJ:i_ypWuZoRC8C"
     },
     {
@@ -212,7 +212,7 @@
         "title": "An ensemble heterogeneous classification methodology for discovering health-related knowledge in social media messages",
         "pub_year": "2014",
         "citation": "Journal of biomedical informatics 49, 255-268, 2014",
-        "num_citations": 143,
+        "num_citations": 144,
         "author_pub_id": "8N6uFIkAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -233,21 +233,21 @@
         "title": "An unsupervised machine learning approach to assessing designer performance during physical prototyping",
         "pub_year": "2018",
         "citation": "Journal of Computing and Information Science in Engineering 18 (1), 011002, 2018",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "8N6uFIkAAAAJ:GpOSJs1ZbLkC"
     },
     {
         "title": "An unsupervised machine learning method for discovering patient clusters based on genetic signatures",
         "pub_year": "2018",
         "citation": "Journal of biomedical informatics 85, 30-39, 2018",
-        "num_citations": 131,
+        "num_citations": 133,
         "author_pub_id": "8N6uFIkAAAAJ:WY6AygvC5sMC"
     },
     {
         "title": "An unsupervised machine learning model for discovering latent infectious diseases using social media data",
         "pub_year": "2017",
         "citation": "Journal of biomedical informatics 66, 82-94, 2017",
-        "num_citations": 157,
+        "num_citations": 160,
         "author_pub_id": "8N6uFIkAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -261,7 +261,7 @@
         "title": "Artificial intelligence and engineering design",
         "pub_year": "2022",
         "citation": "Journal of mechanical design 144 (2), 020301, 2022",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "8N6uFIkAAAAJ:KaRcLhEUy5UC"
     },
     {
@@ -351,7 +351,7 @@
         "title": "Automatic facial feature extraction for predicting designers' comfort with engineering equipment during prototype creation",
         "pub_year": "2017",
         "citation": "Journal of Mechanical Design 139 (2), 021102, 2017",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "8N6uFIkAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -361,6 +361,13 @@
         "author_pub_id": "8N6uFIkAAAAJ:QAsQKsfVUN4C"
     },
     {
+        "title": "Board# 146: Early Predicting of Student Struggles Using Body Language",
+        "pub_year": "2017",
+        "citation": "2017 ASEE Annual Conference & Exposition, 2017",
+        "num_citations": 1,
+        "author_pub_id": "8N6uFIkAAAAJ:oR5SthnA400C"
+    },
+    {
         "title": "Board# 91: When to Provide Feedback? Exploring Human-Co-Robot Interactions in Engineering Environments",
         "pub_year": "2017",
         "citation": "2017 ASEE Annual Conference & Exposition, 2017",
@@ -368,10 +375,17 @@
         "author_pub_id": "8N6uFIkAAAAJ:_V0JUKP8578C"
     },
     {
+        "title": "Bond-DQN: Deep Q-Learning of Lumped-Element Systems Design via Bond Graphs",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "8N6uFIkAAAAJ:yKZlB_2wKysC"
+    },
+    {
         "title": "Bounded Kalman filter method for motion-robust, non-contact heart rate estimation",
         "pub_year": "2018",
         "citation": "Biomedical optics express 9 (2), 873-897, 2018",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "8N6uFIkAAAAJ:-R_Z4shfoosC"
     },
     {
@@ -406,7 +420,7 @@
         "title": "Comparing attribute-and form-based machine learning techniques for component prediction",
         "pub_year": "2020",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2020",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "8N6uFIkAAAAJ:R6aXIXmdpM0C"
     },
     {
@@ -489,14 +503,14 @@
         "title": "Deep reinforcement learning for procedural content generation of 3d virtual environments",
         "pub_year": "2020",
         "citation": "Journal of Computing and Information Science in Engineering 20 (5), 051005, 2020",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "8N6uFIkAAAAJ:dtdq7L-L3iMC"
     },
     {
         "title": "Deepfakes and scientific knowledge dissemination",
         "pub_year": "2023",
         "citation": "Scientific Reports 13 (1), 13429, 2023",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "8N6uFIkAAAAJ:qVBRRHSSJ04C"
     },
     {
@@ -538,7 +552,7 @@
         "title": "Do technological advancements lead to learning enhancements?: an exploration in virtual product dissection",
         "pub_year": "2017",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2017",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "8N6uFIkAAAAJ:K_uVUG1YJAoC"
     },
     {
@@ -547,13 +561,6 @@
         "citation": "Journal of Computing and Information Science in Engineering 18 (3), 031006, 2018",
         "num_citations": 10,
         "author_pub_id": "8N6uFIkAAAAJ:K5ggCqHMkpcC"
-    },
-    {
-        "title": "Early predicting of student struggles using body language",
-        "pub_year": "2017",
-        "citation": "ASEE Annual Conference and Exposition, Conference Proceedings 2017, 2017",
-        "num_citations": 1,
-        "author_pub_id": "8N6uFIkAAAAJ:oR5SthnA400C"
     },
     {
         "title": "Encrypted rich-data steganography using generative adversarial networks",
@@ -587,14 +594,14 @@
         "title": "Evaluating the use of virtual reality to teach introductory concepts of additive manufacturing",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (5), 051702, 2020",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "8N6uFIkAAAAJ:nvAonm6-wpUC"
     },
     {
         "title": "Evaluation of biases in remote photoplethysmography methods",
         "pub_year": "2021",
         "citation": "NPJ digital medicine 4 (1), 91, 2021",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "8N6uFIkAAAAJ:LWUVeqegjeYC"
     },
     {
@@ -608,7 +615,7 @@
         "title": "Exploring biases between human and machine generated designs",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (2), 021104, 2019",
-        "num_citations": 33,
+        "num_citations": 35,
         "author_pub_id": "8N6uFIkAAAAJ:QaBZMoE9kVYC"
     },
     {
@@ -657,7 +664,7 @@
         "title": "GCP-HOLO: Generating High-Order Linkage Graphs for Path Synthesis",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (7), 073303, 2023",
-        "num_citations": 10,
+        "num_citations": 13,
         "author_pub_id": "8N6uFIkAAAAJ:8igAKu_hPxwC"
     },
     {
@@ -671,7 +678,7 @@
         "title": "Generative adversarial attacks against intrusion detection systems using active learning",
         "pub_year": "2020",
         "citation": "Proceedings of the 2nd ACM workshop on wireless security and machine …, 2020",
-        "num_citations": 61,
+        "num_citations": 63,
         "author_pub_id": "8N6uFIkAAAAJ:0t1ZDozeHsAC"
     },
     {
@@ -692,7 +699,7 @@
         "title": "How are you feeling?: A personalized methodology for predicting mental states from temporally observable physical and behavioral information",
         "pub_year": "2017",
         "citation": "Journal of biomedical informatics 68, 1-19, 2017",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "8N6uFIkAAAAJ:9Pw2l-cN0AIC"
     },
     {
@@ -737,18 +744,32 @@
         "author_pub_id": "8N6uFIkAAAAJ:CLPBug3NTQYC"
     },
     {
+        "title": "Increasing Accessibility of 3D-Printed Customized Prosthetics in Resource-Constrained Communities",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "8N6uFIkAAAAJ:L8oS6_awjPoC"
+    },
+    {
         "title": "Increasing the veracity of event detection on social media networks through user trust modeling",
         "pub_year": "2014",
         "citation": "2014 IEEE International Conference on Big Data (Big Data), 636-643, 2014",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "8N6uFIkAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Instantaneous physiological estimation using video transformers",
         "pub_year": "2022",
         "citation": "Multimodal AI in healthcare: A paradigm shift in health intelligence, 307-319, 2022",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "8N6uFIkAAAAJ:Tt9yUAN0l-kC"
+    },
+    {
+        "title": "Inverse-Prediction of Material Property in Fused Filament Fabrication/Fused Deposition Modeling",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "8N6uFIkAAAAJ:PBZ9sWDp-nEC"
     },
     {
         "title": "Investigating the heterogeneity of product feature preferences mined using online product data streams",
@@ -761,14 +782,14 @@
         "title": "Investigating the impact of interactive immersive virtual reality environments in enhancing task performance in online engineering design activities",
         "pub_year": "2015",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2015",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "8N6uFIkAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Knowledge discovery of game design features by mining user-generated feedback",
         "pub_year": "2016",
         "citation": "Computers in Human Behavior 60, 361-371, 2016",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "8N6uFIkAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -789,21 +810,21 @@
         "title": "Machine learning classification of design team members' body language patterns for real time emotional state detection",
         "pub_year": "2015",
         "citation": "Design Studies 39, 100-127, 2015",
-        "num_citations": 88,
+        "num_citations": 90,
         "author_pub_id": "8N6uFIkAAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "Machine learning classification of medication adherence in patients with movement disorders using non-wearable sensors",
         "pub_year": "2015",
         "citation": "Computers in biology and medicine 66, 120-134, 2015",
-        "num_citations": 99,
+        "num_citations": 100,
         "author_pub_id": "8N6uFIkAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Machine learning for engineering design",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (11), 110301, 2019",
-        "num_citations": 50,
+        "num_citations": 52,
         "author_pub_id": "8N6uFIkAAAAJ:xoH8P16vUNYC"
     },
     {
@@ -831,7 +852,7 @@
         "title": "Mining Student-Generated Textual Data in MOOCS And Quantifying Their Effects on Student Performance and Learning Outcomes",
         "pub_year": "2014",
         "citation": "Computers in Education Journal (CoEd) 5 (4), 84-95, 2014",
-        "num_citations": 106,
+        "num_citations": 105,
         "author_pub_id": "8N6uFIkAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -845,7 +866,7 @@
         "title": "Mining for creativity: Determining the creativity of ideas through data mining techniques",
         "pub_year": "2017",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2017",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "8N6uFIkAAAAJ:1DdUqAzPfXgC"
     },
     {
@@ -866,14 +887,14 @@
         "title": "Mitigating online product rating biases through the discovery of optimistic, pessimistic, and realistic reviewers",
         "pub_year": "2017",
         "citation": "Journal of Mechanical Design 139 (11), 111409, 2017",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "8N6uFIkAAAAJ:Qqt8gOYqc0UC"
     },
     {
         "title": "Mobile Based Real-Time Occlusion Between Real and Digital Objects in Augmented Reality",
         "pub_year": "2019",
         "citation": "ASME 2019 International Design Engineering Technical Conferences and …, 2019",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "8N6uFIkAAAAJ:jq7mLYt49woC"
     },
     {
@@ -970,7 +991,7 @@
         "title": "Predicting emerging product design trend by mining publicly available customer review data",
         "pub_year": "2011",
         "citation": "DS 68-6: Proceedings of the 18th International Conference on Engineering …, 2011",
-        "num_citations": 100,
+        "num_citations": 101,
         "author_pub_id": "8N6uFIkAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -1023,7 +1044,7 @@
     {
         "title": "Psychometric analysis of residence and MOOC assessments",
         "pub_year": "2015",
-        "citation": "ASEE Annual Conference and Exposition, Conference Proceedings 122 (122nd …, 2015",
+        "citation": "2015 ASEE Annual Conference & Exposition, 26.1284. 1-26.1284. 14, 2015",
         "num_citations": 4,
         "author_pub_id": "8N6uFIkAAAAJ:zPkyA21Y468C"
     },
@@ -1038,7 +1059,7 @@
         "title": "Quantifying product favorability and extracting notable product features using large scale social media data",
         "pub_year": "2015",
         "citation": "Journal of Computing and Information Science in Engineering 15 (3), 031003, 2015",
-        "num_citations": 133,
+        "num_citations": 135,
         "author_pub_id": "8N6uFIkAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -1086,7 +1107,7 @@
         "title": "Reducing the Barriers to Designing 3D-Printable Prosthetics In Resource-Constrained Environments",
         "pub_year": "2023",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "8N6uFIkAAAAJ:WxjA8IQWSGYC"
     },
     {
@@ -1145,10 +1166,17 @@
         "author_pub_id": "8N6uFIkAAAAJ:AOgtTcItT4oC"
     },
     {
+        "title": "The Evolution of Tactile and Digital Learning Preferences in Undergraduate Engineering Education",
+        "pub_year": "2014",
+        "citation": "2014 ASEE Annual Conference & Exposition, 24.1215. 1-24.1215. 16, 2014",
+        "num_citations": 4,
+        "author_pub_id": "8N6uFIkAAAAJ:zA6iFVUQeVQC"
+    },
+    {
         "title": "The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania",
         "pub_year": "2024",
         "citation": "2024 IEEE Symposium on Security and Privacy (SP), 752-769, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "8N6uFIkAAAAJ:9QTmwX2E1jEC"
     },
     {
@@ -1162,34 +1190,27 @@
         "title": "The development of product archaeology as a platform for contextualizing engineering design",
         "pub_year": "2013",
         "citation": "2013 ASEE Annual Conference & Exposition, 23.1186. 1-23.1186. 17, 2013",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "8N6uFIkAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "The effects of player type on performance: A gamification case study",
         "pub_year": "2019",
         "citation": "Computers in Human Behavior 91, 333-345, 2019",
-        "num_citations": 209,
+        "num_citations": 214,
         "author_pub_id": "8N6uFIkAAAAJ:E8M3ZPqbjf0C"
-    },
-    {
-        "title": "The evolution of tactile and digital learning preferences in undergraduate engineering education",
-        "pub_year": "2014",
-        "citation": "121st ASEE Annual Conference and Exposition: 360 Degrees of Engineering …, 2014",
-        "num_citations": 4,
-        "author_pub_id": "8N6uFIkAAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "Toward personalized adaptive gamification: a machine learning model for predicting performance",
         "pub_year": "2018",
         "citation": "IEEE transactions on Games 12 (2), 155-168, 2018",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "8N6uFIkAAAAJ:uCYQzKCmtZwC"
     },
     {
         "title": "Towards Real-time Ergonomics Feedback and Educational Content with the use of Co-Robots",
         "pub_year": "2017",
-        "citation": "Mid-Atlantic ASEE Conference, Pennsylvania, 6-7, 2017",
+        "citation": "2017 Mid-Atlantic Section Fall Conference, 2017",
         "num_citations": 2,
         "author_pub_id": "8N6uFIkAAAAJ:FKzTm0Bp8ZYC"
     },
@@ -1203,7 +1224,7 @@
     {
         "title": "Towards personalized performance feedback: Mining the dynamics of facial keypoint data in engineering lab environments",
         "pub_year": "2018",
-        "citation": "Proceedings of the American Society for Engineering Education Mid-Atlantic …, 2018",
+        "citation": "2018 ASEE Mid-Atlantic Section Spring Conference, 2018",
         "num_citations": 8,
         "author_pub_id": "8N6uFIkAAAAJ:nlmsuG0oqtYC"
     },
@@ -1267,7 +1288,7 @@
         "title": "Video-Based Elevated Skin Temperature Detection",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Biomedical Engineering 70 (8), 2430-2444, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "8N6uFIkAAAAJ:VfMbra648c4C"
     },
     {

@@ -3,7 +3,7 @@
         "title": "3D graphene-nanowire “sandwich” thermal interface with ultralow resistance and stiffness",
         "pub_year": "2023",
         "citation": "ACS nano 17 (3), 2602-2610, 2023",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "9KtTt28AAAAJ:rO6llkc54NcC"
     },
     {
@@ -31,7 +31,7 @@
         "title": "Active control of thermal emission by graphene-nanowire coupled plasmonic metasurfaces",
         "pub_year": "2022",
         "citation": "Physical Review B 106 (11), 115416, 2022",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "9KtTt28AAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -59,14 +59,14 @@
         "title": "Broadband near-field radiative thermal emitter/absorber based on hyperbolic metamaterials: Direct numerical simulation by the Wiener chaos expansion method",
         "pub_year": "2013",
         "citation": "Physical Review B—Condensed Matter and Materials Physics 87 (11), 115403, 2013",
-        "num_citations": 188,
+        "num_citations": 189,
         "author_pub_id": "9KtTt28AAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Brochosome-inspired binary metastructures for pixel-by-pixel thermal signature control",
         "pub_year": "2024",
         "citation": "Science Advances 10 (9), eadl4027, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "9KtTt28AAAAJ:a0OBvERweLwC"
     },
     {
@@ -80,20 +80,20 @@
         "title": "Crystalline polyethylene nanofibers with the theoretical limit of Young's modulus.",
         "pub_year": "2013",
         "citation": "Advanced Materials (Deerfield Beach, Fla.) 26 (7), 1065-1070, 2013",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "9KtTt28AAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Crystalline polymer nanofibers with ultra-high strength and thermal conductivity",
         "pub_year": "2018",
         "citation": "Nature communications 9 (1), 1664, 2018",
-        "num_citations": 140,
+        "num_citations": 144,
         "author_pub_id": "9KtTt28AAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "Degeneracy mediated thermal emission from nanoscale optical resonators with high-order symmetry",
         "pub_year": "2024",
-        "citation": "Nanophotonics, 2024",
+        "citation": "Nanophotonics 13 (26), 4839-4848, 2024",
         "num_citations": 0,
         "author_pub_id": "9KtTt28AAAAJ:xtRiw3GOFMkC"
     },
@@ -122,7 +122,7 @@
         "title": "Direct measurement of electrically modulated far-field thermal infrared emission and its dynamics",
         "pub_year": "2023",
         "citation": "Physical Review Applied 19 (3), 034040, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "9KtTt28AAAAJ:u_35RYKgDlwC"
     },
     {
@@ -136,7 +136,7 @@
         "title": "Dual-mode solid-state thermal rectification",
         "pub_year": "2020",
         "citation": "Nature Communications 11 (1), 4346, 2020",
-        "num_citations": 56,
+        "num_citations": 63,
         "author_pub_id": "9KtTt28AAAAJ:hMod-77fHWUC"
     },
     {
@@ -150,14 +150,14 @@
         "title": "Electrically driven nanoantenna metasurface for coherent thermal emission",
         "pub_year": "2023",
         "citation": "Applied Physics Letters 123 (16), 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "9KtTt28AAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Electrically driven thermal infrared metasurface with narrowband emission",
         "pub_year": "2022",
         "citation": "Applied Physics Letters 121 (13), 2022",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "9KtTt28AAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -199,7 +199,7 @@
         "title": "Flow and heat transfer in microchannels with rough wall surface",
         "pub_year": "2006",
         "citation": "energy conversion and management 47 (11-12), 1311-1325, 2006",
-        "num_citations": 216,
+        "num_citations": 217,
         "author_pub_id": "9KtTt28AAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -241,20 +241,20 @@
         "title": "Hierarchical micro-nanostructured surfaces for isotropic/anisotropic liquid transport",
         "pub_year": "2020",
         "citation": "Langmuir 36 (6), 1569-1573, 2020",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "9KtTt28AAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "High Thermal Conductivity of Sandwich‐Structured Flexible Thermal Interface Materials",
         "pub_year": "2023",
         "citation": "Small 19 (11), 2207015, 2023",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "9KtTt28AAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "High temperature near-field probe for sensing and energy harvesting applications based upon thermal emission",
-        "pub_year": "2021",
-        "citation": "US Patent App. 17/233,819, 2021",
+        "pub_year": "2024",
+        "citation": "US Patent 12,013,285, 2024",
         "num_citations": 1,
         "author_pub_id": "9KtTt28AAAAJ:vV6vV6tmYwMC"
     },
@@ -269,15 +269,22 @@
         "title": "High-contrast and reversible polymer thermal regulator by structural phase transition",
         "pub_year": "2019",
         "citation": "Science advances 5 (12), eaax3777, 2019",
-        "num_citations": 57,
+        "num_citations": 59,
         "author_pub_id": "9KtTt28AAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "High-performance terrestrial solar thermoelectric generators without optical concentration for residential and commercial rooftops",
         "pub_year": "2019",
         "citation": "Energy conversion and management 196, 69-76, 2019",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "9KtTt28AAAAJ:4JMBOYKVnBMC"
+    },
+    {
+        "title": "Hybrid Plasmonic‐GeTe Active Metasurfaces with High Tunability",
+        "pub_year": "2024",
+        "citation": "Advanced Photonics Research, 2400132, 2024",
+        "num_citations": 0,
+        "author_pub_id": "9KtTt28AAAAJ:CHSYGLWDkRkC"
     },
     {
         "title": "Infrared wavefront control based on graphene metasurfaces",
@@ -290,14 +297,14 @@
         "title": "Intracellular action potential recordings from cardiomyocytes by ultrafast pulsed laser irradiation of fuzzy graphene microelectrodes",
         "pub_year": "2021",
         "citation": "Science Advances 7 (15), eabd5175, 2021",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "9KtTt28AAAAJ:J_g5lzvAfSwC"
     },
     {
         "title": "Large-Scale Nanophotonic Solar Selective Absorbers for High-Efficiency Solar Thermal Energy Conversion.",
         "pub_year": "2015",
         "citation": "Advanced Materials (Deerfield Beach, Fla.) 27 (31), 4585-4591, 2015",
-        "num_citations": 226,
+        "num_citations": 228,
         "author_pub_id": "9KtTt28AAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -366,7 +373,7 @@
         "title": "Near-field radiative heat transfer between a sphere and a substrate",
         "pub_year": "2008",
         "citation": "Physical Review B—Condensed Matter and Materials Physics 78 (11), 115303, 2008",
-        "num_citations": 351,
+        "num_citations": 353,
         "author_pub_id": "9KtTt28AAAAJ:WF5omc3nYNoC"
     },
     {
@@ -408,28 +415,35 @@
         "title": "Observation of near-field thermal radiation between coplanar nanodevices with subwavelength dimensions",
         "pub_year": "2024",
         "citation": "Nano Letters 24 (5), 1502-1509, 2024",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "9KtTt28AAAAJ:f2IySw72cVMC"
     },
     {
         "title": "Perfect thermal emission by nanoscale transmission line resonators",
         "pub_year": "2017",
         "citation": "Nano letters 17 (2), 666-672, 2017",
-        "num_citations": 83,
+        "num_citations": 85,
         "author_pub_id": "9KtTt28AAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Phase change plasmonic metasurface for dynamic thermal emission modulation",
         "pub_year": "2024",
         "citation": "APL Photonics 9 (1), 2024",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "9KtTt28AAAAJ:pyW8ca7W8N0C"
+    },
+    {
+        "title": "Physical Vapor Deposition of High-Mobility P-Type Tellurium and Its Applications for Gate-Tunable van der Waals PN Photodiodes",
+        "pub_year": "2024",
+        "citation": "ACS Applied Materials & Interfaces, 2024",
+        "num_citations": 0,
+        "author_pub_id": "9KtTt28AAAAJ:1sJd4Hv_s6UC"
     },
     {
         "title": "Polyethylene nanofibres with very high thermal conductivities",
         "pub_year": "2010",
         "citation": "Nature nanotechnology 5 (4), 251-255, 2010",
-        "num_citations": 1007,
+        "num_citations": 1011,
         "author_pub_id": "9KtTt28AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -520,14 +534,14 @@
         "title": "Surface phonon polaritons mediated energy transfer between nanoscale gaps",
         "pub_year": "2009",
         "citation": "Nano letters 9 (8), 2909-2913, 2009",
-        "num_citations": 975,
+        "num_citations": 978,
         "author_pub_id": "9KtTt28AAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Temperature-gated thermal rectifier for active heat flow control",
         "pub_year": "2014",
         "citation": "Nano letters 14 (8), 4867-4872, 2014",
-        "num_citations": 161,
+        "num_citations": 162,
         "author_pub_id": "9KtTt28AAAAJ:aqlVkmm33-oC"
     },
     {

@@ -65,14 +65,14 @@
         "title": "A 25 mg magnetically actuated microrobot walking at> 5 body lengths/sec",
         "pub_year": "2017",
         "citation": "2017 IEEE 30th International Conference on Micro Electro Mechanical Systems …, 2017",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "SU0c5P0AAAAJ:vV6vV6tmYwMC"
     },
     {
         "title": "A 3D-printed 1 mg legged microrobot running at 15 body lengths per second",
         "pub_year": "2018",
         "citation": "Solid-State Sensors, Actuators, and Microsystems Workshop, Hilton Head, SC 3, 2018",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "SU0c5P0AAAAJ:bFI3QPDXJZMC"
     },
     {
@@ -83,7 +83,7 @@
         "author_pub_id": "SU0c5P0AAAAJ:1yQoGdGgb4wC"
     },
     {
-        "title": "A Programmable Substrate to Study Robots Jumping from Non-rigid Surfaces",
+        "title": "A Programmable Substrate to Study Robots Jumping From Non-Rigid Surfaces",
         "pub_year": "2024",
         "citation": "IEEE Robotics and Automation Letters, 2024",
         "num_citations": 0,
@@ -100,7 +100,7 @@
         "title": "A comparison of critical shear force in low-voltage, all-polymer electroadhesives to a basic friction model",
         "pub_year": "2017",
         "citation": "Smart Materials and Structures 26 (2), 025028, 2017",
-        "num_citations": 40,
+        "num_citations": 44,
         "author_pub_id": "SU0c5P0AAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -121,7 +121,7 @@
         "title": "A method for 3D printing and rapid prototyping of fieldable untethered soft robots",
         "pub_year": "2023",
         "citation": "Soft Robotics 10 (2), 292-300, 2023",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "SU0c5P0AAAAJ:kRWSkSYxWN8C"
     },
     {
@@ -198,7 +198,7 @@
         "title": "Adapting small jumping robots to compliant environments",
         "pub_year": "2023",
         "citation": "Journal of the Royal Society Interface 20 (200), 20220778, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "SU0c5P0AAAAJ:Mojj43d5GZwC"
     },
     {
@@ -281,14 +281,14 @@
         "title": "Bridge risk investigation diagnostic grouped exploratory (BRIDGE) bot",
         "pub_year": "2017",
         "citation": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2017",
-        "num_citations": 36,
+        "num_citations": 45,
         "author_pub_id": "SU0c5P0AAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Buoyant magnetic milliswimmers reveal design rules for optimizing microswimmer performance",
         "pub_year": "2023",
         "citation": "Nanoscale 15 (34), 14175-14188, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "SU0c5P0AAAAJ:SdhP9T11ey4C"
     },
     {
@@ -337,7 +337,7 @@
         "title": "Controlled assembly of liquid metal inclusions as a general approach for multifunctional composites",
         "pub_year": "2020",
         "citation": "Advanced Materials 32 (46), 2002929, 2020",
-        "num_citations": 100,
+        "num_citations": 106,
         "author_pub_id": "SU0c5P0AAAAJ:WbkHhVStYXYC"
     },
     {
@@ -431,7 +431,7 @@
         "title": "Dielectric breakdown of PDMS thin films",
         "pub_year": "2013",
         "citation": "Journal of Micromechanics and Microengineering 23 (6), 067001, 2013",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "SU0c5P0AAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -456,10 +456,17 @@
         "author_pub_id": "SU0c5P0AAAAJ:V3AGJWp-ZtQC"
     },
     {
+        "title": "Dual spring force couples yield multifunctionality and ultrafast, precision rotation in tiny biomechanical systems",
+        "pub_year": "2022",
+        "citation": "(No Title), 2022",
+        "num_citations": 0,
+        "author_pub_id": "SU0c5P0AAAAJ:7T2F9Uy0os0C"
+    },
+    {
         "title": "Dynamics and scaling of magnetically folding multi-material structures",
         "pub_year": "2016",
         "citation": "2016 IEEE International Conference on Robotics and Automation (ICRA), 1899-1906, 2016",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "SU0c5P0AAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -508,7 +515,7 @@
         "title": "Electromechanical characterization of 3D printable conductive elastomer for soft robotics",
         "pub_year": "2020",
         "citation": "2020 3rd IEEE International Conference on Soft Robotics (RoboSoft), 318-324, 2020",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "SU0c5P0AAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -534,7 +541,7 @@
         "title": "Fabrication and Characterization of Polycarbonate Substrates for High Yield Assembly of Multicomponent Biohybrid Microrobots",
         "pub_year": "2023",
         "citation": "2023 22nd International Conference on Solid-State Sensors, Actuators and …, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "SU0c5P0AAAAJ:hkOj_22Ku90C"
     },
     {
@@ -569,7 +576,7 @@
         "title": "Friction, adhesion and wear properties of PDMS films on silicon sidewalls",
         "pub_year": "2011",
         "citation": "Journal of Micromechanics and Microengineering 21 (10), 105013, 2011",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "SU0c5P0AAAAJ:UebtZRa9Y70C"
     },
     {
@@ -583,7 +590,7 @@
         "title": "Fusion of video and inertial sensing data via dynamic optimization of a biomechanical model",
         "pub_year": "2023",
         "citation": "Journal of biomechanics 155, 111617, 2023",
-        "num_citations": 19,
+        "num_citations": 21,
         "author_pub_id": "SU0c5P0AAAAJ:XiVPGOgt02cC"
     },
     {
@@ -746,6 +753,13 @@
         "author_pub_id": "SU0c5P0AAAAJ:EUQCXRtRnyEC"
     },
     {
+        "title": "Measuring DNA Microswimmer Locomotion in Complex Flow Environments",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2412.15152, 2024",
+        "num_citations": 0,
+        "author_pub_id": "SU0c5P0AAAAJ:ZfRJV9d4-WMC"
+    },
+    {
         "title": "Microfabrication of compliant all-polymer MEMS thermal actuators",
         "pub_year": "2012",
         "citation": "Sensors and Actuators A: Physical 177, 16-22, 2012",
@@ -805,7 +819,7 @@
         "title": "Multimaterial 3D printing for microrobotic mechanisms",
         "pub_year": "2020",
         "citation": "Soft robotics 7 (1), 59-67, 2020",
-        "num_citations": 58,
+        "num_citations": 60,
         "author_pub_id": "SU0c5P0AAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -880,7 +894,7 @@
         "title": "Picotaur: A 15 mg Hexapedal Robot with Electrostatically Driven, 3D‐Printed Legs",
         "pub_year": "2024",
         "citation": "Advanced Intelligent Systems 6 (10), 2400196, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "SU0c5P0AAAAJ:W5xh706n7nkC"
     },
     {
@@ -1000,6 +1014,13 @@
         "author_pub_id": "SU0c5P0AAAAJ:eMMeJKvmdy0C"
     },
     {
+        "title": "STRAIN SENSOR SWITCH FOR TIMING BASED SENSING",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/735,123, 2024",
+        "num_citations": 0,
+        "author_pub_id": "SU0c5P0AAAAJ:tKAzc9rXhukC"
+    },
+    {
         "title": "Scalable minimally actuated leg extension bipedal walker based on 3D passive dynamics",
         "pub_year": "2022",
         "citation": "2022 International Conference on Robotics and Automation (ICRA), 207-213, 2022",
@@ -1073,7 +1094,7 @@
         "title": "Spider‐Inspired, Fully 3D‐Printed Micro‐Hydraulics for Tiny, Soft Robotics",
         "pub_year": "2023",
         "citation": "Advanced Functional Materials 33 (39), 2207435, 2023",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "SU0c5P0AAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -1087,7 +1108,7 @@
         "title": "Tactile Sensors: Rapid Manufacturing of Mechanoreceptive Skins for Slip Detection in Robotic Grasping (Adv. Mater. Technol. 1/2017)",
         "pub_year": "2017",
         "citation": "Advanced Materials Technologies 2 (1), 2017",
-        "num_citations": 68,
+        "num_citations": 70,
         "author_pub_id": "SU0c5P0AAAAJ:GnPB-g6toBAC"
     },
     {
@@ -1115,7 +1136,7 @@
         "title": "The principles of cascading power limits in small, fast biological and engineered systems",
         "pub_year": "2018",
         "citation": "Science 360 (6387), eaao1082, 2018",
-        "num_citations": 227,
+        "num_citations": 233,
         "author_pub_id": "SU0c5P0AAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -1143,14 +1164,14 @@
         "title": "Touch the wind: Simultaneous airflow, drag and interaction sensing on a multirotor",
         "pub_year": "2020",
         "citation": "2020 IEEE/RSJ international conference on intelligent robots and systems …, 2020",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "SU0c5P0AAAAJ:KxtntwgDAa4C"
     },
     {
         "title": "Toward autonomy in sub-gram terrestrial robots",
         "pub_year": "2019",
         "citation": "Annual Review of Control, Robotics, and Autonomous Systems 2 (1), 231-252, 2019",
-        "num_citations": 79,
+        "num_citations": 80,
         "author_pub_id": "SU0c5P0AAAAJ:pyW8ca7W8N0C"
     },
     {

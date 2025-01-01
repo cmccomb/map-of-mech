@@ -3,21 +3,21 @@
         "title": "A multi-scale convolutional neural network for autonomous anomaly detection and classification in a laser powder bed fusion additive manufacturing process",
         "pub_year": "2018",
         "citation": "Additive Manufacturing 24, 273-286, 2018",
-        "num_citations": 370,
+        "num_citations": 377,
         "author_pub_id": "Zz3-zGQAAAAJ:WA5NYHcadZ8C"
     },
     {
         "title": "A process map for consistent build conditions in the solid freeform fabrication of thin-walled structures",
         "pub_year": "2001",
         "citation": "J. Manuf. Sci. Eng. 123 (4), 615-622, 2001",
-        "num_citations": 142,
+        "num_citations": 143,
         "author_pub_id": "Zz3-zGQAAAAJ:5ugPr518TE4C"
     },
     {
         "title": "A study of microstructure and cracking behavior of H13 tool steel produced by laser powder bed fusion using single-tracks, multi-track pads, and 3D cubes",
         "pub_year": "2020",
         "citation": "Journal of Materials Processing Technology 286, 116802, 2020",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "Zz3-zGQAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -120,7 +120,7 @@
         "title": "Anomaly detection and classification in a laser powder bed additive manufacturing process using a trained computer vision algorithm",
         "pub_year": "2018",
         "citation": "Additive Manufacturing 19, 114-126, 2018",
-        "num_citations": 499,
+        "num_citations": 503,
         "author_pub_id": "Zz3-zGQAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -175,7 +175,7 @@
         "title": "Computational analysis and experiments of spatter transport in a laser powder bed fusion machine",
         "pub_year": "2024",
         "citation": "Additive Manufacturing 84, 104133, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "Zz3-zGQAAAAJ:eq2jaN3J8jMC"
     },
     {
@@ -238,7 +238,7 @@
         "title": "Cracking of thin bonded films in residual tension",
         "pub_year": "1992",
         "citation": "International Journal of Solids and Structures 29 (13), 1657-1675, 1992",
-        "num_citations": 763,
+        "num_citations": 765,
         "author_pub_id": "Zz3-zGQAAAAJ:ye4kPcJQO24C"
     },
     {
@@ -258,7 +258,7 @@
         "title": "Data-driven sensitivity analysis for static mechanical properties of additively manufactured Ti–6Al–4V",
         "pub_year": "2022",
         "citation": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part b …, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "Zz3-zGQAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -272,7 +272,7 @@
         "title": "Defect structure process maps for laser powder bed fusion additive manufacturing",
         "pub_year": "2020",
         "citation": "Additive Manufacturing 36, 101552, 2020",
-        "num_citations": 282,
+        "num_citations": 288,
         "author_pub_id": "Zz3-zGQAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -355,7 +355,7 @@
         "title": "Evaluating the effect of processing parameters on porosity in electron beam melted Ti-6Al-4V via synchrotron X-ray microtomography",
         "pub_year": "2016",
         "citation": "Jom 68, 765-771, 2016",
-        "num_citations": 190,
+        "num_citations": 191,
         "author_pub_id": "Zz3-zGQAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -369,7 +369,7 @@
         "title": "Evaluation of orientation dependence of fracture toughness and fatigue crack propagation behavior of as-deposited ARCAM EBM Ti-6Al-4V",
         "pub_year": "2015",
         "citation": "Jom 67, 597-607, 2015",
-        "num_citations": 143,
+        "num_citations": 144,
         "author_pub_id": "Zz3-zGQAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -390,14 +390,14 @@
         "title": "Fatigue-based process window for laser beam powder bed fusion additive manufacturing",
         "pub_year": "2024",
         "citation": "International Journal of Fatigue, 108428, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "Zz3-zGQAAAAJ:W5xh706n7nkC"
     },
     {
         "title": "Flaw detection in metal additive manufacturing using deep learned acoustic features",
         "pub_year": "2020",
         "citation": "Workshop of conference on neural information processing systems, 2020",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "Zz3-zGQAAAAJ:bFI3QPDXJZMC"
     },
     {
@@ -450,10 +450,16 @@
         "author_pub_id": "Zz3-zGQAAAAJ:CHSYGLWDkRkC"
     },
     {
+        "title": "High Speed Thermal Imaging and Modeling of Laser Powder Bed Fusion Manufactured Wc-Ni Cemented Carbides",
+        "citation": "Available at SSRN 5060201, 0",
+        "num_citations": 0,
+        "author_pub_id": "Zz3-zGQAAAAJ:evX43VCCuoAC"
+    },
+    {
         "title": "High-resolution melt pool thermal imaging for metals additive manufacturing using the two-color method with a color camera",
         "pub_year": "2023",
         "citation": "Additive Manufacturing 73, 103663, 2023",
-        "num_citations": 24,
+        "num_citations": 27,
         "author_pub_id": "Zz3-zGQAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -522,28 +528,28 @@
         "title": "Inference of highly time-resolved melt pool visual characteristics and spatially-dependent lack-of-fusion defects in laser powder bed fusion using acoustic and thermal emission …",
         "pub_year": "2024",
         "citation": "Additive Manufacturing 83, 104057, 2024",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "Zz3-zGQAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Integrated control of melt pool geometry and microstructure in laser powder bed fusion of AlSi10Mg",
         "pub_year": "2018",
         "citation": "Metallurgical and Materials Transactions A 49, 5097-5106, 2018",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "Zz3-zGQAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Integrated control of solidification microstructure and melt pool dimensions in electron beam wire feed additive manufacturing of Ti-6Al-4V",
         "pub_year": "2014",
         "citation": "Additive Manufacturing 1, 119-126, 2014",
-        "num_citations": 323,
+        "num_citations": 325,
         "author_pub_id": "Zz3-zGQAAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "Integrated melt pool and microstructure control for Ti–6Al–4V thin wall additive manufacturing",
         "pub_year": "2015",
         "citation": "Materials Science and Technology 31 (8), 912-916, 2015",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "Zz3-zGQAAAAJ:bnK-pcrLprsC"
     },
     {
@@ -612,28 +618,28 @@
         "title": "Limits of dispersoid size and number density in oxide dispersion strengthened alloys fabricated with powder bed fusion-laser beam",
         "pub_year": "2024",
         "citation": "Additive Manufacturing 81, 104022, 2024",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "Zz3-zGQAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Localized preheating approaches for reducing residual stress in additive manufacturing",
         "pub_year": "2006",
         "citation": "",
-        "num_citations": 127,
+        "num_citations": 129,
         "author_pub_id": "Zz3-zGQAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "Location specific solidification microstructure control in electron beam melting of Ti-6Al-4V",
         "pub_year": "2018",
         "citation": "Additive Manufacturing 19, 160-166, 2018",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "Zz3-zGQAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Machine learning for real-time detection of local heat accumulation in metal additive manufacturing",
         "pub_year": "2024",
         "citation": "Materials & Design 241, 112933, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "Zz3-zGQAAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -667,7 +673,7 @@
         "title": "Measurement of residual stresses in parts created by shape deposition manufacturing",
         "pub_year": "1997",
         "citation": "",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "Zz3-zGQAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -695,14 +701,14 @@
         "title": "Melt pool geometry and morphology variability for the Inconel 718 alloy in a laser powder bed fusion additive manufacturing process",
         "pub_year": "2019",
         "citation": "Additive Manufacturing 29, 100830, 2019",
-        "num_citations": 166,
+        "num_citations": 171,
         "author_pub_id": "Zz3-zGQAAAAJ:blknAaTinKkC"
     },
     {
         "title": "Melt pool level flaw detection in laser hot wire directed energy deposition using a convolutional long short-term memory autoencoder",
         "pub_year": "2024",
         "citation": "Additive Manufacturing 79, 103843, 2024",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "Zz3-zGQAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -723,7 +729,7 @@
         "title": "Metal additive manufacturing: cost competitive beyond low volumes",
         "pub_year": "2017",
         "citation": "Journal of Manufacturing Science and Engineering 139 (8), 081010, 2017",
-        "num_citations": 177,
+        "num_citations": 180,
         "author_pub_id": "Zz3-zGQAAAAJ:1sJd4Hv_s6UC"
     },
     {
@@ -785,7 +791,7 @@
         "title": "Overview of materials qualification needs for metal additive manufacturing",
         "pub_year": "2016",
         "citation": "Jom 68, 747-764, 2016",
-        "num_citations": 753,
+        "num_citations": 757,
         "author_pub_id": "Zz3-zGQAAAAJ:LPZeul_q3PIC"
     },
     {
@@ -818,7 +824,7 @@
         "title": "Postprocessing of tungsten carbide‐nickel preforms fabricated via binder jetting of sintered‐agglomerated powder",
         "pub_year": "2024",
         "citation": "International Journal of Applied Ceramic Technology 21 (3), 1502-1512, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "Zz3-zGQAAAAJ:LjlpjdlvIbIC"
     },
     {
@@ -839,13 +845,13 @@
         "title": "Prediction of lack-of-fusion porosity for powder bed fusion",
         "pub_year": "2017",
         "citation": "Additive Manufacturing 14, 39-48, 2017",
-        "num_citations": 729,
+        "num_citations": 738,
         "author_pub_id": "Zz3-zGQAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Prediction of lack-of-fusion porosity for powder bed fusion, Addit. Manuf. 14 (2017) 39–48",
         "citation": "",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "Zz3-zGQAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -866,14 +872,14 @@
         "title": "Process development for the laser powder bed fusion of WC‐Ni Cermets using sintered‐agglomerated powder",
         "pub_year": "2022",
         "citation": "International Journal of Applied Ceramic Technology 19 (3), 1328-1340, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "Zz3-zGQAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Process mapping for qualification across multiple direct metal additive manufacturing processes",
         "pub_year": "2013",
         "citation": "University of Texas at Austin, 2013",
-        "num_citations": 142,
+        "num_citations": 143,
         "author_pub_id": "Zz3-zGQAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -894,14 +900,14 @@
         "title": "Process mapping of cooling rates and thermal gradients",
         "pub_year": "2018",
         "citation": "US Patent 9,939,394, 2018",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "Zz3-zGQAAAAJ:UxriW0iASnsC"
     },
     {
         "title": "Process mapping of melt pool geometry",
         "pub_year": "2018",
         "citation": "US Patent 9,933,255, 2018",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "Zz3-zGQAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -922,7 +928,7 @@
         "title": "Process maps for controlling residual stress and melt pool size in laser-based SFF processes 200",
         "pub_year": "2000",
         "citation": "",
-        "num_citations": 152,
+        "num_citations": 154,
         "author_pub_id": "Zz3-zGQAAAAJ:eflP2zaiRacC"
     },
     {
@@ -936,7 +942,7 @@
         "title": "Process maps for predicting residual stress and melt pool size in the laser-based fabrication of thin-walled structures",
         "pub_year": "2007",
         "citation": "",
-        "num_citations": 218,
+        "num_citations": 220,
         "author_pub_id": "Zz3-zGQAAAAJ:9vf0nzSNQJEC"
     },
     {
@@ -985,7 +991,7 @@
         "title": "Rapid solidification: selective laser melting of AlSi10Mg",
         "pub_year": "2016",
         "citation": "Jom 68, 960-966, 2016",
-        "num_citations": 263,
+        "num_citations": 269,
         "author_pub_id": "Zz3-zGQAAAAJ:BrmTIyaxlBUC"
     },
     {
@@ -1013,7 +1019,7 @@
         "title": "Residual stress-driven delamination in deposited multi-layers",
         "pub_year": "1996",
         "citation": "International Journal of Solids and Structures 33 (1), 65-78, 1996",
-        "num_citations": 71,
+        "num_citations": 72,
         "author_pub_id": "Zz3-zGQAAAAJ:NhqRSupF_l8C"
     },
     {
@@ -1027,7 +1033,7 @@
         "title": "Residual stress-induced warping in direct metal solid freeform fabrication",
         "pub_year": "2002",
         "citation": "International journal of mechanical sciences 44 (1), 57-77, 2002",
-        "num_citations": 228,
+        "num_citations": 227,
         "author_pub_id": "Zz3-zGQAAAAJ:vRqMK49ujn8C"
     },
     {
@@ -1082,7 +1088,7 @@
         "title": "Shape deposition manufacturing with microcasting: processing, thermal and mechanical issues",
         "pub_year": "1998",
         "citation": "",
-        "num_citations": 125,
+        "num_citations": 126,
         "author_pub_id": "Zz3-zGQAAAAJ:XiVPGOgt02cC"
     },
     {
@@ -1103,7 +1109,7 @@
         "title": "Socially capable conversational tutors can be effective in collaborative learning situations",
         "pub_year": "2010",
         "citation": "Intelligent Tutoring Systems: 10th International Conference, ITS 2010 …, 2010",
-        "num_citations": 91,
+        "num_citations": 93,
         "author_pub_id": "Zz3-zGQAAAAJ:_B80troHkn4C"
     },
     {
@@ -1180,7 +1186,7 @@
         "title": "Synchrotron-based X-ray microtomography characterization of the effect of processing variables on porosity formation in laser power-bed additive manufacturing of Ti-6Al-4V",
         "pub_year": "2017",
         "citation": "Jom 69, 479-484, 2017",
-        "num_citations": 346,
+        "num_citations": 348,
         "author_pub_id": "Zz3-zGQAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1242,7 +1248,7 @@
         "title": "The role of process variables in laser-based direct metal solid freeform fabrication",
         "pub_year": "2001",
         "citation": "Jom 53, 36-39, 2001",
-        "num_citations": 245,
+        "num_citations": 246,
         "author_pub_id": "Zz3-zGQAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -1256,7 +1262,7 @@
         "title": "Thermal conductivity of metal powders for powder bed additive manufacturing",
         "pub_year": "2018",
         "citation": "Additive Manufacturing 21, 201-208, 2018",
-        "num_citations": 215,
+        "num_citations": 218,
         "author_pub_id": "Zz3-zGQAAAAJ:mB3voiENLucC"
     },
     {
@@ -1277,7 +1283,7 @@
         "title": "Toward determining melt pool quality metrics via coaxial monitoring in laser powder bed fusion",
         "pub_year": "2018",
         "citation": "Manufacturing letters 15, 119-121, 2018",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "Zz3-zGQAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -1305,7 +1311,7 @@
         "title": "Two-color thermal imaging of the melt pool in powder-blown laser-directed energy deposition",
         "pub_year": "2023",
         "citation": "Additive Manufacturing 78, 103855, 2023",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "Zz3-zGQAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -1347,7 +1353,7 @@
         "title": "Use of non-spherical hydride-dehydride (HDH) powder in powder bed fusion additive manufacturing",
         "pub_year": "2020",
         "citation": "Additive Manufacturing 34, 101188, 2020",
-        "num_citations": 58,
+        "num_citations": 60,
         "author_pub_id": "Zz3-zGQAAAAJ:JoZmwDi-zQgC"
     },
     {
@@ -1361,7 +1367,7 @@
         "title": "Using machine learning to identify in-situ melt pool signatures indicative of flaw formation in a laser powder bed fusion additive manufacturing process",
         "pub_year": "2019",
         "citation": "Additive Manufacturing 25, 151-165, 2019",
-        "num_citations": 421,
+        "num_citations": 426,
         "author_pub_id": "Zz3-zGQAAAAJ:TQgYirikUcIC"
     },
     {

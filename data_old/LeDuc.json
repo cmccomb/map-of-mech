@@ -30,7 +30,7 @@
         "title": "3D bio-etching of a complex composite-like embryonic tissue",
         "pub_year": "2015",
         "citation": "Lab on a Chip 15 (16), 3293-3299, 2015",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "sLEB9iYAAAAJ:p__nRnzSRKYC"
     },
     {
@@ -44,7 +44,7 @@
         "title": "3D collagen vascular tumor-on-a-chip mimetics for dynamic combinatorial drug screening",
         "pub_year": "2021",
         "citation": "Molecular cancer therapeutics 20 (6), 1210-1219, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "sLEB9iYAAAAJ:yqoGN6RLRZoC"
     },
     {
@@ -92,7 +92,7 @@
         "title": "A biosensing soft robot: Autonomous parsing of chemical signals through integrated organic and inorganic interfaces",
         "pub_year": "2019",
         "citation": "Science Robotics 4 (31), eaax0765, 2019",
-        "num_citations": 113,
+        "num_citations": 114,
         "author_pub_id": "sLEB9iYAAAAJ:sNmaIFBj_lkC"
     },
     {
@@ -113,7 +113,7 @@
         "title": "A mixed reality system combining augmented reality, 3D bio-printed physical environments and inertial measurement unit sensors for task planning",
         "pub_year": "2023",
         "citation": "Virtual Reality 27 (3), 1845-1858, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "sLEB9iYAAAAJ:wMgC3FpKEyYC"
     },
     {
@@ -183,7 +183,7 @@
         "title": "Apoptosis of Syncytia Induced by the HIV-1–Envelope Glycoprotein Complex: Influence of Cell Shape and Size",
         "pub_year": "2000",
         "citation": "Experimental cell research 261 (1), 119-126, 2000",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "sLEB9iYAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -197,7 +197,7 @@
         "title": "Artificial cells: building bioinspired systems using small-scale biology",
         "pub_year": "2008",
         "citation": "Trends in biotechnology 26 (1), 14-20, 2008",
-        "num_citations": 116,
+        "num_citations": 115,
         "author_pub_id": "sLEB9iYAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -253,7 +253,7 @@
         "title": "Bio-inspired soft robotics: Material selection, actuation, and design",
         "pub_year": "2018",
         "citation": "Extreme Mechanics Letters 22, 51-59, 2018",
-        "num_citations": 377,
+        "num_citations": 385,
         "author_pub_id": "sLEB9iYAAAAJ:_axFR9aDTf0C"
     },
     {
@@ -309,7 +309,7 @@
         "title": "Cell alignment modulated by surface nano-topography–Roles of cell-matrix and cell-cell interactions",
         "pub_year": "2022",
         "citation": "Acta Biomaterialia 142, 149-159, 2022",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "sLEB9iYAAAAJ:LhH-TYMQEocC"
     },
     {
@@ -413,7 +413,7 @@
         "title": "Comparing view factor modeling frameworks for the estimation of incident solar energy",
         "pub_year": "2020",
         "citation": "Applied Energy 277, 115510, 2020",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "sLEB9iYAAAAJ:mNrWkgRL2YcC"
     },
     {
@@ -566,7 +566,7 @@
         "title": "Decidual vasculopathy identification in whole slide images using multiresolution hierarchical convolutional neural networks",
         "pub_year": "2020",
         "citation": "The American Journal of Pathology 190 (10), 2111-2122, 2020",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "sLEB9iYAAAAJ:4vMrXwiscB8C"
     },
     {
@@ -663,22 +663,29 @@
         "title": "Digital patch for discrete signaling, a baseball glove including same, and related method of manufacture",
         "pub_year": "2022",
         "citation": "US Patent 11,266,897, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "sLEB9iYAAAAJ:tH6gc1N1XXoC"
     },
     {
         "title": "Digital patch for discrete signaling, a baseball glove including same, and related method of manufacture",
         "pub_year": "2021",
         "citation": "US Patent 11,103,764, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "sLEB9iYAAAAJ:8xutWZnSdmoC"
     },
     {
         "title": "Digital patch for discrete signaling, a baseball glove including same, and related method of manufacture",
         "pub_year": "2023",
         "citation": "US Patent 11,673,038, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "sLEB9iYAAAAJ:buQ7SEKw-1sC"
+    },
+    {
+        "title": "Digital patch for discrete signaling, a baseball glove including same, and related method of manufacture",
+        "pub_year": "2024",
+        "citation": "US Patent 12,128,290, 2024",
+        "num_citations": 0,
+        "author_pub_id": "sLEB9iYAAAAJ:MhiOAD_qIWkC"
     },
     {
         "title": "Directional sensing of soluble signals through the cytoskeleton",
@@ -929,8 +936,15 @@
         "title": "Freeform 3D Ice Printing (3D‐ICE) at the Micro Scale",
         "pub_year": "2022",
         "citation": "Advanced Science 9 (27), 2201566, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "sLEB9iYAAAAJ:LgRImbQfgY4C"
+    },
+    {
+        "title": "Freeform Fabrication of Three-Dimensional Structures Using a Droplet-On-Demand Process With Continuous and Frequency Modulated Material Deposition",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/686,058, 2024",
+        "num_citations": 0,
+        "author_pub_id": "sLEB9iYAAAAJ:WHdLCjDvYFkC"
     },
     {
         "title": "Frontiers of optofluidics in synthetic biology",
@@ -971,7 +985,7 @@
         "title": "Hierarchical machine learning for high-fidelity 3D printed biopolymers",
         "pub_year": "2020",
         "citation": "ACS Biomaterials Science & Engineering 6 (12), 7021-7031, 2020",
-        "num_citations": 63,
+        "num_citations": 67,
         "author_pub_id": "sLEB9iYAAAAJ:HeT0ZceujKMC"
     },
     {
@@ -1237,7 +1251,7 @@
         "title": "Material Gradients in Stretchable Substrates toward Integrated Electronic Functionality.",
         "pub_year": "2016",
         "citation": "Advanced Materials (Deerfield Beach, Fla.) 28 (18), 3584-3591, 2016",
-        "num_citations": 76,
+        "num_citations": 78,
         "author_pub_id": "sLEB9iYAAAAJ:gsN89kCJA0AC"
     },
     {
@@ -1391,7 +1405,7 @@
         "title": "Microfluidics for understanding model organisms",
         "pub_year": "2022",
         "citation": "Nature communications 13 (1), 3195, 2022",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "sLEB9iYAAAAJ:Ak0FvsSvgGUC"
     },
     {
@@ -1482,7 +1496,7 @@
         "title": "Molecular crowding shapes gene expression in synthetic cellular nanosystems",
         "pub_year": "2013",
         "citation": "Nature nanotechnology 8 (8), 602-608, 2013",
-        "num_citations": 257,
+        "num_citations": 260,
         "author_pub_id": "sLEB9iYAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -1600,7 +1614,7 @@
     {
         "title": "Plant Movement Response to Environmental Mechanical Stimulation Toward Understanding Predator Defense",
         "pub_year": "2024",
-        "citation": "Advanced Science, 2404578, 2024",
+        "citation": "Advanced Science 11 (40), 2404578, 2024",
         "num_citations": 0,
         "author_pub_id": "sLEB9iYAAAAJ:1taIhTC69MYC"
     },
@@ -1831,7 +1845,7 @@
         "title": "Selective chemical treatment of cellular microdomains using multiple laminar streams",
         "pub_year": "2003",
         "citation": "Chemistry & biology 10 (2), 123-130, 2003",
-        "num_citations": 284,
+        "num_citations": 286,
         "author_pub_id": "sLEB9iYAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -1873,7 +1887,7 @@
         "title": "Soft robotics informs how an early echinoderm moved",
         "pub_year": "2023",
         "citation": "Proceedings of the National Academy of Sciences 120 (46), e2306580120, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "sLEB9iYAAAAJ:1lhNe0rCu4AC"
     },
     {
@@ -1943,7 +1957,7 @@
         "title": "Subcellular positioning of small molecules",
         "pub_year": "2001",
         "citation": "Nature 411 (6841), 1016-1016, 2001",
-        "num_citations": 703,
+        "num_citations": 705,
         "author_pub_id": "sLEB9iYAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -2026,7 +2040,7 @@
         "title": "The role of mechanics in biological and bio-inspired systems",
         "pub_year": "2015",
         "citation": "Nature communications 6 (1), 1-12, 2015",
-        "num_citations": 234,
+        "num_citations": 237,
         "author_pub_id": "sLEB9iYAAAAJ:vbGhcppDl1QC"
     },
     {
@@ -2117,7 +2131,7 @@
         "title": "Topographical micropatterning of poly (dimethylsiloxane) using laminar flows of liquids in capillaries",
         "pub_year": "2001",
         "citation": "Advanced materials 13 (8), 570-574, 2001",
-        "num_citations": 184,
+        "num_citations": 185,
         "author_pub_id": "sLEB9iYAAAAJ:-_dYPAW6P2MC"
     },
     {
@@ -2172,14 +2186,14 @@
         "title": "Tracking of scalpel motions with an inertial measurement unit system",
         "pub_year": "2022",
         "citation": "IEEE Sensors Journal 22 (5), 4651-4660, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "sLEB9iYAAAAJ:Bg7qf7VwUHIC"
     },
     {
         "title": "Tumor-on-a-chip for integrating a 3D tumor microenvironment: chemical and mechanical factors",
         "pub_year": "2020",
         "citation": "Lab on a Chip 20 (5), 873-888, 2020",
-        "num_citations": 100,
+        "num_citations": 102,
         "author_pub_id": "sLEB9iYAAAAJ:mlAyqtXpCwEC"
     },
     {
