@@ -3,7 +3,7 @@
         "title": "3D printing hydrogel-based soft and biohybrid actuators: a mini-review on fabrication techniques, applications, and challenges",
         "pub_year": "2021",
         "citation": "Frontiers in Robotics and AI 8, 673533, 2021",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "jW3whJYAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -136,14 +136,14 @@
         "title": "Biodegradable, sustainable hydrogel actuators with shape and stiffness morphing capabilities via embedded 3D printing",
         "pub_year": "2023",
         "citation": "Advanced Functional Materials 33 (36), 2303659, 2023",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "jW3whJYAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Biohybrid actuators for soft robotics: Challenges in scaling up",
         "pub_year": "2020",
         "citation": "Actuators 9 (4), 96, 2020",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "jW3whJYAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -157,14 +157,14 @@
         "title": "Biohybrid robots: recent progress, challenges, and perspectives",
         "pub_year": "2022",
         "citation": "Bioinspiration & biomimetics 18 (1), 015001, 2022",
-        "num_citations": 55,
+        "num_citations": 58,
         "author_pub_id": "jW3whJYAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Biomimetic IGA neuron growth modeling with neurite morphometric features and CNN-based prediction",
         "pub_year": "2023",
         "citation": "Computer Methods in Applied Mechanics and Engineering 417, 116213, 2023",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "jW3whJYAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -227,7 +227,7 @@
         "title": "Design of a biomimetic tactile sensor for material classification",
         "pub_year": "2022",
         "citation": "2022 International Conference on Robotics and Automation (ICRA), 10774-10780, 2022",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "jW3whJYAAAAJ:dhFuZR0502QC"
     },
     {
@@ -262,7 +262,7 @@
         "title": "Ethics and responsibility in biohybrid robotics research",
         "pub_year": "2024",
         "citation": "Proceedings of the National Academy of Sciences 121 (31), e2310458121, 2024",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "jW3whJYAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -309,7 +309,7 @@
         "title": "Gecko adhesion based sea star crawler robot",
         "pub_year": "2023",
         "citation": "Frontiers in Robotics and AI 10, 1209202, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "jW3whJYAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -379,7 +379,7 @@
         "title": "Kinesin and dynein mechanics: measurement methods and research applications",
         "pub_year": "2018",
         "citation": "Journal of biomechanical engineering 140 (2), 020805, 2018",
-        "num_citations": 39,
+        "num_citations": 41,
         "author_pub_id": "jW3whJYAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -412,7 +412,7 @@
         "title": "Modeling neuron growth using isogeometric collocation based phase field method",
         "pub_year": "2022",
         "citation": "Scientific Reports 12 (1), 8120, 2022",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "jW3whJYAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -432,14 +432,14 @@
         "title": "Neurodevelopmental disorders modeling using isogeometric analysis, dynamic domain expansion and local refinement",
         "pub_year": "2025",
         "citation": "Computer Methods in Applied Mechanics and Engineering 433, 117534, 2025",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jW3whJYAAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "Organismal engineering: Toward a robotic taxonomic key for devices using organic materials",
         "pub_year": "2017",
         "citation": "Science robotics 2 (12), eaap9281, 2017",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "jW3whJYAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -453,7 +453,7 @@
         "title": "Quantification of neuron morphological development using the change-point test",
         "pub_year": "2021",
         "citation": "Summer Biomechanics, Bioengineering and Biotransport Conference, 2021",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "jW3whJYAAAAJ:maZDTaKrznsC"
     },
     {
@@ -481,7 +481,7 @@
         "title": "Semi-automated quantitative evaluation of neuron developmental morphology in vitro using the change-point test",
         "pub_year": "2023",
         "citation": "Neuroinformatics 21 (1), 163-176, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "jW3whJYAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -565,7 +565,7 @@
         "title": "Woven collagen biotextiles enable mechanically functional rotator cuff tendon regeneration during repair of segmental tendon defects in vivo",
         "pub_year": "2019",
         "citation": "Journal of Biomedical Materials Research Part B: Applied Biomaterials 107 (6 …, 2019",
-        "num_citations": 49,
+        "num_citations": 48,
         "author_pub_id": "jW3whJYAAAAJ:8k81kl-MbHgC"
     }
 ]

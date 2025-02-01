@@ -17,14 +17,14 @@
         "title": "3D printing of liquid metal embedded elastomers for soft thermal and electrical materials",
         "pub_year": "2022",
         "citation": "ACS Applied Materials & Interfaces 14 (49), 55028-55038, 2022",
-        "num_citations": 47,
+        "num_citations": 53,
         "author_pub_id": "1LyndUsAAAAJ:q-HalDI95KYC"
     },
     {
         "title": "3D printing silicone elastomer for patient‐specific wearable pulse oximeter",
         "pub_year": "2020",
         "citation": "Advanced healthcare materials 9 (15), 1901735, 2020",
-        "num_citations": 70,
+        "num_citations": 72,
         "author_pub_id": "1LyndUsAAAAJ:XvxMoLDsR5gC"
     },
     {
@@ -38,7 +38,7 @@
         "title": "4D-Printable liquid metal–liquid crystal elastomer composites",
         "pub_year": "2020",
         "citation": "ACS applied materials & interfaces 13 (11), 12805-12813, 2020",
-        "num_citations": 140,
+        "num_citations": 143,
         "author_pub_id": "1LyndUsAAAAJ:r_AWSJRzSzQC"
     },
     {
@@ -52,7 +52,7 @@
         "title": "A Gradient Stiffness‐Programmed Circuit Board by Spatially Controlled Phase‐Transition of Supercooled Hydrogel for Stretchable Electronics Integration",
         "pub_year": "2024",
         "citation": "Advanced Materials, 2313344, 2024",
-        "num_citations": 3,
+        "num_citations": 6,
         "author_pub_id": "1LyndUsAAAAJ:qwy9JoKyICEC"
     },
     {
@@ -80,7 +80,7 @@
         "title": "A biosensing soft robot: Autonomous parsing of chemical signals through integrated organic and inorganic interfaces",
         "pub_year": "2019",
         "citation": "Science Robotics 4 (31), eaax0765, 2019",
-        "num_citations": 114,
+        "num_citations": 116,
         "author_pub_id": "1LyndUsAAAAJ:kuK5TVdYjLIC"
     },
     {
@@ -94,21 +94,28 @@
         "title": "A comparative study of silver microflakes in digitally printable liquid metal embedded elastomer inks for stretchable electronics",
         "pub_year": "2022",
         "citation": "Advanced Materials Technologies 7 (12), 2200534, 2022",
-        "num_citations": 41,
+        "num_citations": 43,
         "author_pub_id": "1LyndUsAAAAJ:CB2v5VPnA5kC"
+    },
+    {
+        "title": "A compliant metastructure design with reconfigurability up to six degrees of freedom",
+        "pub_year": "2025",
+        "citation": "Nature Communications 16 (1), 719, 2025",
+        "num_citations": 0,
+        "author_pub_id": "1LyndUsAAAAJ:naSTrk-c4S8C"
     },
     {
         "title": "A lightweight, low-power electroadhesive clutch and spring for exoskeleton actuation",
         "pub_year": "2016",
         "citation": "2016 IEEE International Conference on Robotics and Automation (ICRA), 682-689, 2016",
-        "num_citations": 153,
+        "num_citations": 156,
         "author_pub_id": "1LyndUsAAAAJ:vRqMK49ujn8C"
     },
     {
         "title": "A liquid‐metal–elastomer nanocomposite for stretchable dielectric materials",
         "pub_year": "2019",
         "citation": "Advanced Materials 31 (23), 1900663, 2019",
-        "num_citations": 265,
+        "num_citations": 271,
         "author_pub_id": "1LyndUsAAAAJ:L7CI7m0gUJcC"
     },
     {
@@ -150,7 +157,7 @@
         "title": "A self-healing electrically conductive organogel composite",
         "pub_year": "2023",
         "citation": "Nature Electronics 6 (3), 206-215, 2023",
-        "num_citations": 121,
+        "num_citations": 135,
         "author_pub_id": "1LyndUsAAAAJ:NDuN12AVoxsC"
     },
     {
@@ -163,14 +170,14 @@
         "title": "A simplified formulation of adhesion problems with elastic plates",
         "pub_year": "2009",
         "citation": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering …, 2009",
-        "num_citations": 54,
+        "num_citations": 56,
         "author_pub_id": "1LyndUsAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "A soft gripper with rigidity tunable elastomer strips as ligaments",
         "pub_year": "2017",
         "citation": "Soft robotics 4 (4), 411-420, 2017",
-        "num_citations": 108,
+        "num_citations": 109,
         "author_pub_id": "1LyndUsAAAAJ:bnK-pcrLprsC"
     },
     {
@@ -191,7 +198,7 @@
         "title": "Acoustic Localization and Communication Using a MEMS Microphone for Low-cost and Low-power Bio-inspired Underwater Robots",
         "pub_year": "2022",
         "citation": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "1LyndUsAAAAJ:CdxZDUztZiMC"
     },
     {
@@ -205,7 +212,7 @@
         "title": "Actively controlled wearable orthotic devices and active modular elastomer sleeve for wearable orthotic devices",
         "pub_year": "2015",
         "citation": "US Patent App. 14/342,254, 2015",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "1LyndUsAAAAJ:dshw04ExmUIC"
     },
     {
@@ -247,7 +254,7 @@
         "title": "All the Feels: A dexterous hand with large-area tactile sensing",
         "pub_year": "2023",
         "citation": "IEEE Robotics and Automation Letters, 2023",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "1LyndUsAAAAJ:wvYxNZNCP7wC"
     },
     {
@@ -261,7 +268,7 @@
         "title": "An autonomously electrically self-healing liquid metal–elastomer composite for robust soft-matter robotics and electronics",
         "pub_year": "2018",
         "citation": "Nature materials 17 (7), 618-624, 2018",
-        "num_citations": 942,
+        "num_citations": 950,
         "author_pub_id": "1LyndUsAAAAJ:uLbwQdceFCQC"
     },
     {
@@ -271,10 +278,17 @@
         "author_pub_id": "1LyndUsAAAAJ:u-coK7KVo8oC"
     },
     {
+        "title": "An electrically conductive silver-polyacrylamide-alginate hydrogel composite for soft electronics (vol 4, pg 185, 2021)",
+        "pub_year": "2021",
+        "citation": "Nature Electronics 4 (4), 313-313, 2021",
+        "num_citations": 1,
+        "author_pub_id": "1LyndUsAAAAJ:yY3RG6sOEgwC"
+    },
+    {
         "title": "An electrically conductive silver–polyacrylamide–alginate hydrogel composite for soft electronics",
         "pub_year": "2021",
         "citation": "Nature Electronics 4 (3), 185-192, 2021",
-        "num_citations": 383,
+        "num_citations": 399,
         "author_pub_id": "1LyndUsAAAAJ:ZzlSgRqYykMC"
     },
     {
@@ -316,7 +330,7 @@
         "title": "Ancestrally high elastic modulus of gecko setal β-keratin",
         "pub_year": "2007",
         "citation": "Journal of The Royal Society Interface 4 (17), 1071-1076, 2007",
-        "num_citations": 108,
+        "num_citations": 109,
         "author_pub_id": "1LyndUsAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -330,14 +344,14 @@
         "title": "Artificial skin and elastic strain sensor",
         "pub_year": "2017",
         "citation": "US Patent 9,841,331, 2017",
-        "num_citations": 106,
+        "num_citations": 109,
         "author_pub_id": "1LyndUsAAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "Artificial skin and elastic strain sensor",
         "pub_year": "2020",
         "citation": "US Patent 10,527,507, 2020",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "1LyndUsAAAAJ:kzcrU_BdoSEC"
     },
     {
@@ -358,7 +372,7 @@
         "title": "Attachment of fiber array adhesive through side contact",
         "pub_year": "2005",
         "citation": "Journal of applied physics 98 (10), 103521, 2005",
-        "num_citations": 98,
+        "num_citations": 99,
         "author_pub_id": "1LyndUsAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -372,7 +386,7 @@
         "title": "Bi-phasic Ag–In–Ga-embedded elastomer inks for digitally printed, ultra-stretchable, multi-layer electronics",
         "pub_year": "2021",
         "citation": "ACS Applied Materials & Interfaces 13 (12), 14552-14561, 2021",
-        "num_citations": 105,
+        "num_citations": 109,
         "author_pub_id": "1LyndUsAAAAJ:Aul-kAQHnToC"
     },
     {
@@ -386,21 +400,21 @@
         "title": "Bio-inspired soft robotics: Material selection, actuation, and design",
         "pub_year": "2018",
         "citation": "Extreme Mechanics Letters 22, 51-59, 2018",
-        "num_citations": 395,
+        "num_citations": 402,
         "author_pub_id": "1LyndUsAAAAJ:Fu2w8maKXqMC"
     },
     {
         "title": "Biodegradable, sustainable hydrogel actuators with shape and stiffness morphing capabilities via embedded 3D printing",
         "pub_year": "2023",
         "citation": "Advanced Functional Materials 33 (36), 2303659, 2023",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "1LyndUsAAAAJ:FiDNX6EVdGUC"
     },
     {
         "title": "Biohybrid actuators for soft robotics: Challenges in scaling up",
         "pub_year": "2020",
         "citation": "Actuators 9 (4), 96, 2020",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "1LyndUsAAAAJ:dBIO0h50nwkC"
     },
     {
@@ -428,14 +442,14 @@
         "title": "Biphasic liquid metal composites for sinter‐free printed stretchable electronics",
         "pub_year": "2022",
         "citation": "Advanced Materials Interfaces 9 (5), 2101913, 2022",
-        "num_citations": 52,
+        "num_citations": 56,
         "author_pub_id": "1LyndUsAAAAJ:v1_lew4L6wgC"
     },
     {
         "title": "Bistable soft jumper capable of fast response and high takeoff velocity",
         "pub_year": "2024",
         "citation": "Science Robotics 9 (93), eadm8484, 2024",
-        "num_citations": 1,
+        "num_citations": 4,
         "author_pub_id": "1LyndUsAAAAJ:hvmnpdAuIbkC"
     },
     {
@@ -463,7 +477,7 @@
         "title": "Carbon doped PDMS: conductance stability over time and implications for additive manufacturing of stretchable electronics",
         "pub_year": "2017",
         "citation": "Journal of Micromechanics and Microengineering 27 (3), 035010, 2017",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "1LyndUsAAAAJ:D_sINldO8mEC"
     },
     {
@@ -477,7 +491,7 @@
         "title": "Chasing biomimetic locomotion speeds: Creating untethered soft robots with shape memory alloy actuators",
         "pub_year": "2018",
         "citation": "Science Robotics 3 (25), eaau7557, 2018",
-        "num_citations": 184,
+        "num_citations": 187,
         "author_pub_id": "1LyndUsAAAAJ:z_wVstp3MssC"
     },
     {
@@ -511,7 +525,7 @@
         "title": "Coaxially printed magnetic mechanical electrical hybrid structures with actuation and sensing functionalities",
         "pub_year": "2023",
         "citation": "Nature communications 14 (1), 4428, 2023",
-        "num_citations": 44,
+        "num_citations": 47,
         "author_pub_id": "1LyndUsAAAAJ:5bg8sr1QxYwC"
     },
     {
@@ -595,21 +609,21 @@
         "title": "Controllable and reversible tuning of material rigidity for robot applications",
         "pub_year": "2018",
         "citation": "Materials Today 21 (5), 563-576, 2018",
-        "num_citations": 222,
+        "num_citations": 226,
         "author_pub_id": "1LyndUsAAAAJ:PELIpwtuRlgC"
     },
     {
         "title": "Controllable load sharing for soft adhesive interfaces on three-dimensional surfaces",
         "pub_year": "2017",
         "citation": "Proceedings of the National Academy of Sciences 114 (22), E4344-E4353, 2017",
-        "num_citations": 220,
+        "num_citations": 224,
         "author_pub_id": "1LyndUsAAAAJ:J-pR_7NvFogC"
     },
     {
         "title": "Controlled assembly of liquid metal inclusions as a general approach for multifunctional composites",
         "pub_year": "2020",
         "citation": "Advanced Materials 32 (46), 2002929, 2020",
-        "num_citations": 106,
+        "num_citations": 109,
         "author_pub_id": "1LyndUsAAAAJ:mNrWkgRL2YcC"
     },
     {
@@ -623,14 +637,14 @@
         "title": "Cutaneous ionogel mechanoreceptors for soft machines, physiological sensing, and amputee prostheses",
         "pub_year": "2021",
         "citation": "Advanced Materials 33 (38), 2102069, 2021",
-        "num_citations": 210,
+        "num_citations": 218,
         "author_pub_id": "1LyndUsAAAAJ:0CzhzZyukY4C"
     },
     {
         "title": "Decoupling and reprogramming the wiggling motion of midge larvae using a soft robotic platform",
         "pub_year": "2022",
         "citation": "Advanced Materials 34 (17), 2109126, 2022",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "1LyndUsAAAAJ:7BrZ7Jt4UNcC"
     },
     {
@@ -679,14 +693,14 @@
         "title": "Dielectric Elastomer Actuators with Biphasic Ag–EGaIn Electrodes",
         "pub_year": "2022",
         "citation": "Advanced Engineering Materials 24 (4), 2100953, 2022",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "1LyndUsAAAAJ:43bX7VzcjpAC"
     },
     {
         "title": "Dielectric Elastomers with Liquid Metal and Polydopamine-Coated Graphene Oxide Inclusions",
         "pub_year": "2023",
         "citation": "ACS Applied Materials & Interfaces 15 (20), 24769-24776, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "1LyndUsAAAAJ:O0nohqN1r9EC"
     },
     {
@@ -721,7 +735,7 @@
         "title": "Digitally printed stretchable electronics: a review",
         "pub_year": "2019",
         "citation": "Journal of Materials Chemistry C 7 (45), 14035-14068, 2019",
-        "num_citations": 132,
+        "num_citations": 133,
         "author_pub_id": "1LyndUsAAAAJ:kz9GbA2Ns4gC"
     },
     {
@@ -735,21 +749,21 @@
         "title": "Dynamic simulation of articulated soft robots",
         "pub_year": "2020",
         "citation": "Nature communications 11 (1), 2233, 2020",
-        "num_citations": 148,
+        "num_citations": 149,
         "author_pub_id": "1LyndUsAAAAJ:kh2fBNsKQNwC"
     },
     {
         "title": "EGaIn‐assisted room‐temperature sintering of silver nanoparticles for stretchable, inkjet‐printed, thin‐film electronics",
         "pub_year": "2018",
         "citation": "Advanced Materials 30 (29), 1801852, 2018",
-        "num_citations": 327,
+        "num_citations": 333,
         "author_pub_id": "1LyndUsAAAAJ:W5xh706n7nkC"
     },
     {
         "title": "EGaIn–metal interfacing for liquid metal circuitry and microelectronics integration",
         "pub_year": "2018",
         "citation": "Advanced Materials Interfaces 5 (10), 1701596, 2018",
-        "num_citations": 222,
+        "num_citations": 226,
         "author_pub_id": "1LyndUsAAAAJ:N5tVd3kTz84C"
     },
     {
@@ -770,14 +784,14 @@
         "title": "Effective elastic modulus of isolated gecko setal arrays",
         "pub_year": "2006",
         "citation": "Journal of Experimental Biology 209 (18), 3558-3568, 2006",
-        "num_citations": 392,
+        "num_citations": 393,
         "author_pub_id": "1LyndUsAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Elastic instabilities of a ferroelastomer beam for soft reconfigurable electronics",
         "pub_year": "2016",
         "citation": "Extreme Mechanics Letters 9, 282-290, 2016",
-        "num_citations": 41,
+        "num_citations": 44,
         "author_pub_id": "1LyndUsAAAAJ:geHnlv5EZngC"
     },
     {
@@ -847,7 +861,7 @@
         "title": "Emergence of liquid metals in nanotechnology",
         "pub_year": "2019",
         "citation": "ACS nano 13 (7), 7388-7395, 2019",
-        "num_citations": 326,
+        "num_citations": 328,
         "author_pub_id": "1LyndUsAAAAJ:b1wdh0AR-JQC"
     },
     {
@@ -924,7 +938,7 @@
         "title": "ExoForm: Shape memory and self-fusing semi-rigid wearables",
         "pub_year": "2021",
         "citation": "Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing …, 2021",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "1LyndUsAAAAJ:5icHVeHT4IsC"
     },
     {
@@ -938,8 +952,15 @@
         "title": "Exploiting ferrofluidic wetting for miniature soft machines",
         "pub_year": "2022",
         "citation": "Nature Communications 13 (1), 7919, 2022",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "1LyndUsAAAAJ:AXkvAH5U_nMC"
+    },
+    {
+        "title": "Exploiting instabilities to enable large shape transformations in dielectric elastomers",
+        "pub_year": "2025",
+        "citation": "PHYSICAL REVIEW APPLIED Phys Rev Applied 23, 014007, 2025",
+        "num_citations": 0,
+        "author_pub_id": "1LyndUsAAAAJ:wLxue7F8ec0C"
     },
     {
         "title": "Extreme Mechanics in Soft Pneumatic Robots and Soft Microfluidic Electronics and Sensors",
@@ -952,7 +973,7 @@
         "title": "Extreme toughening of soft materials with liquid metal",
         "pub_year": "2018",
         "citation": "Advanced Materials 30 (22), 1706594, 2018",
-        "num_citations": 248,
+        "num_citations": 253,
         "author_pub_id": "1LyndUsAAAAJ:1yQoGdGgb4wC"
     },
     {
@@ -973,7 +994,7 @@
         "title": "Fabrication and characterization of bending and pressure sensors for a soft prosthetic hand",
         "pub_year": "2018",
         "citation": "Journal of Micromechanics and Microengineering 28 (3), 034001, 2018",
-        "num_citations": 105,
+        "num_citations": 106,
         "author_pub_id": "1LyndUsAAAAJ:JoZmwDi-zQgC"
     },
     {
@@ -994,7 +1015,7 @@
         "title": "Fiberwire: Embedding electronic function into 3d printed mechanically strong, lightweight carbon fiber composite objects",
         "pub_year": "2019",
         "citation": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems …, 2019",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "1LyndUsAAAAJ:hMsQuOkrut0C"
     },
     {
@@ -1036,7 +1057,7 @@
         "title": "Gallium‐Based Liquid–Solid Biphasic Conductors for Soft Electronics",
         "pub_year": "2023",
         "citation": "Advanced Functional Materials 33 (41), 2306453, 2023",
-        "num_citations": 15,
+        "num_citations": 18,
         "author_pub_id": "1LyndUsAAAAJ:pS0ncopqnHgC"
     },
     {
@@ -1050,7 +1071,7 @@
         "title": "Gecko adhesion based sea star crawler robot",
         "pub_year": "2023",
         "citation": "Frontiers in Robotics and AI 10, 1209202, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "1LyndUsAAAAJ:F2UWTTQJPOcC"
     },
     {
@@ -1064,7 +1085,7 @@
         "title": "Geckogripper: A soft, inflatable robotic gripper using gecko-inspired elastomer micro-fiber adhesives",
         "pub_year": "2014",
         "citation": "2014 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2014",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "1LyndUsAAAAJ:1sJd4Hv_s6UC"
     },
     {
@@ -1092,21 +1113,21 @@
         "title": "Hard questions for soft robotics",
         "pub_year": "2021",
         "citation": "Science robotics 6 (53), eabg6049, 2021",
-        "num_citations": 124,
+        "num_citations": 126,
         "author_pub_id": "1LyndUsAAAAJ:gVv57TyPmFsC"
     },
     {
         "title": "Hat: Head-worn assistive teleoperation of mobile manipulators",
         "pub_year": "2023",
         "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 12542 …, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "1LyndUsAAAAJ:ziOE8S1-AIUC"
     },
     {
         "title": "Hierarchical state space models for continuous sequence-to-sequence modeling",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2402.10211, 2024",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "1LyndUsAAAAJ:2v_ZtQDX9iAC"
     },
     {
@@ -1127,7 +1148,7 @@
         "title": "High thermal conductivity in soft elastomers with elongated liquid metal inclusions",
         "pub_year": "2017",
         "citation": "Proceedings of the National Academy of Sciences 114 (9), 2143-2148, 2017",
-        "num_citations": 620,
+        "num_citations": 631,
         "author_pub_id": "1LyndUsAAAAJ:eJXPG6dFmWUC"
     },
     {
@@ -1176,7 +1197,7 @@
         "title": "Highly dynamic bistable soft actuator for reconfigurable multimodal soft robots",
         "pub_year": "2023",
         "citation": "Advanced Materials Technologies 8 (2), 2201259, 2023",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "1LyndUsAAAAJ:DBa1UEJaJKAC"
     },
     {
@@ -1190,14 +1211,14 @@
         "title": "Highly stretchable and strain‐insensitive liquid metal based elastic kirigami electrodes (LM‐eKE)",
         "pub_year": "2023",
         "citation": "Advanced Functional Materials 33 (30), 2301388, 2023",
-        "num_citations": 46,
+        "num_citations": 51,
         "author_pub_id": "1LyndUsAAAAJ:kWvqk_afx_IC"
     },
     {
         "title": "High‐density soft‐matter electronics with micron‐scale line width",
         "pub_year": "2014",
         "citation": "Advanced materials 26 (30), 5211-5216, 2014",
-        "num_citations": 249,
+        "num_citations": 250,
         "author_pub_id": "1LyndUsAAAAJ:f2IySw72cVMC"
     },
     {
@@ -1218,14 +1239,14 @@
         "title": "Hydroprinted electronics: ultrathin stretchable Ag–In–Ga E-skin for bioelectronics and human–machine interaction",
         "pub_year": "2018",
         "citation": "ACS applied materials & interfaces 10 (45), 38760-38768, 2018",
-        "num_citations": 125,
+        "num_citations": 130,
         "author_pub_id": "1LyndUsAAAAJ:-_dYPAW6P2MC"
     },
     {
         "title": "Hyperelastic pressure sensing with a liquid-embedded elastomer",
         "pub_year": "2010",
         "citation": "Journal of micromechanics and microengineering 20 (12), 125029, 2010",
-        "num_citations": 616,
+        "num_citations": 619,
         "author_pub_id": "1LyndUsAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -1239,21 +1260,21 @@
         "title": "Independence in the Home: A Wearable Interface for a Person with Quadriplegia to Teleoperate a Mobile Manipulator",
         "pub_year": "2024",
         "citation": "Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot …, 2024",
-        "num_citations": 4,
+        "num_citations": 7,
         "author_pub_id": "1LyndUsAAAAJ:k_7cPK9k7w8C"
     },
     {
         "title": "Influence of cross-sectional geometry on the sensitivity and hysteresis of liquid-phase electronic pressure sensors",
         "pub_year": "2012",
         "citation": "Applied physics letters 101 (19), 2012",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "1LyndUsAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "Influence of surface traction on soft robot undulation",
         "pub_year": "2013",
         "citation": "The International Journal of Robotics Research 32 (13), 1577-1584, 2013",
-        "num_citations": 116,
+        "num_citations": 118,
         "author_pub_id": "1LyndUsAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -1274,21 +1295,21 @@
         "title": "Integrating synthetic cells and flexible electronics for the control of bio-opto-fluidic materials",
         "pub_year": "2014",
         "citation": "Biophysical Journal 106 (2), 617a-618a, 2014",
-        "num_citations": 4,
+        "num_citations": 3,
         "author_pub_id": "1LyndUsAAAAJ:a0OBvERweLwC"
     },
     {
         "title": "Intrinsically Multistable Soft Actuator Driven by Mixed‐Mode Snap‐Through Instabilities",
         "pub_year": "2024",
         "citation": "Advanced Science 11 (18), 2307391, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "1LyndUsAAAAJ:X9ykpCP0fEIC"
     },
     {
         "title": "Iskin: flexible, stretchable and visually customizable on-body touch sensors for mobile computing",
         "pub_year": "2015",
         "citation": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing …, 2015",
-        "num_citations": 399,
+        "num_citations": 401,
         "author_pub_id": "1LyndUsAAAAJ:nb7KW1ujOQ8C"
     },
     {
@@ -1323,7 +1344,7 @@
         "title": "Liquid crystal elastomer with integrated soft thermoelectrics for shape memory actuation and energy harvesting",
         "pub_year": "2022",
         "citation": "Advanced Materials 34 (23), 2200857, 2022",
-        "num_citations": 90,
+        "num_citations": 94,
         "author_pub_id": "1LyndUsAAAAJ:MhiOAD_qIWkC"
     },
     {
@@ -1334,10 +1355,10 @@
         "author_pub_id": "1LyndUsAAAAJ:dTyEYWd-f8wC"
     },
     {
-        "title": "Liquid metal actuators: a comparative analysis of surface tension controlled actuation",
+        "title": "Liquid metal actuators: A comparative analysis of surface tension controlled actuation",
         "pub_year": "2024",
         "citation": "Advanced Materials 36 (1), 2300560, 2024",
-        "num_citations": 25,
+        "num_citations": 28,
         "author_pub_id": "1LyndUsAAAAJ:w1MjKQ0l0TYC"
     },
     {
@@ -1379,7 +1400,7 @@
         "title": "Liquid metal nanocomposites",
         "pub_year": "2020",
         "citation": "Nanoscale Advances 2 (7), 2668-2677, 2020",
-        "num_citations": 113,
+        "num_citations": 115,
         "author_pub_id": "1LyndUsAAAAJ:PVjk1bu6vJQC"
     },
     {
@@ -1393,7 +1414,7 @@
         "title": "Liquid metal supercooling for low‐temperature thermoelectric wearables",
         "pub_year": "2019",
         "citation": "Advanced functional materials 29 (45), 1906098, 2019",
-        "num_citations": 178,
+        "num_citations": 180,
         "author_pub_id": "1LyndUsAAAAJ:k8Z6L05lTy4C"
     },
     {
@@ -1407,7 +1428,7 @@
         "title": "Liquid metal‐conductive thermoplastic elastomer integration for low‐voltage stiffness tuning",
         "pub_year": "2017",
         "citation": "Advanced Materials Technologies 2 (12), 1700179, 2017",
-        "num_citations": 86,
+        "num_citations": 87,
         "author_pub_id": "1LyndUsAAAAJ:tkaPQYYpVKoC"
     },
     {
@@ -1421,21 +1442,21 @@
         "title": "Liquid-phase gallium–indium alloy electronics with microcontact printing",
         "pub_year": "2013",
         "citation": "Langmuir 29 (20), 6194-6200, 2013",
-        "num_citations": 358,
+        "num_citations": 359,
         "author_pub_id": "1LyndUsAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "Liquid-phase metal inclusions for a conductive polymer composite",
         "pub_year": "2015",
         "citation": "Adv. Mater 27 (11), 1928-1932, 2015",
-        "num_citations": 417,
+        "num_citations": 421,
         "author_pub_id": "1LyndUsAAAAJ:KxtntwgDAa4C"
     },
     {
         "title": "Localization and force-feedback with soft magnetic stickers for precise robot manipulation",
         "pub_year": "2020",
         "citation": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2020",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "1LyndUsAAAAJ:4vMrXwiscB8C"
     },
     {
@@ -1456,14 +1477,14 @@
         "title": "Machine learning for soft robotic sensing and control",
         "pub_year": "2020",
         "citation": "Advanced Intelligent Systems 2 (6), 1900171, 2020",
-        "num_citations": 205,
+        "num_citations": 213,
         "author_pub_id": "1LyndUsAAAAJ:0N-VGjzr574C"
     },
     {
         "title": "Magnetoactive liquid-solid phase transitional matter",
         "pub_year": "2023",
         "citation": "Matter 6 (3), 855-872, 2023",
-        "num_citations": 53,
+        "num_citations": 55,
         "author_pub_id": "1LyndUsAAAAJ:Dem6FJhTUoYC"
     },
     {
@@ -1477,14 +1498,14 @@
         "title": "Masked deposition of gallium‐indium alloys for liquid‐embedded elastomer conductors",
         "pub_year": "2013",
         "citation": "Advanced functional materials 23 (42), 5292-5296, 2013",
-        "num_citations": 313,
+        "num_citations": 314,
         "author_pub_id": "1LyndUsAAAAJ:J_g5lzvAfSwC"
     },
     {
         "title": "Material assembly from collective action of shape-changing polymers",
         "pub_year": "2024",
         "citation": "Nature Materials 23 (2), 281-289, 2024",
-        "num_citations": 14,
+        "num_citations": 17,
         "author_pub_id": "1LyndUsAAAAJ:aIdbFUkbNIkC"
     },
     {
@@ -1574,7 +1595,7 @@
         "title": "Methods to pattern liquid metals",
         "pub_year": "2015",
         "citation": "Journal of materials chemistry c 3 (16), 3834-3841, 2015",
-        "num_citations": 361,
+        "num_citations": 365,
         "author_pub_id": "1LyndUsAAAAJ:UxriW0iASnsC"
     },
     {
@@ -1630,14 +1651,14 @@
         "title": "Multimaterial printing of liquid crystal elastomers with integrated stretchable electronics",
         "pub_year": "2023",
         "citation": "ACS Applied Materials & Interfaces 15 (20), 24777-24787, 2023",
-        "num_citations": 25,
+        "num_citations": 28,
         "author_pub_id": "1LyndUsAAAAJ:-95Q15plzcUC"
     },
     {
         "title": "Multi‐Electrode Printed Bioelectronic Patches for Long‐Term Electrophysiological Monitoring",
         "pub_year": "2022",
         "citation": "Advanced Functional Materials 32 (43), 2205956, 2022",
-        "num_citations": 41,
+        "num_citations": 45,
         "author_pub_id": "1LyndUsAAAAJ:-mN3Mh-tlDkC"
     },
     {
@@ -1665,7 +1686,7 @@
         "title": "Nanowire-assisted freestanding liquid metal thin-film patterns for highly stretchable electrodes on 3D surfaces",
         "pub_year": "2022",
         "citation": "npj Flexible Electronics 6 (1), 99, 2022",
-        "num_citations": 35,
+        "num_citations": 39,
         "author_pub_id": "1LyndUsAAAAJ:1Ye0OR6EYb4C"
     },
     {
@@ -1679,7 +1700,7 @@
         "title": "Network topologies dictate electromechanical coupling in liquid metal–elastomer composites",
         "pub_year": "2020",
         "citation": "Soft Matter 16 (38), 8818-8825, 2020",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "1LyndUsAAAAJ:_5tno0g5mFcC"
     },
     {
@@ -1707,7 +1728,7 @@
         "title": "Nonlinear statistical mechanics drives intrinsic electrostriction and volumetric torque in polymer networks",
         "pub_year": "2021",
         "citation": "Physical Review E 103 (4), 042504, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "1LyndUsAAAAJ:nVrZBo8bIpAC"
     },
     {
@@ -1812,63 +1833,63 @@
         "title": "Rapid fabrication of soft, multilayered electronics for wearable biomonitoring",
         "pub_year": "2016",
         "citation": "Advanced Functional Materials 26 (46), 8496-8504, 2016",
-        "num_citations": 158,
+        "num_citations": 159,
         "author_pub_id": "1LyndUsAAAAJ:8AbLer7MMksC"
     },
     {
         "title": "Rapid prototyping for soft‐matter electronics",
         "pub_year": "2014",
         "citation": "Advanced Functional Materials 24 (22), 3351-3356, 2014",
-        "num_citations": 251,
+        "num_citations": 252,
         "author_pub_id": "1LyndUsAAAAJ:D03iK_w7-QYC"
     },
     {
         "title": "ReCompFig: Designing dynamically reconfigurable kinematic devices using compliant mechanisms and tensioning cables",
         "pub_year": "2022",
         "citation": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems …, 2022",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "1LyndUsAAAAJ:7H_MAutzIkAC"
     },
     {
         "title": "Recent advances in liquid-metal-based wearable electronics and materials",
         "pub_year": "2021",
         "citation": "Iscience 24 (7), 2021",
-        "num_citations": 77,
+        "num_citations": 79,
         "author_pub_id": "1LyndUsAAAAJ:artPoR2Yc-kC"
     },
     {
         "title": "Rechargeable Soft‐Matter EGaIn‐MnO2 Battery for Stretchable Electronics",
         "pub_year": "2019",
         "citation": "Advanced Energy Materials 9 (46), 1902798, 2019",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "1LyndUsAAAAJ:SpbeaW3--B0C"
     },
     {
         "title": "Reconfigurable electrical networks within a conductive hydrogel composite",
         "pub_year": "2023",
         "citation": "Advanced Materials 35 (14), 2209408, 2023",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "1LyndUsAAAAJ:KaMxkj08jr0C"
     },
     {
         "title": "Recyclable Thin‐Film Soft Electronics for Smart Packaging and E‐Skins",
         "pub_year": "2023",
         "citation": "Advanced Science 10 (26), 2301673, 2023",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "1LyndUsAAAAJ:raTqNPD5sRQC"
     },
     {
         "title": "Recyclable liquid metal–graphene supercapacitor",
         "pub_year": "2024",
         "citation": "Chemical Engineering Journal 479, 147894, 2024",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "1LyndUsAAAAJ:65Yg0jNCQDAC"
     },
     {
         "title": "Reliable interfaces for EGaIn multi-layer stretchable circuits and microelectronics",
         "pub_year": "2019",
         "citation": "Lab on a Chip 19 (5), 897-906, 2019",
-        "num_citations": 92,
+        "num_citations": 94,
         "author_pub_id": "1LyndUsAAAAJ:yB1At4FlUx8C"
     },
     {
@@ -1882,7 +1903,7 @@
         "title": "Reskin: versatile, replaceable, lasting tactile skins",
         "pub_year": "2021",
         "citation": "5th Annual Conference on Robot Learning, 2021",
-        "num_citations": 84,
+        "num_citations": 86,
         "author_pub_id": "1LyndUsAAAAJ:48xauSegjOkC"
     },
     {
@@ -1896,7 +1917,7 @@
         "title": "Rfid tattoo: A wireless platform for speech recognition",
         "pub_year": "2019",
         "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2019",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "1LyndUsAAAAJ:foquWX3nUaYC"
     },
     {
@@ -1945,7 +1966,7 @@
         "title": "Safe Supervisory Control of Soft Robot Actuators",
         "pub_year": "2024",
         "citation": "Soft Robotics, 2024",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "1LyndUsAAAAJ:owLR8QvbtFgC"
     },
     {
@@ -1966,7 +1987,7 @@
         "title": "Selective and Controlled Grafting from PVDF-Based Materials by Oxygen-Tolerant Green-Light-Mediated ATRP",
         "pub_year": "2024",
         "citation": "ACS Applied Materials & Interfaces 16 (18), 23932-23947, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "1LyndUsAAAAJ:isU91gLudPYC"
     },
     {
@@ -1987,7 +2008,7 @@
         "title": "Shape memory materials for electrically-powered soft machines",
         "pub_year": "2020",
         "citation": "Journal of Materials Chemistry B 8 (21), 4539-4551, 2020",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "1LyndUsAAAAJ:Ri6SYOTghG4C"
     },
     {
@@ -2015,7 +2036,7 @@
         "title": "Silver-coated poly (dimethylsiloxane) beads for soft, stretchable, and thermally stable conductive elastomer composites",
         "pub_year": "2019",
         "citation": "ACS applied materials & interfaces 11 (45), 42561-42570, 2019",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "1LyndUsAAAAJ:-FonjvnnhkoC"
     },
     {
@@ -2029,7 +2050,7 @@
         "title": "Size of liquid metal particles influences actuation properties of a liquid crystal elastomer composite",
         "pub_year": "2020",
         "citation": "Soft Matter, 2020",
-        "num_citations": 46,
+        "num_citations": 48,
         "author_pub_id": "1LyndUsAAAAJ:bz8QjSJIRt4C"
     },
     {
@@ -2071,7 +2092,7 @@
         "title": "Soft and stretchable thermoelectric generators enabled by liquid metal elastomer composites",
         "pub_year": "2020",
         "citation": "ACS applied materials & interfaces 12 (15), 17921-17928, 2020",
-        "num_citations": 146,
+        "num_citations": 148,
         "author_pub_id": "1LyndUsAAAAJ:hCrLmN-GePgC"
     },
     {
@@ -2085,7 +2106,7 @@
         "title": "Soft bioelectronic stickers: selection and evaluation of skin‐interfacing electrodes",
         "pub_year": "2019",
         "citation": "Advanced healthcare materials 8 (15), 1900234, 2019",
-        "num_citations": 114,
+        "num_citations": 116,
         "author_pub_id": "1LyndUsAAAAJ:tuHXwOkdijsC"
     },
     {
@@ -2106,7 +2127,7 @@
         "title": "Soft curvature sensors for joint angle proprioception",
         "pub_year": "2011",
         "citation": "2011 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2011",
-        "num_citations": 234,
+        "num_citations": 235,
         "author_pub_id": "1LyndUsAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -2127,7 +2148,7 @@
         "title": "Soft electronics manufacturing using microcontact printing",
         "pub_year": "2019",
         "citation": "Advanced Functional Materials 29 (51), 1906551, 2019",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "1LyndUsAAAAJ:WZBGuue-350C"
     },
     {
@@ -2141,7 +2162,7 @@
         "title": "Soft magnetic skin for continuous deformation sensing",
         "pub_year": "2019",
         "citation": "Advanced Intelligent Systems 1 (4), 1900025, 2019",
-        "num_citations": 119,
+        "num_citations": 123,
         "author_pub_id": "1LyndUsAAAAJ:lmc2jWPfTJgC"
     },
     {
@@ -2162,21 +2183,21 @@
         "title": "Soft multifunctional composites and emulsions with liquid metals",
         "pub_year": "2017",
         "citation": "Advanced Materials 29 (27), 1605985, 2017",
-        "num_citations": 389,
+        "num_citations": 395,
         "author_pub_id": "1LyndUsAAAAJ:mvPsJ3kp5DgC"
     },
     {
         "title": "Soft robotics informs how an early echinoderm moved",
         "pub_year": "2023",
         "citation": "Proceedings of the National Academy of Sciences 120 (46), e2306580120, 2023",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "1LyndUsAAAAJ:JTqpx9DYBaYC"
     },
     {
         "title": "Soft robotics: a perspective—current trends and prospects for the future",
         "pub_year": "2014",
         "citation": "Soft robotics 1 (1), 5-11, 2014",
-        "num_citations": 1453,
+        "num_citations": 1463,
         "author_pub_id": "1LyndUsAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -2190,7 +2211,7 @@
         "title": "Soft tactile sensing skins for robotics",
         "pub_year": "2021",
         "citation": "Current Robotics Reports 2, 343-354, 2021",
-        "num_citations": 79,
+        "num_citations": 82,
         "author_pub_id": "1LyndUsAAAAJ:6yz0xqPARnAC"
     },
     {
@@ -2225,14 +2246,14 @@
         "title": "Soft-matter capacitors and inductors for hyperelastic strain sensing and stretchable electronics",
         "pub_year": "2013",
         "citation": "Smart Materials and Structures 22 (5), 055023, 2013",
-        "num_citations": 214,
+        "num_citations": 215,
         "author_pub_id": "1LyndUsAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Soft-matter composites with electrically tunable elastic rigidity",
         "pub_year": "2013",
         "citation": "Smart Materials and Structures 22 (8), 085005, 2013",
-        "num_citations": 257,
+        "num_citations": 259,
         "author_pub_id": "1LyndUsAAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -2274,21 +2295,21 @@
         "title": "Soft-matter sensor for proximity, tactile and pressure detection",
         "pub_year": "2017",
         "citation": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2017",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "1LyndUsAAAAJ:eq2jaN3J8jMC"
     },
     {
         "title": "Soft‐matter engineering for soft robotics",
         "pub_year": "2019",
         "citation": "Advanced Materials Technologies 4 (2), 1800477, 2019",
-        "num_citations": 345,
+        "num_citations": 350,
         "author_pub_id": "1LyndUsAAAAJ:VLnqNzywnoUC"
     },
     {
         "title": "Solution processable liquid metal nanodroplets by surface-initiated atom transfer radical polymerization",
         "pub_year": "2019",
         "citation": "Nature nanotechnology 14 (7), 684-690, 2019",
-        "num_citations": 235,
+        "num_citations": 237,
         "author_pub_id": "1LyndUsAAAAJ:TIZ-Mc8IlK0C"
     },
     {
@@ -2316,7 +2337,7 @@
         "title": "Statistical field theory for nonlinear elasticity of polymer networks with excluded volume interactions",
         "pub_year": "2023",
         "citation": "Physical Review E 107 (6), 064501, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "1LyndUsAAAAJ:VN7nJs4JPk0C"
     },
     {
@@ -2344,7 +2365,7 @@
         "title": "Statistical field theory of polarizable polymer chains with nonlocal dipolar interactions",
         "pub_year": "2024",
         "citation": "Physical Review E 109 (4), 044501, 2024",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "1LyndUsAAAAJ:ghEM2AJqZyQC"
     },
     {
@@ -2362,13 +2383,6 @@
         "author_pub_id": "1LyndUsAAAAJ:kw52XkFRtyQC"
     },
     {
-        "title": "Stretchable Thermoelectric Generators for Self‐Powered Wearable Health Monitoring",
-        "pub_year": "2024",
-        "citation": "Advanced Functional Materials 34 (39), 2404861, 2024",
-        "num_citations": 4,
-        "author_pub_id": "1LyndUsAAAAJ:CNPyR2KL9-0C"
-    },
-    {
         "title": "Stretchable electronics and methods of making the same",
         "pub_year": "2021",
         "citation": "US Patent 11,017,915, 2021",
@@ -2383,24 +2397,31 @@
         "author_pub_id": "1LyndUsAAAAJ:buQ7SEKw-1sC"
     },
     {
+        "title": "Stretchable thermoelectric generators for self‐powered wearable health monitoring",
+        "pub_year": "2024",
+        "citation": "Advanced Functional Materials 34 (39), 2404861, 2024",
+        "num_citations": 6,
+        "author_pub_id": "1LyndUsAAAAJ:CNPyR2KL9-0C"
+    },
+    {
         "title": "Stretchable two-dimensional pressure sensor",
         "pub_year": "2012",
         "citation": "US Patent 8,316,719, 2012",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "1LyndUsAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "Stretchable, high‐k dielectric elastomers through liquid‐metal inclusions",
         "pub_year": "2016",
         "citation": "Advanced Materials 28 (19), 3726-3731, 2016",
-        "num_citations": 397,
+        "num_citations": 404,
         "author_pub_id": "1LyndUsAAAAJ:08ZZubdj9fEC"
     },
     {
         "title": "Surface engineering of liquid metal nanodroplets by attachable diblock copolymers",
         "pub_year": "2020",
         "citation": "ACS nano 14 (8), 9884-9893, 2020",
-        "num_citations": 63,
+        "num_citations": 65,
         "author_pub_id": "1LyndUsAAAAJ:sNmaIFBj_lkC"
     },
     {
@@ -2449,21 +2470,21 @@
         "title": "Thermo‐Mechanically Stable, Liquid Metal Embedded Soft Materials for High‐Temperature Applications",
         "pub_year": "2024",
         "citation": "Advanced Functional Materials 34 (31), 2309725, 2024",
-        "num_citations": 6,
+        "num_citations": 8,
         "author_pub_id": "1LyndUsAAAAJ:jSAVyFp_754C"
     },
     {
         "title": "Toward Fully Printed Soft Actuators: UV‐Assisted Printing of Liquid Crystal Elastomers and Biphasic Liquid Metal Conductors",
         "pub_year": "2023",
         "citation": "Advanced Materials Technologies 8 (15), 2300144, 2023",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "1LyndUsAAAAJ:1DsIQWDZLl8C"
     },
     {
         "title": "Towards an LLM-Based Speech Interface for Robot-Assisted Feeding",
         "pub_year": "2024",
         "citation": "Adjunct Proceedings of the 37th Annual ACM Symposium on User Interface …, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "1LyndUsAAAAJ:zUl2_INMlC4C"
     },
     {
@@ -2498,7 +2519,7 @@
         "title": "Tunable elastic stiffness with microconfined magnetorheological domains at low magnetic field",
         "pub_year": "2010",
         "citation": "Applied Physics Letters 97 (16), 2010",
-        "num_citations": 194,
+        "num_citations": 196,
         "author_pub_id": "1LyndUsAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -2526,21 +2547,21 @@
         "title": "Ultrastretchable, wearable triboelectric nanogenerator based on sedimented liquid metal elastomer composite",
         "pub_year": "2020",
         "citation": "Advanced Materials Technologies 5 (11), 2000754, 2020",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "1LyndUsAAAAJ:IUKN3-7HHlwC"
     },
     {
         "title": "Untethered small-scale magnetic soft robot with programmable magnetization and integrated multifunctional modules",
         "pub_year": "2022",
         "citation": "Science advances 8 (25), eabn8932, 2022",
-        "num_citations": 230,
+        "num_citations": 234,
         "author_pub_id": "1LyndUsAAAAJ:PYBJJbyH-FwC"
     },
     {
         "title": "Untethered soft robotics",
         "pub_year": "2018",
         "citation": "Nature Electronics 1 (2), 102-112, 2018",
-        "num_citations": 979,
+        "num_citations": 998,
         "author_pub_id": "1LyndUsAAAAJ:LjlpjdlvIbIC"
     },
     {
@@ -2561,21 +2582,21 @@
         "title": "Versatile soft robot gripper enabled by stiffness and adhesion tuning via thermoplastic composite",
         "pub_year": "2022",
         "citation": "Soft Robotics 9 (2), 189-200, 2022",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "1LyndUsAAAAJ:Ehil0879vHcC"
     },
     {
         "title": "Visually imperceptible liquid‐metal circuits for transparent, stretchable electronics with direct laser writing",
         "pub_year": "2018",
         "citation": "Advanced Materials 30 (12), 1706937, 2018",
-        "num_citations": 231,
+        "num_citations": 233,
         "author_pub_id": "1LyndUsAAAAJ:WqliGbK-hY8C"
     },
     {
         "title": "Voicepilot: Harnessing LLMs as speech interfaces for physically assistive robots",
         "pub_year": "2024",
         "citation": "Proceedings of the 37th Annual ACM Symposium on User Interface Software and …, 2024",
-        "num_citations": 6,
+        "num_citations": 10,
         "author_pub_id": "1LyndUsAAAAJ:0aBXIfxlw9sC"
     },
     {
@@ -2589,14 +2610,14 @@
         "title": "Wearable soft technologies for haptic sensing and feedback",
         "pub_year": "2021",
         "citation": "Advanced Functional Materials 31 (39), 2007428, 2021",
-        "num_citations": 235,
+        "num_citations": 242,
         "author_pub_id": "1LyndUsAAAAJ:yqoGN6RLRZoC"
     },
     {
         "title": "Wearable tactile keypad with stretchable artificial skin",
         "pub_year": "2011",
         "citation": "2011 IEEE International Conference on Robotics and Automation, 1103-1107, 2011",
-        "num_citations": 181,
+        "num_citations": 182,
         "author_pub_id": "1LyndUsAAAAJ:LkGwnXOMwfcC"
     },
     {

@@ -80,6 +80,13 @@
         "author_pub_id": "P1OWCkAAAAAJ:1yQoGdGgb4wC"
     },
     {
+        "title": "Absence of Electrical Contact Resistance Degradation in MEMS Relays Subject to Hot Switching",
+        "pub_year": "2024",
+        "citation": "2024 IEEE 69th Holm Conference on Electrical Contacts (HOLM), 1-6, 2024",
+        "num_citations": 0,
+        "author_pub_id": "P1OWCkAAAAAJ:hCrLmN-GePgC"
+    },
+    {
         "title": "Accurate method for determining adhesion of cantilever beams",
         "pub_year": "1999",
         "citation": "Journal of applied physics 86 (2), 817-827, 1999",
@@ -139,7 +146,7 @@
         "title": "An investigation of sidewall adhesion in MEMS",
         "pub_year": "2003",
         "citation": "Applied Surface Science 212, 735-741, 2003",
-        "num_citations": 62,
+        "num_citations": 61,
         "author_pub_id": "P1OWCkAAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -160,7 +167,7 @@
         "title": "Capillary adhesion between elastically hard rough surfaces",
         "pub_year": "2007",
         "citation": "Experimental mechanics 47, 171-183, 2007",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "P1OWCkAAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -279,7 +286,7 @@
         "title": "Crystalline polymer nanofibers with ultra-high strength and thermal conductivity",
         "pub_year": "2018",
         "citation": "Nature communications 9 (1), 1664, 2018",
-        "num_citations": 140,
+        "num_citations": 144,
         "author_pub_id": "P1OWCkAAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -328,7 +335,7 @@
         "title": "Design, fabrication, performance and reliability of Pt-and RuO2-coated microrelays tested in ultra-high purity gas environments",
         "pub_year": "2012",
         "citation": "Journal of Micromechanics and Microengineering 22 (10), 105027, 2012",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "P1OWCkAAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -391,7 +398,7 @@
         "title": "Effect of nanotexturing on interfacial adhesion in MEMS",
         "pub_year": "2001",
         "citation": "International Conference on Fracture, December, Honolulu, Hawaii, 2001",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "P1OWCkAAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -622,7 +629,7 @@
         "title": "Impact of contact materials and operating conditions on stability of micromechanical switches",
         "pub_year": "2013",
         "citation": "Tribology Letters 51, 341-356, 2013",
-        "num_citations": 50,
+        "num_citations": 52,
         "author_pub_id": "P1OWCkAAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -643,7 +650,7 @@
         "title": "In situ oxygen plasma cleaning of microswitch surfaces—comparison of Ti and graphite electrodes",
         "pub_year": "2016",
         "citation": "Journal of Micromechanics and Microengineering 26 (11), 115020, 2016",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "P1OWCkAAAAAJ:V3AGJWp-ZtQC"
     },
     {
@@ -769,7 +776,7 @@
         "title": "Low voltage cold and hot switching in nanoswitches cleaned by in situ oxygen plasma can achieve low stable contact resistance",
         "pub_year": "2024",
         "citation": "Journal of Applied Physics 135 (2), 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "P1OWCkAAAAAJ:k8Z6L05lTy4C"
     },
     {
@@ -790,7 +797,7 @@
         "title": "MEMS structures for on-chip testing of mechanical and surface properties of thin films",
         "pub_year": "2003",
         "citation": "Pergamon, 2003",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "P1OWCkAAAAAJ:hMod-77fHWUC"
     },
     {
@@ -846,7 +853,7 @@
         "title": "Mechanochemical effects of adsorbates at nanoelectromechanical switch contacts",
         "pub_year": "2019",
         "citation": "ACS applied materials & interfaces 11 (42), 39238-39247, 2019",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "P1OWCkAAAAAJ:ye4kPcJQO24C"
     },
     {
@@ -1070,7 +1077,7 @@
         "title": "Phase Change Nanoelectromechanical Relay for Nonvolatile Low Leakage Switching",
         "pub_year": "2022",
         "citation": "Advanced Electronic Materials 8 (9), 2200085, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "P1OWCkAAAAAJ:4MWp96NkSFoC"
     },
     {
@@ -1195,14 +1202,14 @@
         "title": "Role of interfacial properties on MEMS performance and reliability",
         "pub_year": "1999",
         "citation": "Microsystems metrology and inspection 3825, 2-15, 1999",
-        "num_citations": 89,
+        "num_citations": 88,
         "author_pub_id": "P1OWCkAAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Rough surface adhesion in the presence of capillary condensation",
         "pub_year": "2007",
         "citation": "Applied physics letters 90 (16), 2007",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "P1OWCkAAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -1346,14 +1353,14 @@
         "title": "The role of van der Waals forces in adhesion of micromachined surfaces",
         "pub_year": "2005",
         "citation": "Nature materials 4 (8), 629-634, 2005",
-        "num_citations": 603,
+        "num_citations": 605,
         "author_pub_id": "P1OWCkAAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "The strong effect on MEMS switch reliability of film deposition conditions and electrode geometry",
         "pub_year": "2019",
         "citation": "Microelectronics Reliability 98, 131-143, 2019",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "P1OWCkAAAAAJ:eq2jaN3J8jMC"
     },
     {
@@ -1367,7 +1374,7 @@
         "title": "Thermodynamics of capillary adhesion between rough surfaces",
         "pub_year": "2007",
         "citation": "Journal of colloid and interface science 311 (1), 171-185, 2007",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "P1OWCkAAAAAJ:Se3iqnhoufwC"
     },
     {

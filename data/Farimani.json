@@ -10,14 +10,14 @@
         "title": "A physics-informed diffusion model for high-fidelity flow field reconstruction",
         "pub_year": "2023",
         "citation": "Journal of Computational Physics 478, 111972, 2023",
-        "num_citations": 119,
+        "num_citations": 125,
         "author_pub_id": "aH52nxkAAAAJ:7Hz3ACDFbsoC"
     },
     {
         "title": "A review on challenges and successes in atomic-scale design of catalysts for electrochemical synthesis of hydrogen peroxide",
         "pub_year": "2020",
         "citation": "Acs Catalysis 10 (14), 7495-7511, 2020",
-        "num_citations": 341,
+        "num_citations": 349,
         "author_pub_id": "aH52nxkAAAAJ:XvxMoLDsR5gC"
     },
     {
@@ -31,7 +31,7 @@
         "title": "AMGPT: a Large Language Model for Contextual Querying in Additive Manufacturing",
         "pub_year": "2024",
         "citation": "Additive Manufacturing Letters 11, 100232, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "aH52nxkAAAAJ:silx2ntsSuwC"
     },
     {
@@ -59,7 +59,7 @@
         "title": "Activation pathways of neurotensin receptor 1 elucidated using statistical machine learning",
         "pub_year": "2022",
         "citation": "ACS Chemical Neuroscience 13 (8), 1333-1341, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "aH52nxkAAAAJ:vDZJ-YLwNdEC"
     },
     {
@@ -73,7 +73,7 @@
         "title": "Adaptive grey wolf optimizer",
         "pub_year": "2022",
         "citation": "Neural Computing and Applications 34 (10), 7711-7731, 2022",
-        "num_citations": 87,
+        "num_citations": 89,
         "author_pub_id": "aH52nxkAAAAJ:_OXeSy2IsFwC"
     },
     {
@@ -91,24 +91,17 @@
         "author_pub_id": "aH52nxkAAAAJ:hMsQuOkrut0C"
     },
     {
-        "title": "Airfoil Diffusion: Denoising Diffusion Model For Conditional Airfoil Generation",
-        "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2408.15898, 2024",
-        "num_citations": 0,
-        "author_pub_id": "aH52nxkAAAAJ:v6i8RKmR8ToC"
-    },
-    {
         "title": "Airfoil GAN: encoding and synthesizing airfoils for aerodynamic shape optimization",
         "pub_year": "2023",
         "citation": "Journal of Computational Design and Engineering 10 (4), 1350-1362, 2023",
-        "num_citations": 53,
+        "num_citations": 58,
         "author_pub_id": "aH52nxkAAAAJ:SjuI4pbJlxcC"
     },
     {
         "title": "AlloyBERT: Alloy Property Prediction with Large Language Models",
         "pub_year": "2024",
         "citation": "Computational Material Science 244 (113256), 2024",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "aH52nxkAAAAJ:HJSXoJQnj-YC"
     },
     {
@@ -163,7 +156,7 @@
         "title": "Bio-informed protein sequence generation for multi-class virus mutation prediction",
         "pub_year": "2020",
         "citation": "bioRxiv, 2020.06. 11.146167, 2020",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "aH52nxkAAAAJ:HIFyuExEbWQC"
     },
     {
@@ -177,8 +170,15 @@
         "title": "Catalyst energy prediction with catberta: Unveiling feature exploration strategies through large language models",
         "pub_year": "2023",
         "citation": "ACS Catalysis 13 (24), 16032-16044, 2023",
-        "num_citations": 22,
+        "num_citations": 26,
         "author_pub_id": "aH52nxkAAAAJ:ziOE8S1-AIUC"
+    },
+    {
+        "title": "Characterization of Phosphorylated Tau-Microtubule complex with Molecular Dynamics (MD) simulation",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2312.11700, 2023",
+        "num_citations": 2,
+        "author_pub_id": "aH52nxkAAAAJ:SAZ1SQo2q1kC"
     },
     {
         "title": "Combining physics-based and evolution-based methods to design antibodies against an evolving virus",
@@ -205,7 +205,7 @@
         "title": "Convolutional neural networks for melt depth prediction and visualization in laser powder bed fusion",
         "pub_year": "2023",
         "citation": "The International Journal of Advanced Manufacturing Technology 129 (7), 3047 …, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "aH52nxkAAAAJ:pAkWuXOU-OoC"
     },
     {
@@ -219,35 +219,35 @@
         "title": "Crystal twins: self-supervised learning for crystalline material property prediction",
         "pub_year": "2022",
         "citation": "npj Computational Materials 8 (1), 231, 2022",
-        "num_citations": 44,
+        "num_citations": 46,
         "author_pub_id": "aH52nxkAAAAJ:6yz0xqPARnAC"
     },
     {
         "title": "DNA Base Detection Using a Single-Layer MoS2",
         "pub_year": "2014",
         "citation": "ACS nano 8 (8), 7914-7922, 2014",
-        "num_citations": 397,
+        "num_citations": 399,
         "author_pub_id": "aH52nxkAAAAJ:vDijr-p_gm4C"
     },
     {
         "title": "DNA Detection Using a Single-Layer Phosphorene Nanopore",
         "pub_year": "2023",
         "citation": "ACS Applied Nano Materials 6 (9), 7814-7820, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "aH52nxkAAAAJ:prdVHNxh-e8C"
     },
     {
         "title": "DNA Detection with Single-Layer Ti3C2 MXene Nanopore",
         "pub_year": "2021",
         "citation": "ACS nano 15 (3), 4861-4869, 2021",
-        "num_citations": 54,
+        "num_citations": 57,
         "author_pub_id": "aH52nxkAAAAJ:OcBU2YAGkTUC"
     },
     {
         "title": "DNA origami–graphene hybrid nanopore for DNA detection",
         "pub_year": "2017",
         "citation": "ACS applied materials & interfaces 9 (1), 92-100, 2017",
-        "num_citations": 99,
+        "num_citations": 101,
         "author_pub_id": "aH52nxkAAAAJ:tuHXwOkdijsC"
     },
     {
@@ -303,14 +303,14 @@
         "title": "Deep learning for reduced order modelling and efficient temporal evolution of fluid simulations",
         "pub_year": "2021",
         "citation": "Physics of Fluids 33 (10), 2021",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "aH52nxkAAAAJ:r_AWSJRzSzQC"
     },
     {
         "title": "Deep learning of material transport in complex neurite networks",
         "pub_year": "2021",
         "citation": "Scientific reports 11 (1), 11280, 2021",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "aH52nxkAAAAJ:3htObqc8RwsC"
     },
     {
@@ -324,7 +324,7 @@
         "title": "Deep learning the physics of transport phenomena",
         "pub_year": "2017",
         "citation": "arXiv preprint arXiv:1709.02432, 2017",
-        "num_citations": 144,
+        "num_citations": 146,
         "author_pub_id": "aH52nxkAAAAJ:WZBGuue-350C"
     },
     {
@@ -359,14 +359,14 @@
         "title": "Discovery of novel brain permeable and G protein-biased beta-1 adrenergic receptor partial agonists for the treatment of neurocognitive disorders",
         "pub_year": "2017",
         "citation": "PloS one 12 (7), e0180319, 2017",
-        "num_citations": 26,
+        "num_citations": 28,
         "author_pub_id": "aH52nxkAAAAJ:oNZyr7d5Mn4C"
     },
     {
         "title": "Dissolution of monocrystalline silicon nanomembranes and their use as encapsulation layers and electrical interfaces in water-soluble electronics",
         "pub_year": "2017",
         "citation": "ACS nano 11 (12), 12562-12572, 2017",
-        "num_citations": 111,
+        "num_citations": 113,
         "author_pub_id": "aH52nxkAAAAJ:Dip1O2bNi0gC"
     },
     {
@@ -375,6 +375,13 @@
         "citation": "Neural Computing and Applications 34 (20), 18183-18193, 2022",
         "num_citations": 8,
         "author_pub_id": "aH52nxkAAAAJ:KbBQZpvPDL4C"
+    },
+    {
+        "title": "Dual Diffusion for Unified Image Generation and Understanding",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2501.00289, 2024",
+        "num_citations": 0,
+        "author_pub_id": "aH52nxkAAAAJ:qE4H1tSSYIIC"
     },
     {
         "title": "Effects of sparse rewards of different magnitudes in the speed of learning of model-based actor critic methods",
@@ -387,7 +394,7 @@
         "title": "Efficient water desalination with graphene nanopores obtained using artificial intelligence",
         "pub_year": "2021",
         "citation": "npj 2D Materials and Applications 5 (1), 66, 2021",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "aH52nxkAAAAJ:yqoGN6RLRZoC"
     },
     {
@@ -408,7 +415,7 @@
         "title": "Engineering rotating apical-out airway organoid for assessing respiratory cilia motility",
         "pub_year": "2022",
         "citation": "Iscience 25 (8), 2022",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "aH52nxkAAAAJ:wMgC3FpKEyYC"
     },
     {
@@ -450,7 +457,7 @@
         "title": "FaultNet: A deep convolutional neural network for bearing fault classification",
         "pub_year": "2021",
         "citation": "IEEE access 9, 25189-25199, 2021",
-        "num_citations": 83,
+        "num_citations": 91,
         "author_pub_id": "aH52nxkAAAAJ:2VqYfGB8ITEC"
     },
     {
@@ -461,10 +468,17 @@
         "author_pub_id": "aH52nxkAAAAJ:qe6vwMD2xtsC"
     },
     {
+        "title": "Forecasting COVID-19 New Cases Using Transformer Deep Learning Model",
+        "pub_year": "2023",
+        "citation": "medRxiv, 2023.11. 02.23297976, 2023",
+        "num_citations": 2,
+        "author_pub_id": "aH52nxkAAAAJ:z6xuaG2dYH0C"
+    },
+    {
         "title": "Forecasting COVID-19 new cases using deep learning methods",
         "pub_year": "2022",
         "citation": "Computers in biology and medicine 144, 105342, 2022",
-        "num_citations": 87,
+        "num_citations": 90,
         "author_pub_id": "aH52nxkAAAAJ:artPoR2Yc-kC"
     },
     {
@@ -499,14 +513,14 @@
         "title": "Graph convolutional networks applied to unstructured flow field data",
         "pub_year": "2021",
         "citation": "Machine Learning: Science and Technology 2 (4), 045020, 2021",
-        "num_citations": 60,
+        "num_citations": 67,
         "author_pub_id": "aH52nxkAAAAJ:a3BOlSfXSfwC"
     },
     {
         "title": "Graph neural network-accelerated Lagrangian fluid simulation",
         "pub_year": "2022",
         "citation": "Computers & Graphics 103, 201-211, 2022",
-        "num_citations": 93,
+        "num_citations": 95,
         "author_pub_id": "aH52nxkAAAAJ:gKiMpY-AVTkC"
     },
     {
@@ -520,7 +534,7 @@
         "title": "Graph neural networks for molecules",
         "pub_year": "2023",
         "citation": "Machine Learning in Molecular Sciences, 21-66, 2023",
-        "num_citations": 33,
+        "num_citations": 37,
         "author_pub_id": "aH52nxkAAAAJ:QyXJ3EUuO1IC"
     },
     {
@@ -534,7 +548,7 @@
         "title": "High-resolution melt pool thermal imaging for metals additive manufacturing using the two-color method with a color camera",
         "pub_year": "2023",
         "citation": "Additive Manufacturing 73, 103663, 2023",
-        "num_citations": 27,
+        "num_citations": 31,
         "author_pub_id": "aH52nxkAAAAJ:AXkvAH5U_nMC"
     },
     {
@@ -547,7 +561,7 @@
     {
         "title": "IDP-Bert: Predicting Properties of Intrinsically Disordered Proteins Using Large Language Models",
         "pub_year": "2024",
-        "citation": "The Journal of Physical Chemistry B, 2024",
+        "citation": "The Journal of Physical Chemistry B 128 (49), 12030-12037, 2024",
         "num_citations": 1,
         "author_pub_id": "aH52nxkAAAAJ:DrR-2ekChdkC"
     },
@@ -555,7 +569,7 @@
         "title": "Identification of amino acids with sensitive nanoporous MoS2: towards machine learning-based prediction",
         "pub_year": "2018",
         "citation": "npj 2D Materials and Applications 2 (1), 14, 2018",
-        "num_citations": 72,
+        "num_citations": 75,
         "author_pub_id": "aH52nxkAAAAJ:Ug5p-4gJ2f0C"
     },
     {
@@ -569,7 +583,7 @@
         "title": "Improving molecular contrastive learning via faulty negative mitigation and decomposed fragment contrast",
         "pub_year": "2022",
         "citation": "Journal of Chemical Information and Modeling 62 (11), 2713-2725, 2022",
-        "num_citations": 72,
+        "num_citations": 76,
         "author_pub_id": "aH52nxkAAAAJ:tH6gc1N1XXoC"
     },
     {
@@ -583,7 +597,7 @@
         "title": "Integrating Multi-Physics Simulations and Machine Learning to Define the Spatter Mechanism and Process Window in Laser Powder Bed Fusion",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2405.07823, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "aH52nxkAAAAJ:Hck25ST_3aIC"
     },
     {
@@ -625,13 +639,13 @@
         "title": "Large language model agent as a mechanical designer",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2404.17525, 2024",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "aH52nxkAAAAJ:IsPWOBWtZBwC"
     },
     {
         "title": "Latent Neural PDE Solver: a reduced-order modelling framework for partial differential equations",
-        "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2402.17853, 2024",
+        "pub_year": "2025",
+        "citation": "Journal of Computational Physics, 113705, 2025",
         "num_citations": 8,
         "author_pub_id": "aH52nxkAAAAJ:pS0ncopqnHgC"
     },
@@ -660,28 +674,35 @@
         "title": "Llm-sr: Scientific equation discovery via programming with large language models",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2404.18400, 2024",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "aH52nxkAAAAJ:jSAVyFp_754C"
     },
     {
-        "title": "Low Fidelity Visuo-Tactile Pretraining Improves Vision-Only Manipulation Performance",
+        "title": "Low fidelity visuo-tactile pretraining improves vision-only manipulation performance",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2406.15639, 2024",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "aH52nxkAAAAJ:isU91gLudPYC"
     },
     {
         "title": "MAB-OS: multi-armed bandits metaheuristic optimizer selection",
         "pub_year": "2022",
         "citation": "Applied Soft Computing 128, 109452, 2022",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "aH52nxkAAAAJ:48xauSegjOkC"
+    },
+    {
+        "title": "MAN: Multi-action networks learning",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2209.09329, 2022",
+        "num_citations": 3,
+        "author_pub_id": "aH52nxkAAAAJ:T_ojBgVMvoEC"
     },
     {
         "title": "MOFormer: Self-Supervised Transformer Model for Metal–Organic Framework Property Prediction",
         "pub_year": "2023",
         "citation": "Journal of the American Chemical Society 145 (5), 2958–2967, 2023",
-        "num_citations": 89,
+        "num_citations": 90,
         "author_pub_id": "aH52nxkAAAAJ:wKETBy42zhYC"
     },
     {
@@ -695,21 +716,21 @@
         "title": "Machine Learning in Membrane Design: From Property Prediction to AI-Guided Optimization",
         "pub_year": "2024",
         "citation": "Nano letters 24 (10), 2953–2960, 2024",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "aH52nxkAAAAJ:rTD5ala9j4wC"
     },
     {
         "title": "Machine learning based approaches to accelerate energy materials discovery and optimization",
         "pub_year": "2018",
         "citation": "ACS energy letters 4 (1), 187-191, 2018",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "aH52nxkAAAAJ:hCrLmN-GePgC"
     },
     {
         "title": "Machine learning force fields and coarse-grained variables in molecular dynamics: application to materials and biological systems",
         "pub_year": "2020",
         "citation": "Journal of chemical theory and computation 16 (8), 4757-4775, 2020",
-        "num_citations": 183,
+        "num_citations": 186,
         "author_pub_id": "aH52nxkAAAAJ:NXb4pA-qfm4C"
     },
     {
@@ -722,7 +743,7 @@
     {
         "title": "Masked Autoencoders are PDE Learners",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2403.17728, 2024",
+        "citation": "Transactions on Machine Learning, 2024, 2024",
         "num_citations": 1,
         "author_pub_id": "aH52nxkAAAAJ:TlpoogIpr_IC"
     },
@@ -758,21 +779,21 @@
         "title": "Mechanisms for hydrolysis of silicon nanomembranes as used in bioresorbable electronics",
         "pub_year": "2015",
         "citation": "Adv. Mater 27 (11), 1857-1864, 2015",
-        "num_citations": 126,
+        "num_citations": 127,
         "author_pub_id": "aH52nxkAAAAJ:Z5m8FVwuT1cC"
     },
     {
         "title": "MeltpoolNet: Melt pool characteristic prediction in Metal Additive Manufacturing using machine learning",
         "pub_year": "2022",
         "citation": "Additive Manufacturing 55, 102817, 2022",
-        "num_citations": 105,
+        "num_citations": 110,
         "author_pub_id": "aH52nxkAAAAJ:uDGL6kOW6j0C"
     },
     {
         "title": "Mesh deep Q network: A deep reinforcement learning framework for improving meshes in computational fluid dynamics",
         "pub_year": "2023",
         "citation": "AIP Advances 13 (1), 2023",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "aH52nxkAAAAJ:kw52XkFRtyQC"
     },
     {
@@ -786,14 +807,21 @@
         "title": "Minimizing human assistance: Augmenting a single demonstration for deep reinforcement learning",
         "pub_year": "2023",
         "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 5027-5033, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "aH52nxkAAAAJ:BzfGm06jWhQC"
+    },
+    {
+        "title": "Modeling Melt Pool Features and Spatter Using Symbolic Regression and Machine Learning",
+        "pub_year": "2025",
+        "citation": "arXiv e-prints, arXiv: 2501.08922, 2025",
+        "num_citations": 0,
+        "author_pub_id": "aH52nxkAAAAJ:D_tqNUsBuKoC"
     },
     {
         "title": "Molecular contrastive learning of representations via graph neural networks",
         "pub_year": "2022",
         "citation": "Nature Machine Intelligence, 279–287, 2022",
-        "num_citations": 604,
+        "num_citations": 644,
         "author_pub_id": "aH52nxkAAAAJ:Ak0FvsSvgGUC"
     },
     {
@@ -814,21 +842,21 @@
         "title": "Multimodal language and graph learning of adsorption configuration in catalysis",
         "pub_year": "2024",
         "citation": "Nature Machine Intelligence, 1-11, 2024",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "aH52nxkAAAAJ:kF1pexMAQbMC"
     },
     {
         "title": "Multimodal learning of heat capacity based on transformers and crystallography pretraining",
         "pub_year": "2024",
         "citation": "Journal of Applied Physics 135 (16), 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "aH52nxkAAAAJ:JTqpx9DYBaYC"
     },
     {
         "title": "Multiscale modeling of droplet interface bilayer membrane networks",
         "pub_year": "2015",
         "citation": "Biomicrofluidics 9 (6), 2015",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "aH52nxkAAAAJ:ILKRHgRFtOwC"
     },
     {
@@ -863,20 +891,20 @@
         "title": "One ACT Play: Single Demonstration Behavior Cloning with Action Chunking Transformers",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2309.10175, 2023",
-        "num_citations": 12,
+        "num_citations": 14,
         "author_pub_id": "aH52nxkAAAAJ:kWvqk_afx_IC"
     },
     {
         "title": "Online metaheuristic algorithm selection",
         "pub_year": "2022",
         "citation": "Expert Systems with Applications 201, 117058, 2022",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "aH52nxkAAAAJ:sJsF-0ZLhtgC"
     },
     {
         "title": "Openvr: Teleoperation for manipulation",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.09765, 2023",
+        "pub_year": "2025",
+        "citation": "SoftwareX 29, 102054, 2025",
         "num_citations": 10,
         "author_pub_id": "aH52nxkAAAAJ:1yWc8FF-_SYC"
     },
@@ -884,14 +912,14 @@
         "title": "Orbital graph convolutional neural network for material property prediction",
         "pub_year": "2020",
         "citation": "Physical Review Materials 4 (9), 093801, 2020",
-        "num_citations": 135,
+        "num_citations": 137,
         "author_pub_id": "aH52nxkAAAAJ:_5tno0g5mFcC"
     },
     {
         "title": "Ozark graphene nanopore for efficient water desalination",
         "pub_year": "2021",
         "citation": "The Journal of Physical Chemistry B 125 (40), 11256-11263, 2021",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "aH52nxkAAAAJ:Ehil0879vHcC"
     },
     {
@@ -912,14 +940,14 @@
         "title": "Peptidebert: A language model based on transformers for peptide property prediction",
         "pub_year": "2023",
         "citation": "The Journal of Physical Chemistry Letters 14 (46), 10427-10434, 2023",
-        "num_citations": 26,
+        "num_citations": 31,
         "author_pub_id": "aH52nxkAAAAJ:PyEswDtIyv0C"
     },
     {
         "title": "Physics informed token transformer for solving partial differential equations",
         "pub_year": "2024",
         "citation": "Machine Learning: Science and Technology 5 (1), 015032, 2024",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "aH52nxkAAAAJ:BrOSOlqYqPUC"
     },
     {
@@ -940,14 +968,21 @@
         "title": "Potential neutralizing antibodies discovered for novel corona virus using machine learning",
         "pub_year": "2021",
         "citation": "Scientific reports 11 (1), 5261, 2021",
-        "num_citations": 124,
+        "num_citations": 127,
         "author_pub_id": "aH52nxkAAAAJ:anf4URPfarAC"
+    },
+    {
+        "title": "Pour me a drink: Robotic Precision Pouring Carbonated Beverages into Transparent Containers",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2309.08892, 2023",
+        "num_citations": 2,
+        "author_pub_id": "aH52nxkAAAAJ:-6RzNnnwWf8C"
     },
     {
         "title": "Predicting CO2 Absorption in Ionic Liquids with Molecular Descriptors and Explainable Graph Neural Networks",
         "pub_year": "2022",
         "citation": "ACS Sustainable Chemistry & Engineering 10 (50), 16681-16691, 2022",
-        "num_citations": 25,
+        "num_citations": 30,
         "author_pub_id": "aH52nxkAAAAJ:U4n9YNQMCAIC"
     },
     {
@@ -968,20 +1003,20 @@
         "title": "Prediction of GPCR activity using machine learning",
         "pub_year": "2022",
         "citation": "Computational and Structural Biotechnology Journal 20, 2564-2573, 2022",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "aH52nxkAAAAJ:jL-93Qbq4QoC"
     },
     {
         "title": "Pretraining Strategies for Structure Agnostic Material Property Prediction",
         "pub_year": "2024",
         "citation": "Journal of Chemical Information and Modeling 64 (3), 627-637, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "aH52nxkAAAAJ:5bg8sr1QxYwC"
     },
     {
         "title": "Pretraining a neural operator in lower dimensions",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2407.17616, 2024",
+        "citation": "Transactions on Machine Learning, 2024, 2024",
         "num_citations": 2,
         "author_pub_id": "aH52nxkAAAAJ:2v_ZtQDX9iAC"
     },
@@ -989,35 +1024,35 @@
         "title": "Prototype memory and attention mechanisms for few shot image generation",
         "pub_year": "2022",
         "citation": "Proceedings of the Eleventh International Conference on Learning …, 2022",
-        "num_citations": 24,
+        "num_citations": 26,
         "author_pub_id": "aH52nxkAAAAJ:lvd772isFD0C"
     },
     {
         "title": "Query2CAD: Generating CAD models using natural language queries",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2406.00144, 2024",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "aH52nxkAAAAJ:sA9dB-pw3HoC"
     },
     {
         "title": "Reaction diffusion system prediction based on convolutional neural network",
         "pub_year": "2020",
         "citation": "Scientific reports 10 (1), 3894, 2020",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "aH52nxkAAAAJ:LO7wyVUgiFcC"
     },
     {
         "title": "Reduced thermal conductivity of supported and encased monolayer and bilayer MoS2",
         "pub_year": "2020",
         "citation": "2D Materials 8 (1), 011001, 2020",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "aH52nxkAAAAJ:6ZxmRoH8BuwC"
     },
     {
         "title": "Reduced-order modeling of fluid flows with transformers",
         "pub_year": "2023",
         "citation": "Physics of Fluids 35 (5), 2023",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "aH52nxkAAAAJ:WC9gN4BGCRcC"
     },
     {
@@ -1044,7 +1079,7 @@
         "title": "Scalable transformer for pde surrogate modeling",
         "pub_year": "2024",
         "citation": "Advances in Neural Information Processing Systems 36, 2024",
-        "num_citations": 43,
+        "num_citations": 45,
         "author_pub_id": "aH52nxkAAAAJ:6bLC7aUMtPcC"
     },
     {
@@ -1056,7 +1091,7 @@
     {
         "title": "SculptDiff: Learning Robotic Clay Sculpting from Humans with Goal Conditioned Diffusion Policy",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2403.10401, 2024",
+        "citation": "International Conference on Intelligent Robots and Systems (IROS), 2024",
         "num_citations": 5,
         "author_pub_id": "aH52nxkAAAAJ:69ZgNCALVd0C"
     },
@@ -1064,28 +1099,28 @@
         "title": "Sculptbot: Pre-trained models for 3d deformable object manipulation",
         "pub_year": "2024",
         "citation": "2024 IEEE International Conference on Robotics and Automation (ICRA), 12548 …, 2024",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "aH52nxkAAAAJ:RoXSNcbkSzsC"
     },
     {
         "title": "Simultaneous Electrochemical Exfoliation and Covalent Functionalization of MoS2 Membrane for Ion Sieving",
         "pub_year": "2022",
         "citation": "Advanced Materials 34 (26), 2201416, 2022",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "aH52nxkAAAAJ:4X0JR2_MtJMC"
     },
     {
         "title": "Snip: Bridging mathematical symbolic and numeric realms with unified pre-training",
         "pub_year": "2024",
         "citation": "International Conference on Learning Representation, 2024",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "aH52nxkAAAAJ:1DsIQWDZLl8C"
     },
     {
         "title": "Solution-phase conformation and dynamics of conjugated isoindigo-based donor–acceptor polymer single chains",
         "pub_year": "2017",
         "citation": "The Journal of Physical Chemistry Letters 8 (22), 5479-5486, 2017",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "aH52nxkAAAAJ:S16KYo8Pm5AC"
     },
     {
@@ -1106,21 +1141,21 @@
         "title": "StressD: 2D Stress estimation using denoising diffusion model",
         "pub_year": "2023",
         "citation": "Computer Methods in Applied Mechanics and Engineering 416, 116343, 2023",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "aH52nxkAAAAJ:Ade32sEp0pkC"
     },
     {
         "title": "Stressgan: A generative deep learning model for two-dimensional stress distribution prediction",
         "pub_year": "2021",
         "citation": "Journal of Applied Mechanics 88 (5), 051005, 2021",
-        "num_citations": 115,
+        "num_citations": 117,
         "author_pub_id": "aH52nxkAAAAJ:umqufdRvDiIC"
     },
     {
         "title": "Surrogate modeling of melt pool temperature field using deep learning",
         "pub_year": "2023",
         "citation": "Additive Manufacturing Letters 5, 100123, 2023",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "aH52nxkAAAAJ:MhiOAD_qIWkC"
     },
     {
@@ -1129,6 +1164,13 @@
         "citation": "International Conference on Learning Representations, 2021",
         "num_citations": 4,
         "author_pub_id": "aH52nxkAAAAJ:fbc8zXXH2BUC"
+    },
+    {
+        "title": "Text to Band Gap: Pre-trained Language Models as Encoders for Semiconductor Band Gap Prediction",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2501.03456, 2025",
+        "num_citations": 0,
+        "author_pub_id": "aH52nxkAAAAJ:tHtfpZlB6tUC"
     },
     {
         "title": "Text2pde: Latent diffusion models for accessible physics simulation",
@@ -1148,7 +1190,7 @@
         "title": "The role of external defects in chemical sensing of graphene field-effect transistors",
         "pub_year": "2013",
         "citation": "Nano letters 13 (5), 1962-1968, 2013",
-        "num_citations": 167,
+        "num_citations": 169,
         "author_pub_id": "aH52nxkAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1169,14 +1211,14 @@
         "title": "Thermal control of laser powder bed fusion using deep reinforcement learning",
         "pub_year": "2021",
         "citation": "Additive Manufacturing 46, 102033, 2021",
-        "num_citations": 87,
+        "num_citations": 90,
         "author_pub_id": "aH52nxkAAAAJ:bKqednn6t2AC"
     },
     {
         "title": "Thermal transport in  from molecular dynamics using different empirical potentials",
         "pub_year": "2019",
         "citation": "Physical Review B 99 (5), 054303, 2019",
-        "num_citations": 77,
+        "num_citations": 79,
         "author_pub_id": "aH52nxkAAAAJ:ClCfbGk0d_YC"
     },
     {
@@ -1190,7 +1232,7 @@
         "title": "Thermodynamic insight into spontaneous hydration and rapid water permeation in aquaporins",
         "pub_year": "2014",
         "citation": "Applied physics letters 105 (8), 2014",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "aH52nxkAAAAJ:uWiczbcajpAC"
     },
     {
@@ -1211,21 +1253,21 @@
         "title": "TransPolymer: a Transformer-based language model for polymer property predictions",
         "pub_year": "2023",
         "citation": "npj Computational Materials 9 (1), 64, 2023",
-        "num_citations": 61,
+        "num_citations": 65,
         "author_pub_id": "aH52nxkAAAAJ:ALROH1vI_8AC"
     },
     {
         "title": "Transformer for partial differential equations' operator learning",
         "pub_year": "2022",
         "citation": "Transactions on Machine Learning Research, 2022",
-        "num_citations": 128,
+        "num_citations": 132,
         "author_pub_id": "aH52nxkAAAAJ:4xDN1ZYqzskC"
     },
     {
         "title": "Transformer-based planning for symbolic regression",
         "pub_year": "2023",
         "citation": "Advances in Neural Information Processing Systems 36, 45907-45919, 2023",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "aH52nxkAAAAJ:owLR8QvbtFgC"
     },
     {
@@ -1239,14 +1281,14 @@
         "title": "Ultrathin, transferred layers of thermally grown silicon dioxide as biofluid barriers for biointegrated flexible electronic systems",
         "pub_year": "2016",
         "citation": "Proceedings of the National Academy of Sciences 113 (42), 11682-11687, 2016",
-        "num_citations": 221,
+        "num_citations": 225,
         "author_pub_id": "aH52nxkAAAAJ:kuK5TVdYjLIC"
     },
     {
         "title": "Understanding mutation hotspots for the SARS-CoV-2 spike protein using Shannon Entropy and K-means clustering",
         "pub_year": "2021",
         "citation": "Computers in biology and medicine 138, 104915, 2021",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "aH52nxkAAAAJ:nZcligLrVowC"
     },
     {
@@ -1267,35 +1309,35 @@
         "title": "Visuo-Tactile Pretraining for Cable Plugging",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2403.11898, 2024",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "aH52nxkAAAAJ:mWEH9CqjF64C"
     },
     {
         "title": "Water desalination with a single-layer MoS2 nanopore",
         "pub_year": "2015",
         "citation": "Nature communications 6 (1), 8616, 2015",
-        "num_citations": 778,
+        "num_citations": 783,
         "author_pub_id": "aH52nxkAAAAJ:L7CI7m0gUJcC"
     },
     {
         "title": "Water desalination with two-dimensional metal–organic framework membranes",
         "pub_year": "2019",
         "citation": "Nano letters 19 (12), 8638-8643, 2019",
-        "num_citations": 151,
+        "num_citations": 152,
         "author_pub_id": "aH52nxkAAAAJ:bz8QjSJIRt4C"
     },
     {
         "title": "Weakly-supervised deep learning of heat transport via physics informed loss",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1807.11374, 2018",
-        "num_citations": 73,
+        "num_citations": 75,
         "author_pub_id": "aH52nxkAAAAJ:FPJr55Dyh1AC"
     },
     {
         "title": "Which 2D Material is Better for DNA Detection: Graphene, MoS2, or MXene?",
         "pub_year": "2022",
         "citation": "Nano Letters 22 (19), 7874-7881, 2022",
-        "num_citations": 19,
+        "num_citations": 21,
         "author_pub_id": "aH52nxkAAAAJ:zCSUwVk65WsC"
     },
     {

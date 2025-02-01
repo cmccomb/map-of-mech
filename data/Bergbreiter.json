@@ -51,7 +51,7 @@
         "title": "3D‐printed electrostatic microactuators for flexible microsystems",
         "pub_year": "2023",
         "citation": "Advanced Functional Materials 33 (47), 2304991, 2023",
-        "num_citations": 16,
+        "num_citations": 19,
         "author_pub_id": "SU0c5P0AAAAJ:dTyEYWd-f8wC"
     },
     {
@@ -142,7 +142,7 @@
         "title": "A novel all-elastomer MEMS tactile sensor for high dynamic range shear and normal force sensing",
         "pub_year": "2015",
         "citation": "Journal of Micromechanics and Microengineering 25 (9), 095009, 2015",
-        "num_citations": 79,
+        "num_citations": 80,
         "author_pub_id": "SU0c5P0AAAAJ:maZDTaKrznsC"
     },
     {
@@ -281,14 +281,14 @@
         "title": "Bridge risk investigation diagnostic grouped exploratory (BRIDGE) bot",
         "pub_year": "2017",
         "citation": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2017",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "SU0c5P0AAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Buoyant magnetic milliswimmers reveal design rules for optimizing microswimmer performance",
         "pub_year": "2023",
         "citation": "Nanoscale 15 (34), 14175-14188, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "SU0c5P0AAAAJ:SdhP9T11ey4C"
     },
     {
@@ -327,6 +327,13 @@
         "author_pub_id": "SU0c5P0AAAAJ:pqnbT2bcN3wC"
     },
     {
+        "title": "Complex Assemblies of Colloidal Microparticles with Compliant DNA Linkers and Magnetic Actuation",
+        "pub_year": "2024",
+        "citation": "Advanced Materials Technologies, 2401584, 2024",
+        "num_citations": 0,
+        "author_pub_id": "SU0c5P0AAAAJ:_Re3VWB3Y0AC"
+    },
+    {
         "title": "Contact-resistive sensing of touch and airflow using a rat whisker",
         "pub_year": "2018",
         "citation": "2018 7th IEEE International Conference on Biomedical Robotics and …, 2018",
@@ -337,7 +344,7 @@
         "title": "Controlled assembly of liquid metal inclusions as a general approach for multifunctional composites",
         "pub_year": "2020",
         "citation": "Advanced Materials 32 (46), 2002929, 2020",
-        "num_citations": 106,
+        "num_citations": 109,
         "author_pub_id": "SU0c5P0AAAAJ:WbkHhVStYXYC"
     },
     {
@@ -404,7 +411,7 @@
         "title": "Design of whisker-inspired sensors for multi-directional hydrodynamic sensing",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2307.09569, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "SU0c5P0AAAAJ:JoZmwDi-zQgC"
     },
     {
@@ -590,7 +597,7 @@
         "title": "Fusion of video and inertial sensing data via dynamic optimization of a biomechanical model",
         "pub_year": "2023",
         "citation": "Journal of biomechanics 155, 111617, 2023",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "SU0c5P0AAAAJ:XiVPGOgt02cC"
     },
     {
@@ -819,7 +826,7 @@
         "title": "Multimaterial 3D printing for microrobotic mechanisms",
         "pub_year": "2020",
         "citation": "Soft robotics 7 (1), 59-67, 2020",
-        "num_citations": 60,
+        "num_citations": 62,
         "author_pub_id": "SU0c5P0AAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -847,7 +854,7 @@
         "title": "Optimized electrostatic inchworm motors using a flexible driving arm",
         "pub_year": "2012",
         "citation": "Journal of Micromechanics and Microengineering 23 (1), 015018, 2012",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "SU0c5P0AAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -969,7 +976,7 @@
         "title": "Rapid three-dimensional printing in water using semiconductor–metal hybrid nanoparticles as photoinitiators",
         "pub_year": "2017",
         "citation": "Nano letters 17 (7), 4497-4501, 2017",
-        "num_citations": 97,
+        "num_citations": 101,
         "author_pub_id": "SU0c5P0AAAAJ:ldfaerwXgEUC"
     },
     {
@@ -1038,14 +1045,14 @@
         "title": "Sensor Placement for Flapping Wing Model Using Stochastic Observability Gramians",
         "pub_year": "2024",
         "citation": "2024 American Control Conference (ACC), 4960-4966, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "SU0c5P0AAAAJ:WqliGbK-hY8C"
     },
     {
         "title": "Small-Scale Robotics From Nano-to-Millimeter-Sized Robotic Systems and Applications: First International Workshop, microICRA 2013, Karlsruhe, Germany, May 6-10, 2013, Revised …",
         "pub_year": "2014",
         "citation": "Springer, 2014",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "SU0c5P0AAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -1066,7 +1073,7 @@
         "title": "Small-scale robotics: An introduction",
         "pub_year": "2014",
         "citation": "Small-Scale Robotics. From Nano-to-Millimeter-Sized Robotic Systems and …, 2014",
-        "num_citations": 32,
+        "num_citations": 34,
         "author_pub_id": "SU0c5P0AAAAJ:TQgYirikUcIC"
     },
     {
@@ -1094,7 +1101,7 @@
         "title": "Spider‐Inspired, Fully 3D‐Printed Micro‐Hydraulics for Tiny, Soft Robotics",
         "pub_year": "2023",
         "citation": "Advanced Functional Materials 33 (39), 2207435, 2023",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "SU0c5P0AAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -1108,7 +1115,7 @@
         "title": "Tactile Sensors: Rapid Manufacturing of Mechanoreceptive Skins for Slip Detection in Robotic Grasping (Adv. Mater. Technol. 1/2017)",
         "pub_year": "2017",
         "citation": "Advanced Materials Technologies 2 (1), 2017",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "SU0c5P0AAAAJ:GnPB-g6toBAC"
     },
     {
@@ -1136,7 +1143,7 @@
         "title": "The principles of cascading power limits in small, fast biological and engineered systems",
         "pub_year": "2018",
         "citation": "Science 360 (6387), eaao1082, 2018",
-        "num_citations": 233,
+        "num_citations": 237,
         "author_pub_id": "SU0c5P0AAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -1226,7 +1233,7 @@
         "title": "Whisksight: A reconfigurable, vision-based, optical whisker sensing array for simultaneous contact, airflow, and inertia stimulus detection",
         "pub_year": "2021",
         "citation": "IEEE Robotics and Automation Letters 6 (2), 3357-3364, 2021",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "SU0c5P0AAAAJ:tOudhMTPpwUC"
     }
 ]

@@ -3,14 +3,14 @@
         "title": "A thumb carpometacarpal joint coordinate system based on articular surface geometry",
         "pub_year": "2013",
         "citation": "Journal of Biomechanics 46 (5), 1031-1034, 2013",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "Fr9Vhe4AAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "American society of biomechanics early career achievement award 2020: Toward portable and modular biomechanics labs: How video and IMU fusion will change gait analysis",
         "pub_year": "2021",
         "citation": "Journal of Biomechanics 129, 110650, 2021",
-        "num_citations": 24,
+        "num_citations": 26,
         "author_pub_id": "Fr9Vhe4AAAAJ:IWHjjKOFINEC"
     },
     {
@@ -24,7 +24,7 @@
         "title": "Automated classification of radiographic knee osteoarthritis severity using deep neural networks",
         "pub_year": "2020",
         "citation": "Radiology: Artificial Intelligence 2 (2), e190065, 2020",
-        "num_citations": 119,
+        "num_citations": 121,
         "author_pub_id": "Fr9Vhe4AAAAJ:aqlVkmm33-oC"
     },
     {
@@ -66,14 +66,14 @@
         "title": "Fusion of video and inertial sensing data via dynamic optimization of a biomechanical model",
         "pub_year": "2023",
         "citation": "Journal of biomechanics 155, 111617, 2023",
-        "num_citations": 19,
+        "num_citations": 21,
         "author_pub_id": "Fr9Vhe4AAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Handbook of imaging in biological mechanics",
         "pub_year": "2014",
         "citation": "CRC press, 2014",
-        "num_citations": 38,
+        "num_citations": 37,
         "author_pub_id": "Fr9Vhe4AAAAJ:-f6ydRqryjwC"
     },
     {
@@ -94,7 +94,7 @@
         "title": "IMU and smartphone camera fusion for knee adduction and knee flexion moment estimation during walking",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Industrial Informatics 19 (2), 1445-1455, 2022",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "Fr9Vhe4AAAAJ:HDshCWvjkbEC"
     },
     {
@@ -108,7 +108,7 @@
         "title": "In vivo kinematics of the thumb carpometacarpal joint during three isometric functional tasks",
         "pub_year": "2014",
         "citation": "Clinical Orthopaedics and Related Research® 472, 1114-1122, 2014",
-        "num_citations": 82,
+        "num_citations": 84,
         "author_pub_id": "Fr9Vhe4AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -122,7 +122,7 @@
         "title": "In vivo recruitment patterns in the anterior oblique and dorsoradial ligaments of the first carpometacarpal joint",
         "pub_year": "2015",
         "citation": "Journal of biomechanics 48 (10), 1893-1898, 2015",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "Fr9Vhe4AAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -136,14 +136,14 @@
         "title": "Machine learning in human movement biomechanics: Best practices, common pitfalls, and new opportunities",
         "pub_year": "2018",
         "citation": "Journal of biomechanics 81, 1-11, 2018",
-        "num_citations": 402,
+        "num_citations": 407,
         "author_pub_id": "Fr9Vhe4AAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Markerless motion tracking with noisy video and imu data",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Biomedical Engineering 70 (11), 3082-3092, 2023",
-        "num_citations": 14,
+        "num_citations": 17,
         "author_pub_id": "Fr9Vhe4AAAAJ:isC4tDSrTZIC"
     },
     {
@@ -175,10 +175,17 @@
         "author_pub_id": "Fr9Vhe4AAAAJ:mVmsd5A6BfQC"
     },
     {
+        "title": "Optimizing Locomotor Task Sets in Biological Joint Moment Estimation for Hip Exoskeleton Applications",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2412.07823, 2024",
+        "num_citations": 0,
+        "author_pub_id": "Fr9Vhe4AAAAJ:O3NaXMp0MMsC"
+    },
+    {
         "title": "Orthopaedic Knowledge Update: 14",
         "pub_year": "2023",
         "citation": "Lippincott Williams & Wilkins, 2023",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "Fr9Vhe4AAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -206,7 +213,7 @@
         "title": "SRL-assisted AFM: generating planar unstructured quadrilateral meshes with supervised and reinforcement learning-assisted advancing front method",
         "pub_year": "2023",
         "citation": "Journal of Computational Science 72, 102109, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "Fr9Vhe4AAAAJ:maZDTaKrznsC"
     },
     {
@@ -234,7 +241,7 @@
         "title": "ShortFuse: biomedical time series representations in the presence of structured information",
         "pub_year": "2017",
         "citation": "Proceedings of Machine Learning Research 68, 59-74, 2017",
-        "num_citations": 35,
+        "num_citations": 34,
         "author_pub_id": "Fr9Vhe4AAAAJ:8k81kl-MbHgC"
     },
     {
@@ -269,7 +276,7 @@
         "title": "Wham: Reconstructing world-grounded humans with accurate 3d motion",
         "pub_year": "2024",
         "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2024",
-        "num_citations": 38,
+        "num_citations": 46,
         "author_pub_id": "Fr9Vhe4AAAAJ:JV2RwH3_ST0C"
     }
 ]

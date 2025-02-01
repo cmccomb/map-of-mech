@@ -3,7 +3,7 @@
         "title": "A hierarchical, component based approach to screening properties of soft matter",
         "pub_year": "2016",
         "citation": "Foundations of molecular modeling and simulation: Select papers from FOMMS …, 2016",
-        "num_citations": 51,
+        "num_citations": 53,
         "author_pub_id": "mI7VyEYAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Bubble casting soft robotics",
         "pub_year": "2021",
         "citation": "Nature 599 (7884), 229-233, 2021",
-        "num_citations": 191,
+        "num_citations": 196,
         "author_pub_id": "mI7VyEYAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -108,7 +108,7 @@
         "title": "Foundations of Molecular Modeling and Simulation: Select Papers from FOMMS 2015",
         "pub_year": "2016",
         "citation": "Springer Singapore, 2016",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "mI7VyEYAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -131,6 +131,13 @@
         "citation": "Bulletin of the American Physical Society 67, 2022",
         "num_citations": 0,
         "author_pub_id": "mI7VyEYAAAAJ:0EnyYjriUFMC"
+    },
+    {
+        "title": "Morpho-plastic cellular metamaterials",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2412.06022, 2024",
+        "num_citations": 0,
+        "author_pub_id": "mI7VyEYAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Morphomechanical Rods: From Fabrication to Function",

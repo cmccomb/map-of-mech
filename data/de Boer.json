@@ -84,13 +84,13 @@
         "pub_year": "2024",
         "citation": "2024 IEEE 69th Holm Conference on Electrical Contacts (HOLM), 1-6, 2024",
         "num_citations": 0,
-        "author_pub_id": "P1OWCkAAAAAJ:hCrLmN-GePgC"
+        "author_pub_id": "P1OWCkAAAAAJ:PVjk1bu6vJQC"
     },
     {
         "title": "Accurate method for determining adhesion of cantilever beams",
         "pub_year": "1999",
         "citation": "Journal of applied physics 86 (2), 817-827, 1999",
-        "num_citations": 319,
+        "num_citations": 320,
         "author_pub_id": "P1OWCkAAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -146,8 +146,14 @@
         "title": "An investigation of sidewall adhesion in MEMS",
         "pub_year": "2003",
         "citation": "Applied Surface Science 212, 735-741, 2003",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "P1OWCkAAAAAJ:LkGwnXOMwfcC"
+    },
+    {
+        "title": "Anisotropic Reactive Ion Etching of 2.5 Μm Thick Α-Ta Films for Surface Micromachining",
+        "citation": "Available at SSRN 5090583, 0",
+        "num_citations": 0,
+        "author_pub_id": "P1OWCkAAAAAJ:5qfkUJPXOUwC"
     },
     {
         "title": "Assembly and actuation of nanomaterials using active biomolecules.",
@@ -223,7 +229,7 @@
         "title": "Compression and decompression of structural tantalum films exposed to buffered hydrofluoric acid",
         "pub_year": "2020",
         "citation": "Journal of Micromechanics and Microengineering 30 (5), 055011, 2020",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "P1OWCkAAAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -286,7 +292,7 @@
         "title": "Crystalline polymer nanofibers with ultra-high strength and thermal conductivity",
         "pub_year": "2018",
         "citation": "Nature communications 9 (1), 1664, 2018",
-        "num_citations": 144,
+        "num_citations": 147,
         "author_pub_id": "P1OWCkAAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -398,7 +404,7 @@
         "title": "Effect of nanotexturing on interfacial adhesion in MEMS",
         "pub_year": "2001",
         "citation": "International Conference on Fracture, December, Honolulu, Hawaii, 2001",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "P1OWCkAAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -475,7 +481,7 @@
         "title": "Experimental insights into adhesion and friction between nominally dry rough surfaces",
         "pub_year": "2022",
         "citation": "MRS Bulletin 47 (12), 1237-1246, 2022",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "P1OWCkAAAAAJ:g3aElNc5_aQC"
     },
     {
@@ -762,7 +768,7 @@
         "title": "Long-working-distance incoherent-light interference microscope",
         "pub_year": "2005",
         "citation": "Applied optics 44 (36), 7714-7721, 2005",
-        "num_citations": 74,
+        "num_citations": 76,
         "author_pub_id": "P1OWCkAAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -860,7 +866,7 @@
         "title": "Mems platform for thin film nanomechanics characterization",
         "pub_year": "2023",
         "citation": "US Patent App. 18/082,543, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "P1OWCkAAAAAJ:kuK5TVdYjLIC"
     },
     {
@@ -1042,7 +1048,7 @@
         "title": "Optimization and contact reliability of TiN-coated microswitches in various gas environments",
         "pub_year": "2018",
         "citation": "Journal of Microelectromechanical Systems 28 (1), 95-106, 2018",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "P1OWCkAAAAAJ:9vf0nzSNQJEC"
     },
     {
@@ -1202,7 +1208,7 @@
         "title": "Role of interfacial properties on MEMS performance and reliability",
         "pub_year": "1999",
         "citation": "Microsystems metrology and inspection 3825, 2-15, 1999",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "P1OWCkAAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -1360,7 +1366,7 @@
         "title": "The strong effect on MEMS switch reliability of film deposition conditions and electrode geometry",
         "pub_year": "2019",
         "citation": "Microelectronics Reliability 98, 131-143, 2019",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "P1OWCkAAAAAJ:eq2jaN3J8jMC"
     },
     {
