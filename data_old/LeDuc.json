@@ -1,2353 +1,1055 @@
 [
     {
-        "title": "127 Modeling Traumatic Brain Injury Using Human Cerebral Organoids",
-        "pub_year": "2023",
-        "citation": "Neurosurgery 69 (Supplement_1), 31, 2023",
+        "title": "24787 ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING FOR ENGINEERING DESIGN CLASSIFICATION OF MUSIC USING NEURAL NETWORKS",
+        "citation": "",
         "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:jgBuDB5drN8C"
+        "author_pub_id": "_X2eOeQAAAAJ:Z5m8FVwuT1cC"
     },
     {
-        "title": "2D and 3D mechanobiology in human and nonhuman systems",
+        "title": "3D shape synthesis for conceptual design and optimization using variational autoencoders",
+        "pub_year": "2019",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2019",
+        "num_citations": 71,
+        "author_pub_id": "_X2eOeQAAAAJ:J-pR_7NvFogC"
+    },
+    {
+        "title": "3D topology optimization using convolutional neural networks",
+        "pub_year": "2018",
+        "citation": "arXiv preprint arXiv:1808.07440, 2018",
+        "num_citations": 192,
+        "author_pub_id": "_X2eOeQAAAAJ:u9iWguZQMMsC"
+    },
+    {
+        "title": "4DMesh: 4D printing morphing non-developable mesh surfaces",
+        "pub_year": "2018",
+        "citation": "Proceedings of the 31st Annual ACM Symposium on User Interface Software and …, 2018",
+        "num_citations": 100,
+        "author_pub_id": "_X2eOeQAAAAJ:Tiz5es2fbqcC"
+    },
+    {
+        "title": "A COMPUTATIONAL CASE STUDY FOR THE TREATMENT OF HEAD-AND-NECK TUMOR USING INTERSTITIAL PHOTODYNAMIC THERAPY",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:tOudhMTPpwUC"
+    },
+    {
+        "title": "A Computational Framework to Optimize Fiducial Marker Placement to Account for Intraoperative Tissue Deformation",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:5ugPr518TE4C"
+    },
+    {
+        "title": "A Data Augmentation Method for Data-Driven Component Segmentation of Engineering Drawings",
+        "pub_year": "2024",
+        "citation": "Journal of Computing and Information Science in Engineering 24 (1), 011001, 2024",
+        "num_citations": 1,
+        "author_pub_id": "_X2eOeQAAAAJ:tKAzc9rXhukC"
+    },
+    {
+        "title": "A Simplified Liver Perfusion Model, with Applications to Organ Preservation",
+        "pub_year": "2024",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:EkHepimYqZsC"
+    },
+    {
+        "title": "A data-driven investigation and estimation of optimal topologies under variable loading configurations",
         "pub_year": "2016",
-        "citation": "ACS applied materials & interfaces 8 (34), 21869-21882, 2016",
-        "num_citations": 15,
-        "author_pub_id": "sLEB9iYAAAAJ:b1wdh0AR-JQC"
+        "citation": "Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2016",
+        "num_citations": 115,
+        "author_pub_id": "_X2eOeQAAAAJ:TFP_iSt0sucC"
     },
     {
-        "title": "390a Monday, February 17, 2014",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:ClCfbGk0d_YC"
+        "title": "A deep reinforcement learning approach for global routing",
+        "pub_year": "2020",
+        "citation": "Journal of Mechanical Design 142 (6), 061701, 2020",
+        "num_citations": 112,
+        "author_pub_id": "_X2eOeQAAAAJ:LPZeul_q3PIC"
     },
     {
-        "title": "3D Vasculature Structure in Breast Cancer on a Chip Approaches through Micromilling",
-        "pub_year": "2017",
-        "citation": "The FASEB Journal 31, 942.1-942.1, 2017",
+        "title": "A deep reinforcement learning approach for global routing",
+        "pub_year": "2020",
+        "citation": "Journal of Mechanical Design 142 (6), 2020",
         "num_citations": 2,
-        "author_pub_id": "sLEB9iYAAAAJ:foquWX3nUaYC"
+        "author_pub_id": "_X2eOeQAAAAJ:g3aElNc5_aQC"
     },
     {
-        "title": "3D bio-etching of a complex composite-like embryonic tissue",
-        "pub_year": "2015",
-        "citation": "Lab on a Chip 15 (16), 3293-3299, 2015",
-        "num_citations": 7,
-        "author_pub_id": "sLEB9iYAAAAJ:p__nRnzSRKYC"
-    },
-    {
-        "title": "3D chemical pattern control in 2D fluidics devices",
-        "pub_year": "2014",
-        "citation": "US Patent 8,695,618, 2014",
-        "num_citations": 10,
-        "author_pub_id": "sLEB9iYAAAAJ:nb7KW1ujOQ8C"
-    },
-    {
-        "title": "3D collagen vascular tumor-on-a-chip mimetics for dynamic combinatorial drug screening",
-        "pub_year": "2021",
-        "citation": "Molecular cancer therapeutics 20 (6), 1210-1219, 2021",
-        "num_citations": 13,
-        "author_pub_id": "sLEB9iYAAAAJ:yqoGN6RLRZoC"
-    },
-    {
-        "title": "3D freeform ice printing for fabricating biomimetic vascular networks in engineered tissue",
-        "pub_year": "2024",
-        "citation": "Biophysical Journal 123 (3), 436a, 2024",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:PaBasH6fAo0C"
-    },
-    {
-        "title": "3d in vitro neuron on a chip for probing calcium mechanostimulation",
-        "pub_year": "2020",
-        "citation": "Advanced Biosystems 4 (10), 2000080, 2020",
-        "num_citations": 5,
-        "author_pub_id": "sLEB9iYAAAAJ:DJbcl8HfkQkC"
-    },
-    {
-        "title": "58a Sunday, February 21, 2010",
-        "citation": "J Biol Chem 283, 21187-97, 0",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:0N-VGjzr574C"
-    },
-    {
-        "title": "A Design Exploration of Genetically Engineered Myosin Motors",
-        "pub_year": "2011",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2011",
-        "num_citations": 2,
-        "author_pub_id": "sLEB9iYAAAAJ:J_g5lzvAfSwC"
-    },
-    {
-        "title": "A Multiphase, Computational Modeling Approach to Understand Microalgal Flow Dynamics in Microfluidic Channels",
-        "pub_year": "2015",
-        "citation": "Biophysical Journal 108 (2), 330a, 2015",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:zLWjf1WUPmwC"
-    },
-    {
-        "title": "A biohybrid mechanosensor integrated with a soft robot",
-        "pub_year": "2024",
-        "citation": "Biophysical Journal 123 (3), 162a, 2024",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:cK4Rrx0J3m0C"
-    },
-    {
-        "title": "A biosensing soft robot: Autonomous parsing of chemical signals through integrated organic and inorganic interfaces",
-        "pub_year": "2019",
-        "citation": "Science Robotics 4 (31), eaax0765, 2019",
-        "num_citations": 114,
-        "author_pub_id": "sLEB9iYAAAAJ:sNmaIFBj_lkC"
-    },
-    {
-        "title": "A biosensing soft robot: Integrating chemical and optical responsive synthetic cells with soft robotics",
-        "pub_year": "2017",
-        "citation": "The FASEB Journal 31, 611.2-611.2, 2017",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:q3CdL3IzO_QC"
-    },
-    {
-        "title": "A coarse-grained Monte Carlo model of cytoskeletal actin filament alignment under cyclic stretch",
-        "pub_year": "2011",
-        "citation": "Biophysical Journal 100 (3), 34a, 2011",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:JoZmwDi-zQgC"
-    },
-    {
-        "title": "A mixed reality system combining augmented reality, 3D bio-printed physical environments and inertial measurement unit sensors for task planning",
-        "pub_year": "2023",
-        "citation": "Virtual Reality 27 (3), 1845-1858, 2023",
-        "num_citations": 6,
-        "author_pub_id": "sLEB9iYAAAAJ:wMgC3FpKEyYC"
-    },
-    {
-        "title": "A modular design tool for visualizing complex multiscale systems",
-        "pub_year": "2013",
-        "citation": "DS 75-9: Proceedings of the 19th International Conference on Engineering …, 2013",
-        "num_citations": 5,
-        "author_pub_id": "sLEB9iYAAAAJ:tKAzc9rXhukC"
-    },
-    {
-        "title": "A platform for building PIC applications for control and instrumentation",
-        "pub_year": "2005",
-        "citation": "Proceedings of the 2005, American Control Conference, 2005., 5162-5168, 2005",
-        "num_citations": 8,
-        "author_pub_id": "sLEB9iYAAAAJ:R3hNpaxXUhUC"
-    },
-    {
-        "title": "A study on the performance and electrochemistry of Bryophyllum pinnatum leaf (BPL) electrochemical cell",
-        "pub_year": "2017",
-        "citation": "APS March Meeting Abstracts 2017, H38. 010, 2017",
-        "num_citations": 14,
-        "author_pub_id": "sLEB9iYAAAAJ:kz9GbA2Ns4gC"
-    },
-    {
-        "title": "AN AUTOMATED SYSTEM FOR CONTROLLING THE LAMINAR FLOW INTERFACE IN A MICROFLUIDIC SYSTEM",
-        "pub_year": "2004",
-        "citation": "Proceedings of the ASME Fluids Engineering Division: Presented at the …, 2004",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:lvd772isFD0C"
-    },
-    {
-        "title": "Ablation of cytoskeletal filaments and mitochondria in live cells using a femtosecond laser nanoscissor",
-        "pub_year": "2005",
-        "citation": "Molecular & Cellular Biomechanics 2 (1), 17, 2005",
-        "num_citations": 255,
-        "author_pub_id": "sLEB9iYAAAAJ:2osOgNQ5qMEC"
-    },
-    {
-        "title": "Adhesion Studies of Single Living Cells Using MEMS Sensors",
-        "pub_year": "2000",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 19005, 215-219, 2000",
-        "num_citations": 3,
-        "author_pub_id": "sLEB9iYAAAAJ:FPJr55Dyh1AC"
-    },
-    {
-        "title": "An automated system for controlling the laminar flow interface in a microfluidic system",
-        "pub_year": "2004",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 47098, 405-409, 2004",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:HoB7MX3m0LUC"
-    },
-    {
-        "title": "An embedded microfluidic valve for dynamic control of cellular communication",
-        "pub_year": "2023",
-        "citation": "Applied Physics Letters 123 (24), 2023",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:ubry08Y2EpUC"
-    },
-    {
-        "title": "Analyzing the Early Tissue Mechanical Response to Chemokine Signaling using Microfluidics",
-        "pub_year": "2013",
-        "citation": "Biophysical Journal 104 (2), 320a, 2013",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:mvPsJ3kp5DgC"
-    },
-    {
-        "title": "Apoptosis of Syncytia Induced by the HIV-1–Envelope Glycoprotein Complex: Influence of Cell Shape and Size",
-        "pub_year": "2000",
-        "citation": "Experimental cell research 261 (1), 119-126, 2000",
-        "num_citations": 39,
-        "author_pub_id": "sLEB9iYAAAAJ:_FxGoFyzp5QC"
-    },
-    {
-        "title": "Applying machine learning methods toward classification based on small datasets: application to shoulder labral tears",
-        "pub_year": "2020",
-        "citation": "Journal of Engineering and Science in Medical Diagnostics and Therapy 3 (1 …, 2020",
-        "num_citations": 5,
-        "author_pub_id": "sLEB9iYAAAAJ:DUooU5lO8OsC"
-    },
-    {
-        "title": "Artificial cells: building bioinspired systems using small-scale biology",
-        "pub_year": "2008",
-        "citation": "Trends in biotechnology 26 (1), 14-20, 2008",
-        "num_citations": 116,
-        "author_pub_id": "sLEB9iYAAAAJ:YsMSGLbcyi4C"
-    },
-    {
-        "title": "Author Correction: Characterization of neural mechanotransduction response in human traumatic brain injury organoid model",
-        "pub_year": "2024",
-        "citation": "Scientific Reports 14, 2024",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:zCSUwVk65WsC"
-    },
-    {
-        "title": "Author Correction: Mimicking Embedded Vasculature Structure for 3D Cancer on a Chip Approaches through Micromilling",
-        "pub_year": "2019",
-        "citation": "Scientific Reports 9, 2019",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:NXb4pA-qfm4C"
-    },
-    {
-        "title": "Automated high-throughput screening of carbon nanotube-based bio-nanocomposites for bone cement applications",
-        "pub_year": "2011",
-        "citation": "Pure and Applied Chemistry 83 (11), 2063-2069, 2011",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:fQNAKQ3IYiAC"
-    },
-    {
-        "title": "Automated induction of general grammars for design",
-        "pub_year": "2017",
-        "citation": "Design Computing and Cognition'16, 267-278, 2017",
-        "num_citations": 5,
-        "author_pub_id": "sLEB9iYAAAAJ:-FonjvnnhkoC"
-    },
-    {
-        "title": "Behavioral response of semiterrestrial crabs to mechanical stimulation for understanding their detection of local predator/prey signals",
-        "pub_year": "2024",
-        "citation": "Biophysical Journal 123 (3), 408a, 2024",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:kVjdVfd2voEC"
-    },
-    {
-        "title": "Beyond disease, how biomedical engineering can improve global health",
-        "pub_year": "2014",
-        "citation": "Science Translational Medicine 6 (266), 266fs48-266fs48, 2014",
-        "num_citations": 14,
-        "author_pub_id": "sLEB9iYAAAAJ:yB1At4FlUx8C"
-    },
-    {
-        "title": "Bio-Inspired pH responsive hydrogels for programmed activation of electrochemical storage systems in biology",
-        "pub_year": "2015",
-        "citation": "Biophysical Journal 108 (2), 485a, 2015",
-        "num_citations": 5,
-        "author_pub_id": "sLEB9iYAAAAJ:AvfA0Oy_GE0C"
-    },
-    {
-        "title": "Bio-inspired soft robotics: Material selection, actuation, and design",
-        "pub_year": "2018",
-        "citation": "Extreme Mechanics Letters 22, 51-59, 2018",
-        "num_citations": 395,
-        "author_pub_id": "sLEB9iYAAAAJ:_axFR9aDTf0C"
-    },
-    {
-        "title": "Bioinspirations: Cell-inspired small-scale systems for enabling studies in experimental biomechanics",
-        "pub_year": "2011",
-        "citation": "Integrative and comparative biology 51 (1), 133-141, 2011",
-        "num_citations": 2,
-        "author_pub_id": "sLEB9iYAAAAJ:NMxIlDl6LWMC"
-    },
-    {
-        "title": "Biological colloid engineering: Self-assembly of dipolar ferromagnetic chains in a functionalized biogenic ferrofluid",
-        "pub_year": "2012",
-        "citation": "Applied Physics Letters 101 (6), 2012",
-        "num_citations": 21,
-        "author_pub_id": "sLEB9iYAAAAJ:70eg2SAEIzsC"
-    },
-    {
-        "title": "Biological inspiration of salt exclusion membranes in mangroves toward fouling‐resistant reverse osmosis membranes",
-        "pub_year": "2017",
-        "citation": "The FASEB Journal 31, 949.2-949.2, 2017",
-        "num_citations": 9,
-        "author_pub_id": "sLEB9iYAAAAJ:HbR8gkJAVGIC"
-    },
-    {
-        "title": "Biomimetic scaffolds with three-dimensional undulated microtopographies",
-        "pub_year": "2017",
-        "citation": "Biomaterials 128, 109-120, 2017",
-        "num_citations": 47,
-        "author_pub_id": "sLEB9iYAAAAJ:i2xiXl-TujoC"
-    },
-    {
-        "title": "Bridging Mechanical Stimulation of Cellular and Molecular Structure Through Lattice Based Computational Simulations",
-        "pub_year": "2004",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 47039, 365-366, 2004",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:dshw04ExmUIC"
-    },
-    {
-        "title": "Calcium signaling is gated by a mechanical threshold in three-dimensional environments",
-        "pub_year": "2012",
-        "citation": "Scientific reports 2 (1), 554, 2012",
-        "num_citations": 10,
-        "author_pub_id": "sLEB9iYAAAAJ:WbkHhVStYXYC"
-    },
-    {
-        "title": "Cell Structure and Morphology Alterations Through Controlling Localized Substrate Stiffness on in Fibroblasts and Neuroblasts",
-        "pub_year": "2011",
-        "citation": "Biophysical Journal 100 (3), 447a, 2011",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:_xSYboBqXhAC"
-    },
-    {
-        "title": "Cell alignment modulated by surface nano-topography–Roles of cell-matrix and cell-cell interactions",
-        "pub_year": "2022",
-        "citation": "Acta Biomaterialia 142, 149-159, 2022",
-        "num_citations": 23,
-        "author_pub_id": "sLEB9iYAAAAJ:LhH-TYMQEocC"
-    },
-    {
-        "title": "Cells gain traction in 3D",
-        "pub_year": "2012",
-        "citation": "Proceedings of the National Academy of Sciences 109 (28), 11060-11061, 2012",
-        "num_citations": 8,
-        "author_pub_id": "sLEB9iYAAAAJ:GnPB-g6toBAC"
-    },
-    {
-        "title": "Cellular force signal integration through vector logic gates",
-        "pub_year": "2015",
-        "citation": "Journal of biomechanics 48 (4), 613-620, 2015",
-        "num_citations": 7,
-        "author_pub_id": "sLEB9iYAAAAJ:uc_IGeMz5qoC"
-    },
-    {
-        "title": "Characterization of neural mechanotransduction response in human traumatic brain injury organoid model",
-        "pub_year": "2023",
-        "citation": "Scientific reports 13 (1), 13536, 2023",
-        "num_citations": 5,
-        "author_pub_id": "sLEB9iYAAAAJ:48xauSegjOkC"
-    },
-    {
-        "title": "Chemically encapsulated structural elements for probing the mechanical responses of biologically inspired systems",
-        "pub_year": "2007",
-        "citation": "Langmuir 23 (15), 8129-8134, 2007",
-        "num_citations": 24,
-        "author_pub_id": "sLEB9iYAAAAJ:MXK_kJrjxJIC"
-    },
-    {
-        "title": "Chemotactic responses of jurkat cells in microfluidic flow-free gradient chambers",
-        "pub_year": "2020",
-        "citation": "Micromachines 11 (4), 384, 2020",
-        "num_citations": 14,
-        "author_pub_id": "sLEB9iYAAAAJ:QYdC8u9Cj1oC"
-    },
-    {
-        "title": "Chemotaxis of Immune Cells in Microfluidic Flow-Free Concentration Gradient Generator",
-        "pub_year": "2018",
-        "citation": "Biophysical Journal 114 (3), 217a, 2018",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:hCrLmN-GePgC"
-    },
-    {
-        "title": "Circular Dorsal Ruffles Increase Directional Persistence of Cell Migration by Actin Diffusion from Ruffles to Lamellipodia",
-        "pub_year": "2015",
-        "citation": "Biophysical Journal 108 (2), 458a, 2015",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:epqYDVWIO7EC"
-    },
-    {
-        "title": "Circular Dorsal Ruffles Increase Directional Persistence of Cell Migration by Reorganization of Actin",
-        "pub_year": "2013",
-        "citation": "MOLECULAR BIOLOGY OF THE CELL 24, 2013",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:BwyfMAYsbu0C"
-    },
-    {
-        "title": "Clinical Results of a Novel Chest-Based Wearable During Transcatheter Aortic Valve Replacement Surgery for Real-Time Remote Monitoring",
-        "pub_year": "2021",
-        "citation": "Circulation 144 (Suppl_1), A12465-A12465, 2021",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:_OXeSy2IsFwC"
-    },
-    {
-        "title": "Closed-Loop Circuit Model for Administration of Anticoagulation Treatment",
-        "pub_year": "2022",
-        "citation": "Journal of the American College of Surgeons 235 (5), S72, 2022",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:NyGDZy8z5eUC"
-    },
-    {
-        "title": "Closed-loop circuit model of coagulation physiology",
-        "pub_year": "2024",
-        "citation": "Biophysical Journal 123 (3), 20a, 2024",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:43bX7VzcjpAC"
-    },
-    {
-        "title": "Coarse-grained Modeling of Actin Cytoskeletal Alignment to Mechanical Stimulation",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:geHnlv5EZngC"
-    },
-    {
-        "title": "Cognitive-based search strategies for complex bio-nanotechnology design derived through symbiotic human and agent-based approaches",
-        "pub_year": "2014",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2014",
-        "num_citations": 19,
-        "author_pub_id": "sLEB9iYAAAAJ:ipzZ9siozwsC"
-    },
-    {
-        "title": "Collective 3D Migration of Embryonic Epithelial Mesenchymal Composite Tissues are Regulated by Surface Topology",
-        "pub_year": "2015",
-        "citation": "Biophysical Journal 108 (2), 455a, 2015",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:URolC5Kub84C"
-    },
-    {
-        "title": "Comparing view factor modeling frameworks for the estimation of incident solar energy",
-        "pub_year": "2020",
-        "citation": "Applied Energy 277, 115510, 2020",
-        "num_citations": 17,
-        "author_pub_id": "sLEB9iYAAAAJ:mNrWkgRL2YcC"
-    },
-    {
-        "title": "Composite polymer systems with control of local substrate elasticity and their effect on cytoskeletal and morphological characteristics of adherent cells",
-        "pub_year": "2009",
-        "citation": "Biomaterials 30 (18), 3136-3142, 2009",
-        "num_citations": 127,
-        "author_pub_id": "sLEB9iYAAAAJ:zYLM7Y9cAGgC"
-    },
-    {
-        "title": "Computational models of molecular self-organization in cellular environments",
-        "pub_year": "2007",
-        "citation": "Cell biochemistry and biophysics 48, 16-31, 2007",
-        "num_citations": 15,
-        "author_pub_id": "sLEB9iYAAAAJ:_kc_bZDykSQC"
-    },
-    {
-        "title": "Control of Dorsal Ruffle Dynamics in Cells Through Substrate Stiffness",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:PELIpwtuRlgC"
-    },
-    {
-        "title": "Control of Extracellular Matrix Organization through Coupled Mechanical and Chemical Inputs",
-        "pub_year": "2010",
-        "citation": "Biophysical Journal 98 (3), 732a, 2010",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:f2IySw72cVMC"
-    },
-    {
-        "title": "Controlled Envelopment of Magnetic Particles within Liposomes using a Custom-Built Multi-Layer Magnetic Microfluidic Device",
-        "pub_year": "2013",
-        "citation": "Biophysical Journal 104 (2), 546a, 2013",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:5ugPr518TE4C"
-    },
-    {
-        "title": "Controlled Waveform Chemical Stimulus of Cellular Subdomains for System Identification",
-        "pub_year": "2008",
-        "citation": "Summer Bioengineering Conference 43215, 605-606, 2008",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:_Re3VWB3Y0AC"
-    },
-    {
-        "title": "Controlled geometry fabrication of polydimethylsiloxane nanofibers for biomimetics",
-        "pub_year": "2007",
-        "citation": "Journal of applied polymer science 105 (5), 2549-2552, 2007",
-        "num_citations": 5,
-        "author_pub_id": "sLEB9iYAAAAJ:isC4tDSrTZIC"
-    },
-    {
-        "title": "Controlled surface topography regulates collective 3D migration by epithelial–mesenchymal composite embryonic tissues",
-        "pub_year": "2015",
-        "citation": "Biomaterials 58, 1-9, 2015",
-        "num_citations": 29,
-        "author_pub_id": "sLEB9iYAAAAJ:4MWp96NkSFoC"
-    },
-    {
-        "title": "Controlling C2C12 Cytotoxicity on Liquid Metal Embedded Elastomer (LMEE)",
-        "pub_year": "2023",
-        "citation": "Advanced Healthcare Materials 12 (17), 2202430, 2023",
-        "num_citations": 15,
-        "author_pub_id": "sLEB9iYAAAAJ:QD3KBmkZPeQC"
-    },
-    {
-        "title": "Controlling Dorsal Ruffles in Cells Through Substrate Stiffness and Mechanical Stimulation",
-        "pub_year": "2011",
-        "citation": "Biophysical Journal 100 (3), 444a, 2011",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:1qzjygNMrQYC"
-    },
-    {
-        "title": "Controlling Embryonic Cell Sheet Migration using Microfluidics",
-        "pub_year": "2012",
-        "citation": "Biophysical Journal 102 (3), 417a, 2012",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:bFI3QPDXJZMC"
-    },
-    {
-        "title": "Controlling Swimming Magnetotactic Bacteria Through Microfabrication Toward a Non-Destructive Biological Sensor",
-        "pub_year": "2011",
-        "citation": "Summer Bioengineering Conference 54587, 421-422, 2011",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:1yQoGdGgb4wC"
-    },
-    {
-        "title": "Controlling magnetotactic bacteria through an integrated nanofabricated metallic island and optical microscope approach",
-        "pub_year": "2014",
-        "citation": "Scientific reports 4 (1), 4104, 2014",
-        "num_citations": 16,
-        "author_pub_id": "sLEB9iYAAAAJ:7T2F9Uy0os0C"
-    },
-    {
-        "title": "Controlling mammalian cell spreading and cytoskeletal arrangement with conveniently fabricated continuous wavy features on poly (dimethylsiloxane)",
-        "pub_year": "2002",
-        "citation": "Langmuir 18 (8), 3273-3280, 2002",
-        "num_citations": 269,
-        "author_pub_id": "sLEB9iYAAAAJ:UeHWp8X0CEIC"
-    },
-    {
-        "title": "Controlling the mechanics and nanotopography of biocompatible scaffolds through dielectrophoresis with carbon nanotubes",
-        "pub_year": "2008",
-        "citation": "Electrophoresis 29 (15), 3123-3127, 2008",
-        "num_citations": 7,
-        "author_pub_id": "sLEB9iYAAAAJ:maZDTaKrznsC"
-    },
-    {
-        "title": "Core-shell CdSe/ZnS Quantum dots as a dual mode spatiotemporal microscopy probe for understanding cellular responses",
-        "pub_year": "2009",
-        "citation": "Colloidal Quantum Dots for Biomedical Applications IV 7189, 169-176, 2009",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:WA5NYHcadZ8C"
-    },
-    {
-        "title": "Core-shell CdSe/ZnS quantum dots as a dual mode spatiotemporal microscopy probe for understanding cellular responses",
-        "pub_year": "2009",
-        "citation": "Proc. of SPIE Vol 7189, 71890X-1, 2009",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:O3NaXMp0MMsC"
-    },
-    {
-        "title": "Coupled response of molecular interactions and mechanics through geometric control of cell shape under equibiaxial stretch",
-        "pub_year": "2003",
-        "citation": "BIOPHYSICAL JOURNAL 84 (2), 436A-436A, 2003",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:dTyEYWd-f8wC"
-    },
-    {
-        "title": "Creating cellular and molecular patterns via gravitational force with liquid droplets",
-        "pub_year": "2008",
-        "citation": "Applied Physics Letters 93 (17), 2008",
-        "num_citations": 6,
-        "author_pub_id": "sLEB9iYAAAAJ:HDshCWvjkbEC"
-    },
-    {
-        "title": "Creating efficient biochemical reactions from non-favorable interactions through immobilization",
-        "pub_year": "2007",
-        "citation": "BIOPHYSICAL JOURNAL, 388A-388A, 2007",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:SP6oXDckpogC"
-    },
-    {
-        "title": "Creating ordered small-scale biologically-based rods through force-controlled stamping",
-        "pub_year": "2007",
-        "citation": "Journal of the American Chemical Society 129 (31), 9546-9547, 2007",
-        "num_citations": 8,
-        "author_pub_id": "sLEB9iYAAAAJ:-f6ydRqryjwC"
-    },
-    {
-        "title": "Decidual vasculopathy identification in whole slide images using multiresolution hierarchical convolutional neural networks",
-        "pub_year": "2020",
-        "citation": "The American Journal of Pathology 190 (10), 2111-2122, 2020",
-        "num_citations": 25,
-        "author_pub_id": "sLEB9iYAAAAJ:4vMrXwiscB8C"
-    },
-    {
-        "title": "Defining the role of syndecan-4 in mechanotransduction using surface-modification approaches",
-        "pub_year": "2009",
-        "citation": "Proceedings of the National Academy of Sciences 106 (52), 22102-22107, 2009",
-        "num_citations": 138,
-        "author_pub_id": "sLEB9iYAAAAJ:Y0pCki6q_DkC"
-    },
-    {
-        "title": "Department of Mechanical and Biomedical Engineering, Carnegie Mellon University, Pittsburgh, Pennsylvania",
-        "pub_year": "2003",
-        "citation": "Advances in Bioengineering, 361, 2003",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:CaZNVDsoPx4C"
-    },
-    {
-        "title": "Design of Complex Biologically Based Nanoscale Systems Using Multi Agent Simulations and Structureâ€“Behaviorâ€“Function Representations",
-        "pub_year": "2013",
-        "citation": "The American Society of Mechanical Engineers (ASME), 2013",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:0CzhzZyukY4C"
-    },
-    {
-        "title": "Design of complex biologically based nanoscale systems using multi-agent simulations and structure–behavior–function representations",
-        "pub_year": "2013",
-        "citation": "Journal of Mechanical Design 135 (6), 061005, 2013",
-        "num_citations": 23,
-        "author_pub_id": "sLEB9iYAAAAJ:4OULZ7Gr8RgC"
-    },
-    {
-        "title": "Design of complex nano-scale systems using multi-agent simulations and structure-behavior-function representations",
-        "pub_year": "2012",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
-        "num_citations": 5,
-        "author_pub_id": "sLEB9iYAAAAJ:VL0QpB8kHFEC"
-    },
-    {
-        "title": "Detection of Predictive Dynamics of Glucocorticoid Receptors in Xenopus Laevis Embryonic Tissues",
-        "pub_year": "2011",
-        "citation": "Biophysical Journal 100 (3), 32a, 2011",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:B3FOqHPlNUQC"
-    },
-    {
-        "title": "Detection of decidual vasculopathy using multiresolution hierarchical neural network",
-        "pub_year": "2024",
-        "citation": "Biophysical Journal 123 (3), 549a, 2024",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:v1_lew4L6wgC"
-    },
-    {
-        "title": "Detection of dynamic spatiotemporal response to periodic chemical stimulation in a Xenopus embryonic tissue",
-        "pub_year": "2011",
-        "citation": "PloS one 6 (1), e14624, 2011",
-        "num_citations": 44,
-        "author_pub_id": "sLEB9iYAAAAJ:ULOm3_A8WrAC"
-    },
-    {
-        "title": "Detection of the molecular mass by using fabricated cantilevers.",
-        "pub_year": "2005",
-        "citation": "BIOPHYSICAL JOURNAL 88 (1), 520A-520A, 2005",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:Y5dfb0dijaUC"
-    },
-    {
-        "title": "Development of graphical user interfaces to improve human design proficiency for complex multi-level biosystems",
-        "pub_year": "2015",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2015",
-        "num_citations": 3,
-        "author_pub_id": "sLEB9iYAAAAJ:g3aElNc5_aQC"
-    },
-    {
-        "title": "Devices and applications at the micro-and nanoscale",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:a9-T7VOCCH8C"
-    },
-    {
-        "title": "Devices and applications at the micro-and nanoscale rsc. li/loc",
-        "pub_year": "2020",
-        "citation": "Lab Chip 20, 901, 2020",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:jL-93Qbq4QoC"
-    },
-    {
-        "title": "Differential treatment of selected parts of a single cell with different fluid components",
-        "pub_year": "2003",
-        "citation": "US Patent 6,653,089, 2003",
-        "num_citations": 25,
-        "author_pub_id": "sLEB9iYAAAAJ:aqlVkmm33-oC"
-    },
-    {
-        "title": "Digital patch for discrete signaling, a baseball glove including same, and related method of manufacture",
-        "pub_year": "2022",
-        "citation": "US Patent 11,266,897, 2022",
-        "num_citations": 5,
-        "author_pub_id": "sLEB9iYAAAAJ:tH6gc1N1XXoC"
-    },
-    {
-        "title": "Digital patch for discrete signaling, a baseball glove including same, and related method of manufacture",
-        "pub_year": "2021",
-        "citation": "US Patent 11,103,764, 2021",
-        "num_citations": 3,
-        "author_pub_id": "sLEB9iYAAAAJ:8xutWZnSdmoC"
-    },
-    {
-        "title": "Digital patch for discrete signaling, a baseball glove including same, and related method of manufacture",
-        "pub_year": "2023",
-        "citation": "US Patent 11,673,038, 2023",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:buQ7SEKw-1sC"
-    },
-    {
-        "title": "Digital patch for discrete signaling, a baseball glove including same, and related method of manufacture",
-        "pub_year": "2024",
-        "citation": "US Patent 12,128,290, 2024",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:MhiOAD_qIWkC"
-    },
-    {
-        "title": "Directional sensing of soluble signals through the cytoskeleton",
-        "pub_year": "2002",
-        "citation": "BIOPHYSICAL JOURNAL 82 (1), 8A-8A, 2002",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:bnK-pcrLprsC"
-    },
-    {
-        "title": "Disruptive microfluidics: From life sciences to world health to energy",
-        "pub_year": "2012",
-        "citation": "Disruptive Science and Technology 1 (1), 41-53, 2012",
-        "num_citations": 10,
-        "author_pub_id": "sLEB9iYAAAAJ:blknAaTinKkC"
-    },
-    {
-        "title": "Dissecting the molecular basis of the mechanics of living cells",
-        "pub_year": "2009",
-        "citation": "Experimental Mechanics 49, 11-23, 2009",
-        "num_citations": 29,
-        "author_pub_id": "sLEB9iYAAAAJ:Zph67rFs4hoC"
-    },
-    {
-        "title": "Drop casting of stiffness gradients for chip integration into stretchable substrates",
-        "pub_year": "2017",
-        "citation": "Journal of Micromechanics and Microengineering 27 (4), 045018, 2017",
-        "num_citations": 14,
-        "author_pub_id": "sLEB9iYAAAAJ:Dip1O2bNi0gC"
-    },
-    {
-        "title": "Dual Mechanical Signal Integration Reveals Non Linear Cell Behavior",
-        "pub_year": "2011",
-        "citation": "Biophysical Journal 100 (3), 598a, 2011",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:3s1wT3WcHBgC"
-    },
-    {
-        "title": "Dynamic Formation for the Mechanical Connection of Focal Adhesion Complexes to Study Localized Mechanisms of Angiogenesis Through Modeling With Cellular Automata",
+        "title": "A representation for comparing simulations and computing the purpose of geometric features",
         "pub_year": "2001",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 35470, 319-320, 2001",
+        "citation": "AI EDAM 15 (2), 189-201, 2001",
+        "num_citations": 7,
+        "author_pub_id": "_X2eOeQAAAAJ:_FxGoFyzp5QC"
+    },
+    {
+        "title": "A simplified computational liver perfusion model, with applications to organ preservation",
+        "pub_year": "2025",
+        "citation": "Scientific Reports 15 (1), 2178, 2025",
         "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:pyW8ca7W8N0C"
+        "author_pub_id": "_X2eOeQAAAAJ:AvfA0Oy_GE0C"
     },
     {
-        "title": "Dynamic control of 3D chemical profiles with a single 2D microfluidic platform",
-        "pub_year": "2011",
-        "citation": "Lab on a Chip 11 (13), 2182-2188, 2011",
-        "num_citations": 17,
-        "author_pub_id": "sLEB9iYAAAAJ:j3f4tGmQtD8C"
-    },
-    {
-        "title": "Dynamic urban solar harvesting: anisotropic shadows in energy estimation",
-        "pub_year": "2022",
-        "citation": "Physics, Simulation, and Photonic Engineering of Photovoltaic Devices XI …, 2022",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:5icHVeHT4IsC"
-    },
-    {
-        "title": "Dynamics of Individual Flexible Biopolymers in a Microvortex Flow",
+        "title": "A sketch-based tool for analyzing vibratory mechanical systems",
         "pub_year": "2008",
-        "citation": "APS March Meeting Abstracts, Q9. 010, 2008",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:p2g8aNsByqUC"
+        "citation": "",
+        "num_citations": 57,
+        "author_pub_id": "_X2eOeQAAAAJ:W7OEmFMy1HYC"
     },
     {
-        "title": "Dynamics of individual deoxyribonucleic acid molecules visualized in situ with shear strain",
-        "pub_year": "1999",
-        "citation": "Proceedings of the First Joint BMES/EMBS Conference. 1999 IEEE Engineering …, 1999",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:CHSYGLWDkRkC"
-    },
-    {
-        "title": "Dynamics of individual flexible polymers in a shear flow",
-        "pub_year": "1999",
-        "citation": "Nature 399 (6736), 564-566, 1999",
-        "num_citations": 272,
-        "author_pub_id": "sLEB9iYAAAAJ:9yKSN-GCB0IC"
-    },
-    {
-        "title": "Dynamics of individual polymers using microfluidic based microcurvilinear flow",
+        "title": "A testing method and cognitive model of human diagram understanding for automating design sketch recognition",
         "pub_year": "2009",
-        "citation": "Lab on a Chip 9 (16), 2339-2347, 2009",
-        "num_citations": 11,
-        "author_pub_id": "sLEB9iYAAAAJ:4JMBOYKVnBMC"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2009",
+        "num_citations": 3,
+        "author_pub_id": "_X2eOeQAAAAJ:aqlVkmm33-oC"
     },
     {
-        "title": "Effects of Local Mechanical Stimulation on Cellular Behavior",
+        "title": "Adhyapak, Srilakshmi M. 48 Ahmed, Mourad 375 Arisoy, Erhan Batuhan 286",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:tkaPQYYpVKoC"
+    },
+    {
+        "title": "Ai edam special issue, august 2012, vol. 26, no. 3: Sketching and pen-based design interaction",
+        "pub_year": "2011",
+        "citation": "AI EDAM 25 (3), 305-305, 2011",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:LjlpjdlvIbIC"
+    },
+    {
+        "title": "An efficient graph-based recognition for hand-drawn symbols",
         "pub_year": "2007",
-        "citation": "Summer Bioengineering Conference 47985, 801-802, 2007",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:AXPGKjj_ei8C"
-    },
-    {
-        "title": "Effects of Mechanical Strain on Structural and Actin-Binding Proteins in Neuroblasts",
-        "pub_year": "2009",
-        "citation": "Summer Bioengineering Conference 48913, 543-544, 2009",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:SdhP9T11ey4C"
-    },
-    {
-        "title": "Effects of Mechanical Strain on Syndecan-4, Focal Adhesion Complexes, and Site-Specific FAK Phosphorylation",
-        "pub_year": "2008",
-        "citation": "Summer Bioengineering Conference 43215, 265-266, 2008",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:evX43VCCuoAC"
-    },
-    {
-        "title": "Efficient probabilistic grammar induction for design",
-        "pub_year": "2018",
-        "citation": "AI EDAM 32 (2), 177-188, 2018",
-        "num_citations": 11,
-        "author_pub_id": "sLEB9iYAAAAJ:86PQX7AUzd4C"
-    },
-    {
-        "title": "Efficient probabilistic grammar induction for design.",
-        "pub_year": "2018",
-        "citation": "AI EDAM 32 (2), 2018",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:otzGkya1bYkC"
-    },
-    {
-        "title": "Emergent systems energy laws for predicting myosin ensemble processivity",
-        "pub_year": "2015",
-        "citation": "PLoS Computational Biology 11 (4), e1004177, 2015",
-        "num_citations": 16,
-        "author_pub_id": "sLEB9iYAAAAJ:ML0RJ9NH7IQC"
-    },
-    {
-        "title": "Engineered Material Gradients for Biologically Integrated Stretchable Electronics",
-        "pub_year": "2015",
-        "citation": "Biophysical Journal 108 (2), 331a, 2015",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:uWiczbcajpAC"
-    },
-    {
-        "title": "Engineered Material Gradients for Biologically Integrated Stretchable Electronics",
-        "pub_year": "2015",
-        "citation": "Elsevier BV, 2015",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:gVv57TyPmFsC"
-    },
-    {
-        "title": "Engineering Magnetic Nanomaterial Production in Magnetotactic Bacteria Through Gene Regulation",
-        "pub_year": "2012",
-        "citation": "Summer Bioengineering Conference 44809, 349-350, 2012",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:PR6Y55bgFSsC"
-    },
-    {
-        "title": "Engineering living systems on chips: from cells to human on chips",
-        "pub_year": "2014",
-        "citation": "Microfluidics and nanofluidics 16, 907-920, 2014",
-        "num_citations": 47,
-        "author_pub_id": "sLEB9iYAAAAJ:UHK10RUVsp4C"
-    },
-    {
-        "title": "Evaluating spatial constraints in cellular assembly processes using a Monte Carlo approach",
-        "pub_year": "2006",
-        "citation": "Cell biochemistry and biophysics 45, 195-201, 2006",
-        "num_citations": 10,
-        "author_pub_id": "sLEB9iYAAAAJ:QIV2ME_5wuYC"
-    },
-    {
-        "title": "Examining Adaptive Extracellular Responses of Living Cells Under Mechanical Stimulation Through Probing Fibronectin Response",
-        "pub_year": "2009",
-        "citation": "Summer Bioengineering Conference 48913, 541-542, 2009",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:sSrBHYA8nusC"
-    },
-    {
-        "title": "Examining Integrated Cell Structural Responses: Probing Cytoskeleton Behavior through a Coupled Dual-Mode Mechanical Stimulation Approach",
-        "pub_year": "2009",
-        "citation": "Biophysical Journal 96 (3), 627a, 2009",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:NhqRSupF_l8C"
-    },
-    {
-        "title": "Experimental investigations of molecular and cellular issues in biomechanics and bioengineering",
-        "pub_year": "1999",
-        "citation": "The Johns Hopkins University, 1999",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:Tiz5es2fbqcC"
-    },
-    {
-        "title": "Exploring subcellular domain structure through combining permanent magnetic needles, PreCS experiments, and molecular patterning",
-        "pub_year": "2004",
-        "citation": "BIOPHYSICAL JOURNAL 86 (1), 519A-519A, 2004",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:D03iK_w7-QYC"
-    },
-    {
-        "title": "Exploring the Mechanics of Magnetically Driven Motility in Magnetotactic Bacteria through Genetic Regulation",
-        "pub_year": "2013",
-        "citation": "Biophysical Journal 104 (2), 640a-641a, 2013",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:rO6llkc54NcC"
-    },
-    {
-        "title": "Fabricating small-scale, curved, polymeric structures with convex and concave menisci through interfacial free energy equilibrium",
-        "pub_year": "2009",
-        "citation": "Lab on a Chip 9 (22), 3306-3309, 2009",
-        "num_citations": 17,
-        "author_pub_id": "sLEB9iYAAAAJ:4DMP91E08xMC"
-    },
-    {
-        "title": "Fabrication of circular microfluidic channels by combining mechanical micromilling and soft lithography",
-        "pub_year": "2011",
-        "citation": "Lab on a Chip 11 (8), 1550-1555, 2011",
-        "num_citations": 203,
-        "author_pub_id": "sLEB9iYAAAAJ:roLk4NBRz8UC"
-    },
-    {
-        "title": "Fe-Doped Copolymer-Templated Nitrogen-Rich Carbon as a PGM-Free Fuel Cell Catalyst",
-        "pub_year": "2021",
-        "citation": "ACS Applied Energy Materials 4 (9), 9653-9663, 2021",
-        "num_citations": 6,
-        "author_pub_id": "sLEB9iYAAAAJ:Ehil0879vHcC"
-    },
-    {
-        "title": "Fluid-pressure regulation systems and software",
-        "pub_year": "2017",
-        "citation": "US Patent 9,625,918, 2017",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:tYavs44e6CUC"
-    },
-    {
-        "title": "Fluid-pressure regulator and related methods and systems",
-        "pub_year": "2015",
-        "citation": "US Patent 9,170,267, 2015",
-        "num_citations": 2,
-        "author_pub_id": "sLEB9iYAAAAJ:J-pR_7NvFogC"
-    },
-    {
-        "title": "Fly Me to the Micron: Microtechnologies for Drosophila Research",
-        "pub_year": "2024",
-        "citation": "Annual Review of Biomedical Engineering 26 (1), 441-473, 2024",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:IaI1MmNe2tcC"
-    },
-    {
-        "title": "Force-controlled inorganic crystallization lithography",
-        "pub_year": "2006",
-        "citation": "Journal of the American Chemical Society 128 (37), 12080-12081, 2006",
-        "num_citations": 6,
-        "author_pub_id": "sLEB9iYAAAAJ:hC7cP41nSMkC"
-    },
-    {
-        "title": "Freeform 3D Ice Printing (3D‐ICE) at the Micro Scale",
-        "pub_year": "2022",
-        "citation": "Advanced Science 9 (27), 2201566, 2022",
-        "num_citations": 13,
-        "author_pub_id": "sLEB9iYAAAAJ:LgRImbQfgY4C"
-    },
-    {
-        "title": "Freeform Fabrication of Three-Dimensional Structures Using a Droplet-On-Demand Process With Continuous and Frequency Modulated Material Deposition",
-        "pub_year": "2024",
-        "citation": "US Patent App. 18/686,058, 2024",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:WHdLCjDvYFkC"
-    },
-    {
-        "title": "Frontiers of optofluidics in synthetic biology",
-        "pub_year": "2012",
-        "citation": "Lab on a chip 12 (19), 3654-3665, 2012",
-        "num_citations": 16,
-        "author_pub_id": "sLEB9iYAAAAJ:vV6vV6tmYwMC"
-    },
-    {
-        "title": "Full‐thickness Engineered Skin Tissue with 3D Biomimetic Micro‐topography",
-        "pub_year": "2017",
-        "citation": "The FASEB Journal 31, 590.3-590.3, 2017",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:xtoqd-5pKcoC"
-    },
-    {
-        "title": "Geometric determinants of directional cell motility revealed using microcontact printing",
-        "pub_year": "2003",
-        "citation": "Langmuir 19 (5), 1611-1617, 2003",
-        "num_citations": 354,
-        "author_pub_id": "sLEB9iYAAAAJ:u-x6o8ySG0sC"
-    },
-    {
-        "title": "Geometric effects in microfluidics on heterogeneous cell stress using an Eulerian–Lagrangian approach",
-        "pub_year": "2016",
-        "citation": "Lab on a Chip 16 (3), 593-598, 2016",
+        "citation": "Computers & Graphics 31, 554-567, 2007",
         "num_citations": 8,
-        "author_pub_id": "sLEB9iYAAAAJ:ILKRHgRFtOwC"
+        "author_pub_id": "_X2eOeQAAAAJ:ILKRHgRFtOwC"
     },
     {
-        "title": "Green fluorescent protein in the secretion pathway utilizing the baculovirus-insect cell system",
-        "pub_year": "2001",
-        "citation": "BIOPHYSICAL JOURNAL 80 (1), 348A-348A, 2001",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:P5F9QuxV20EC"
-    },
-    {
-        "title": "Hierarchical machine learning for high-fidelity 3D printed biopolymers",
-        "pub_year": "2020",
-        "citation": "ACS Biomaterials Science & Engineering 6 (12), 7021-7031, 2020",
-        "num_citations": 69,
-        "author_pub_id": "sLEB9iYAAAAJ:HeT0ZceujKMC"
-    },
-    {
-        "title": "High-Flow, Intact Biomaterial-Derived Electrode For Use In Capacitive Desalination",
-        "pub_year": "2022",
-        "citation": "US Patent App. 17/425,519, 2022",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:artPoR2Yc-kC"
-    },
-    {
-        "title": "High-Throughput Mechanotransduction in Drosophila Embryos with a Microfluidic Device",
-        "pub_year": "2018",
-        "citation": "Biophysical Journal 114 (3), 325a, 2018",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:5qfkUJPXOUwC"
-    },
-    {
-        "title": "High-throughput mechanotransduction in Drosophila embryos with mesofluidics",
-        "pub_year": "2019",
-        "citation": "Lab on a Chip 19 (7), 1141-1152, 2019",
-        "num_citations": 35,
-        "author_pub_id": "sLEB9iYAAAAJ:kh2fBNsKQNwC"
-    },
-    {
-        "title": "How can we predict cellular mechanosensation?: Comment on “Cellular mechanosensing of the biophysical microenvironment: A review of mathematical models of biophysical …",
-        "pub_year": "2017",
-        "citation": "Physics of life reviews 22, 120-122, 2017",
-        "num_citations": 7,
-        "author_pub_id": "sLEB9iYAAAAJ:ruyezt5ZtCIC"
-    },
-    {
-        "title": "How do control-based approaches enter into biology?",
-        "pub_year": "2011",
-        "citation": "Annual Review of Biomedical Engineering 13 (1), 369-396, 2011",
-        "num_citations": 79,
-        "author_pub_id": "sLEB9iYAAAAJ:Se3iqnhoufwC"
-    },
-    {
-        "title": "Image segmentation and control of freeform 3D ice printing with computer vision",
-        "pub_year": "2024",
-        "citation": "Biophysical Journal 123 (3), 548a, 2024",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:7Hz3ACDFbsoC"
-    },
-    {
-        "title": "Implementation of a Pharmocokinetic Approach to a Baculovirus System for Analytic Solutions to Virus and Cell Interactions",
-        "pub_year": "1997",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 18237, 169-170, 1997",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:eq2jaN3J8jMC"
-    },
-    {
-        "title": "Imposing Local Magnetic Fields to Control Magnetotactic Bacteria Through Combining Microfabrication and Magnetism",
-        "pub_year": "2011",
-        "citation": "Biophysical Journal 100 (3), 514a, 2011",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:b0M2c_1WBrUC"
-    },
-    {
-        "title": "Improving human understanding and design of complex multi-level systems with animation and parametric relationship supports",
-        "pub_year": "2015",
-        "citation": "Design Science 1, e3, 2015",
-        "num_citations": 12,
-        "author_pub_id": "sLEB9iYAAAAJ:L7CI7m0gUJcC"
-    },
-    {
-        "title": "In Situ Dynamics of Concentrated DNA Molecules in a Shear Flow",
-        "pub_year": "1999",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 16400, 45-46, 1999",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:EUQCXRtRnyEC"
-    },
-    {
-        "title": "In-situ adhesion studies of a single living bovine endothelial cell using MEMS sensor",
-        "pub_year": "2000",
-        "citation": "1st Annual International IEEE-EMBS Special Topic Conference on …, 2000",
-        "num_citations": 5,
-        "author_pub_id": "sLEB9iYAAAAJ:JV2RwH3_ST0C"
-    },
-    {
-        "title": "Inducing Vascular Grammars for Anomaly Classification in Brain Angiograms",
-        "pub_year": "2022",
-        "citation": "Journal of Engineering and Science in Medical Diagnostics and Therapy 5 (2 …, 2022",
-        "num_citations": 3,
-        "author_pub_id": "sLEB9iYAAAAJ:Aul-kAQHnToC"
-    },
-    {
-        "title": "Intact mangrove root electrodes for desalination",
-        "pub_year": "2019",
-        "citation": "RSC advances 9 (9), 4735-4743, 2019",
-        "num_citations": 9,
-        "author_pub_id": "sLEB9iYAAAAJ:0izLItjtcgwC"
-    },
-    {
-        "title": "Integrated biomimetic carbon nanotube composites for in vivo systems",
-        "pub_year": "2010",
-        "citation": "Nanoscale 2 (12), 2855-2863, 2010",
-        "num_citations": 36,
-        "author_pub_id": "sLEB9iYAAAAJ:kNdYIx-mwKoC"
-    },
-    {
-        "title": "Integrated biomimetic carbon nanotube composites for in vivo systems",
-        "pub_year": "2011",
-        "citation": "research@ ua 2, 27-27, 2011",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:OR75R8vi5nAC"
-    },
-    {
-        "title": "Integrated biomimetic carbon nanotube composites for in vivo systems.",
-        "pub_year": "2010",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:FAceZFleit8C"
-    },
-    {
-        "title": "Integrated electronic device with flexible and stretchable substrate",
-        "pub_year": "2019",
-        "citation": "US Patent 10,462,897, 2019",
-        "num_citations": 3,
-        "author_pub_id": "sLEB9iYAAAAJ:Ri6SYOTghG4C"
-    },
-    {
-        "title": "Integrated electronic device with flexible and stretchable substrate",
-        "pub_year": "2024",
-        "citation": "US Patent 12,096,553, 2024",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:IRz6iEL74y4C"
-    },
-    {
-        "title": "Integrated lithographic membranes and surface adhesion chemistry for three-dimensional cellular stimulation",
-        "pub_year": "2004",
-        "citation": "Langmuir 20 (26), 11552-11556, 2004",
-        "num_citations": 41,
-        "author_pub_id": "sLEB9iYAAAAJ:hqOjcs7Dif8C"
-    },
-    {
-        "title": "Integrating synthetic cells and flexible electronics for the control of bio-opto-fluidic materials",
-        "pub_year": "2014",
-        "citation": "Biophysical Journal 106 (2), 617a-618a, 2014",
-        "num_citations": 4,
-        "author_pub_id": "sLEB9iYAAAAJ:_Ybze24A_UAC"
-    },
-    {
-        "title": "Interfacing Three-Dimensional Curved Structures and Cellular Adhesion",
-        "pub_year": "2011",
-        "citation": "Biophysical Journal 100 (3), 622a, 2011",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:u_35RYKgDlwC"
-    },
-    {
-        "title": "Investigating Axonal Outgrowth and Orientation of Neuroblasts through an Alternating Stiffness Substrate",
-        "pub_year": "2009",
-        "citation": "Biophysical Journal 96 (3), 281a, 2009",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:olpn-zPbct0C"
-    },
-    {
-        "title": "Investigating Cell-Material Interactions of Magnetospirillum magneticum as an Approach for Probing Submerged Surface Structural Integrity",
-        "pub_year": "2012",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:D_sINldO8mEC"
-    },
-    {
-        "title": "Investigating circular dorsal ruffles through varying substrate stiffness and mathematical modeling",
-        "pub_year": "2011",
-        "citation": "Biophysical journal 101 (9), 2122-2130, 2011",
-        "num_citations": 45,
-        "author_pub_id": "sLEB9iYAAAAJ:qxL8FJ1GzNcC"
-    },
-    {
-        "title": "Investigating the secretory pathway of the baculovirus‐insect cell system using a secretory green fluorescent protein",
-        "pub_year": "2000",
-        "citation": "Biotechnology progress 16 (5), 716-723, 2000",
-        "num_citations": 13,
-        "author_pub_id": "sLEB9iYAAAAJ:M3ejUd6NZC8C"
-    },
-    {
-        "title": "Investigation of calcium mechanotransduction by quasi 3-D microfiber mechanical stimulation of cells",
-        "pub_year": "2008",
-        "citation": "Summer Bioengineering Conference 43215, 1049-1050, 2008",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:tzM49s52ZIMC"
-    },
-    {
-        "title": "K., Ingber, DE, and Whitesides, GM",
-        "pub_year": "2001",
-        "citation": "Nature 411, 1016, 2001",
-        "num_citations": 2,
-        "author_pub_id": "sLEB9iYAAAAJ:8d8msizDQcsC"
-    },
-    {
-        "title": "Laminar flow biological fuel cells for self-powered amperometric sensing",
-        "pub_year": "2009",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 238, 2009",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:tkaPQYYpVKoC"
-    },
-    {
-        "title": "Latticed based biological simulation of molecular assembly in cells",
-        "pub_year": "2004",
-        "citation": "MOLECULAR BIOLOGY OF THE CELL 15, 352A-352A, 2004",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:dfsIfKJdRG4C"
-    },
-    {
-        "title": "Linking Mechanics to Biochemistry in Molecular and Cellular Behavior through Systems Based Approaches",
-        "pub_year": "2011",
-        "citation": "INTEGRATIVE AND COMPARATIVE BIOLOGY 51, E78-E78, 2011",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:RYcK_YlVTxYC"
-    },
-    {
-        "title": "Linking Molecular to Cellular Biomechanics With Nano-and Micro-Technology",
-        "pub_year": "2003",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 37106, 363-364, 2003",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:9vf0nzSNQJEC"
-    },
-    {
-        "title": "Localized bimodal response of neurite extensions and structural proteins in dorsal-root ganglion neurons with controlled polydimethylsiloxane substrate stiffness",
-        "pub_year": "2011",
-        "citation": "Journal of biomechanics 44 (5), 856-862, 2011",
-        "num_citations": 51,
-        "author_pub_id": "sLEB9iYAAAAJ:mB3voiENLucC"
-    },
-    {
-        "title": "Localized neurite outgrowth sensing via substrates with alternative rigidities",
-        "pub_year": "2011",
-        "citation": "Soft Matter 7 (21), 9871-9877, 2011",
-        "num_citations": 27,
-        "author_pub_id": "sLEB9iYAAAAJ:IWHjjKOFINEC"
-    },
-    {
-        "title": "Localized neurite outgrowth sensing via substrates with alternative rigidities (vol 7, pg 9871, 2011)",
-        "pub_year": "2012",
-        "citation": "Soft Matter 8 (48), 12135-12135, 2012",
-        "num_citations": 3,
-        "author_pub_id": "sLEB9iYAAAAJ:eJXPG6dFmWUC"
-    },
-    {
-        "title": "Localized spatiotemporal chemical control in three-dimensions for subcellular and molecular stimulation",
-        "pub_year": "2005",
-        "citation": "BIOPHYSICAL JOURNAL 88 (1), 658A-658A, 2005",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:LPZeul_q3PIC"
-    },
-    {
-        "title": "Magnetically-Induced Genetic Response of Magnetotactic Bacteria",
-        "pub_year": "2012",
-        "citation": "Biophysical Journal 102 (3), 731a, 2012",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:kRWSkSYxWN8C"
-    },
-    {
-        "title": "Maskless fabrication of small-scale structures through controlling phase interactions",
-        "pub_year": "2011",
-        "citation": "Applied Physics A 102, 185-188, 2011",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:KxtntwgDAa4C"
-    },
-    {
-        "title": "Material Gradients in Stretchable Substrates toward Integrated Electronic Functionality.",
-        "pub_year": "2016",
-        "citation": "Advanced Materials (Deerfield Beach, Fla.) 28 (18), 3584-3591, 2016",
-        "num_citations": 79,
-        "author_pub_id": "sLEB9iYAAAAJ:gsN89kCJA0AC"
-    },
-    {
-        "title": "Measuring Cellular Forces Using BioMEMS",
-        "pub_year": "2000",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 19340, 77-78, 2000",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:lSLTfruPkqcC"
-    },
-    {
-        "title": "Mechanical Loading of Stem Cells for Improvement of Cellular Cardiomyoplasty",
-        "pub_year": "2009",
-        "citation": "MOLECULAR THERAPY 17, S264-S264, 2009",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:V3AGJWp-ZtQC"
-    },
-    {
-        "title": "Mechanical Stimulation Improves Muscle-Derived Stem Cell Transplantation for Cardiac Repair",
-        "pub_year": "2008",
-        "citation": "Summer Bioengineering Conference 43215, 533-534, 2008",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:35r97b3x0nAC"
-    },
-    {
-        "title": "Mechanical loading of stem cells for improvement of transplantation outcome in a model of acute myocardial infarction: the role of loading history",
-        "pub_year": "2012",
-        "citation": "Tissue Engineering Part A 18 (11-12), 1101-1108, 2012",
-        "num_citations": 42,
-        "author_pub_id": "sLEB9iYAAAAJ:e5wmG9Sq2KIC"
-    },
-    {
-        "title": "Mechanical stimulation of cerebral organoids toward understanding human neural response",
-        "pub_year": "2022",
-        "citation": "Biophysical Journal 121 (3), 493a, 2022",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:nVrZBo8bIpAC"
-    },
-    {
-        "title": "Mechanical strain and calcium signaling: Insights from Drosophila gastrulation",
-        "pub_year": "2024",
-        "citation": "Biophysical Journal 123 (3), 517a, 2024",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:U4n9YNQMCAIC"
-    },
-    {
-        "title": "Mechanical stretch and shear flow induced reorganization and recruitment of fibronectin in fibroblasts",
-        "pub_year": "2011",
-        "citation": "Scientific reports 1 (1), 147, 2011",
-        "num_citations": 66,
-        "author_pub_id": "sLEB9iYAAAAJ:TFP_iSt0sucC"
-    },
-    {
-        "title": "Mechanochemical actuators of embryonic epithelial contractility",
-        "pub_year": "2014",
-        "citation": "Proceedings of the National Academy of Sciences 111 (40), 14366-14371, 2014",
-        "num_citations": 45,
-        "author_pub_id": "sLEB9iYAAAAJ:t7zJ5fGR-2UC"
-    },
-    {
-        "title": "Mechanostimulation of Multicellular Organisms Through a High-Throughput Microfluidic Compression System",
-        "pub_year": "2022",
-        "citation": "Journal of Visualized Experiments, 2022",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:PVgj2kMGcgYC"
-    },
-    {
-        "title": "Method and device for producing vasculature through extrusion-based 3D printing",
-        "pub_year": "2023",
-        "citation": "US Patent 11,639,021, 2023",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:OTTXONDVkokC"
-    },
-    {
-        "title": "Method for Engineering Three-Dimensional Synthetic Vascular Networks Through Mechanical Micromachining and Mutable Polymer Micromolding",
-        "pub_year": "2021",
-        "citation": "US Patent App. 17/170,706, 2021",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:F9fV5C73w3QC"
-    },
-    {
-        "title": "Method for engineering three-dimensional synthetic vascular networks through mechanical micromachining and mutable polymer micromolding",
-        "pub_year": "2021",
-        "citation": "US Patent 10,919,183, 2021",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:hMsQuOkrut0C"
-    },
-    {
-        "title": "Method for object detection using hierarchical deep learning",
-        "pub_year": "2022",
-        "citation": "US Patent 11,367,189, 2022",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:u-coK7KVo8oC"
-    },
-    {
-        "title": "Method for object detection using hierarchical deep learning",
-        "pub_year": "2024",
-        "citation": "US Patent App. 18/391,820, 2024",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:7BrZ7Jt4UNcC"
-    },
-    {
-        "title": "Method for object detection using hierarchical deep learning",
-        "pub_year": "2024",
-        "citation": "US Patent 11,893,811, 2024",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:GFxP56DSvIMC"
-    },
-    {
-        "title": "Method of optical fabrication of three-dimensional polymeric structures with out of plane profile control",
-        "pub_year": "2012",
-        "citation": "US Patent 8,192,922, 2012",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:UxriW0iASnsC"
-    },
-    {
-        "title": "Method of optical fabrication of three-dimensional polymeric structures with out of plane profile control",
-        "pub_year": "2015",
-        "citation": "US Patent 9,069,256, 2015",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:fPk4N6BV_jEC"
-    },
-    {
-        "title": "Methods, Devices and Systems for Algae Lysis and Content Extraction",
-        "pub_year": "2016",
-        "citation": "US Patent App. 14/764,906, 2016",
-        "num_citations": 3,
-        "author_pub_id": "sLEB9iYAAAAJ:tuHXwOkdijsC"
-    },
-    {
-        "title": "Methods, apparatuses, and systems for cell and tissue culture",
-        "pub_year": "2018",
-        "citation": "US Patent 9,976,113, 2018",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:VaXvl8Fpj5cC"
-    },
-    {
-        "title": "Microbial electricity generation via microfluidic flow control",
-        "pub_year": "2011",
-        "citation": "Biotechnology and bioengineering 108 (9), 2061-2069, 2011",
-        "num_citations": 86,
-        "author_pub_id": "sLEB9iYAAAAJ:dhFuZR0502QC"
-    },
-    {
-        "title": "Microdrilling for fabricating micrometer-scale holes in soft matter",
-        "pub_year": "2006",
-        "citation": "Applied Physics A 85, 195-198, 2006",
-        "num_citations": 2,
-        "author_pub_id": "sLEB9iYAAAAJ:ZHo1McVdvXMC"
-    },
-    {
-        "title": "Microfluidics for understanding model organisms",
-        "pub_year": "2022",
-        "citation": "Nature communications 13 (1), 3195, 2022",
-        "num_citations": 28,
-        "author_pub_id": "sLEB9iYAAAAJ:Ak0FvsSvgGUC"
-    },
-    {
-        "title": "Micropatterning Biomanufactured Single-Domain Nanoparticles using Self-Assembly to form Artificial Magnetosome Chains",
-        "pub_year": "2010",
-        "citation": "Biophysical Journal 98 (3), 730a, 2010",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:1sJd4Hv_s6UC"
-    },
-    {
-        "title": "Micropatterning polyvinyl alcohol as a biomimetic material through soft lithography with cell culture",
-        "pub_year": "2006",
-        "citation": "Molecular BioSystems 2 (6-7), 299-304, 2006",
-        "num_citations": 45,
-        "author_pub_id": "sLEB9iYAAAAJ:0EnyYjriUFMC"
-    },
-    {
-        "title": "Mimicking embedded vasculature structure for 3D cancer on a chip approaches through micromilling",
-        "pub_year": "2017",
-        "citation": "Scientific reports 7 (1), 16724, 2017",
-        "num_citations": 45,
-        "author_pub_id": "sLEB9iYAAAAJ:edDO8Oi4QzsC"
-    },
-    {
-        "title": "Mimicking embedded vasculature structure for 3D cancer on a chip approaches through micromilling (vol 7, 16724, 2017)",
-        "pub_year": "2019",
-        "citation": "SCIENTIFIC REPORTS 9, 2019",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:umqufdRvDiIC"
-    },
-    {
-        "title": "Mixed Reality Combination System",
-        "pub_year": "2024",
-        "citation": "US Patent App. 18/284,674, 2024",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:j7_hQOaDUrUC"
-    },
-    {
-        "title": "Modeling and control of a nonlinear mechanism for high performance microfluidic systems",
-        "pub_year": "2011",
-        "citation": "IEEE Transactions on Control Systems Technology 21 (1), 203-211, 2011",
-        "num_citations": 15,
-        "author_pub_id": "sLEB9iYAAAAJ:2P1L_qKh6hAC"
-    },
-    {
-        "title": "Modeling mechanotransduction signaling through actin filament network deformation linked to biochemical response",
-        "pub_year": "2013",
-        "citation": "Biophysical Journal 104 (2), 317a-318a, 2013",
-        "num_citations": 2,
-        "author_pub_id": "sLEB9iYAAAAJ:eMMeJKvmdy0C"
-    },
-    {
-        "title": "Modeling molecular interactions to understand spatial crowding effects on heterodimer formations",
+        "title": "An efficient graph-based recognizer for hand-drawn symbols",
         "pub_year": "2007",
-        "citation": "Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 76 (4 …, 2007",
-        "num_citations": 5,
-        "author_pub_id": "sLEB9iYAAAAJ:iH-uZ7U-co4C"
-    },
-    {
-        "title": "Modeling the transmittance of anisotropic diffuse radiation towards estimating energy losses in solar panel coverings",
-        "pub_year": "2020",
-        "citation": "Applied energy 268, 114872, 2020",
-        "num_citations": 14,
-        "author_pub_id": "sLEB9iYAAAAJ:dBIO0h50nwkC"
-    },
-    {
-        "title": "Modulating material interfaces through biologically-inspired intermediates",
-        "pub_year": "2011",
-        "citation": "Applied Physics Letters 99 (23), 2011",
-        "num_citations": 4,
-        "author_pub_id": "sLEB9iYAAAAJ:35N4QoGY0k4C"
-    },
-    {
-        "title": "Modulation of fluidic resistance and capacitance for long-term, high-speed feedback control of a microfluidic interface",
-        "pub_year": "2009",
-        "citation": "Lab on a Chip 9 (17), 2603-2609, 2009",
-        "num_citations": 60,
-        "author_pub_id": "sLEB9iYAAAAJ:UebtZRa9Y70C"
-    },
-    {
-        "title": "Modulation of fluidic resistance and capacitance or long-term, high-speed feedback control of a microfluidic interface (vol 9, pg 2603, 2009)",
-        "pub_year": "2010",
-        "citation": "Lab on a Chip 10 (24), 3428-3428, 2010",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:uWQEDVKXjbEC"
-    },
-    {
-        "title": "Molecular crowding shapes gene expression in synthetic cellular nanosystems",
-        "pub_year": "2013",
-        "citation": "Nature nanotechnology 8 (8), 602-608, 2013",
-        "num_citations": 264,
-        "author_pub_id": "sLEB9iYAAAAJ:RGFaLdJalmkC"
-    },
-    {
-        "title": "Nanoscale intracellular organization and functional architecture mediating cellular behavior",
-        "pub_year": "2006",
-        "citation": "Annals of biomedical engineering 34, 102-113, 2006",
-        "num_citations": 43,
-        "author_pub_id": "sLEB9iYAAAAJ:W5xh706n7nkC"
-    },
-    {
-        "title": "Nanotopographical cues tune the therapeutic potential of extracellular vesicles for the treatment of aged skeletal muscle injuries",
-        "pub_year": "2023",
-        "citation": "ACS nano 17 (20), 19640-19651, 2023",
-        "num_citations": 6,
-        "author_pub_id": "sLEB9iYAAAAJ:ALROH1vI_8AC"
-    },
-    {
-        "title": "Nonlinear Modeling for Interface Control in a Three-Lane Microfluidic Channel",
-        "pub_year": "2010",
-        "citation": "Dynamic Systems and Control Conference 44182, 105-110, 2010",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:hkOj_22Ku90C"
-    },
-    {
-        "title": "Nonlinear modeling and control of a mechanically coupled variable resistance and squeeze pump for pressure regulation in microfluidics",
-        "pub_year": "2010",
-        "citation": "Proceedings of the 2010 American Control Conference, 4199-4204, 2010",
-        "num_citations": 2,
-        "author_pub_id": "sLEB9iYAAAAJ:ldfaerwXgEUC"
-    },
-    {
-        "title": "Observations of Sensory Neuron Behaviors on Substrates with Various Stiffnesses through Living Cell Imaging",
-        "pub_year": "2009",
-        "citation": "Biophysical Journal 96 (3), 479a, 2009",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:XiVPGOgt02cC"
-    },
-    {
-        "title": "Optical fabrication of three-dimensional polymeric microstructures",
-        "pub_year": "2005",
-        "citation": "Applied Physics Letters 87 (16), 2005",
-        "num_citations": 7,
-        "author_pub_id": "sLEB9iYAAAAJ:qUcmZB5y_30C"
-    },
-    {
-        "title": "Optimal Control for a Shape Memory Alloy Actuated Soft Digit using Iterative Learning Control",
-        "pub_year": "2024",
-        "citation": "2024 IEEE 7th International Conference on Soft Robotics (RoboSoft), 48-54, 2024",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:nRpfm8aw39MC"
-    },
-    {
-        "title": "Paleobionics: Understanding early echinoderm locomotion with soft robotics",
-        "pub_year": "2024",
-        "citation": "Biophysical Journal 123 (3), 20a-21a, 2024",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:LdasjJ6CEcoC"
-    },
-    {
-        "title": "Parameter Effects Of Crowding On Binding Chemistry Using Stochastic Off-lattice Simulations",
-        "pub_year": "2009",
-        "citation": "Biophysical Journal 96 (3), 85a, 2009",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:5Ul4iDaHHb8C"
-    },
-    {
-        "title": "Parameter effects on binding chemistry in crowded media using a two-dimensional stochastic off-lattice model",
-        "pub_year": "2009",
-        "citation": "Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 80 (4 …, 2009",
-        "num_citations": 4,
-        "author_pub_id": "sLEB9iYAAAAJ:r0BpntZqJG4C"
-    },
-    {
-        "title": "Part IV-Functional Applications of Cell-Matrix Adhesion in Molecular Cell Biology-19. Use of Micropatterned Adhesive Surfaces for Control of Cell Behavior",
-        "pub_year": "2002",
-        "citation": "Methods in Cell Biology 69, 385-403, 2002",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:4fKUyHm3Qg0C"
-    },
-    {
-        "title": "Patterning the topographical environment for mammalian cell culture using laminar flows in capillaries",
-        "pub_year": "2000",
-        "citation": "1st Annual International IEEE-EMBS Special Topic Conference on …, 2000",
-        "num_citations": 13,
-        "author_pub_id": "sLEB9iYAAAAJ:4TOpqqG69KYC"
-    },
-    {
-        "title": "Photochemical three-dimensional fabrication with nanopore membranes for biological applications",
-        "pub_year": "2008",
-        "citation": "Micro (MEMS) and Nanotechnologies for Space, Defense, and Security II 6959 …, 2008",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:pqnbT2bcN3wC"
-    },
-    {
-        "title": "Phototunable supersoft elastomers using coumarin functionalized molecular bottlebrushes for cell-surface interactions study",
-        "pub_year": "2014",
-        "citation": "Macromolecules 47 (22), 7852-7857, 2014",
-        "num_citations": 36,
-        "author_pub_id": "sLEB9iYAAAAJ:9Nmd_mFXekcC"
-    },
-    {
-        "title": "Physics of microscale freeform 3D printing of ice",
-        "pub_year": "2024",
-        "citation": "Proceedings of the National Academy of Sciences 121 (30), e2322330121, 2024",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:FiytvqdAVhgC"
-    },
-    {
-        "title": "Planes, Trains, Automobiles.... and Cells?",
-        "pub_year": "2019",
-        "citation": "2nd International Conference on Nanomaterials Science and Mechanical …, 2019",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:HIFyuExEbWQC"
-    },
-    {
-        "title": "Plant Movement Response to Environmental Mechanical Stimulation Toward Understanding Predator Defense",
-        "pub_year": "2024",
-        "citation": "Advanced Science 11 (40), 2404578, 2024",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:1taIhTC69MYC"
-    },
-    {
-        "title": "Plant leaflet responses to localized distinct mechanical modes of stimulation",
-        "pub_year": "2024",
-        "citation": "Biophysical Journal 123 (3), 468a, 2024",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:BzfGm06jWhQC"
-    },
-    {
-        "title": "Polycarbonate Mold Copying Technique to Fabricate Microengineered Devices for Biophysical Studies",
-        "pub_year": "2020",
-        "citation": "Bulletin of the American Physical Society 65, 2020",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:6ZxmRoH8BuwC"
-    },
-    {
-        "title": "Polycarbonate heat molding for soft lithography",
-        "pub_year": "2020",
-        "citation": "Small 16 (16), 2000241, 2020",
-        "num_citations": 21,
-        "author_pub_id": "sLEB9iYAAAAJ:9c2xU6iGI7YC"
-    },
-    {
-        "title": "Polycarbonate heat molding for soft lithography",
-        "pub_year": "2022",
-        "citation": "US Patent App. 17/681,676, 2022",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:4X0JR2_MtJMC"
-    },
-    {
-        "title": "Polymeric Micro/Nanostructures Fabricated through a Novel Method with Optical Microscopy",
-        "pub_year": "2006",
-        "citation": "APS March Meeting Abstracts, C1. 095, 2006",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:OU6Ihb5iCvQC"
-    },
-    {
-        "title": "Polymeric microlenses for real-time aqueous and nonaqueous organic imaging",
-        "pub_year": "2006",
-        "citation": "Applied physics letters 88 (5), 2006",
-        "num_citations": 10,
-        "author_pub_id": "sLEB9iYAAAAJ:L8Ckcad2t8MC"
-    },
-    {
-        "title": "Pressure-driven spatiotemporal control of the laminar flow interface in a microfluidic network",
-        "pub_year": "2007",
-        "citation": "Lab on a Chip 7 (5), 647-649, 2007",
-        "num_citations": 78,
-        "author_pub_id": "sLEB9iYAAAAJ:WF5omc3nYNoC"
-    },
-    {
-        "title": "Pressure-driven spatiotemporal control of the laminar flow interface in a microfluidic networkElectronic supplementary information (ESI) available: Mathematical development …",
-        "pub_year": "2007",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:fFSKOagxvKUC"
-    },
-    {
-        "title": "Probing Collective Migration of a Complex Multi-Cellular Embryonic Tissue Through Novel 3D Bioetching",
-        "pub_year": "2014",
-        "citation": "Biophysical Journal 106 (2), 172a, 2014",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:JQOojiI6XY0C"
-    },
-    {
-        "title": "Probing Dynamic Reassembly of Chemically-Etched 3D Embryonic Tissue",
-        "pub_year": "2015",
-        "citation": "Biophysical Journal 108 (2), 332a, 2015",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:vDijr-p_gm4C"
-    },
-    {
-        "title": "Probing Dynamic Responses of the Extracellular Matrix to Coupled Mechanical and Chemical Inputs",
-        "pub_year": "2010",
-        "citation": "Summer Bioengineering Conference 44038, 965-966, 2010",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:N5tVd3kTz84C"
-    },
-    {
-        "title": "Probing Multicellular Dynamics in Xenopus Laevis Embryonic Development Using a Mechanical Engineering Based Microfluidic Feedback Approach",
-        "pub_year": "2010",
-        "citation": "Summer Bioengineering Conference 44038, 193-194, 2010",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:dQ2og3OwTAUC"
-    },
-    {
-        "title": "Probing Multicellular Dynamics in Xenopus Laevis Embryonic Development through Microfluidic Feedback Control",
-        "pub_year": "2010",
-        "citation": "Biophysical Journal 98 (3), 429a, 2010",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:zA6iFVUQeVQC"
-    },
-    {
-        "title": "Probing Nonlinear Cellular Responses to Integrated Mechanical Signals Through Examining Cell Alignment",
-        "pub_year": "2010",
-        "citation": "Summer Bioengineering Conference 44038, 349-350, 2010",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:ZuybSZzF8UAC"
-    },
-    {
-        "title": "Probing Why Nature may Favor Heterogeneous Myosin Systems through Single Molecule and Systems Level Approaches",
-        "pub_year": "2013",
-        "citation": "Biophysical Journal 104 (2), 496a, 2013",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:xtRiw3GOFMkC"
-    },
-    {
-        "title": "Probing cell structure by controlling the mechanical environment with cell–substrate interactions",
-        "pub_year": "2009",
-        "citation": "Journal of biomechanics 42 (2), 187-192, 2009",
-        "num_citations": 76,
-        "author_pub_id": "sLEB9iYAAAAJ:ufrVoPGSRksC"
-    },
-    {
-        "title": "Probing cell structure responses through a shear and stretching mechanical stimulation technique",
-        "pub_year": "2010",
-        "citation": "Cell biochemistry and biophysics 56, 115-124, 2010",
-        "num_citations": 66,
-        "author_pub_id": "sLEB9iYAAAAJ:5nxA0vEk-isC"
-    },
-    {
-        "title": "Probing cellular dynamics with a chemical signal generator",
-        "pub_year": "2009",
-        "citation": "PloS one 4 (3), e4847, 2009",
+        "citation": "Computers & Graphics 31 (4), 554-567, 2007",
         "num_citations": 83,
-        "author_pub_id": "sLEB9iYAAAAJ:Tyk-4Ss8FVUC"
+        "author_pub_id": "_X2eOeQAAAAJ:YsMSGLbcyi4C"
     },
     {
-        "title": "Probing cellular dynamics with a chemical signal generator: Supplementary Materials",
-        "pub_year": "2009",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:XiSMed-E-HIC"
-    },
-    {
-        "title": "Probing coordinated co-culture cancer related motility through differential micro-compartmentalized elastic substrates",
-        "pub_year": "2020",
-        "citation": "Scientific Reports 10 (1), 18519, 2020",
-        "num_citations": 5,
-        "author_pub_id": "sLEB9iYAAAAJ:ODE9OILHJdcC"
-    },
-    {
-        "title": "Probing fibronectin reorganization through single cell mechanics",
-        "pub_year": "2008",
-        "citation": "BIORHEOLOGY 45 (1-2), 137-137, 2008",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:tOudhMTPpwUC"
-    },
-    {
-        "title": "Probing localized neural mechanotransduction through surface-modified elastomeric matrices and electrophysiology",
-        "pub_year": "2010",
-        "citation": "nature protocols 5 (4), 714-724, 2010",
-        "num_citations": 52,
-        "author_pub_id": "sLEB9iYAAAAJ:8k81kl-MbHgC"
-    },
-    {
-        "title": "Probing spectrin organization in red blood cells using microfluidics and atomic force microscopy",
-        "pub_year": "2005",
-        "citation": "BIOPHYSICAL JOURNAL 88 (1), 265A-265A, 2005",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:t6usbXjVLHcC"
-    },
-    {
-        "title": "Probing the Response of Structural Proteins To Mechanical Stimulation in Neuroblasts",
-        "pub_year": "2010",
-        "citation": "Biophysical Journal 98 (3), 19a, 2010",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:WqliGbK-hY8C"
-    },
-    {
-        "title": "Probing the dynamic responses of individual actin filaments under fluidic mechanical stimulation via microfluidics",
-        "pub_year": "2013",
-        "citation": "Applied Physics Letters 102 (19), 2013",
-        "num_citations": 3,
-        "author_pub_id": "sLEB9iYAAAAJ:M05iB0D1s5AC"
-    },
-    {
-        "title": "Probing the elastic response of microalga Scenedesmus dimorphus in dry and aqueous environments through atomic force microscopy",
-        "pub_year": "2014",
-        "citation": "Applied physics letters 105 (16), 2014",
-        "num_citations": 10,
-        "author_pub_id": "sLEB9iYAAAAJ:XD-gHx7UXLsC"
-    },
-    {
-        "title": "Programmed Biologically Inspired Synthetic Templating of Multifunctional Nanoarchitectures for Small‐Scale Reactions",
-        "pub_year": "2012",
-        "citation": "European Journal of Inorganic Chemistry 2012 (32), 5405-5410, 2012",
-        "num_citations": 2,
-        "author_pub_id": "sLEB9iYAAAAJ:ns9cj8rnVeAC"
-    },
-    {
-        "title": "Protein adsorption at the biomaterial/tissue interface",
-        "pub_year": "2006",
-        "citation": "An Introduction to Biomaterials, 47-61, 2006",
-        "num_citations": 5,
-        "author_pub_id": "sLEB9iYAAAAJ:kzcrU_BdoSEC"
-    },
-    {
-        "title": "Reply to'Complexity of molecular crowding in cell-free enzymatic reaction networks'",
-        "pub_year": "2014",
-        "citation": "Nature Nanotechnology 9 (6), 407-408, 2014",
-        "num_citations": 2,
-        "author_pub_id": "sLEB9iYAAAAJ:fEOibwPWpKIC"
-    },
-    {
-        "title": "Response of an actin filament network model under cyclic stretching through a coarse grained Monte Carlo approach",
-        "pub_year": "2011",
-        "citation": "Journal of theoretical biology 274 (1), 109-119, 2011",
-        "num_citations": 56,
-        "author_pub_id": "sLEB9iYAAAAJ:9ZlFYXVOiuMC"
-    },
-    {
-        "title": "Robust mechanobiological behavior emerges in heterogeneous myosin systems",
-        "pub_year": "2017",
-        "citation": "Proceedings of the National Academy of Sciences 114 (39), E8147-E8154, 2017",
-        "num_citations": 9,
-        "author_pub_id": "sLEB9iYAAAAJ:XoXfffV-tXoC"
-    },
-    {
-        "title": "SPATIAL CONTROL OF CELL SHAPE AND CYTOSKELETAL ORGANIZATION UNDER MECHANICAL DEFORMATION USING MICRO-/NANO-TECHNOLOGY",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:eflP2zaiRacC"
-    },
-    {
-        "title": "Selective chemical treatment of cellular microdomains using multiple laminar streams",
-        "pub_year": "2003",
-        "citation": "Chemistry & biology 10 (2), 123-130, 2003",
-        "num_citations": 286,
-        "author_pub_id": "sLEB9iYAAAAJ:d1gkVwhDpl0C"
-    },
-    {
-        "title": "Sensing of Local, Highly Concentrated Magnetic Field Gradients in Magnetotactic Bacteria Induces Motility Reversal",
-        "pub_year": "2012",
-        "citation": "Summer Bioengineering Conference 44809, 1297-1298, 2012",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:ye4kPcJQO24C"
-    },
-    {
-        "title": "Sequential involvement of Cdk1, mTOR and p53 in apoptosis induced by the HIV‐1 envelope",
-        "pub_year": "2002",
-        "citation": "The EMBO journal, 2002",
-        "num_citations": 185,
-        "author_pub_id": "sLEB9iYAAAAJ:qjMakFHDy7sC"
-    },
-    {
-        "title": "Shadow modeling in urban environments for solar harvesting devices with freely defined positions and orientations",
-        "pub_year": "2022",
-        "citation": "Renewable and Sustainable Energy Reviews 164, 112522, 2022",
-        "num_citations": 12,
-        "author_pub_id": "sLEB9iYAAAAJ:BJbdYPG6LGMC"
-    },
-    {
-        "title": "Simulation Study of Binding Chemistry in Crowded Conditions Using Two-and Three-Dimensional Stochastic Off-Lattice Models",
-        "pub_year": "2010",
-        "citation": "Biophysical Journal 98 (3), 58a, 2010",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:u9iWguZQMMsC"
-    },
-    {
-        "title": "Soft magnetic thin film deformation with a bistable electropermanent magnet",
-        "pub_year": "2023",
-        "citation": "Engineering Research Express 5 (3), 035071, 2023",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:lgwcVrK6X84C"
-    },
-    {
-        "title": "Soft robotics informs how an early echinoderm moved",
-        "pub_year": "2023",
-        "citation": "Proceedings of the National Academy of Sciences 120 (46), e2306580120, 2023",
-        "num_citations": 4,
-        "author_pub_id": "sLEB9iYAAAAJ:1lhNe0rCu4AC"
-    },
-    {
-        "title": "Spatiotemporal Response of Living Cell Structures in Dictyostelium discoideum with Semiconductor Quantum Dots",
-        "pub_year": "2008",
-        "citation": "Nano letters 8 (5), 1303-1308, 2008",
-        "num_citations": 16,
-        "author_pub_id": "sLEB9iYAAAAJ:3fE2CSJIrl8C"
-    },
-    {
-        "title": "Spatiotemporal control of apical and basal living subcellular chemical environments through vertical phase separation",
-        "pub_year": "2009",
-        "citation": "Small 5 (17), 1984-1989, 2009",
-        "num_citations": 6,
-        "author_pub_id": "sLEB9iYAAAAJ:RHpTSmoSYBkC"
-    },
-    {
-        "title": "Stem Cell Transplantation for Cardiac Repair is Improved by Mechanical Preconditioning",
-        "pub_year": "2009",
-        "citation": "The FASEB Journal 23, 362.9-362.9, 2009",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:abG-DnoFyZgC"
-    },
-    {
-        "title": "Stochastic off-lattice modeling of molecular self-assembly in crowded environments by Green’s function reaction dynamics",
-        "pub_year": "2008",
-        "citation": "Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 78 (3 …, 2008",
-        "num_citations": 24,
-        "author_pub_id": "sLEB9iYAAAAJ:mVmsd5A6BfQC"
-    },
-    {
-        "title": "Stretch-activated calcium signal propagation following mechanical stimulation of focal adhesions",
+        "title": "An evaluation of user experience with a sketch-based 3D modeling system",
         "pub_year": "2007",
-        "citation": "Summer Bioengineering Conference 47985, 271-272, 2007",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:2KloaMYe4IUC"
+        "citation": "Computers & Graphics 31 (4), 580-597, 2007",
+        "num_citations": 29,
+        "author_pub_id": "_X2eOeQAAAAJ:zYLM7Y9cAGgC"
     },
     {
-        "title": "Structural phase coexistence under reversible thermal control",
-        "pub_year": "2008",
-        "citation": "Advanced Materials 20 (5), 953-958, 2008",
-        "num_citations": 5,
-        "author_pub_id": "sLEB9iYAAAAJ:M3NEmzRMIkIC"
-    },
-    {
-        "title": "Structurally governed cell mechanotransduction through multiscale modeling",
-        "pub_year": "2015",
-        "citation": "Scientific Reports 5 (1), 8622, 2015",
-        "num_citations": 13,
-        "author_pub_id": "sLEB9iYAAAAJ:BUYA1_V_uYcC"
-    },
-    {
-        "title": "Structure and dynamics of single DNA molecules manipulated by magnetic tweezers and or flow",
-        "pub_year": "2009",
-        "citation": "Methods 47 (3), 214-222, 2009",
-        "num_citations": 18,
-        "author_pub_id": "sLEB9iYAAAAJ:ZeXyd9-uunAC"
-    },
-    {
-        "title": "Studying mammalian cell's reaction to topographical features fabricated by an unconventional method",
-        "pub_year": "2002",
-        "citation": "Biophysical Journal 82 (1), 164A-164A, 2002",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:VOx2b1Wkg3QC"
-    },
-    {
-        "title": "Subcellular positioning of small molecules",
-        "pub_year": "2001",
-        "citation": "Nature 411 (6841), 1016-1016, 2001",
-        "num_citations": 706,
-        "author_pub_id": "sLEB9iYAAAAJ:u5HHmVD_uO8C"
-    },
-    {
-        "title": "Subfeature patterning of organic and inorganic materials using robotic assembly",
-        "pub_year": "2007",
-        "citation": "Journal of materials research 22 (6), 1601-1608, 2007",
-        "num_citations": 13,
-        "author_pub_id": "sLEB9iYAAAAJ:KlAtU1dfN6UC"
-    },
-    {
-        "title": "Sudden motility reversal indicates sensing of magnetic field gradients in Magnetospirillum magneticum AMB-1 strain",
-        "pub_year": "2015",
-        "citation": "The ISME journal 9 (6), 1399-1409, 2015",
-        "num_citations": 24,
-        "author_pub_id": "sLEB9iYAAAAJ:nrtMV_XWKgEC"
-    },
-    {
-        "title": "Supplementary Materials: Chemotactic Responses of Jurkat Cells in Microfluidic Flow-Free Gradient Chambers",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:OcBU2YAGkTUC"
-    },
-    {
-        "title": "Surgical Training Outcomes Using a Mixed Reality Combination System",
-        "pub_year": "2024",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:kw52XkFRtyQC"
-    },
-    {
-        "title": "Surprisingly Stochastic: Learning and Application of Emergent Behavior Using Interactive Simulations of Nano-Mechanical Biological Systems",
-        "pub_year": "2014",
-        "citation": "Proceedings of the Annual Meeting of the Cognitive Science Society 36 (36), 2014",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:e_rmSamDkqQC"
-    },
-    {
-        "title": "Synergistic human-agent methods for deriving effective search strategies: the case of nanoscale design",
-        "pub_year": "2015",
-        "citation": "Research in Engineering Design 26, 145-169, 2015",
-        "num_citations": 32,
-        "author_pub_id": "sLEB9iYAAAAJ:Z5m8FVwuT1cC"
-    },
-    {
-        "title": "System and Method for Screening Therapeutic Agents",
-        "pub_year": "2021",
-        "citation": "US Patent App. 17/325,593, 2021",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:ZzlSgRqYykMC"
-    },
-    {
-        "title": "THE EFFECTS OF TRAINING BACKGROUND AND DESIGN TOOLS ON MULTI-LEVEL BIOSYSTEMS DESIGN",
-        "pub_year": "2015",
-        "citation": "",
-        "num_citations": 2,
-        "author_pub_id": "sLEB9iYAAAAJ:EYYDruWGBe4C"
-    },
-    {
-        "title": "The D3 Methodology: Bridging Science and Design for Bio-Based Product Development",
-        "pub_year": "2016",
-        "citation": "Journal of Mechanical Design 138 (8), 081101, 2016",
-        "num_citations": 25,
-        "author_pub_id": "sLEB9iYAAAAJ:MLfJN-KU85MC"
-    },
-    {
-        "title": "The d3 science-to-design methodology: automated and cognitive-based processes for discovering, describing, and designing complex nanomechanical biosystems",
-        "pub_year": "2015",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2015",
-        "num_citations": 4,
-        "author_pub_id": "sLEB9iYAAAAJ:KUbvn5osdkgC"
-    },
-    {
-        "title": "The future of miniaturization: The intersection of microfluidics, separation and lab-on-chip technology",
-        "pub_year": "2007",
-        "citation": "GIT laboratory journal Europe 11 (3-4), 45-47, 2007",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:8AbLer7MMksC"
-    },
-    {
-        "title": "The role of mechanics in biological and bio-inspired systems",
-        "pub_year": "2015",
-        "citation": "Nature communications 6 (1), 1-12, 2015",
-        "num_citations": 239,
-        "author_pub_id": "sLEB9iYAAAAJ:vbGhcppDl1QC"
-    },
-    {
-        "title": "Thermal softening of a particlemodified tungsten-based composite under adiabatic compression",
-        "pub_year": "1997",
-        "citation": "International journal of solids and structures 34 (13), 1563-1581, 1997",
-        "num_citations": 15,
-        "author_pub_id": "sLEB9iYAAAAJ:TQgYirikUcIC"
-    },
-    {
-        "title": "Thermal softening of glassy particle modified tungsten",
-        "pub_year": "1996",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 15311, 497-505, 1996",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:g5m5HwL7SMYC"
-    },
-    {
-        "title": "Thermally Adjustable Microlenses for Biological Imaging",
-        "pub_year": "2007",
-        "citation": "SENSORS, 2007 IEEE, 450-453, 2007",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:vRqMK49ujn8C"
-    },
-    {
-        "title": "Thermally Controlling the Polymeric Cytoskeleton in Living Cells",
-        "pub_year": "2006",
-        "citation": "APS March Meeting Abstracts, U26. 003, 2006",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:yD5IFk8b50cC"
-    },
-    {
-        "title": "Thermally tunable polymer microlenses",
-        "pub_year": "2008",
-        "citation": "Applied Physics Letters 92 (25), 2008",
-        "num_citations": 23,
-        "author_pub_id": "sLEB9iYAAAAJ:YOwf2qJgpHMC"
-    },
-    {
-        "title": "Thermally tunable polymer microlenses for biological imaging",
-        "pub_year": "2010",
-        "citation": "Journal of microelectromechanical systems 19 (6), 1444-1449, 2010",
-        "num_citations": 14,
-        "author_pub_id": "sLEB9iYAAAAJ:BqipwSGYUEgC"
-    },
-    {
-        "title": "Three-Dimensional Laminar Flow for Localized Cellular Stimulation",
+        "title": "An image-based trainable symbol recognizer for sketch-based interfaces. In in AAAI Fall Symposium Series 2004: Making Pen-Based Interaction Intelligent and Natural",
         "pub_year": "2004",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 47039, 41-42, 2004",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:K3LRdlH-MEoC"
-    },
-    {
-        "title": "Three-dimensional chemical profile manipulation using two-dimensional autonomous microfluidic control",
-        "pub_year": "2010",
-        "citation": "Journal of the American Chemical Society 132 (4), 1339-1347, 2010",
-        "num_citations": 17,
-        "author_pub_id": "sLEB9iYAAAAJ:7PzlFSSx8tAC"
-    },
-    {
-        "title": "Three-dimensional microfiber devices that mimic physiological environments to probe cell mechanics and signaling",
-        "pub_year": "2012",
-        "citation": "Lab on a Chip 12 (10), 1775-1779, 2012",
-        "num_citations": 16,
-        "author_pub_id": "sLEB9iYAAAAJ:hFOr9nPyWt4C"
-    },
-    {
-        "title": "Three-dimensional molecular phase separation and flow patterns with novel multilevel fluidics",
-        "pub_year": "2006",
-        "citation": "MOLECULAR AND CELLULAR BIOMECHANICS 3 (2), 69, 2006",
-        "num_citations": 2,
-        "author_pub_id": "sLEB9iYAAAAJ:hMod-77fHWUC"
-    },
-    {
-        "title": "Three-dimensional stochastic off-lattice model of binding chemistry in crowded environments",
-        "pub_year": "2012",
-        "citation": "PLoS One 7 (1), e30131, 2012",
-        "num_citations": 7,
-        "author_pub_id": "sLEB9iYAAAAJ:YFjsv_pBGBYC"
-    },
-    {
-        "title": "Three-dimentioal, flexible cell growth substrate and related methods",
-        "pub_year": "2006",
-        "citation": "US Patent App. 10/553,249, 2006",
-        "num_citations": 36,
-        "author_pub_id": "sLEB9iYAAAAJ:bEWYMUwI8FkC"
-    },
-    {
-        "title": "Topographical micropatterning of poly (dimethylsiloxane) using laminar flows of liquids in capillaries",
-        "pub_year": "2001",
-        "citation": "Advanced materials 13 (8), 570-574, 2001",
-        "num_citations": 185,
-        "author_pub_id": "sLEB9iYAAAAJ:-_dYPAW6P2MC"
-    },
-    {
-        "title": "Topological Control of Cell Sheet Migration by the 3D Microenvironment",
-        "pub_year": "2013",
-        "citation": "Biophysical Journal 104 (2), 147a, 2013",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:BrmTIyaxlBUC"
-    },
-    {
-        "title": "Toward a Unified Model of Molecular Crowding: A Regression Approach to Predict Equilibria and Kinetics of Assembly Systems in Crowded Environments",
-        "pub_year": "2011",
-        "citation": "Biophysical Journal 100 (3), 613a, 2011",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:LjlpjdlvIbIC"
-    },
-    {
-        "title": "Toward m-Scale Biological Batteries: Microbial Electricity Generation via Microfluidic Flow Control",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:cFHS6HbyZ2cC"
-    },
-    {
-        "title": "Toward sustainable desalination using food waste: capacitive desalination with bread-derived electrodes",
-        "pub_year": "2021",
-        "citation": "RSC advances 11 (16), 9628-9637, 2021",
-        "num_citations": 6,
-        "author_pub_id": "sLEB9iYAAAAJ:r_AWSJRzSzQC"
-    },
-    {
-        "title": "Toward vasculature in skeletal muscle-on-a-chip through thermo-responsive sacrificial templates",
-        "pub_year": "2020",
-        "citation": "Micromachines 11 (10), 907, 2020",
-        "num_citations": 23,
-        "author_pub_id": "sLEB9iYAAAAJ:HtS1dXgVpQUC"
-    },
-    {
-        "title": "Towards an in vivo biologically inspired nanofactory",
-        "pub_year": "2007",
-        "citation": "Nature Nanotechnology 2 (1), 3-7, 2007",
-        "num_citations": 209,
-        "author_pub_id": "sLEB9iYAAAAJ:IjCSPb-OGe4C"
-    },
-    {
-        "title": "Tracking of instrument motions using an inertial measurement system",
-        "pub_year": "2022",
-        "citation": "US Patent App. 17/486,419, 2022",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:vDZJ-YLwNdEC"
-    },
-    {
-        "title": "Tracking of scalpel motions with an inertial measurement unit system",
-        "pub_year": "2022",
-        "citation": "IEEE Sensors Journal 22 (5), 4651-4660, 2022",
+        "citation": "AAAI Press, 2004",
         "num_citations": 8,
-        "author_pub_id": "sLEB9iYAAAAJ:Bg7qf7VwUHIC"
+        "author_pub_id": "_X2eOeQAAAAJ:D_sINldO8mEC"
     },
     {
-        "title": "Tumor-on-a-chip for integrating a 3D tumor microenvironment: chemical and mechanical factors",
+        "title": "An image-based, trainable symbol recognizer for hand-drawn sketches",
+        "pub_year": "2005",
+        "citation": "Computers & Graphics 29 (4), 501-517, 2005",
+        "num_citations": 266,
+        "author_pub_id": "_X2eOeQAAAAJ:u5HHmVD_uO8C"
+    },
+    {
+        "title": "Architectural design in a broader spectrum of cultural experiences: A case study for hermeneutics in the architectural education",
+        "citation": "Conference Coordinators, 114, 0",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:p2g8aNsByqUC"
+    },
+    {
+        "title": "Attention routing: track-assignment detailed routing using attention-based reinforcement learning",
         "pub_year": "2020",
-        "citation": "Lab on a Chip 20 (5), 873-888, 2020",
-        "num_citations": 105,
-        "author_pub_id": "sLEB9iYAAAAJ:mlAyqtXpCwEC"
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2020",
+        "num_citations": 34,
+        "author_pub_id": "_X2eOeQAAAAJ:AXPGKjj_ei8C"
     },
     {
-        "title": "Understanding Biological Structures Through Exploring the Mechanical Response of Cell-Like Systems",
-        "pub_year": "2008",
-        "citation": "Summer Bioengineering Conference 43215, 401-402, 2008",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:wbdj-CoPYUoC"
-    },
-    {
-        "title": "Understanding Cellular Energy Harvesting through Piezoelectric Polymers with Cellular Interfaces",
-        "pub_year": "2013",
-        "citation": "Biophysical Journal 104 (2), 530a-531a, 2013",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:5awf1xo2G04C"
-    },
-    {
-        "title": "Understanding actin organization in cell structure through lattice based Monte Carlo simulations",
+        "title": "Automatic parsing and recognition of hand-drawn sketches for pen-based computer interfaces",
         "pub_year": "2004",
-        "citation": "Molecular & Cellular Biomechanics 1 (2), 123, 2004",
-        "num_citations": 9,
-        "author_pub_id": "sLEB9iYAAAAJ:Wp0gIr-vW9MC"
+        "citation": "carnegie mellon university, 2004",
+        "num_citations": 14,
+        "author_pub_id": "_X2eOeQAAAAJ:eQOLeE2rZwMC"
     },
     {
-        "title": "Understanding cell motility through differential gradient stimulation",
-        "pub_year": "2005",
-        "citation": "BIOPHYSICAL JOURNAL 88 (1), 518A-519A, 2005",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:tS2w5q8j5-wC"
-    },
-    {
-        "title": "Understanding molecular crowding effects on linear cytoskeleton assembly with reduced models",
-        "pub_year": "2005",
-        "citation": "BIOPHYSICAL JOURNAL 88 (1), 516A-516A, 2005",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:l7t_Zn2s7bgC"
-    },
-    {
-        "title": "Understanding plant growth using automation approaches for biomaterial synthesis",
+        "title": "BIGNet: A Deep Learning Architecture for Brand Recognition with Geometry-Based Explainability",
         "pub_year": "2024",
-        "citation": "Biophysical Journal 123 (3), 544a, 2024",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:MpfHP-DdYjUC"
+        "citation": "Journal of Mechanical Design 146 (5), 051701, 2024",
+        "num_citations": 6,
+        "author_pub_id": "_X2eOeQAAAAJ:j8SEvjWlNXcC"
     },
     {
-        "title": "Understanding sensory nerve mechanotransduction through localized elastomeric matrix control",
-        "pub_year": "2009",
-        "citation": "PloS one 4 (1), e4293, 2009",
-        "num_citations": 92,
-        "author_pub_id": "sLEB9iYAAAAJ:eQOLeE2rZwMC"
-    },
-    {
-        "title": "Understanding spatial constraints on biological self-assembly systems through lattice based monte carlo modeling",
-        "pub_year": "2004",
-        "citation": "Biophysical Journal 86 (1), 630A-630A, 2004",
-        "num_citations": 2,
-        "author_pub_id": "sLEB9iYAAAAJ:SeFeTyx0c_EC"
-    },
-    {
-        "title": "Understanding the Mechanical Properties of Microalgae using Atomic Force Microscopy",
-        "pub_year": "2013",
-        "citation": "Biophysical Journal 104 (2), 513a, 2013",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:HE397vMXCloC"
-    },
-    {
-        "title": "Unified regression model of binding equilibria in crowded environments",
+        "title": "Beautification of design sketches using trainable stroke clustering and curve fitting",
         "pub_year": "2011",
-        "citation": "Scientific Reports 1 (1), 97, 2011",
-        "num_citations": 9,
-        "author_pub_id": "sLEB9iYAAAAJ:k_IJM867U9cC"
+        "citation": "IEEE Transactions on Visualization and Computer Graphics 17 (5), 694-708, 2011",
+        "num_citations": 88,
+        "author_pub_id": "_X2eOeQAAAAJ:roLk4NBRz8UC"
     },
     {
-        "title": "Urban solar harvesting: The importance of diffuse shadows in complex environments",
-        "pub_year": "2023",
-        "citation": "Renewable and Sustainable Energy Reviews 175, 113155, 2023",
-        "num_citations": 7,
-        "author_pub_id": "sLEB9iYAAAAJ:uDGL6kOW6j0C"
+        "title": "CCFD-Net: A novel deep learning model for credit card fraud detection",
+        "pub_year": "2021",
+        "citation": "2021 IEEE 22nd International Conference on Information Reuse and Integration …, 2021",
+        "num_citations": 10,
+        "author_pub_id": "_X2eOeQAAAAJ:WqliGbK-hY8C"
     },
     {
-        "title": "Use of Flexible Materials with a Novel Pressure Driven Equibiaxial Cell Stretching Device for Mechanical Stimulation of Single Mammalian Cells",
-        "pub_year": "2003",
-        "citation": "MRS Online Proceedings Library (OPL) 773, N5. 6, 2003",
-        "num_citations": 1,
-        "author_pub_id": "sLEB9iYAAAAJ:NaGl4SEjCO4C"
-    },
-    {
-        "title": "Use of micropatterned adhesive surfaces for control of cell behavior",
-        "pub_year": "2002",
-        "citation": "Academic Press 69, 385-401, 2002",
-        "num_citations": 43,
-        "author_pub_id": "sLEB9iYAAAAJ:LkGwnXOMwfcC"
-    },
-    {
-        "title": "Using Atomic Force Microscopy to Probe Microalgal Response",
-        "pub_year": "2014",
-        "citation": "Biophysical Journal 106 (2), 390a, 2014",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:uLbwQdceFCQC"
-    },
-    {
-        "title": "Using Mechanical Environment to Enhance Stem Cell Transplantation in Muscle Regeneration",
-        "pub_year": "2007",
-        "citation": "Summer Bioengineering Conference 47985, 275-276, 2007",
-        "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:ZfRJV9d4-WMC"
-    },
-    {
-        "title": "Using femtosecond laser subcellular surgery to studycell biology",
-        "pub_year": "2004",
+        "title": "COMPUTING DESIGN RATIONALES USING CAUSAL REPRESENTATION OF SIMULATIONS",
         "citation": "",
-        "num_citations": 5,
-        "author_pub_id": "sLEB9iYAAAAJ:_Qo2XoVZTnwC"
-    },
-    {
-        "title": "Using lessons from cellular and molecular structures for future materials",
-        "pub_year": "2007",
-        "citation": "Advanced Materials 19 (22), 3761-3770, 2007",
-        "num_citations": 55,
-        "author_pub_id": "sLEB9iYAAAAJ:W7OEmFMy1HYC"
-    },
-    {
-        "title": "Using structural adaptations in plants for desalination",
-        "pub_year": "2020",
-        "citation": "Bulletin of the American Physical Society 65, 2020",
         "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:_5tno0g5mFcC"
+        "author_pub_id": "_X2eOeQAAAAJ:4DMP91E08xMC"
     },
     {
-        "title": "Utilizing emergent levels to facilitate complex systems design: Demonstrated in a synthetic biology domain",
+        "title": "Causal reasoning using geometric analysis",
+        "pub_year": "2002",
+        "citation": "AI EDAM 16 (5), 363-384, 2002",
+        "num_citations": 1,
+        "author_pub_id": "_X2eOeQAAAAJ:0EnyYjriUFMC"
+    },
+    {
+        "title": "Characterizing the performance of an image-based recognizer for planar mechanical linkages in textbook graphics and hand-drawn sketches",
+        "pub_year": "2015",
+        "citation": "Computers & Graphics 52, 1-17, 2015",
+        "num_citations": 7,
+        "author_pub_id": "_X2eOeQAAAAJ:RGFaLdJalmkC"
+    },
+    {
+        "title": "Co-abstraction of shape collections",
+        "pub_year": "2012",
+        "citation": "ACM Transactions on Graphics (TOG) 31 (6), 1-11, 2012",
+        "num_citations": 59,
+        "author_pub_id": "_X2eOeQAAAAJ:-f6ydRqryjwC"
+    },
+    {
+        "title": "Co-constrained handles for deformation in shape collections",
+        "pub_year": "2014",
+        "citation": "ACM Transactions on Graphics (TOG) 33 (6), 1-11, 2014",
+        "num_citations": 50,
+        "author_pub_id": "_X2eOeQAAAAJ:hMod-77fHWUC"
+    },
+    {
+        "title": "Combining geometry and domain knowledge to interpret hand-drawn diagrams",
+        "pub_year": "2005",
+        "citation": "Computers & Graphics 29 (4), 547-562, 2005",
+        "num_citations": 187,
+        "author_pub_id": "_X2eOeQAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+        "title": "Component segmentation of engineering drawings using Graph Convolutional Networks",
+        "pub_year": "2023",
+        "citation": "Computers in Industry 147, 103885, 2023",
+        "num_citations": 16,
+        "author_pub_id": "_X2eOeQAAAAJ:Fu2w8maKXqMC"
+    },
+    {
+        "title": "Computational Modeling of Objects Presented in Images: Fundamentals, Methods, and Applications: 4th International Conference, CompIMAGE 2014, Pittsburgh, PA, USA, September 3-5 …",
+        "pub_year": "2014",
+        "citation": "Springer, 2014",
+        "num_citations": 3,
+        "author_pub_id": "_X2eOeQAAAAJ:vbGhcppDl1QC"
+    },
+    {
+        "title": "Computer tutors can address students learning to solve complex engineering problems",
+        "pub_year": "2014",
+        "citation": "2014 IEEE Frontiers in Education Conference (FIE) Proceedings, 1-8, 2014",
+        "num_citations": 8,
+        "author_pub_id": "_X2eOeQAAAAJ:BqipwSGYUEgC"
+    },
+    {
+        "title": "Computer tutors can reduce student errors and promote solution efficiency for complex engineering problems",
+        "pub_year": "2014",
+        "citation": "Journal of Visual Languages & Computing 25 (6), 1021-1029, 2014",
+        "num_citations": 1,
+        "author_pub_id": "_X2eOeQAAAAJ:maZDTaKrznsC"
+    },
+    {
+        "title": "Computer-Aided Patient-Specific Coronary Artery Graft Design",
+        "pub_year": "2010",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:dshw04ExmUIC"
+    },
+    {
+        "title": "Computer-aided patient-specific coronary artery graft design improvements using CFD coupled shape optimizer",
+        "pub_year": "2011",
+        "citation": "Cardiovascular engineering and technology 2, 35-47, 2011",
+        "num_citations": 77,
+        "author_pub_id": "_X2eOeQAAAAJ:WF5omc3nYNoC"
+    },
+    {
+        "title": "Conceptual design and modification of freeform surfaces using dual shape representations in augmented reality environments",
+        "pub_year": "2012",
+        "citation": "Computer-Aided Design 44 (10), 1020-1032, 2012",
+        "num_citations": 97,
+        "author_pub_id": "_X2eOeQAAAAJ:LkGwnXOMwfcC"
+    },
+    {
+        "title": "Concurrent build direction, part segmentation, and topology optimization for additive manufacturing using neural networks",
+        "pub_year": "2023",
+        "citation": "Journal of Mechanical Design 145 (9), 2023",
+        "num_citations": 12,
+        "author_pub_id": "_X2eOeQAAAAJ:uLbwQdceFCQC"
+    },
+    {
+        "title": "Concurrent structure and process optimization for minimum cost metal additive manufacturing",
+        "pub_year": "2019",
+        "citation": "Journal of Mechanical Design 141 (6), 061701, 2019",
+        "num_citations": 69,
+        "author_pub_id": "_X2eOeQAAAAJ:K3LRdlH-MEoC"
+    },
+    {
+        "title": "Construction and Modification of 3D Geometry Using a Sketch-based Interface.",
+        "pub_year": "2006",
+        "citation": "SBM, 59-66, 2006",
+        "num_citations": 45,
+        "author_pub_id": "_X2eOeQAAAAJ:IjCSPb-OGe4C"
+    },
+    {
+        "title": "Curve-based Neural Style Transfer",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2401.08579, 2023",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:t7zJ5fGR-2UC"
+    },
+    {
+        "title": "DMF-TONN: direct mesh-free topology optimization using neural networks",
+        "pub_year": "2024",
+        "citation": "Engineering with Computers 40 (4), 2227-2240, 2024",
+        "num_citations": 16,
+        "author_pub_id": "_X2eOeQAAAAJ:_Re3VWB3Y0AC"
+    },
+    {
+        "title": "DMS2015-33: Generative interface structure design for supporting existing objects",
+        "pub_year": "2015",
+        "citation": "Journal of Visual Languages & Computing 31, 171-183, 2015",
+        "num_citations": 14,
+        "author_pub_id": "_X2eOeQAAAAJ:vV6vV6tmYwMC"
+    },
+    {
+        "title": "DTM at 25: essays on themes and future directions",
         "pub_year": "2013",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2013",
-        "num_citations": 10,
-        "author_pub_id": "sLEB9iYAAAAJ:NJ774b8OgUMC"
+        "num_citations": 17,
+        "author_pub_id": "_X2eOeQAAAAJ:BwyfMAYsbu0C"
     },
     {
-        "title": "Visualization of the real-time dynamics of individual deoxyribonucleic acid molecules under shear strain",
-        "pub_year": "1999",
-        "citation": "1999 Bioengineering Conference, 87-88, 1999",
+        "title": "Data augmentation of engineering drawings for data-driven component segmentation",
+        "pub_year": "2022",
+        "citation": "International design engineering technical conferences and computers and …, 2022",
+        "num_citations": 7,
+        "author_pub_id": "_X2eOeQAAAAJ:VL0QpB8kHFEC"
+    },
+    {
+        "title": "Data-driven upsampling of point clouds",
+        "pub_year": "2019",
+        "citation": "Computer-Aided Design 112, 1-13, 2019",
+        "num_citations": 36,
+        "author_pub_id": "_X2eOeQAAAAJ:OU6Ihb5iCvQC"
+    },
+    {
+        "title": "Deciphering the influence of product shape on consumer judgments through geometric abstraction",
+        "pub_year": "2015",
+        "citation": "Journal of Mechanical Design 137 (8), 081103, 2015",
+        "num_citations": 40,
+        "author_pub_id": "_X2eOeQAAAAJ:O3NaXMp0MMsC"
+    },
+    {
+        "title": "Design of target specific peptide inhibitors using generative deep learning and molecular dynamics simulations",
+        "pub_year": "2024",
+        "citation": "Nature Communications 15 (1), 1611, 2024",
+        "num_citations": 13,
+        "author_pub_id": "_X2eOeQAAAAJ:JQOojiI6XY0C"
+    },
+    {
+        "title": "Design theory and methodology",
+        "pub_year": "2012",
+        "citation": "Mechanical Engineering-CIME 134 (12), 62-63, 2012",
         "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:q3oQSFYPqjQC"
+        "author_pub_id": "_X2eOeQAAAAJ:BUYA1_V_uYcC"
     },
     {
-        "title": "Visualizing localized domain transformations of single molecules and cells through nano-and micro-technology.",
-        "pub_year": "2004",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 228, U216-U216, 2004",
+        "title": "Designing coupling behaviors using compliant shape optimization",
+        "pub_year": "2018",
+        "citation": "Computer-Aided Design 101, 57-71, 2018",
+        "num_citations": 9,
+        "author_pub_id": "_X2eOeQAAAAJ:xtRiw3GOFMkC"
+    },
+    {
+        "title": "Development of a cognitive tutor for learning truss analysis",
+        "pub_year": "2014",
+        "citation": "2014 ASEE Annual Conference & Exposition, 24.413. 1-24.413. 14, 2014",
+        "num_citations": 3,
+        "author_pub_id": "_X2eOeQAAAAJ:isC4tDSrTZIC"
+    },
+    {
+        "title": "Development of a general calibration model and long-term performance evaluation of low-cost sensors for air pollutant gas monitoring",
+        "pub_year": "2019",
+        "citation": "Atmospheric Measurement Techniques 12 (2), 903-920, 2019",
+        "num_citations": 156,
+        "author_pub_id": "_X2eOeQAAAAJ:B3FOqHPlNUQC"
+    },
+    {
+        "title": "Efficient load sampling for worst-case structural analysis under force location uncertainty",
+        "pub_year": "2018",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2018",
+        "num_citations": 4,
+        "author_pub_id": "_X2eOeQAAAAJ:WbkHhVStYXYC"
+    },
+    {
+        "title": "Elucidation of chain dispersity effect on structure and mechanical properties of brush particle solids",
+        "pub_year": "2023",
+        "citation": "APS March Meeting Abstracts 2023, W05. 008, 2023",
         "num_citations": 0,
-        "author_pub_id": "sLEB9iYAAAAJ:a0OBvERweLwC"
+        "author_pub_id": "_X2eOeQAAAAJ:9Nmd_mFXekcC"
     },
     {
-        "title": "Written in blood: Applying shape grammars to retinal vasculatures",
-        "pub_year": "2020",
-        "citation": "Translational Vision Science & Technology 9 (9), 36-36, 2020",
+        "title": "Enhancing the Structural Performance of Additively Manufactured Objects",
+        "pub_year": "2018",
+        "citation": "Carnegie Mellon University, 2018",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:l7t_Zn2s7bgC"
+    },
+    {
+        "title": "Enhancing the structural performance of additively manufactured objects through build orientation optimization",
+        "pub_year": "2015",
+        "citation": "Journal of Mechanical Design 137 (11), 111410, 2015",
+        "num_citations": 172,
+        "author_pub_id": "_X2eOeQAAAAJ:NaGl4SEjCO4C"
+    },
+    {
+        "title": "Evaluation of Information Content in 2D and 3D Microstructural Characterization of Brush Particle-Based Hybrid Materials",
+        "pub_year": "2024",
+        "citation": "Electronic Imaging 36, 1-7, 2024",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:uc_IGeMz5qoC"
+    },
+    {
+        "title": "Feature, design intention and constraint preservation for direct modeling of 3D freeform surfaces",
+        "pub_year": "2012",
+        "citation": "3D Research 3 (2), 1-18, 2012",
         "num_citations": 5,
-        "author_pub_id": "sLEB9iYAAAAJ:cWzG1nlazyYC"
+        "author_pub_id": "_X2eOeQAAAAJ:ULOm3_A8WrAC"
+    },
+    {
+        "title": "Fingerprint Recognition Using a Novel Pie-Sector Representation",
+        "pub_year": "2003",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:dhFuZR0502QC"
+    },
+    {
+        "title": "Flaw detection in metal additive manufacturing using deep learned acoustic features",
+        "pub_year": "2020",
+        "citation": "Workshop of conference on neural information processing systems, 2020",
+        "num_citations": 7,
+        "author_pub_id": "_X2eOeQAAAAJ:dTyEYWd-f8wC"
+    },
+    {
+        "title": "Foreword to the special section on expressive graphics",
+        "pub_year": "2013",
+        "citation": "Computers and Graphics 37 (5), A5-A6, 2013",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:u_35RYKgDlwC"
+    },
+    {
+        "title": "Free form surface skinning of 3d curve clouds for conceptual shape design",
+        "pub_year": "2012",
+        "citation": "Journal of computing and information science in engineering 12 (3), 031005, 2012",
+        "num_citations": 10,
+        "author_pub_id": "_X2eOeQAAAAJ:_kc_bZDykSQC"
+    },
+    {
+        "title": "From engineering diagrams to engineering models: Visual recognition and applications",
+        "pub_year": "2011",
+        "citation": "Computer-Aided Design 43 (3), 278-292, 2011",
+        "num_citations": 69,
+        "author_pub_id": "_X2eOeQAAAAJ:MXK_kJrjxJIC"
+    },
+    {
+        "title": "Generative Manufacturing: A requirements and resource-driven approach to part making",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2409.03089, 2024",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:zLWjf1WUPmwC"
+    },
+    {
+        "title": "Geological storytelling: graphically exploring and communicating geological sketches",
+        "pub_year": "2012",
+        "citation": "Proceedings of the International Symposium on Sketch-Based Interfaces and …, 2012",
+        "num_citations": 30,
+        "author_pub_id": "_X2eOeQAAAAJ:g5m5HwL7SMYC"
+    },
+    {
+        "title": "Geometric Modeling for Industrial Design with User-Prescribed Constraints",
+        "pub_year": "2013",
+        "citation": "Carnegie Mellon University, 2013",
+        "num_citations": 3,
+        "author_pub_id": "_X2eOeQAAAAJ:4MWp96NkSFoC"
+    },
+    {
+        "title": "Graph neural network-enabled manufacturing method classification from engineering drawings",
+        "pub_year": "2022",
+        "citation": "Computers in Industry 142, 103697, 2022",
+        "num_citations": 40,
+        "author_pub_id": "_X2eOeQAAAAJ:ye4kPcJQO24C"
+    },
+    {
+        "title": "Guanyun Wang1, Humphrey Yang2, Zeyu Yan3, Nurcan Gecer Ulu3, Ye Tao1, 4, Jianzhe Gu1",
+        "pub_year": "2018",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:SdhP9T11ey4C"
+    },
+    {
+        "title": "Hierarchical Automatic Multilayer Power Plane Generation With Genetic Optimization and Multilayer Perceptron",
+        "pub_year": "2023",
+        "citation": "Journal of Mechanical Design 145 (10), 2023",
+        "num_citations": 1,
+        "author_pub_id": "_X2eOeQAAAAJ:2KloaMYe4IUC"
+    },
+    {
+        "title": "Hierarchical Parsing and Recognition of Hand-Sketched Diagrams. 17th ACM User Interface Software Technology (UIST)",
+        "pub_year": "2004",
+        "citation": "Sante Fe, NM, 2004",
+        "num_citations": 3,
+        "author_pub_id": "_X2eOeQAAAAJ:wbdj-CoPYUoC"
+    },
+    {
+        "title": "Hierarchical parsing and recognition of hand-sketched diagrams",
+        "pub_year": "2004",
+        "citation": "Proceedings of the 17th annual ACM symposium on User interface software and …, 2004",
+        "num_citations": 167,
+        "author_pub_id": "_X2eOeQAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+        "title": "High degree of freedom hand pose tracking using limited strain sensing and optical training",
+        "pub_year": "2019",
+        "citation": "Journal of Computing and Information Science in Engineering 19 (3), 031014, 2019",
+        "num_citations": 8,
+        "author_pub_id": "_X2eOeQAAAAJ:738O_yMBCRsC"
+    },
+    {
+        "title": "Improved Patient-Specific Coronary Artery Graft Configurations Using CFD Coupled Shape Optimizer",
+        "pub_year": "2009",
+        "citation": "Summer Bioengineering Conference 48913, 1167-1168, 2009",
+        "num_citations": 1,
+        "author_pub_id": "_X2eOeQAAAAJ:L8Ckcad2t8MC"
+    },
+    {
+        "title": "Improving Problem Solving Performance by",
+        "pub_year": "2010",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:r0BpntZqJG4C"
+    },
+    {
+        "title": "Improving problem solving performance by inducing talk about salient problem features",
+        "pub_year": "2010",
+        "citation": "Journal of Engineering Education 99 (2), 135-142, 2010",
+        "num_citations": 94,
+        "author_pub_id": "_X2eOeQAAAAJ:ufrVoPGSRksC"
+    },
+    {
+        "title": "Inference of Highly Time-resolved Melt Pool Visual Characteristics in Laser Powder Bed Fusion from Acoustic and Thermal Emission Data",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2310.05289, 2023",
+        "num_citations": 1,
+        "author_pub_id": "_X2eOeQAAAAJ:fEOibwPWpKIC"
+    },
+    {
+        "title": "Inference of highly time-resolved melt pool visual characteristics and spatially-dependent lack-of-fusion defects in laser powder bed fusion using acoustic and thermal emission …",
+        "pub_year": "2024",
+        "citation": "Additive Manufacturing 83, 104057, 2024",
+        "num_citations": 9,
+        "author_pub_id": "_X2eOeQAAAAJ:VLnqNzywnoUC"
+    },
+    {
+        "title": "Intermodal image-based recognition of planar kinematic mechanisms",
+        "pub_year": "2015",
+        "citation": "Journal of Visual Languages & Computing 27, 38-48, 2015",
+        "num_citations": 9,
+        "author_pub_id": "_X2eOeQAAAAJ:M3NEmzRMIkIC"
+    },
+    {
+        "title": "Is additive manufacturing an environmentally and economically preferred alternative for mass production?",
+        "pub_year": "2023",
+        "citation": "Environmental science & technology 57 (16), 6373-6386, 2023",
+        "num_citations": 41,
+        "author_pub_id": "_X2eOeQAAAAJ:ZfRJV9d4-WMC"
+    },
+    {
+        "title": "Keynote Talk I",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:hMsQuOkrut0C"
+    },
+    {
+        "title": "Learning geometric design knowledge from conceptual sketches and its utilization in shape creation and optimization",
+        "pub_year": "2009",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2009",
+        "num_citations": 7,
+        "author_pub_id": "_X2eOeQAAAAJ:4TOpqqG69KYC"
+    },
+    {
+        "title": "Lightweight structure design under force location uncertainty",
+        "pub_year": "2017",
+        "citation": "ACM Transactions on Graphics (TOG) 36 (4), 1-13, 2017",
+        "num_citations": 33,
+        "author_pub_id": "_X2eOeQAAAAJ:bFI3QPDXJZMC"
+    },
+    {
+        "title": "MLCAD ‘20",
+        "pub_year": "2020",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:L7CI7m0gUJcC"
+    },
+    {
+        "title": "Methods and software for volume-centric shape abstraction and simplification of a 3D digital model",
+        "pub_year": "2017",
+        "citation": "US Patent 9,792,734, 2017",
+        "num_citations": 6,
+        "author_pub_id": "_X2eOeQAAAAJ:GnPB-g6toBAC"
+    },
+    {
+        "title": "Modeling flow features with user-guided streamline parameterization",
+        "pub_year": "2014",
+        "citation": "Computer-Aided Design 46, 263-268, 2014",
+        "num_citations": 3,
+        "author_pub_id": "_X2eOeQAAAAJ:_Qo2XoVZTnwC"
+    },
+    {
+        "title": "Multi-Class Entity Classification on Rasterized Engineering Drawings Using Graph Learning",
+        "pub_year": "2024",
+        "citation": "ASME International Mechanical Engineering Congress and Exposition 88605 …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:URolC5Kub84C"
+    },
+    {
+        "title": "Multi-scale Topology Optimization using Neural Networks",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.08708, 2024",
+        "num_citations": 1,
+        "author_pub_id": "_X2eOeQAAAAJ:yB1At4FlUx8C"
+    },
+    {
+        "title": "Neural network-based symbol recognition using a few labeled samples",
+        "pub_year": "2011",
+        "citation": "Computers & Graphics 35 (5), 955-966, 2011",
+        "num_citations": 31,
+        "author_pub_id": "_X2eOeQAAAAJ:UebtZRa9Y70C"
+    },
+    {
+        "title": "Optimization of part consolidation for minimum production costs and time using additive manufacturing",
+        "pub_year": "2020",
+        "citation": "Journal of Mechanical Design 142 (7), 072001, 2020",
+        "num_citations": 53,
+        "author_pub_id": "_X2eOeQAAAAJ:eflP2zaiRacC"
+    },
+    {
+        "title": "POETIC SPONTANEITY BEYOND CONTEXT OF MEANING",
+        "pub_year": "2019",
+        "citation": "Arhitektura, Raziskave 2019, 193-268, 2019",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:NJ774b8OgUMC"
+    },
+    {
+        "title": "Pen-based Styling Design of 3D Geometry Using Concept Sketches and",
+        "pub_year": "2006",
+        "citation": "ACM Symposium on Solid and Physical Modeling: Proceedings, SPM..., 149, 2006",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:nrtMV_XWKgEC"
+    },
+    {
+        "title": "Pen-based interfaces for engineering and education",
+        "pub_year": "2011",
+        "citation": "Sketch-based Interfaces and Modeling, 119-152, 2011",
+        "num_citations": 11,
+        "author_pub_id": "_X2eOeQAAAAJ:EYYDruWGBe4C"
+    },
+    {
+        "title": "Pen-based styling design of 3D geometry using concept sketches and template models",
+        "pub_year": "2006",
+        "citation": "Proceedings of the 2006 ACM symposium on Solid and physical modeling, 149-160, 2006",
+        "num_citations": 110,
+        "author_pub_id": "_X2eOeQAAAAJ:qjMakFHDy7sC"
+    },
+    {
+        "title": "Pencil-like sketch rendering of 3D scenes using trajectory planning and dynamic tracking",
+        "pub_year": "2014",
+        "citation": "Journal of Visual Languages & Computing 25 (4), 481-493, 2014",
+        "num_citations": 10,
+        "author_pub_id": "_X2eOeQAAAAJ:e5wmG9Sq2KIC"
+    },
+    {
+        "title": "Placement in integrated circuits using cyclic reinforcement learning and simulated annealing",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2011.07577, 2020",
+        "num_citations": 44,
+        "author_pub_id": "_X2eOeQAAAAJ:JoZmwDi-zQgC"
+    },
+    {
+        "title": "Prediction of Nitrogen Concentration in Fuel Cells Using Data-Driven Modeling",
+        "pub_year": "2019",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2019",
+        "num_citations": 1,
+        "author_pub_id": "_X2eOeQAAAAJ:eJXPG6dFmWUC"
+    },
+    {
+        "title": "Prediction of Nitrogen Concentration in Fuel Cells Using Data-Driven Modeling",
+        "pub_year": "2019",
+        "citation": "39th Computers and Information in Engineering Conference 1, 2019",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:olpn-zPbct0C"
+    },
+    {
+        "title": "Prediction of high frequency resistance in polymer electrolyte membrane fuel cells using long short term memory based model",
+        "pub_year": "2021",
+        "citation": "Energy and AI 3, 100045, 2021",
+        "num_citations": 30,
+        "author_pub_id": "_X2eOeQAAAAJ:9vf0nzSNQJEC"
+    },
+    {
+        "title": "Predictive modeling for 2d form design",
+        "pub_year": "2014",
+        "citation": "Computational Modeling of Objects Presented in Images. Fundamentals, Methods …, 2014",
+        "num_citations": 1,
+        "author_pub_id": "_X2eOeQAAAAJ:bEWYMUwI8FkC"
+    },
+    {
+        "title": "Procedural modeling using autoencoder networks",
+        "pub_year": "2015",
+        "citation": "Proceedings of the 28th Annual ACM Symposium on User Interface Software …, 2015",
+        "num_citations": 76,
+        "author_pub_id": "_X2eOeQAAAAJ:35N4QoGY0k4C"
+    },
+    {
+        "title": "Providing formative assessment to students solving multipath engineering problems with complex arrangements of interacting parts: An intelligent tutor approach",
+        "pub_year": "2016",
+        "citation": "Interactive Learning Environments 24 (8), 1864-1880, 2016",
+        "num_citations": 4,
+        "author_pub_id": "_X2eOeQAAAAJ:J_g5lzvAfSwC"
+    },
+    {
+        "title": "Real-time prediction of soft tissue deformations using data-driven nonlinear presurgical simulations",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2010.13823, 2020",
+        "num_citations": 8,
+        "author_pub_id": "_X2eOeQAAAAJ:PELIpwtuRlgC"
+    },
+    {
+        "title": "Recognizing multi-stroke symbols",
+        "pub_year": "2002",
+        "citation": "AAAI Spring Symposium on Sketch Understanding, 15-23, 2002",
+        "num_citations": 135,
+        "author_pub_id": "_X2eOeQAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+        "title": "Recognizing multi-stroke symbols: A statistical approach",
+        "pub_year": "2004",
+        "citation": "",
+        "num_citations": 2,
+        "author_pub_id": "_X2eOeQAAAAJ:zA6iFVUQeVQC"
+    },
+    {
+        "title": "Recognizing network-like hand-drawn sketches: a convolutional neural network approach",
+        "pub_year": "2009",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2009",
+        "num_citations": 11,
+        "author_pub_id": "_X2eOeQAAAAJ:8k81kl-MbHgC"
+    },
+    {
+        "title": "Recognizing planar kinematic mechanisms from a single image using evolutionary computation",
+        "pub_year": "2014",
+        "citation": "Proceedings of the 2014 Annual Conference on Genetic and Evolutionary …, 2014",
+        "num_citations": 7,
+        "author_pub_id": "_X2eOeQAAAAJ:iH-uZ7U-co4C"
+    },
+    {
+        "title": "Reconstruction of a deformed tumor based on fiducial marker registration: a computational feasibility study",
+        "pub_year": "2018",
+        "citation": "Technology in Cancer Research & Treatment 17, 1533034618766792, 2018",
+        "num_citations": 4,
+        "author_pub_id": "_X2eOeQAAAAJ:KxtntwgDAa4C"
+    },
+    {
+        "title": "Reinforcement learning for routing",
+        "pub_year": "2022",
+        "citation": "Machine Learning Applications in Electronic Design Automation, 277-306, 2022",
+        "num_citations": 2,
+        "author_pub_id": "_X2eOeQAAAAJ:kzcrU_BdoSEC"
+    },
+    {
+        "title": "SNF-ROM: Projection-based nonlinear reduced order modeling with smooth neural fields",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2405.14890, 2024",
+        "num_citations": 2,
+        "author_pub_id": "_X2eOeQAAAAJ:0KyAp5RtaNEC"
+    },
+    {
+        "title": "Scalar Field Prediction on Meshes Using Interpolated Multiresolution Convolutional Neural Networks",
+        "pub_year": "2024",
+        "citation": "Journal of Applied Mechanics 91 (10), 2024",
+        "num_citations": 1,
+        "author_pub_id": "_X2eOeQAAAAJ:ipzZ9siozwsC"
+    },
+    {
+        "title": "Scalar Field Prediction on Topologically-Varying Graphs Using Spectral Shape Encoding",
+        "pub_year": "2022",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
+        "num_citations": 1,
+        "author_pub_id": "_X2eOeQAAAAJ:ZuybSZzF8UAC"
+    },
+    {
+        "title": "Semantic Shape Editing Using Deformation Handles–Supplemental Material",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:_xSYboBqXhAC"
+    },
+    {
+        "title": "Semantic shape editing using deformation handles",
+        "pub_year": "2015",
+        "citation": "ACM Transactions on Graphics (TOG) 34 (4), 1-12, 2015",
+        "num_citations": 169,
+        "author_pub_id": "_X2eOeQAAAAJ:RYcK_YlVTxYC"
+    },
+    {
+        "title": "Shape design from exemplar sketches using graph-based sketch analysis",
+        "pub_year": "2012",
+        "citation": "",
+        "num_citations": 13,
+        "author_pub_id": "_X2eOeQAAAAJ:mVmsd5A6BfQC"
+    },
+    {
+        "title": "Sim-U-Sketch: A sketch-based interface for SimuLink",
+        "pub_year": "2004",
+        "citation": "Proceedings of the working conference on Advanced visual interfaces, 354-357, 2004",
+        "num_citations": 36,
+        "author_pub_id": "_X2eOeQAAAAJ:UeHWp8X0CEIC"
+    },
+    {
+        "title": "Sketch Based Interfaces and Modeling, Annecy, France, 2012",
+        "citation": "Eurographics Association, 0",
+        "num_citations": 3,
+        "author_pub_id": "_X2eOeQAAAAJ:P5F9QuxV20EC"
+    },
+    {
+        "title": "Sketch Understanding for Engineering Software",
+        "pub_year": "2003",
+        "citation": "Ph. D. Thesis Proposal/LB Kara.–Pittsburgh, 2003.–68 p, 2003",
+        "num_citations": 3,
+        "author_pub_id": "_X2eOeQAAAAJ:hqOjcs7Dif8C"
+    },
+    {
+        "title": "Sketch-Based Image Editing Using Clothoid Curves.",
+        "pub_year": "2011",
+        "citation": "DMS, 274-278, 2011",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:qxL8FJ1GzNcC"
+    },
+    {
+        "title": "Sketch-Based Interfaces: Techniques and Applications SIGGRAPH 2007 August 5, 2007 Course Notes",
+        "pub_year": "2007",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:p__nRnzSRKYC"
+    },
+    {
+        "title": "Sketch-based 3D-shape creation for industrial styling design",
+        "pub_year": "2007",
+        "citation": "IEEE Computer Graphics and Applications 27 (1), 60-71, 2007",
+        "num_citations": 114,
+        "author_pub_id": "_X2eOeQAAAAJ:2osOgNQ5qMEC"
+    },
+    {
+        "title": "Sketch-based aesthetic product form exploration from existing images using piecewise clothoid curves",
+        "pub_year": "2012",
+        "citation": "Journal of Visual Languages & Computing 23 (6), 327-339, 2012",
+        "num_citations": 9,
+        "author_pub_id": "_X2eOeQAAAAJ:j3f4tGmQtD8C"
+    },
+    {
+        "title": "Sketch-based design system, apparatus, and method for the construction and modification of three-dimensional geometry",
+        "pub_year": "2012",
+        "citation": "US Patent 8,259,101, 2012",
+        "num_citations": 65,
+        "author_pub_id": "_X2eOeQAAAAJ:3fE2CSJIrl8C"
+    },
+    {
+        "title": "Sketch-based interfaces and modeling",
+        "pub_year": "2011",
+        "citation": "Springer-Verlag, 2011",
+        "num_citations": 60,
+        "author_pub_id": "_X2eOeQAAAAJ:1sJd4Hv_s6UC"
+    },
+    {
+        "title": "Sketch-based shape exploration using multiscale free-form surface editing",
+        "pub_year": "2012",
+        "citation": "AI EDAM 26 (3), 337-350, 2012",
+        "num_citations": 1,
+        "author_pub_id": "_X2eOeQAAAAJ:KlAtU1dfN6UC"
+    },
+    {
+        "title": "Sketch-based surface design using malleable curve networks",
+        "pub_year": "2012",
+        "citation": "Computers & Graphics 36 (8), 916-929, 2012",
+        "num_citations": 41,
+        "author_pub_id": "_X2eOeQAAAAJ:4JMBOYKVnBMC"
+    },
+    {
+        "title": "Sketching and pen-based design interaction",
+        "pub_year": "2012",
+        "citation": "AI EDAM 26 (3), 241-243, 2012",
+        "num_citations": 4,
+        "author_pub_id": "_X2eOeQAAAAJ:hC7cP41nSMkC"
+    },
+    {
+        "title": "Social Scene Understanding from Social Cameras Hyun Soo Park",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:1qzjygNMrQYC"
+    },
+    {
+        "title": "Soft tissue deformation tracking by means of an optimized fiducial marker layout with application to cancer tumors",
+        "pub_year": "2020",
+        "citation": "International Journal of Computer Assisted Radiology and Surgery 15, 225-237, 2020",
+        "num_citations": 3,
+        "author_pub_id": "_X2eOeQAAAAJ:BrmTIyaxlBUC"
+    },
+    {
+        "title": "Spatial reasoning about mechanical behaviors",
+        "pub_year": "2001",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2001",
+        "num_citations": 3,
+        "author_pub_id": "_X2eOeQAAAAJ:b0M2c_1WBrUC"
+    },
+    {
+        "title": "Stress field prediction in cantilevered structures using convolutional neural networks",
+        "pub_year": "2020",
+        "citation": "Journal of Computing and Information Science in Engineering 20 (1), 011002, 2020",
+        "num_citations": 236,
+        "author_pub_id": "_X2eOeQAAAAJ:VOx2b1Wkg3QC"
+    },
+    {
+        "title": "Stressgan: A generative deep learning model for two-dimensional stress distribution prediction",
+        "pub_year": "2021",
+        "citation": "Journal of Applied Mechanics 88 (5), 051005, 2021",
+        "num_citations": 117,
+        "author_pub_id": "_X2eOeQAAAAJ:Y5dfb0dijaUC"
+    },
+    {
+        "title": "Structural design using laplacian shells",
+        "pub_year": "2019",
+        "citation": "Computer Graphics Forum 38 (5), 85-98, 2019",
+        "num_citations": 13,
+        "author_pub_id": "_X2eOeQAAAAJ:5Ul4iDaHHb8C"
+    },
+    {
+        "title": "Sub-millisecond keyhole pore detection in laser powder bed fusion using sound and light sensors and machine learning",
+        "pub_year": "2024",
+        "citation": "Materials Futures 3 (4), 045001, 2024",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:vDijr-p_gm4C"
+    },
+    {
+        "title": "Supporting early styling design of automobiles using sketch-based 3d shape construction",
+        "pub_year": "2008",
+        "citation": "Computer-Aided Design and Applications 5 (6), 867-876, 2008",
+        "num_citations": 40,
+        "author_pub_id": "_X2eOeQAAAAJ:Y0pCki6q_DkC"
+    },
+    {
+        "title": "Surface creation on unstructured point sets using neural networks",
+        "pub_year": "2012",
+        "citation": "Computer-Aided Design 44 (7), 644-656, 2012",
+        "num_citations": 18,
+        "author_pub_id": "_X2eOeQAAAAJ:QIV2ME_5wuYC"
+    },
+    {
+        "title": "Target specific peptide design using latent space approximate trajectory collector",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2302.01435, 2023",
+        "num_citations": 1,
+        "author_pub_id": "_X2eOeQAAAAJ:7T2F9Uy0os0C"
+    },
+    {
+        "title": "Technical Report Development of a cognitive tutor for learning truss analysis Paul S. Steif, Luoting Fu, Levent Burak Kara",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:fPk4N6BV_jEC"
+    },
+    {
+        "title": "The Creation and Modification of 3D Models Using Sketches and Curves",
+        "pub_year": "2011",
+        "citation": "Sketch-based Interfaces and Modeling, 341-367, 2011",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:YFjsv_pBGBYC"
+    },
+    {
+        "title": "The potential for computer tutors to assist students learning to solve complex problems",
+        "pub_year": "2014",
+        "citation": "2014 ASEE Annual Conference & Exposition, 24.1239. 1-24.1239. 20, 2014",
+        "num_citations": 2,
+        "author_pub_id": "_X2eOeQAAAAJ:5awf1xo2G04C"
+    },
+    {
+        "title": "TopMT-GAN: a 3D topology-driven generative model for efficient and diverse structure-based ligand design",
+        "pub_year": "2025",
+        "citation": "Chemical Science, 2025",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:uWiczbcajpAC"
+    },
+    {
+        "title": "Topology optimization using neural networks with conditioning field initialization for improved efficiency",
+        "pub_year": "2024",
+        "citation": "Journal of Mechanical Design 146 (6), 2024",
+        "num_citations": 9,
+        "author_pub_id": "_X2eOeQAAAAJ:tzM49s52ZIMC"
+    },
+    {
+        "title": "Topology preserving digitization of physical prototypes using deformable subdivision models",
+        "pub_year": "2014",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2014",
+        "num_citations": 2,
+        "author_pub_id": "_X2eOeQAAAAJ:k_IJM867U9cC"
+    },
+    {
+        "title": "Topology-Agnostic Graph U-Nets for Scalar Field Prediction on Unstructured Meshes",
+        "pub_year": "2025",
+        "citation": "Journal of Mechanical Design 147 (4), 2025",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:epqYDVWIO7EC"
+    },
+    {
+        "title": "Topologygan: Topology optimization using generative adversarial networks based on physical fields over the initial domain",
+        "pub_year": "2021",
+        "citation": "Journal of Mechanical Design 143 (3), 031715, 2021",
+        "num_citations": 238,
+        "author_pub_id": "_X2eOeQAAAAJ:Mojj43d5GZwC"
+    },
+    {
+        "title": "Track-assignment detailed routing using attention-based policy model with supervision",
+        "pub_year": "2020",
+        "citation": "Proceedings of the 2020 ACM/IEEE Workshop on Machine Learning for CAD, 105-110, 2020",
+        "num_citations": 14,
+        "author_pub_id": "_X2eOeQAAAAJ:_B80troHkn4C"
+    },
+    {
+        "title": "VIRL: Volume-Informed Representation Learning towards Few-shot Manufacturability Estimation",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2406.12286, 2024",
+        "num_citations": 1,
+        "author_pub_id": "_X2eOeQAAAAJ:ML0RJ9NH7IQC"
+    },
+    {
+        "title": "Wisdom of microcrowds in evaluating solutions to esoteric engineering problems",
+        "pub_year": "2019",
+        "citation": "Journal of Mechanical Design 141 (8), 081102, 2019",
+        "num_citations": 8,
+        "author_pub_id": "_X2eOeQAAAAJ:08ZZubdj9fEC"
+    },
+    {
+        "title": "Work in Progress: Improving Problem Solving Performance in Statics through Body-Centric Talk",
+        "pub_year": "2006",
+        "citation": "Proceedings. Frontiers in Education. 36th Annual Conference, 1-2, 2006",
+        "num_citations": 3,
+        "author_pub_id": "_X2eOeQAAAAJ:5nxA0vEk-isC"
     }
 ]

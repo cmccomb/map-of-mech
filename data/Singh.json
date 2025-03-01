@@ -3,7 +3,7 @@
         "title": "2-color thermometry experiments and high-speed imaging of multi-mode diesel engine combustion",
         "pub_year": "2005",
         "citation": "SAE transactions, 1605-1621, 2005",
-        "num_citations": 78,
+        "num_citations": 77,
         "author_pub_id": "lViJAdQAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -31,14 +31,14 @@
         "title": "A dynamic global-coefficient mixed subgrid-scale model for large-eddy simulation of turbulent flows",
         "pub_year": "2013",
         "citation": "International Journal of Heat and Fluid Flow 42, 94-104, 2013",
-        "num_citations": 30,
+        "num_citations": 29,
         "author_pub_id": "lViJAdQAAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "A multi-block ADI finite-volume method for incompressible Navier–Stokes equations in complex geometries",
         "pub_year": "2011",
         "citation": "Journal of Computational Physics 230 (19), 7400-7417, 2011",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "lViJAdQAAAAJ:wlzmIqt2EaEC"
     },
     {
@@ -73,7 +73,7 @@
         "title": "Comparison of the characteristic time (CTC), representative interactive flamelet (RIF), and direct integration with detailed chemistry combustion models against optical …",
         "pub_year": "2006",
         "citation": "SAE transactions, 61-82, 2006",
-        "num_citations": 160,
+        "num_citations": 159,
         "author_pub_id": "lViJAdQAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -94,7 +94,7 @@
         "title": "Computational analysis of combustion of high and low cetane fuels in a compression ignition engine",
         "pub_year": "2014",
         "citation": "Journal of Engineering for Gas Turbines and Power 136 (12), 2014",
-        "num_citations": 16,
+        "num_citations": 14,
         "author_pub_id": "lViJAdQAAAAJ:yxmsSjX2EkcC"
     },
     {
@@ -108,21 +108,21 @@
         "title": "Development of a flame propagation model for dual-fuel partially premixed compression ignition engines",
         "pub_year": "2006",
         "citation": "International journal of Engine research 7 (1), 65-75, 2006",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "lViJAdQAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Effect of pilot injection timing, pilot quantity and intake charge conditions on performance and emissions for an advanced low-pilot-ignited natural gas engine",
         "pub_year": "2004",
         "citation": "International journal of Engine research 5 (4), 329-348, 2004",
-        "num_citations": 103,
+        "num_citations": 102,
         "author_pub_id": "lViJAdQAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Experimental investigation of multi-mode diesel engine combustion and validation of advanced combustion models",
         "pub_year": "2006",
         "citation": "The University of Wisconsin-Madison, 2006",
-        "num_citations": 19,
+        "num_citations": 18,
         "author_pub_id": "lViJAdQAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -136,7 +136,7 @@
         "title": "Gradient effects on two-color soot optical pyrometry in a heavy-duty DI diesel engine",
         "pub_year": "2008",
         "citation": "Combustion and flame 153 (1-2), 216-227, 2008",
-        "num_citations": 118,
+        "num_citations": 119,
         "author_pub_id": "lViJAdQAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -178,14 +178,14 @@
         "title": "Large-eddy simulation of turbulent channel flow using explicit filtering and dynamic mixed models",
         "pub_year": "2012",
         "citation": "Physics of Fluids 24 (8), 085105, 2012",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "lViJAdQAAAAJ:eq2jaN3J8jMC"
     },
     {
         "title": "Mixed convective cooling of a rectangular cavity with inlet and exit openings on differentially heated side walls",
         "pub_year": "2003",
         "citation": "Numerical Heat Transfer: Part A: Applications 44 (3), 233-253, 2003",
-        "num_citations": 192,
+        "num_citations": 189,
         "author_pub_id": "lViJAdQAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -234,7 +234,7 @@
         "title": "OPTICAL DIAGNOSTICS OF A LATE INJECTION LOW-TEMPERATURE COMBUSTION IN A HEAVY DUTY DIESEL ENGINE.",
         "pub_year": "2007",
         "citation": "Sandia National Lab.(SNL-CA), Livermore, CA (United States), 2007",
-        "num_citations": 2,
+        "num_citations": 1,
         "author_pub_id": "lViJAdQAAAAJ:qSd0DAb9jMoC"
     },
     {
@@ -283,7 +283,7 @@
         "title": "Strategies for Reduced NOx Emissions in Pilot-Ignited Natural Gas Engines",
         "pub_year": "2004",
         "citation": "J. Eng. Gas Turbines Power 126 (3), 665-671, 2004",
-        "num_citations": 160,
+        "num_citations": 171,
         "author_pub_id": "lViJAdQAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -297,14 +297,14 @@
         "title": "The advanced injection low pilot ignited natural gas engine: A combustion analysis",
         "pub_year": "2006",
         "citation": "Journal of engineering for gas turbines and power 128 (1), 213-218, 2006",
-        "num_citations": 116,
+        "num_citations": 119,
         "author_pub_id": "lViJAdQAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Validation of engine combustion models against detailed in-cylinder optical diagnostics data for a heavy-duty compression-ignition engine",
         "pub_year": "2007",
         "citation": "International Journal of Engine Research 8 (1), 97-126, 2007",
-        "num_citations": 98,
+        "num_citations": 96,
         "author_pub_id": "lViJAdQAAAAJ:u-x6o8ySG0sC"
     }
 ]

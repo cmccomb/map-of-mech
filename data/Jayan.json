@@ -10,14 +10,14 @@
         "title": "A group of cyclic siloxane and silazane polymer films as nanoscale electrolytes for microbattery architectures",
         "pub_year": "2015",
         "citation": "Macromolecules 48 (15), 5222-5229, 2015",
-        "num_citations": 40,
+        "num_citations": 42,
         "author_pub_id": "NNSeBe4AAAAJ:e0CZ6poB34oC"
     },
     {
         "title": "A route towards sustainability through engineered polymeric interfaces",
         "pub_year": "2014",
         "citation": "Advanced Materials Interfaces 1 (4), 1400117, 2014",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "NNSeBe4AAAAJ:YEBtnu9hOHUC"
     },
     {
@@ -38,7 +38,7 @@
         "title": "Carbon-coated high capacity layered Li [Li0. 2Mn0. 54Ni0. 13Co0. 13] O2 cathodes",
         "pub_year": "2010",
         "citation": "Electrochemistry Communications 12 (6), 750-753, 2010",
-        "num_citations": 259,
+        "num_citations": 260,
         "author_pub_id": "NNSeBe4AAAAJ:m03se8k-GH0C"
     },
     {
@@ -59,7 +59,7 @@
         "title": "Controlling the growth and luminescence properties of well-faceted ZnO nanorods",
         "pub_year": "2007",
         "citation": "The Journal of Physical Chemistry C 111 (24), 8489-8495, 2007",
-        "num_citations": 234,
+        "num_citations": 233,
         "author_pub_id": "NNSeBe4AAAAJ:AzjrKLz9U9oC"
     },
     {
@@ -80,7 +80,7 @@
         "title": "Design for low‐temperature microwave‐assisted crystallization of ceramic thin films",
         "pub_year": "2017",
         "citation": "Applied Stochastic Models in Business and Industry 33 (3), 314-321, 2017",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "NNSeBe4AAAAJ:H0nRGT7Dr7IC"
     },
     {
@@ -107,9 +107,16 @@
     {
         "title": "Effects of bifunctional metal sulfide interlayers on photovoltaic properties of organic–inorganic hybrid solar cells",
         "pub_year": "2013",
-        "citation": "RSC advances 3 (16), 5412-5421, 2013",
+        "citation": "RSC Advances 3 (16), 5412-5421, 2013",
         "num_citations": 30,
         "author_pub_id": "NNSeBe4AAAAJ:xyzrkeHX5M4C"
+    },
+    {
+        "title": "Electrode surface engineering in lithium ion batteries",
+        "pub_year": "2023",
+        "citation": "US Patent 11,843,105, 2023",
+        "num_citations": 1,
+        "author_pub_id": "NNSeBe4AAAAJ:9UF2BbDYXHIC"
     },
     {
         "title": "Electrode surface engineering in lithium ion batteries",
@@ -117,13 +124,6 @@
         "citation": "US Patent App. 18/369,331, 2024",
         "num_citations": 0,
         "author_pub_id": "NNSeBe4AAAAJ:0kYikfLtzSYC"
-    },
-    {
-        "title": "Electrode surface engineering in lithium ion batteries",
-        "pub_year": "2023",
-        "citation": "US Patent 11,843,105, 2023",
-        "num_citations": 0,
-        "author_pub_id": "NNSeBe4AAAAJ:9UF2BbDYXHIC"
     },
     {
         "title": "Energy-efficient synthesis of Ti3C2Tx MXene for electromagnetic shielding",
@@ -171,7 +171,7 @@
         "title": "Far-from-equilibrium effects of electric and electromagnetic fields in ceramics synthesis and processing",
         "pub_year": "2021",
         "citation": "MRS Bulletin 46, 26-35, 2021",
-        "num_citations": 14,
+        "num_citations": 12,
         "author_pub_id": "NNSeBe4AAAAJ:H8haQKU-3ZsC"
     },
     {
@@ -213,7 +213,7 @@
         "title": "Influence of polymer–metal interface on the photovoltaic properties and long-term stability of nc-TiO2-P3HT hybrid solar cells",
         "pub_year": "2010",
         "citation": "Solar Energy Materials and Solar Cells 94 (5), 907-914, 2010",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "NNSeBe4AAAAJ:XAEgxC7iu0MC"
     },
     {
@@ -262,7 +262,7 @@
         "title": "Making the Case for Scaling up Microwave Sintering of Ceramics",
         "pub_year": "2024",
         "citation": "Advanced Engineering Materials, 2024",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "NNSeBe4AAAAJ:yRRszJvrVdAC"
     },
     {
@@ -271,6 +271,13 @@
         "citation": "2017 AIChE Annual Meeting, 2017",
         "num_citations": 0,
         "author_pub_id": "NNSeBe4AAAAJ:BzPC9jo9PWgC"
+    },
+    {
+        "title": "Materials laboratories of the future for alloys, amorphous, and composite materials",
+        "pub_year": "2025",
+        "citation": "MRS Bulletin, 1-19, 2025",
+        "num_citations": 0,
+        "author_pub_id": "NNSeBe4AAAAJ:X41XOdD1uaEC"
     },
     {
         "title": "Mechanistic Insights into Low Temperature Ceramic Thin Film Growth and Crystallization Using Microwave Radiation",
@@ -283,7 +290,7 @@
         "title": "Microwave-assisted low-temperature growth of thin films in solution",
         "pub_year": "2012",
         "citation": "Scientific reports 2 (1), 1003, 2012",
-        "num_citations": 80,
+        "num_citations": 79,
         "author_pub_id": "NNSeBe4AAAAJ:Ef4XXjhdXvQC"
     },
     {
@@ -311,7 +318,7 @@
         "title": "Nanoscale, conformal polysiloxane thin film electrolytes for three-dimensional battery architectures",
         "pub_year": "2015",
         "citation": "Materials Horizons 2 (3), 309-314, 2015",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "NNSeBe4AAAAJ:tFyepMjQr3wC"
     },
     {
@@ -332,7 +339,7 @@
         "title": "Oligomeric interface modifiers in hybrid polymer solar cell prototypes investigated by fluorescence voltage spectroscopy",
         "pub_year": "2015",
         "citation": "Physical Chemistry Chemical Physics 17 (16), 10640-10647, 2015",
-        "num_citations": 9,
+        "num_citations": 8,
         "author_pub_id": "NNSeBe4AAAAJ:GUJN1xMjMHAC"
     },
     {
@@ -346,7 +353,7 @@
         "title": "Organic passivation of silicon through multifunctional polymeric interfaces",
         "pub_year": "2017",
         "citation": "Solar Energy Materials and Solar Cells 160, 470-475, 2017",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "NNSeBe4AAAAJ:00hq1xGbIBsC"
     },
     {
@@ -367,7 +374,7 @@
         "title": "Parametric analysis to quantify process input influence on the printed densities of binder jetted alumina ceramics",
         "pub_year": "2019",
         "citation": "Additive Manufacturing 30, 100864, 2019",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "NNSeBe4AAAAJ:cocyvO7vrcwC"
     },
     {
@@ -395,14 +402,14 @@
         "title": "Rechargeable Soft‐Matter EGaIn‐MnO2 Battery for Stretchable Electronics",
         "pub_year": "2019",
         "citation": "Advanced Energy Materials 9 (46), 1902798, 2019",
-        "num_citations": 81,
+        "num_citations": 83,
         "author_pub_id": "NNSeBe4AAAAJ:SC9kKMAi-DoC"
     },
     {
         "title": "Room-temperature deposition of crystalline patterned ZnO films by confined dewetting lithography",
         "pub_year": "2010",
         "citation": "Applied Surface Science 256 (11), 3386-3389, 2010",
-        "num_citations": 19,
+        "num_citations": 18,
         "author_pub_id": "NNSeBe4AAAAJ:uqZYSrDi9MMC"
     },
     {
@@ -448,24 +455,24 @@
         "author_pub_id": "NNSeBe4AAAAJ:pk6FPx6l9xIC"
     },
     {
-        "title": "Synthesis of Insulating and Semiconducting Polymer Films via Initiated Chemical Vapor Deposition",
-        "pub_year": "2015",
-        "citation": "Nanoscience and Nanotechnology Letters 7 (1), 33-38, 2015",
-        "num_citations": 3,
-        "author_pub_id": "NNSeBe4AAAAJ:oMtqKo3K3HAC"
-    },
-    {
         "title": "Synthesis of assembled ZnO structures by precipitation method in aqueous media",
         "pub_year": "2009",
         "citation": "Materials Chemistry and Physics 115 (1), 172-178, 2009",
-        "num_citations": 195,
+        "num_citations": 196,
         "author_pub_id": "NNSeBe4AAAAJ:qzPvQt7yPGwC"
+    },
+    {
+        "title": "Synthesis of insulating and semiconducting polymer films via initiated chemical vapor deposition",
+        "pub_year": "2015",
+        "citation": "Nanoscience and Nanotechnology Letters 7 (1), 33-38, 2015",
+        "num_citations": 4,
+        "author_pub_id": "NNSeBe4AAAAJ:oMtqKo3K3HAC"
     },
     {
         "title": "Tailoring electrode–electrolyte interfaces in lithium-ion batteries using molecularly engineered functional polymers",
         "pub_year": "2021",
         "citation": "ACS Applied Materials & Interfaces 13 (8), 9919-9931, 2021",
-        "num_citations": 37,
+        "num_citations": 39,
         "author_pub_id": "NNSeBe4AAAAJ:vPKCt-r_nWsC"
     },
     {
@@ -493,7 +500,7 @@
         "title": "Thermal conductivity of poly (3, 4-ethylenedioxythiophene) films engineered by oxidative chemical vapor deposition (oCVD)",
         "pub_year": "2018",
         "citation": "RSC advances 8 (35), 19348-19352, 2018",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "NNSeBe4AAAAJ:Fx13dKtzC7kC"
     },
     {
@@ -507,7 +514,7 @@
         "title": "Unlocking the structure of mixed amorphous-crystalline ceramic oxide films synthesized under low temperature electromagnetic excitation",
         "pub_year": "2017",
         "citation": "Journal of Materials Chemistry A 5 (35), 18434-18441, 2017",
-        "num_citations": 32,
+        "num_citations": 31,
         "author_pub_id": "NNSeBe4AAAAJ:5o6HiIVP414C"
     },
     {
@@ -521,7 +528,7 @@
         "title": "iCVD Cyclic Polysiloxane and Polysilazane as Nanoscale Thin‐Film Electrolyte: Synthesis and Properties",
         "pub_year": "2016",
         "citation": "Macromolecular Rapid Communications 37 (5), 446-452, 2016",
-        "num_citations": 37,
+        "num_citations": 36,
         "author_pub_id": "NNSeBe4AAAAJ:LLUdpdcEW3AC"
     }
 ]

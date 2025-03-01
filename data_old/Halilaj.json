@@ -3,7 +3,7 @@
         "title": "A thumb carpometacarpal joint coordinate system based on articular surface geometry",
         "pub_year": "2013",
         "citation": "Journal of Biomechanics 46 (5), 1031-1034, 2013",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "Fr9Vhe4AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -24,14 +24,14 @@
         "title": "Automated classification of radiographic knee osteoarthritis severity using deep neural networks",
         "pub_year": "2020",
         "citation": "Radiology: Artificial Intelligence 2 (2), e190065, 2020",
-        "num_citations": 121,
+        "num_citations": 132,
         "author_pub_id": "Fr9Vhe4AAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Automated staging of knee osteoarthritis severity using deep neural networks",
         "pub_year": "2018",
         "citation": "Osteoarthritis and Cartilage 26, S441, 2018",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "Fr9Vhe4AAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -59,15 +59,22 @@
         "title": "Estimation of kinematics from inertial measurement units using a combined deep learning and optimization framework",
         "pub_year": "2021",
         "citation": "Journal of Biomechanics 116, 110229, 2021",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "Fr9Vhe4AAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Fusion of video and inertial sensing data via dynamic optimization of a biomechanical model",
         "pub_year": "2023",
         "citation": "Journal of biomechanics 155, 111617, 2023",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "Fr9Vhe4AAAAJ:TFP_iSt0sucC"
+    },
+    {
+        "title": "GREATER DOPAMINERGIC SIGNALING IN PUTAMEN IS RELATED TO BETTER GAIT QUALITY IN ADULTS WITHOUT PARKINSON’S DISEASE",
+        "pub_year": "2024",
+        "citation": "Innovation in Aging 8 (Supplement_1), 1142-1142, 2024",
+        "num_citations": 0,
+        "author_pub_id": "Fr9Vhe4AAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "Handbook of imaging in biological mechanics",
@@ -80,7 +87,7 @@
         "title": "How do sex, age, and osteoarthritis affect cartilage thickness at the thumb carpometacarpal joint? Insights from subject-specific cartilage modeling",
         "pub_year": "2014",
         "citation": "Bio-imaging and Visualization for Patient-customized Simulations, 103-111, 2014",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "Fr9Vhe4AAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -94,7 +101,7 @@
         "title": "IMU and smartphone camera fusion for knee adduction and knee flexion moment estimation during walking",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Industrial Informatics 19 (2), 1445-1455, 2022",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "Fr9Vhe4AAAAJ:HDshCWvjkbEC"
     },
     {
@@ -115,7 +122,7 @@
         "title": "In vivo kinematics of the trapeziometacarpal joint during thumb extension-flexion and abduction-adduction",
         "pub_year": "2015",
         "citation": "The Journal of hand surgery 40 (2), 289-296, 2015",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "Fr9Vhe4AAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -129,28 +136,28 @@
         "title": "Is early osteoarthritis associated with differences in joint congruence?",
         "pub_year": "2014",
         "citation": "Journal of biomechanics 47 (16), 3787-3793, 2014",
-        "num_citations": 37,
+        "num_citations": 39,
         "author_pub_id": "Fr9Vhe4AAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Machine learning in human movement biomechanics: Best practices, common pitfalls, and new opportunities",
         "pub_year": "2018",
         "citation": "Journal of biomechanics 81, 1-11, 2018",
-        "num_citations": 407,
+        "num_citations": 411,
         "author_pub_id": "Fr9Vhe4AAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Markerless motion tracking with noisy video and imu data",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Biomedical Engineering 70 (11), 3082-3092, 2023",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "Fr9Vhe4AAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "Modeling and Predicting Osteoarthritis Progression: Data from the Osteoarthritis Initiative",
         "pub_year": "2018",
         "citation": "Osteoarthritis and Cartilage, 2018",
-        "num_citations": 85,
+        "num_citations": 86,
         "author_pub_id": "Fr9Vhe4AAAAJ:_kc_bZDykSQC"
     },
     {
@@ -171,7 +178,7 @@
         "title": "Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning",
         "pub_year": "2021",
         "citation": "Cartilage 13 (1_suppl), 747S-756S, 2021",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "Fr9Vhe4AAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -192,7 +199,7 @@
         "title": "Physical Activity Is Associated with Changes in Knee Cartilage Microstructure",
         "pub_year": "2018",
         "citation": "Osteoarthritis and cartilage, 2018",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "Fr9Vhe4AAAAJ:Zph67rFs4hoC"
     },
     {
@@ -241,7 +248,7 @@
         "title": "ShortFuse: biomedical time series representations in the presence of structured information",
         "pub_year": "2017",
         "citation": "Proceedings of Machine Learning Research 68, 59-74, 2017",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "Fr9Vhe4AAAAJ:8k81kl-MbHgC"
     },
     {
@@ -255,28 +262,28 @@
         "title": "The envelope of physiological motion of the first carpometacarpal joint",
         "pub_year": "2015",
         "citation": "Journal of biomechanical engineering 137 (10), 101002, 2015",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "Fr9Vhe4AAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "The morphology of the thumb carpometacarpal joint does not differ between men and women, but changes with aging and early osteoarthritis",
         "pub_year": "2014",
         "citation": "Journal of biomechanics 47 (11), 2709-2714, 2014",
-        "num_citations": 78,
+        "num_citations": 80,
         "author_pub_id": "Fr9Vhe4AAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Thumb carpometacarpal joint congruence during functional tasks and thumb range-of-motion activities",
         "pub_year": "2014",
         "citation": "2014 36th Annual International Conference of the IEEE Engineering in …, 2014",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "Fr9Vhe4AAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Wham: Reconstructing world-grounded humans with accurate 3d motion",
         "pub_year": "2024",
         "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2024",
-        "num_citations": 46,
+        "num_citations": 51,
         "author_pub_id": "Fr9Vhe4AAAAJ:JV2RwH3_ST0C"
     }
 ]

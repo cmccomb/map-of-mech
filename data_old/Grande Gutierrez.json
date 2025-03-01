@@ -3,7 +3,7 @@
         "title": "A 1D–3D hybrid model of patient-specific coronary hemodynamics",
         "pub_year": "2022",
         "citation": "Cardiovascular Engineering and Technology, 1-12, 2022",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "HzsuNvEAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -73,7 +73,7 @@
         "title": "Decoding thrombosis through code: a review of computational models",
         "pub_year": "2024",
         "citation": "Journal of Thrombosis and Haemostasis 22 (1), 35-47, 2024",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "HzsuNvEAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -101,7 +101,7 @@
         "title": "Hemodynamic variables in aneurysms are associated with thrombotic risk in children with Kawasaki disease",
         "pub_year": "2019",
         "citation": "International journal of cardiology 281, 15-21, 2019",
-        "num_citations": 58,
+        "num_citations": 60,
         "author_pub_id": "HzsuNvEAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -140,6 +140,13 @@
         "author_pub_id": "HzsuNvEAAAAJ:MXK_kJrjxJIC"
     },
     {
+        "title": "Sensitivity of coronary hemodynamics to vascular structure variations in health and disease",
+        "pub_year": "2025",
+        "citation": "Scientific Reports 15 (1), 3325, 2025",
+        "num_citations": 0,
+        "author_pub_id": "HzsuNvEAAAAJ:Zph67rFs4hoC"
+    },
+    {
         "title": "Taylor series error correction network for super-resolution of discretized fluid solutions",
         "pub_year": "2023",
         "citation": "Bulletin of the American Physical Society, 2023",
@@ -157,7 +164,7 @@
         "title": "Thrombosis and Hemodynamics: external and intrathrombus gradients",
         "pub_year": "2021",
         "citation": "Current opinion in biomedical engineering 19, 100316, 2021",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "HzsuNvEAAAAJ:W7OEmFMy1HYC"
     },
     {

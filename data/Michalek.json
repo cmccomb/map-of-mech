@@ -3,7 +3,7 @@
         "title": "A MINLP Model for global optimization of Plug-In Hybrid vehicle design and allocation to minimize life cycle greenhouse gas emissions",
         "pub_year": "2010",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2010",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "92jyX2EAAAAJ:dhFuZR0502QC"
     },
     {
@@ -44,7 +44,7 @@
         "title": "A game-theoretic approach to finding market equilibria for automotive design under environmental regulation",
         "pub_year": "2007",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2007",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "92jyX2EAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -56,8 +56,8 @@
     },
     {
         "title": "A new framework for technology forecasting: the case of Li-ion batteries for plug-in electric vehicles",
-        "pub_year": "2015",
-        "citation": "system 8, 9, 2015",
+        "pub_year": "2016",
+        "citation": "Social Science Research Network, 2016",
         "num_citations": 2,
         "author_pub_id": "92jyX2EAAAAJ:NhqRSupF_l8C"
     },
@@ -93,14 +93,14 @@
         "title": "A study of fuel efficiency and emission policy impact on optimal vehicle design decisions",
         "pub_year": "2004",
         "citation": "Journal of Mechanical Design 126, 1062, 2004",
-        "num_citations": 185,
+        "num_citations": 186,
         "author_pub_id": "92jyX2EAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "A techno-economic analysis and optimization of Li-ion batteries for light-duty passenger vehicle electrification",
         "pub_year": "2015",
         "citation": "Journal of Power Sources 273, 966-980, 2015",
-        "num_citations": 234,
+        "num_citations": 236,
         "author_pub_id": "92jyX2EAAAAJ:rO6llkc54NcC"
     },
     {
@@ -114,42 +114,42 @@
         "title": "Air pollution, greenhouse gas, and traffic externality benefits and costs of shifting private vehicle travel to ridesourcing services",
         "pub_year": "2021",
         "citation": "Environmental Science & Technology 55 (19), 13174-13185, 2021",
-        "num_citations": 70,
+        "num_citations": 72,
         "author_pub_id": "92jyX2EAAAAJ:_B80troHkn4C"
     },
     {
         "title": "Alternative fuel vehicle adoption increases fleet gasoline consumption and greenhouse gas emissions under United States corporate average fuel economy policy and greenhouse gas …",
         "pub_year": "2016",
         "citation": "Environmental science & technology 50 (5), 2165-2174, 2016",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "92jyX2EAAAAJ:EUQCXRtRnyEC"
     },
     {
         "title": "Alternative-fuel-vehicle policy interactions increase US greenhouse gas emissions",
         "pub_year": "2019",
         "citation": "Transportation Research Part A: Policy and Practice 124, 396-407, 2019",
-        "num_citations": 61,
+        "num_citations": 66,
         "author_pub_id": "92jyX2EAAAAJ:fQNAKQ3IYiAC"
     },
     {
         "title": "An efficient decomposed multiobjective genetic algorithm for solving the joint product platform selection and product family design problem with generalized commonality",
         "pub_year": "2009",
         "citation": "Structural and Multidisciplinary Optimization 39 (2), 187-201, 2009",
-        "num_citations": 92,
+        "num_citations": 91,
         "author_pub_id": "92jyX2EAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "An efficient weighting update method to achieve acceptable consistency deviation in analytical target cascading",
         "pub_year": "2005",
         "citation": "J. Mech. Des. 127 (2), 206-214, 2005",
-        "num_citations": 121,
+        "num_citations": 124,
         "author_pub_id": "92jyX2EAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "An extension of the commonality index for product family optimization",
         "pub_year": "2007",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2007",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "92jyX2EAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -170,14 +170,14 @@
         "title": "Architectural layout design optimization",
         "pub_year": "2002",
         "citation": "Engineering optimization 34 (5), 461-484, 2002",
-        "num_citations": 322,
+        "num_citations": 330,
         "author_pub_id": "92jyX2EAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Availability of biomass residues for co-firing in Peninsular Malaysia: Implications for cost and GHG emissions in the electricity sector",
         "pub_year": "2014",
         "citation": "Energies 7 (2), 804-823, 2014",
-        "num_citations": 68,
+        "num_citations": 67,
         "author_pub_id": "92jyX2EAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -198,7 +198,7 @@
         "title": "Balancing marketing and manufacturing objectives in product line design",
         "pub_year": "2006",
         "citation": "",
-        "num_citations": 187,
+        "num_citations": 184,
         "author_pub_id": "92jyX2EAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -206,6 +206,12 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "92jyX2EAAAAJ:uc_IGeMz5qoC"
+    },
+    {
+        "title": "Beyond the Cost: Electric Vehicle Ownership and Adoption Intent in US Households",
+        "citation": "Available at SSRN 5153347, 0",
+        "num_citations": 0,
+        "author_pub_id": "92jyX2EAAAAJ:vDijr-p_gm4C"
     },
     {
         "title": "Bringing home the bacon: Estimating willingness to pay for autonomous grocery delivery across US households",
@@ -229,7 +235,7 @@
         "author_pub_id": "92jyX2EAAAAJ:eJXPG6dFmWUC"
     },
     {
-        "title": "Cleaning up while Changing Gears: The Role of Battery Design, Fossil Fuel Power Plants, and Vehicle Policy for Reducing Emissions in the Transition to Electric Vehicles",
+        "title": "Cleaning up while changing gears: the role of battery design, fossil fuel power plants, and vehicle policy for reducing emissions in the transition to electric vehicles",
         "pub_year": "2024",
         "citation": "Environmental Science & Technology 58 (8), 3787-3799, 2024",
         "num_citations": 7,
@@ -260,7 +266,7 @@
         "title": "Consequential life cycle air emissions externalities for plug-in electric vehicles in the PJM interconnection",
         "pub_year": "2016",
         "citation": "Environmental Research Letters 11 (2), 024009, 2016",
-        "num_citations": 48,
+        "num_citations": 50,
         "author_pub_id": "92jyX2EAAAAJ:_xSYboBqXhAC"
     },
     {
@@ -288,7 +294,7 @@
         "title": "Cost-effectiveness of plug-in hybrid electric vehicle battery capacity and charging infrastructure investment for reducing US gasoline consumption",
         "pub_year": "2013",
         "citation": "Energy policy 52, 429-438, 2013",
-        "num_citations": 180,
+        "num_citations": 179,
         "author_pub_id": "92jyX2EAAAAJ:k_IJM867U9cC"
     },
     {
@@ -301,35 +307,35 @@
         "title": "Design for market systems: integrating social, economic, and physical sciences to engineer product success.",
         "pub_year": "2008",
         "citation": "Mechanical Engineering-CIME 130 (11), 32-37, 2008",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "92jyX2EAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Design optimization in computer aided architectural design",
         "pub_year": "2005",
         "citation": "Proceedings of CAADRIA, The Association for Computer-Aided Architectural …, 2005",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "92jyX2EAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Design optimization of a laptop computer using aggregate and mixed logit demand models with consumer survey data",
         "pub_year": "2007",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2007",
-        "num_citations": 32,
+        "num_citations": 31,
         "author_pub_id": "92jyX2EAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Development of a simulation model to analyze the effect of thermal management on battery life",
         "pub_year": "2012",
         "citation": "SAE Technical Paper, 2012",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "92jyX2EAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Diagonal quadratic approximation for parallelization of analytical target cascading",
         "pub_year": "2008",
         "citation": "",
-        "num_citations": 106,
+        "num_citations": 107,
         "author_pub_id": "92jyX2EAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -343,7 +349,7 @@
         "title": "Effect of regional grid mix, driving patterns and climate on the comparative carbon footprint of gasoline and plug-in electric vehicles in the United States",
         "pub_year": "2016",
         "citation": "Environmental Research Letters 11 (4), 044007, 2016",
-        "num_citations": 157,
+        "num_citations": 158,
         "author_pub_id": "92jyX2EAAAAJ:abG-DnoFyZgC"
     },
     {
@@ -357,29 +363,36 @@
         "title": "Effects of on-demand ridesourcing on vehicle ownership, fuel consumption, vehicle miles traveled, and emissions per capita in US States",
         "pub_year": "2019",
         "citation": "Transportation Research Part C: Emerging Technologies 108, 289-301, 2019",
-        "num_citations": 123,
+        "num_citations": 126,
         "author_pub_id": "92jyX2EAAAAJ:D_sINldO8mEC"
     },
     {
         "title": "Effects of regional temperature on electric vehicle efficiency, range, and emissions in the United States",
         "pub_year": "2015",
         "citation": "Environmental science & technology 49 (6), 3974-3980, 2015",
-        "num_citations": 410,
+        "num_citations": 411,
         "author_pub_id": "92jyX2EAAAAJ:zA6iFVUQeVQC"
     },
     {
-        "title": "Electric Vehicle Battery Replacement Costs Under Realistic Fast Charging Behaviors",
+        "title": "Electric Vehicles and Equity: Aligning Incentives and Compatible Transportation Behavior",
         "pub_year": "2023",
-        "citation": "Electrochemical Society Meeting Abstracts 243, 2777-2777, 2023",
-        "num_citations": 1,
-        "author_pub_id": "92jyX2EAAAAJ:tzM49s52ZIMC"
+        "citation": "2023 APPAM Fall Research Conference, 2023",
+        "num_citations": 0,
+        "author_pub_id": "92jyX2EAAAAJ:ipzZ9siozwsC"
     },
     {
         "title": "Electric vehicle battery chemistry affects supply chain disruption vulnerabilities",
         "pub_year": "2024",
-        "citation": "Nature Communications 15 (1), 2143, 2024",
-        "num_citations": 50,
+        "citation": "Nature communications 15 (1), 2143, 2024",
+        "num_citations": 55,
         "author_pub_id": "92jyX2EAAAAJ:VLnqNzywnoUC"
+    },
+    {
+        "title": "Electric vehicle battery replacement costs under realistic fast charging behaviors",
+        "pub_year": "2023",
+        "citation": "Electrochemical Society Meeting Abstracts 243, 2777-2777, 2023",
+        "num_citations": 1,
+        "author_pub_id": "92jyX2EAAAAJ:tzM49s52ZIMC"
     },
     {
         "title": "Emissions Due to Plug-in Electric Vehicle Charging in High Wind Systems",
@@ -405,14 +418,14 @@
         "title": "Enhancing marketing with engineering: Optimal product line design for heterogeneous markets",
         "pub_year": "2011",
         "citation": "International Journal of Research in Marketing, 2011",
-        "num_citations": 153,
+        "num_citations": 149,
         "author_pub_id": "92jyX2EAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Ensuring greenhouse gas reductions from electric vehicles compared to hybrid gasoline vehicles requires a cleaner US electricity grid",
         "pub_year": "2024",
         "citation": "Scientific Reports 14 (1), 1639, 2024",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "92jyX2EAAAAJ:fEOibwPWpKIC"
     },
     {
@@ -437,24 +450,31 @@
         "author_pub_id": "92jyX2EAAAAJ:VOx2b1Wkg3QC"
     },
     {
+        "title": "Estimating the potential for dynamic parking reservation systems to increase delivery vehicle accommodation",
+        "pub_year": "2025",
+        "citation": "Transportation Research Part A: Policy and Practice 193, 104380, 2025",
+        "num_citations": 0,
+        "author_pub_id": "92jyX2EAAAAJ:EkHepimYqZsC"
+    },
+    {
         "title": "Estimating the potential for optimized curb management to reduce delivery vehicle double parking, traffic congestion and energy consumption",
         "pub_year": "2024",
         "citation": "Transportation Research Part E: Logistics and Transportation Review 187, 103574, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "92jyX2EAAAAJ:t7zJ5fGR-2UC"
     },
     {
         "title": "Estimating the potential of controlled plug-in hybrid electric vehicle charging to reduce operational and capacity expansion costs for electric power systems with high wind …",
         "pub_year": "2014",
         "citation": "Applied Energy 115, 190-204, 2014",
-        "num_citations": 136,
+        "num_citations": 141,
         "author_pub_id": "92jyX2EAAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "Evaluation of the effects of thermal management on battery life in plug-in hybrid electric vehicles",
         "pub_year": "2012",
         "citation": "Carnegie Mellon University, 2012",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "92jyX2EAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -469,13 +489,6 @@
         "citation": "National Bureau of Economic Research, 2022",
         "num_citations": 0,
         "author_pub_id": "92jyX2EAAAAJ:_Ybze24A_UAC"
-    },
-    {
-        "title": "Fiftieth Anniversary: The Charter Members Greet the Society",
-        "pub_year": "1951",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "92jyX2EAAAAJ:uJ-U7cs_P_0C"
     },
     {
         "title": "Fleet Use Implications of Policies that Affect Light-Duty Vehicle Scrappage",
@@ -509,7 +522,7 @@
         "title": "Global optimization of plug-in hybrid vehicle design and allocation to minimize life cycle greenhouse gas emissions",
         "pub_year": "2011",
         "citation": "",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "92jyX2EAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -522,7 +535,7 @@
     {
         "title": "Implications of Context Effects in Consumer Utility Models for Optimal Product Design and Differentiation",
         "pub_year": "2024",
-        "citation": "Journal of Mechanical Design 146 (9), 2024",
+        "citation": "Journal of Mechanical Design 146 (9), 091706, 2024",
         "num_citations": 0,
         "author_pub_id": "92jyX2EAAAAJ:z_wVstp3MssC"
     },
@@ -550,7 +563,7 @@
         "title": "Influence of driving patterns on life cycle cost and emissions of hybrid and plug-in electric vehicle powertrains",
         "pub_year": "2013",
         "citation": "Energy policy 60, 445-461, 2013",
-        "num_citations": 296,
+        "num_citations": 298,
         "author_pub_id": "92jyX2EAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -564,7 +577,7 @@
         "title": "Interactive layout design optimization",
         "pub_year": "2001",
         "citation": "Optimal Design Laboratory. Michigan, University of Michigan 115, 2001",
-        "num_citations": 28,
+        "num_citations": 27,
         "author_pub_id": "92jyX2EAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -578,7 +591,7 @@
         "title": "Labeling energy cost on light bulbs lowers implicit discount rates",
         "pub_year": "2014",
         "citation": "Ecological Economics 97, 42-50, 2014",
-        "num_citations": 140,
+        "num_citations": 137,
         "author_pub_id": "92jyX2EAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -589,7 +602,7 @@
         "author_pub_id": "92jyX2EAAAAJ:nb7KW1ujOQ8C"
     },
     {
-        "title": "Life Cycle Air Pollution, Greenhouse Gas, and Traffic Externality Benefits and Costs of Electrifying Uber and Lyft",
+        "title": "Life cycle air pollution, greenhouse gas, and traffic externality benefits and costs of electrifying Uber and Lyft",
         "pub_year": "2023",
         "citation": "Environmental Science & Technology 57 (23), 8524-8535, 2023",
         "num_citations": 6,
@@ -599,7 +612,7 @@
         "title": "Linking Marketing and Engineering Product Design Decisions via Analytical Target Cascading*",
         "pub_year": "2005",
         "citation": "Journal of Product Innovation Management 22 (1), 42-62, 2005",
-        "num_citations": 382,
+        "num_citations": 378,
         "author_pub_id": "92jyX2EAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -661,14 +674,14 @@
         "title": "On-demand ridesourcing has reduced per-capita vehicle registrations and gasoline use in US States",
         "pub_year": "2018",
         "citation": "Transportation Research Board 97th Annual MeetingTransportation Research Board, 2018",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "92jyX2EAAAAJ:08ZZubdj9fEC"
     },
     {
         "title": "Online grocery delivery: Sustainable practice, or congestion generator and environmental burden?",
         "pub_year": "2023",
         "citation": "Transportation Research Part D: Transport and Environment 119, 103722, 2023",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "92jyX2EAAAAJ:7T2F9Uy0os0C"
     },
     {
@@ -682,7 +695,7 @@
         "title": "Optimal design and allocation of electrified vehicles and dedicated charging infrastructure for minimum life cycle greenhouse gas emissions and cost",
         "pub_year": "2012",
         "citation": "Energy Policy 51, 524-534, 2012",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "92jyX2EAAAAJ:dTyEYWd-f8wC"
     },
     {
@@ -724,14 +737,14 @@
         "title": "Optimal plug-in hybrid vehicle design and allocation for minimum life cycle cost, petroleum consumption and greenhouse gas emissions",
         "pub_year": "2010",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2010",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "92jyX2EAAAAJ:JoZmwDi-zQgC"
     },
     {
         "title": "Optimal product design under price competition",
         "pub_year": "2009",
         "citation": "",
-        "num_citations": 115,
+        "num_citations": 113,
         "author_pub_id": "92jyX2EAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -745,14 +758,14 @@
         "title": "Plug-in hybrid electric vehicle LiFePO4 battery life implications of thermal management, driving conditions, and regional climate",
         "pub_year": "2017",
         "citation": "Journal of Power Sources 338, 49-64, 2017",
-        "num_citations": 131,
+        "num_citations": 133,
         "author_pub_id": "92jyX2EAAAAJ:1sJd4Hv_s6UC"
     },
     {
         "title": "Pooling stated and revealed preference data in the presence of RP endogeneity",
         "pub_year": "2018",
         "citation": "Transportation Research Part B: Methodological 109, 70-89, 2018",
-        "num_citations": 36,
+        "num_citations": 34,
         "author_pub_id": "92jyX2EAAAAJ:tOudhMTPpwUC"
     },
     {
@@ -787,14 +800,14 @@
         "title": "Regional Variability and Uncertainty of Electric Vehicle Life Cycle CO2 Emissions across the United States",
         "pub_year": "2015",
         "citation": "Environmental science & technology 49 (14), 8844-8855, 2015",
-        "num_citations": 233,
+        "num_citations": 232,
         "author_pub_id": "92jyX2EAAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Relaxations of factorable functions with convex-transformable intermediates",
         "pub_year": "2014",
         "citation": "Mathematical Programming 144 (1), 107-140, 2014",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "92jyX2EAAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -813,7 +826,7 @@
         "title": "Ride-hailing technology mitigates effects of driver racial discrimination, but effects of residential segregation persist",
         "pub_year": "2024",
         "citation": "Proceedings of the National Academy of Sciences 121 (41), e2408936121, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "92jyX2EAAAAJ:yB1At4FlUx8C"
     },
     {
@@ -840,7 +853,7 @@
         "title": "Robust design for profit maximization with aversion to downside risk from parametric uncertainty in consumer choice models",
         "pub_year": "2012",
         "citation": "",
-        "num_citations": 24,
+        "num_citations": 22,
         "author_pub_id": "92jyX2EAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -854,7 +867,7 @@
         "title": "Sensitivity of vehicle market share predictions to discrete choice model specification",
         "pub_year": "2014",
         "citation": "Journal of Mechanical Design 136 (12), 121402, 2014",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "92jyX2EAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -882,7 +895,7 @@
         "title": "Sustainable design engineering and science: Selected challenges and case studies",
         "pub_year": "2006",
         "citation": "Sustainability science and engineering 1, 467-515, 2006",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "92jyX2EAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -902,7 +915,7 @@
         "title": "Technology advancement is driving electric vehicle adoption",
         "pub_year": "2023",
         "citation": "Proceedings of the National Academy of Sciences 120 (23), e2219396120, 2023",
-        "num_citations": 58,
+        "num_citations": 64,
         "author_pub_id": "92jyX2EAAAAJ:tKAzc9rXhukC"
     },
     {
@@ -912,9 +925,9 @@
         "author_pub_id": "92jyX2EAAAAJ:OU6Ihb5iCvQC"
     },
     {
-        "title": "The Dynamic Costs & Benefits of Technology-Forcing Policy Nested in a Broader Performance Standard: The Case of ZEV & CAFE",
+        "title": "The Dynamic Costs & Benefits Of Technology-Forcing Policy Nested In A Broader Performance Standard: The Case Of Zev & Cafe",
         "pub_year": "2019",
-        "citation": "Energy Transitions in the 21st Century, 37th USAEE/IAEE North American …, 2019",
+        "citation": "Local Energy, Global Markets, 42nd IAEE International Conference, May 29 …, 2019",
         "num_citations": 0,
         "author_pub_id": "92jyX2EAAAAJ:BrmTIyaxlBUC"
     },
@@ -929,15 +942,22 @@
         "title": "The impact of Uber and Lyft on vehicle ownership, fuel economy, and transit across US cities",
         "pub_year": "2021",
         "citation": "Iscience 24 (1), 2021",
-        "num_citations": 52,
+        "num_citations": 48,
         "author_pub_id": "92jyX2EAAAAJ:5ugPr518TE4C"
     },
     {
         "title": "The neglected social dimensions to a vehicle-to-grid (V2G) transition: a critical and systematic review",
         "pub_year": "2018",
         "citation": "Environmental Research Letters 13 (1), 013001, 2018",
-        "num_citations": 284,
+        "num_citations": 286,
         "author_pub_id": "92jyX2EAAAAJ:-_dYPAW6P2MC"
+    },
+    {
+        "title": "The winner of the 2011 IJRM Best Paper Award: Enhancing Marketing with Engineering: Optimal Product Line Design for Heterogeneous Markets",
+        "pub_year": "2011",
+        "citation": "International Journal of Research in Marketing 28 (1), 1-12, 2011",
+        "num_citations": 0,
+        "author_pub_id": "92jyX2EAAAAJ:epqYDVWIO7EC"
     },
     {
         "title": "Towards understanding the role of interaction effects in visual conjoint analysis",
@@ -956,15 +976,15 @@
     {
         "title": "US industrial policy may reduce electric vehicle battery supply chain vulnerabilities and influence technology choice",
         "pub_year": "2024",
-        "citation": "Nature Energy, 1-10, 2024",
-        "num_citations": 3,
+        "citation": "Nature Energy 9 (12), 1561-1570, 2024",
+        "num_citations": 6,
         "author_pub_id": "92jyX2EAAAAJ:0KyAp5RtaNEC"
     },
     {
         "title": "US residential charging potential for electric vehicles",
         "pub_year": "2013",
         "citation": "Transportation Research Part D: Transport and Environment 25, 139-145, 2013",
-        "num_citations": 97,
+        "num_citations": 96,
         "author_pub_id": "92jyX2EAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -985,21 +1005,21 @@
         "title": "Utility-scale portable energy storage systems",
         "pub_year": "2021",
         "citation": "Joule 5 (2), 379-392, 2021",
-        "num_citations": 96,
+        "num_citations": 104,
         "author_pub_id": "92jyX2EAAAAJ:wbdj-CoPYUoC"
     },
     {
         "title": "Valuation of plug-in vehicle life-cycle air emissions and oil displacement benefits",
         "pub_year": "2011",
         "citation": "Proceedings of the National Academy of Sciences 108 (40), 16554-16558, 2011",
-        "num_citations": 360,
+        "num_citations": 361,
         "author_pub_id": "92jyX2EAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "Weights, norms, and notation in analytical target cascading",
         "pub_year": "2005",
         "citation": "",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "92jyX2EAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1008,6 +1028,12 @@
         "citation": "2008 Annual Conference & Exposition, 13.1402. 1-13.1402. 14, 2008",
         "num_citations": 8,
         "author_pub_id": "92jyX2EAAAAJ:pqnbT2bcN3wC"
+    },
+    {
+        "title": "Will Pickup-Truck Buyers Go Electric?",
+        "citation": "Available at SSRN 5145781, 0",
+        "num_citations": 0,
+        "author_pub_id": "92jyX2EAAAAJ:zLWjf1WUPmwC"
     },
     {
         "title": "Will subsidies drive electric vehicle adoption? Measuring consumer preferences in the US and China",

@@ -24,7 +24,7 @@
         "title": "3D Assembly of Mxene Networks using a Ceramic Backbone with Controlled Porosity",
         "pub_year": "2023",
         "citation": "Advanced Materials, 2304757, 2023",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "y1-WJhYAAAAJ:LjlpjdlvIbIC"
     },
     {
@@ -38,7 +38,7 @@
         "title": "3D printed hierarchically-porous microlattice electrode materials for exceptionally high specific capacity and areal capacity lithium ion batteries",
         "pub_year": "2018",
         "citation": "Additive Manufacturing 23, 70-78, 2018",
-        "num_citations": 175,
+        "num_citations": 184,
         "author_pub_id": "y1-WJhYAAAAJ:lSLTfruPkqcC"
     },
     {
@@ -59,8 +59,15 @@
         "title": "3D printed three-dimensional metallic microlattices with controlled and tunable mechanical properties",
         "pub_year": "2021",
         "citation": "Additive Manufacturing 39, 101856, 2021",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "y1-WJhYAAAAJ:geHnlv5EZngC"
+    },
+    {
+        "title": "3D-AJP: Fabrication of Advanced Microarchitected Multi-Material Ceramic Structures via Binder-Free and Auxiliary-Free Aerosol Jet 3D Nanoprinting",
+        "pub_year": "2025",
+        "citation": "Advanced Science, In Press, 2025",
+        "num_citations": 0,
+        "author_pub_id": "y1-WJhYAAAAJ:evX43VCCuoAC"
     },
     {
         "title": "3D-Printed Lattice Batteries",
@@ -80,7 +87,7 @@
         "title": "A hybrid three-dimensionally structured electrode for lithium-ion batteries via 3D printing",
         "pub_year": "2017",
         "citation": "Materials & Design 119, 417-424, 2017",
-        "num_citations": 162,
+        "num_citations": 164,
         "author_pub_id": "y1-WJhYAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -101,7 +108,7 @@
         "title": "Additive manufacturing of porous scaffold structures",
         "pub_year": "2016",
         "citation": "US Patent App. 14/957,849, 2016",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "y1-WJhYAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -150,7 +157,7 @@
         "title": "An Advanced Healthcare Sensing Platform for Direct Detection of Viral Proteins in Seconds at Femtomolar Concentrations via Aerosol Jet 3D‐Printed Nano and Biomaterials",
         "pub_year": "2024",
         "citation": "Advanced Materials Interfaces 11 (14), 2400005, 2024",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "y1-WJhYAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -164,14 +171,14 @@
         "title": "Breaking the barrier to biomolecule limit-of-detection via 3D printed multi-length-scale graphene-coated electrodes",
         "pub_year": "2021",
         "citation": "Nature Communications 12 (1), 7077-1 to 7077-16, 2021",
-        "num_citations": 52,
+        "num_citations": 56,
         "author_pub_id": "y1-WJhYAAAAJ:1qzjygNMrQYC"
     },
     {
         "title": "CMU Array: A 3D nanoprinted, fully customizable high-density microelectrode array platform",
         "pub_year": "2022",
         "citation": "Science Advances 8 (40), eabj4853, 2022",
-        "num_citations": 69,
+        "num_citations": 71,
         "author_pub_id": "y1-WJhYAAAAJ:tkaPQYYpVKoC"
     },
     {
@@ -184,7 +191,7 @@
         "title": "Effect of Additives on the Microstructure of Electroplated Tin Films",
         "pub_year": "2018",
         "citation": "Journal of The Electrochemical Society 165 (16), D816-D824, 2018",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "y1-WJhYAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -394,7 +401,7 @@
         "title": "Microscale Additive Manufacturing and Modeling of Interdigitated Capacitive Touch Sensors",
         "pub_year": "2016",
         "citation": "Sensors and Actuators A: Physical 248, 93-104, 2016",
-        "num_citations": 89,
+        "num_citations": 91,
         "author_pub_id": "y1-WJhYAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -429,7 +436,7 @@
         "title": "N-protein based Ultrasensitive SARS-CoV-2 Antibody Detection in Seconds via 3D Nanoprinted Microarchitected Array Electrodes",
         "pub_year": "2022",
         "citation": "Journal of Medical Virology, 1-12, 2022",
-        "num_citations": 41,
+        "num_citations": 45,
         "author_pub_id": "y1-WJhYAAAAJ:J-pR_7NvFogC"
     },
     {
@@ -485,7 +492,7 @@
         "title": "Origami lithium-ion batteries",
         "pub_year": "2014",
         "citation": "Nature communications 5 (1), 3140, 2014",
-        "num_citations": 688,
+        "num_citations": 689,
         "author_pub_id": "y1-WJhYAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -506,7 +513,7 @@
         "title": "Recent Advances in 3D Printing of Biomedical Sensing Devices",
         "pub_year": "2022",
         "citation": "Advanced Functional Materials 32, 2107671, 2022",
-        "num_citations": 105,
+        "num_citations": 107,
         "author_pub_id": "y1-WJhYAAAAJ:V3AGJWp-ZtQC"
     },
     {
@@ -541,7 +548,7 @@
         "title": "Sensing of COVID‐19 Antibodies in Seconds via Aerosol Jet Nanoprinted Reduced‐Graphene‐Oxide‐Coated 3D Electrodes",
         "pub_year": "2021",
         "citation": "Advanced Materials 33 (7), 2006647, 2021",
-        "num_citations": 334,
+        "num_citations": 340,
         "author_pub_id": "y1-WJhYAAAAJ:UxriW0iASnsC"
     },
     {
@@ -559,10 +566,17 @@
         "author_pub_id": "y1-WJhYAAAAJ:JV2RwH3_ST0C"
     },
     {
+        "title": "Simple, scalable method for dispersing MXenes in nonpolar organic solvents",
+        "pub_year": "2025",
+        "citation": "US Patent App. 18/691,550, 2025",
+        "num_citations": 0,
+        "author_pub_id": "y1-WJhYAAAAJ:2KloaMYe4IUC"
+    },
+    {
         "title": "StressD: 2D Stress Estimation Using Denoising Diffusion Model",
         "pub_year": "2023",
         "citation": "Computer Methods in Applied Mechanics and Engineering 416, 116343, 2023",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "y1-WJhYAAAAJ:SdhP9T11ey4C"
     },
     {
@@ -604,7 +618,7 @@
         "title": "The application of Lean Six Sigma to the configuration control in Intel’s manufacturing R&D environment",
         "pub_year": "2014",
         "citation": "International Journal of Lean Six Sigma 5 (4), 444-459, 2014",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "y1-WJhYAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -632,7 +646,7 @@
         "title": "Three-dimensional microarchitected materials and devices using nanoparticle assembly by pointwise spatial printing",
         "pub_year": "2017",
         "citation": "Science advances 3 (3), e1601986, 2017",
-        "num_citations": 192,
+        "num_citations": 195,
         "author_pub_id": "y1-WJhYAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -653,7 +667,7 @@
         "title": "Towards high-performance Li-ion batteries via optimized three-dimensional micro-lattice electrode architectures",
         "pub_year": "2020",
         "citation": "Journal of Power Sources 476, 228593, 2020",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "y1-WJhYAAAAJ:nb7KW1ujOQ8C"
     },
     {
@@ -667,7 +681,7 @@
         "title": "Ultra‐Rapid and Ultra‐Sensitive Detection of SARS‐CoV‐2 Antibodies in COVID‐19 Patients via A 3D‐Printed Nanomaterial‐Based Biosensing Platform",
         "pub_year": "2022",
         "citation": "Journal of Medical Virology 94 (12), 5808–5826, 2022",
-        "num_citations": 15,
+        "num_citations": 18,
         "author_pub_id": "y1-WJhYAAAAJ:_B80troHkn4C"
     },
     {

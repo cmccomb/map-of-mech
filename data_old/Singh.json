@@ -73,7 +73,7 @@
         "title": "Comparison of the characteristic time (CTC), representative interactive flamelet (RIF), and direct integration with detailed chemistry combustion models against optical …",
         "pub_year": "2006",
         "citation": "SAE transactions, 61-82, 2006",
-        "num_citations": 159,
+        "num_citations": 160,
         "author_pub_id": "lViJAdQAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Importance of spray-bowl interaction in a DI diesel engine operating under PCCI combustion mode",
         "pub_year": "2009",
         "citation": "SAE Technical Paper, 2009",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "lViJAdQAAAAJ:SPgmg5JLkoEC"
     },
     {
@@ -185,7 +185,7 @@
         "title": "Mixed convective cooling of a rectangular cavity with inlet and exit openings on differentially heated side walls",
         "pub_year": "2003",
         "citation": "Numerical Heat Transfer: Part A: Applications 44 (3), 233-253, 2003",
-        "num_citations": 191,
+        "num_citations": 192,
         "author_pub_id": "lViJAdQAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -213,14 +213,14 @@
         "title": "Numerical Investigation of NO2- Formation Mechanism in H2-Diesel Dual-Fuel Engine",
         "pub_year": "2012",
         "citation": "SAE World Congress, 2012",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "lViJAdQAAAAJ:Fu2w8maKXqMC"
     },
     {
         "title": "Numerical modeling and analysis of entrainment in turbulent jets after the end of injection",
         "pub_year": "2010",
         "citation": "Journal of fluids engineering 132 (8), 2010",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "lViJAdQAAAAJ:tKAzc9rXhukC"
     },
     {
@@ -283,7 +283,7 @@
         "title": "Strategies for Reduced NOx Emissions in Pilot-Ignited Natural Gas Engines",
         "pub_year": "2004",
         "citation": "J. Eng. Gas Turbines Power 126 (3), 665-671, 2004",
-        "num_citations": 159,
+        "num_citations": 160,
         "author_pub_id": "lViJAdQAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -304,7 +304,7 @@
         "title": "Validation of engine combustion models against detailed in-cylinder optical diagnostics data for a heavy-duty compression-ignition engine",
         "pub_year": "2007",
         "citation": "International Journal of Engine Research 8 (1), 97-126, 2007",
-        "num_citations": 97,
+        "num_citations": 98,
         "author_pub_id": "lViJAdQAAAAJ:u-x6o8ySG0sC"
     }
 ]

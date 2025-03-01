@@ -10,7 +10,7 @@
         "title": "A hybrid systems model for simple manipulation and self-manipulation systems",
         "pub_year": "2016",
         "citation": "The International Journal of Robotics Research 35 (11), 1354-1392, 2016",
-        "num_citations": 131,
+        "num_citations": 132,
         "author_pub_id": "GN5Mc3UAAAAJ:IRz6iEL74y4C"
     },
     {
@@ -38,7 +38,7 @@
         "title": "Acting vs. being moral: The limits of technological moral actors",
         "pub_year": "2014",
         "citation": "Ethics in Science, Technology and Engineering, 2014 IEEE International …, 2014",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "GN5Mc3UAAAAJ:a9-T7VOCCH8C"
     },
     {
@@ -115,7 +115,7 @@
         "title": "Conflict-based model predictive control for scalable multi-robot motion planning",
         "pub_year": "2024",
         "citation": "2024 IEEE International Conference on Robotics and Automation (ICRA), 14562 …, 2024",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "GN5Mc3UAAAAJ:DrR-2ekChdkC"
     },
     {
@@ -150,7 +150,7 @@
         "title": "Contact-implicit trajectory optimization using orthogonal collocation",
         "pub_year": "2019",
         "citation": "IEEE Robotics and Automation Letters 4 (2), 2242-2249, 2019",
-        "num_citations": 95,
+        "num_citations": 96,
         "author_pub_id": "GN5Mc3UAAAAJ:ubry08Y2EpUC"
     },
     {
@@ -206,7 +206,7 @@
         "title": "Design of a modular snake robot",
         "pub_year": "2007",
         "citation": "Intelligent Robots and Systems, 2007. IROS 2007. IEEE/RSJ International …, 2007",
-        "num_citations": 375,
+        "num_citations": 377,
         "author_pub_id": "GN5Mc3UAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -283,7 +283,7 @@
         "title": "Fast Global Motion Planning for Dynamic Legged Robots",
         "pub_year": "2020",
         "citation": "IEEE/RSJ Intl. Conference on Intelligent Robots and Systems, 2020",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "GN5Mc3UAAAAJ:CB2v5VPnA5kC"
     },
     {
@@ -339,7 +339,7 @@
         "title": "Hybrid iLQR model predictive control for contact implicit stabilization on legged robots",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Robotics, 2023",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "GN5Mc3UAAAAJ:5bg8sr1QxYwC"
     },
     {
@@ -360,7 +360,7 @@
         "title": "LORIS: A Lightweight Free-Climbing Robot for Extreme Terrain Exploration",
         "pub_year": "2024",
         "citation": "IEEE International Conference on Robotics and Automation, 2024",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "GN5Mc3UAAAAJ:QsaTk4IG4EwC"
     },
     {
@@ -528,7 +528,7 @@
         "title": "Quad-SDK: Full Stack Software Framework for Agile Quadrupedal Locomotion",
         "pub_year": "2022",
         "citation": "ICRA Workshop on Legged Robots, 2022",
-        "num_citations": 29,
+        "num_citations": 31,
         "author_pub_id": "GN5Mc3UAAAAJ:HhcuHIWmDEUC"
     },
     {
@@ -584,7 +584,7 @@
         "title": "Robust Planar Dynamic Pivoting by Regulating Inertial and Grip Forces",
         "pub_year": "2016",
         "citation": "Workshop on the Algorithmic Foundations of Robotics, 2016",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "GN5Mc3UAAAAJ:jL-93Qbq4QoC"
     },
     {
@@ -612,7 +612,7 @@
         "title": "Saltation matrices: The essential tool for linearizing hybrid dynamical systems",
         "pub_year": "2024",
         "citation": "Proceedings of the IEEE, 2024",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "GN5Mc3UAAAAJ:rbm3iO8VlycC"
     },
     {
@@ -717,7 +717,7 @@
         "title": "Tartandrive: A large-scale dataset for learning off-road dynamics models",
         "pub_year": "2022",
         "citation": "2022 International Conference on Robotics and Automation (ICRA), 2546-2552, 2022",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "GN5Mc3UAAAAJ:VN7nJs4JPk0C"
     },
     {
@@ -752,7 +752,7 @@
         "title": "The Salted Kalman Filter: Kalman Filtering on Hybrid Dynamical Systems",
         "pub_year": "2021",
         "citation": "Automatica 131, 109752, 2021",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "GN5Mc3UAAAAJ:PYBJJbyH-FwC"
     },
     {
@@ -794,7 +794,7 @@
         "title": "Toward a vocabulary of legged leaping",
         "pub_year": "2013",
         "citation": "IEEE Intl. Conference on Robotics and Automation, 2553-2560, 2013",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "GN5Mc3UAAAAJ:_FxGoFyzp5QC"
     },
     {
