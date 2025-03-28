@@ -34,17 +34,10 @@
         "author_pub_id": "SU0c5P0AAAAJ:abG-DnoFyZgC"
     },
     {
-        "title": "3D-Printed Adaptive Microgripper Driven by Thin-Film NiTi Actuators",
-        "pub_year": "2023",
-        "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 5445-5451, 2023",
-        "num_citations": 2,
-        "author_pub_id": "SU0c5P0AAAAJ:_B80troHkn4C"
-    },
-    {
         "title": "3D‐Printed Multi‐scale Fluidics for Liquid Metals",
         "pub_year": "2024",
         "citation": "Advanced Materials Technologies 9 (14), 2301980, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "SU0c5P0AAAAJ:LjlpjdlvIbIC"
     },
     {
@@ -55,17 +48,24 @@
         "author_pub_id": "SU0c5P0AAAAJ:dTyEYWd-f8wC"
     },
     {
+        "title": "3d-printed adaptive microgripper driven by thin-film niti actuators",
+        "pub_year": "2023",
+        "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 5445-5451, 2023",
+        "num_citations": 2,
+        "author_pub_id": "SU0c5P0AAAAJ:_B80troHkn4C"
+    },
+    {
         "title": "3dflex: A rapid prototyping approach for multi-material compliant mechanisms in millirobots",
         "pub_year": "2017",
         "citation": "2017 IEEE International Conference on Robotics and Automation (ICRA), 3068-3073, 2017",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "SU0c5P0AAAAJ:2P1L_qKh6hAC"
     },
     {
         "title": "A 25 mg magnetically actuated microrobot walking at> 5 body lengths/sec",
         "pub_year": "2017",
         "citation": "2017 IEEE 30th International Conference on Micro Electro Mechanical Systems …, 2017",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "SU0c5P0AAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -78,7 +78,7 @@
     {
         "title": "A Modular Soft Sensing Skin for Fast Measurement of Wing Deformation in Small Unmanned Aerial Vehicles",
         "pub_year": "2024",
-        "citation": "Soft Robotics, 2024",
+        "citation": "Soft Robotics 11 (5), 878-888, 2024",
         "num_citations": 0,
         "author_pub_id": "SU0c5P0AAAAJ:1yQoGdGgb4wC"
     },
@@ -99,7 +99,7 @@
     {
         "title": "A comparison of critical shear force in low-voltage, all-polymer electroadhesives to a basic friction model",
         "pub_year": "2017",
-        "citation": "Smart Materials and Structures 26 (2), 025028, 2017",
+        "citation": "Smart materials and structures 26 (2), 025028, 2017",
         "num_citations": 44,
         "author_pub_id": "SU0c5P0AAAAJ:RYcK_YlVTxYC"
     },
@@ -114,7 +114,7 @@
         "title": "A magnetically transduced whisker for angular displacement and moment sensing",
         "pub_year": "2019",
         "citation": "2019 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2019",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "SU0c5P0AAAAJ:UxriW0iASnsC"
     },
     {
@@ -163,7 +163,7 @@
         "title": "A soft microfabricated capacitive sensor for high dynamic range strain sensing",
         "pub_year": "2016",
         "citation": "2016 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2016",
-        "num_citations": 10,
+        "num_citations": 9,
         "author_pub_id": "SU0c5P0AAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -233,7 +233,7 @@
         "title": "Autonomous jumping microrobots",
         "pub_year": "2007",
         "citation": "University of California, Berkeley, 2007",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "SU0c5P0AAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -274,14 +274,14 @@
         "title": "Bio‐inspired large‐area soft sensing skins to measure UAV wing deformation in flight",
         "pub_year": "2021",
         "citation": "Advanced Functional Materials 31 (23), 2100679, 2021",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "SU0c5P0AAAAJ:vRqMK49ujn8C"
     },
     {
         "title": "Bridge risk investigation diagnostic grouped exploratory (BRIDGE) bot",
         "pub_year": "2017",
         "citation": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2017",
-        "num_citations": 46,
+        "num_citations": 48,
         "author_pub_id": "SU0c5P0AAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -306,17 +306,10 @@
         "author_pub_id": "SU0c5P0AAAAJ:UHK10RUVsp4C"
     },
     {
-        "title": "Capacitive Sensing for Natural Environment Biomechanics Monitoring",
-        "pub_year": "2024",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "SU0c5P0AAAAJ:1qzjygNMrQYC"
-    },
-    {
         "title": "Characterization and modeling of elastomeric joints in miniature compliant mechanisms",
         "pub_year": "2013",
         "citation": "Journal of Mechanisms and Robotics 5 (4), 041017, 2013",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "SU0c5P0AAAAJ:IWHjjKOFINEC"
     },
     {
@@ -344,14 +337,14 @@
         "title": "Controlled assembly of liquid metal inclusions as a general approach for multifunctional composites",
         "pub_year": "2020",
         "citation": "Advanced Materials 32 (46), 2002929, 2020",
-        "num_citations": 109,
+        "num_citations": 110,
         "author_pub_id": "SU0c5P0AAAAJ:WbkHhVStYXYC"
     },
     {
         "title": "Controlling jumps through latches in small jumping robots",
         "pub_year": "2023",
         "citation": "Bioinspiration & Biomimetics 18 (6), 066003, 2023",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "SU0c5P0AAAAJ:eq2jaN3J8jMC"
     },
     {
@@ -371,7 +364,7 @@
         "title": "Cotsbots: An off-the-shelf platform for distributed robotics",
         "pub_year": "2003",
         "citation": "Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and …, 2003",
-        "num_citations": 207,
+        "num_citations": 206,
         "author_pub_id": "SU0c5P0AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -381,10 +374,10 @@
         "author_pub_id": "SU0c5P0AAAAJ:g5m5HwL7SMYC"
     },
     {
-        "title": "Decoding Dynamic State Properties from Distributed Strain Sensing on sUAS",
+        "title": "Decoding dynamic state properties from distributed strain sensing on suas",
         "pub_year": "2024",
         "citation": "AIAA SCITECH 2024 Forum, 0962, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "SU0c5P0AAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -404,7 +397,7 @@
         "title": "Design of an autonomous jumping microrobot",
         "pub_year": "2007",
         "citation": "Proceedings 2007 IEEE International Conference on Robotics and Automation …, 2007",
-        "num_citations": 108,
+        "num_citations": 107,
         "author_pub_id": "SU0c5P0AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -438,7 +431,7 @@
         "title": "Dielectric breakdown of PDMS thin films",
         "pub_year": "2013",
         "citation": "Journal of Micromechanics and Microengineering 23 (6), 067001, 2013",
-        "num_citations": 45,
+        "num_citations": 43,
         "author_pub_id": "SU0c5P0AAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -452,21 +445,21 @@
         "title": "Distance sensing for mini-robots: RSSI vs. TDOA",
         "pub_year": "2011",
         "citation": "2011 IEEE International Symposium of Circuits and Systems (ISCAS), 1984-1987, 2011",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "SU0c5P0AAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Dual spring force couples yield multifunctionality and ultrafast, precision rotation in tiny biomechanical systems",
         "pub_year": "2022",
         "citation": "Journal of Experimental Biology 225 (14), jeb244077, 2022",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "SU0c5P0AAAAJ:V3AGJWp-ZtQC"
     },
     {
         "title": "Dual spring force couples yield multifunctionality and ultrafast, precision rotation in tiny biomechanical systems",
         "pub_year": "2022",
         "citation": "(No Title), 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "SU0c5P0AAAAJ:7T2F9Uy0os0C"
     },
     {
@@ -522,7 +515,7 @@
         "title": "Electromechanical characterization of 3D printable conductive elastomer for soft robotics",
         "pub_year": "2020",
         "citation": "2020 3rd IEEE International Conference on Soft Robotics (RoboSoft), 318-324, 2020",
-        "num_citations": 18,
+        "num_citations": 17,
         "author_pub_id": "SU0c5P0AAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -545,18 +538,18 @@
         "author_pub_id": "SU0c5P0AAAAJ:P5F9QuxV20EC"
     },
     {
-        "title": "Fabrication and Characterization of Polycarbonate Substrates for High Yield Assembly of Multicomponent Biohybrid Microrobots",
-        "pub_year": "2023",
-        "citation": "2023 22nd International Conference on Solid-State Sensors, Actuators and …, 2023",
-        "num_citations": 2,
-        "author_pub_id": "SU0c5P0AAAAJ:hkOj_22Ku90C"
-    },
-    {
-        "title": "Fabrication and characterization of 3D printed out-of-plane torsional comb-drive actuators for microrobotics",
+        "title": "Fabrication and characterization of 3d printed out-of-plane torsional comb-drive actuators for microrobotics",
         "pub_year": "2021",
         "citation": "2021 21st International Conference on Solid-State Sensors, Actuators and …, 2021",
         "num_citations": 7,
         "author_pub_id": "SU0c5P0AAAAJ:geHnlv5EZngC"
+    },
+    {
+        "title": "Fabrication and characterization of polycarbonate substrates for high yield assembly of multicomponent biohybrid microrobots",
+        "pub_year": "2023",
+        "citation": "2023 22nd International Conference on Solid-State Sensors, Actuators and …, 2023",
+        "num_citations": 2,
+        "author_pub_id": "SU0c5P0AAAAJ:hkOj_22Ku90C"
     },
     {
         "title": "First leaps toward jumping microrobots",
@@ -568,7 +561,7 @@
     {
         "title": "Flow Shadowing: A Method to Detect Multiple Flow Headings using an Array of Densely Packed Whisker-inspired Sensors",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2406.11829, 2024",
+        "citation": "2024 IEEE International Conference on Robotics and Automation (ICRA), 17843 …, 2024",
         "num_citations": 0,
         "author_pub_id": "SU0c5P0AAAAJ:_Ybze24A_UAC"
     },
@@ -583,7 +576,7 @@
         "title": "Friction, adhesion and wear properties of PDMS films on silicon sidewalls",
         "pub_year": "2011",
         "citation": "Journal of Micromechanics and Microengineering 21 (10), 105013, 2011",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "SU0c5P0AAAAJ:UebtZRa9Y70C"
     },
     {
@@ -604,21 +597,21 @@
         "title": "Gait exploration of sub-2 g robots using magnetic actuation",
         "pub_year": "2016",
         "citation": "IEEE Robotics and Automation Letters 2 (1), 34-40, 2016",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "SU0c5P0AAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Geometric latches enable tuning of ultrafast, spring-propelled movements",
         "pub_year": "2023",
         "citation": "Journal of Experimental Biology 226 (2), jeb244363, 2023",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "SU0c5P0AAAAJ:t6usbXjVLHcC"
     },
     {
         "title": "Gesture recognition via flexible capacitive touch electrodes",
         "pub_year": "2019",
         "citation": "2019 International Conference on Robotics and Automation (ICRA), 9028-9034, 2019",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "SU0c5P0AAAAJ:NhqRSupF_l8C"
     },
     {
@@ -650,7 +643,7 @@
         "author_pub_id": "SU0c5P0AAAAJ:LPZeul_q3PIC"
     },
     {
-        "title": "Identifying Contact Distance Uncertainty in Whisker Sensing with Tapered, Flexible Whiskers",
+        "title": "Identifying contact distance uncertainty in whisker sensing with tapered, flexible whiskers",
         "pub_year": "2023",
         "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 607-613, 2023",
         "num_citations": 4,
@@ -667,7 +660,7 @@
         "title": "Incorporating compliant elastomers for jumping locomotion in microrobots",
         "pub_year": "2012",
         "citation": "Smart Materials and Structures 22 (1), 014010, 2012",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "SU0c5P0AAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -681,7 +674,7 @@
         "title": "Integrated silicon-PDMS process for microrobot mechanisms",
         "pub_year": "2010",
         "citation": "2010 IEEE International Conference on Robotics and Automation, 3153-3158, 2010",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "SU0c5P0AAAAJ:WF5omc3nYNoC"
     },
     {
@@ -742,7 +735,7 @@
         "title": "Magnetic actuation of thick film multi-material compliant mechanisms",
         "pub_year": "2017",
         "citation": "Journal of Micromechanics and Microengineering 27 (12), 125021, 2017",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "SU0c5P0AAAAJ:M05iB0D1s5AC"
     },
     {
@@ -777,7 +770,7 @@
         "title": "MobiLoc: Mobility enhanced localization",
         "pub_year": "2003",
         "citation": "University of California, Berkeley, 2003",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "SU0c5P0AAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -840,7 +833,7 @@
         "title": "Nonuniform structural properties of wings confer sensing advantages",
         "pub_year": "2023",
         "citation": "Journal of the Royal Society Interface 20 (200), 20220765, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "SU0c5P0AAAAJ:5ugPr518TE4C"
     },
     {
@@ -891,10 +884,10 @@
         "author_pub_id": "SU0c5P0AAAAJ:VOx2b1Wkg3QC"
     },
     {
-        "title": "PhotoBeacon: design of an optical system for localization and communication in multi-robot systems",
-        "pub_year": "2010",
-        "citation": "1st International ICST Conference on Robot Communication and Coordination, 2010",
-        "num_citations": 8,
+        "title": "PhotoBeacon: design of an optical system for localization and communication in multi-robot systems.",
+        "pub_year": "2007",
+        "citation": "ROBOCOMM, 5, 2007",
+        "num_citations": 9,
         "author_pub_id": "SU0c5P0AAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1049,11 +1042,11 @@
         "author_pub_id": "SU0c5P0AAAAJ:WqliGbK-hY8C"
     },
     {
-        "title": "Small-Scale Robotics From Nano-to-Millimeter-Sized Robotic Systems and Applications: First International Workshop, microICRA 2013, Karlsruhe, Germany, May 6-10, 2013, Revised …",
-        "pub_year": "2014",
-        "citation": "Springer, 2014",
-        "num_citations": 4,
-        "author_pub_id": "SU0c5P0AAAAJ:R3hNpaxXUhUC"
+        "title": "Small-Scale Robotics",
+        "pub_year": "2013",
+        "citation": "Springer, 2013",
+        "num_citations": 3,
+        "author_pub_id": "SU0c5P0AAAAJ:tS2w5q8j5-wC"
     },
     {
         "title": "Small-Scale Robotics. From Nano-to-Millimeter-Sized Robotic Systems and Applications",
@@ -1063,24 +1056,17 @@
         "author_pub_id": "SU0c5P0AAAAJ:_xSYboBqXhAC"
     },
     {
-        "title": "Small-scale robotics. LNAI",
-        "pub_year": "2013",
-        "citation": "Springer, Berlin/Heidelberg, 2013",
-        "num_citations": 3,
-        "author_pub_id": "SU0c5P0AAAAJ:tS2w5q8j5-wC"
-    },
-    {
         "title": "Small-scale robotics: An introduction",
         "pub_year": "2014",
         "citation": "Small-Scale Robotics. From Nano-to-Millimeter-Sized Robotic Systems and …, 2014",
-        "num_citations": 34,
+        "num_citations": 39,
         "author_pub_id": "SU0c5P0AAAAJ:TQgYirikUcIC"
     },
     {
         "title": "Soft airflow sensors with artificial hair structures and printed ionogel channels for wind gust detection for small uncrewed vehicles",
         "pub_year": "2023",
         "citation": "IEEE/ASME Transactions on Mechatronics 28 (4), 2317-2327, 2023",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "SU0c5P0AAAAJ:WA5NYHcadZ8C"
     },
     {
@@ -1108,21 +1094,21 @@
         "title": "Spring and latch dynamics can act as control pathways in ultrafast systems",
         "pub_year": "2023",
         "citation": "Bioinspiration & Biomimetics 18 (2), 026002, 2023",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "SU0c5P0AAAAJ:olpn-zPbct0C"
     },
     {
         "title": "Tactile Sensors: Rapid Manufacturing of Mechanoreceptive Skins for Slip Detection in Robotic Grasping (Adv. Mater. Technol. 1/2017)",
         "pub_year": "2017",
         "citation": "Advanced Materials Technologies 2 (1), 2017",
-        "num_citations": 71,
+        "num_citations": 69,
         "author_pub_id": "SU0c5P0AAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "The Simplest Walking Robot: A bipedal robot with one actuator and two rigid bodies",
         "pub_year": "2023",
         "citation": "2023 IEEE-RAS 22nd International Conference on Humanoid Robots (Humanoids), 1-7, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "SU0c5P0AAAAJ:9vf0nzSNQJEC"
     },
     {
@@ -1143,7 +1129,7 @@
         "title": "The principles of cascading power limits in small, fast biological and engineered systems",
         "pub_year": "2018",
         "citation": "Science 360 (6387), eaao1082, 2018",
-        "num_citations": 237,
+        "num_citations": 239,
         "author_pub_id": "SU0c5P0AAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -1164,21 +1150,21 @@
         "title": "TinyTeRP: A tiny terrestrial robotic platform with modular sensing",
         "pub_year": "2013",
         "citation": "2013 IEEE International Conference on Robotics and Automation, 2600-2605, 2013",
-        "num_citations": 26,
+        "num_citations": 25,
         "author_pub_id": "SU0c5P0AAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Touch the wind: Simultaneous airflow, drag and interaction sensing on a multirotor",
         "pub_year": "2020",
         "citation": "2020 IEEE/RSJ international conference on intelligent robots and systems …, 2020",
-        "num_citations": 41,
+        "num_citations": 37,
         "author_pub_id": "SU0c5P0AAAAJ:KxtntwgDAa4C"
     },
     {
         "title": "Toward autonomy in sub-gram terrestrial robots",
         "pub_year": "2019",
         "citation": "Annual Review of Control, Robotics, and Autonomous Systems 2 (1), 231-252, 2019",
-        "num_citations": 80,
+        "num_citations": 82,
         "author_pub_id": "SU0c5P0AAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -1206,7 +1192,7 @@
         "title": "Use of a MEMS differential pressure sensor to detect ground, ceiling, and walls on small quadrotors",
         "pub_year": "2021",
         "citation": "IEEE Robotics and Automation Letters 6 (3), 4568-4575, 2021",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "SU0c5P0AAAAJ:08ZZubdj9fEC"
     },
     {
@@ -1230,7 +1216,7 @@
         "author_pub_id": "SU0c5P0AAAAJ:p2g8aNsByqUC"
     },
     {
-        "title": "Whisksight: A reconfigurable, vision-based, optical whisker sensing array for simultaneous contact, airflow, and inertia stimulus detection",
+        "title": "WhiskSight: A reconfigurable, vision-based, optical whisker sensing array for simultaneous contact, airflow, and inertia stimulus detection",
         "pub_year": "2021",
         "citation": "IEEE Robotics and Automation Letters 6 (2), 3357-3364, 2021",
         "num_citations": 19,

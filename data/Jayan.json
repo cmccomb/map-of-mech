@@ -3,7 +3,7 @@
         "title": "A Review on Application of Poly (3, 4-ethylenedioxythiophene)(PEDOT) in Rechargeable Batteries",
         "pub_year": "2022",
         "citation": "Organic Materials 4 (04), 292-300, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "NNSeBe4AAAAJ:YXeC4bxG7-IC"
     },
     {
@@ -31,7 +31,7 @@
         "title": "Battery Charge Curve Prediction via Feature Extraction and Supervised Machine Learning",
         "pub_year": "2023",
         "citation": "Advanced Science, https://doi.org/10.1002/advs.202301737, 2023",
-        "num_citations": 13,
+        "num_citations": 16,
         "author_pub_id": "NNSeBe4AAAAJ:-XtG2q47PdUC"
     },
     {
@@ -136,7 +136,7 @@
         "title": "Engineering lithium-ion battery cathodes for high-voltage applications using electromagnetic excitation",
         "pub_year": "2020",
         "citation": "Journal of Materials Science 55, 12177-12190, 2020",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "NNSeBe4AAAAJ:cUMtEw7vMgQC"
     },
     {
@@ -171,7 +171,7 @@
         "title": "Far-from-equilibrium effects of electric and electromagnetic fields in ceramics synthesis and processing",
         "pub_year": "2021",
         "citation": "MRS Bulletin 46, 26-35, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "NNSeBe4AAAAJ:H8haQKU-3ZsC"
     },
     {
@@ -206,7 +206,7 @@
         "title": "In situ synchrotron pair distribution function analysis to monitor synthetic pathways under electromagnetic excitation",
         "pub_year": "2020",
         "citation": "Journal of Materials Chemistry A 8 (31), 15909-15918, 2020",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "NNSeBe4AAAAJ:Iq19BMNozs4C"
     },
     {
@@ -262,7 +262,7 @@
         "title": "Making the Case for Scaling up Microwave Sintering of Ceramics",
         "pub_year": "2024",
         "citation": "Advanced Engineering Materials, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "NNSeBe4AAAAJ:yRRszJvrVdAC"
     },
     {
@@ -290,7 +290,7 @@
         "title": "Microwave-assisted low-temperature growth of thin films in solution",
         "pub_year": "2012",
         "citation": "Scientific reports 2 (1), 1003, 2012",
-        "num_citations": 79,
+        "num_citations": 80,
         "author_pub_id": "NNSeBe4AAAAJ:Ef4XXjhdXvQC"
     },
     {
@@ -304,7 +304,7 @@
         "title": "Morphological and molecular control of chemical vapor deposition (CVD) polymerized polythiophene thin films",
         "pub_year": "2024",
         "citation": "RSC advances 14 (43), 31723-31729, 2024",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "NNSeBe4AAAAJ:vkDViGfkvYEC"
     },
     {
@@ -353,7 +353,7 @@
         "title": "Organic passivation of silicon through multifunctional polymeric interfaces",
         "pub_year": "2017",
         "citation": "Solar Energy Materials and Solar Cells 160, 470-475, 2017",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "NNSeBe4AAAAJ:00hq1xGbIBsC"
     },
     {
@@ -458,7 +458,7 @@
         "title": "Synthesis of assembled ZnO structures by precipitation method in aqueous media",
         "pub_year": "2009",
         "citation": "Materials Chemistry and Physics 115 (1), 172-178, 2009",
-        "num_citations": 196,
+        "num_citations": 197,
         "author_pub_id": "NNSeBe4AAAAJ:qzPvQt7yPGwC"
     },
     {
@@ -472,7 +472,7 @@
         "title": "Tailoring electrode–electrolyte interfaces in lithium-ion batteries using molecularly engineered functional polymers",
         "pub_year": "2021",
         "citation": "ACS Applied Materials & Interfaces 13 (8), 9919-9931, 2021",
-        "num_citations": 39,
+        "num_citations": 41,
         "author_pub_id": "NNSeBe4AAAAJ:vPKCt-r_nWsC"
     },
     {
@@ -514,7 +514,7 @@
         "title": "Unlocking the structure of mixed amorphous-crystalline ceramic oxide films synthesized under low temperature electromagnetic excitation",
         "pub_year": "2017",
         "citation": "Journal of Materials Chemistry A 5 (35), 18434-18441, 2017",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "NNSeBe4AAAAJ:5o6HiIVP414C"
     },
     {
@@ -528,7 +528,7 @@
         "title": "iCVD Cyclic Polysiloxane and Polysilazane as Nanoscale Thin‐Film Electrolyte: Synthesis and Properties",
         "pub_year": "2016",
         "citation": "Macromolecular Rapid Communications 37 (5), 446-452, 2016",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "NNSeBe4AAAAJ:LLUdpdcEW3AC"
     }
 ]

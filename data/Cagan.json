@@ -77,7 +77,7 @@
         "title": "A GPU-Based Parallel Bound-and-Classify Method for Continuous Constraint Satisfaction Problems",
         "pub_year": "2023",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "VtINcewAAAAJ:1DsIQWDZLl8C"
     },
     {
@@ -180,7 +180,7 @@
         "title": "A cautionary tale about the impact of AI on human design teams",
         "pub_year": "2021",
         "citation": "Design studies 72, 100990, 2021",
-        "num_citations": 121,
+        "num_citations": 127,
         "author_pub_id": "VtINcewAAAAJ:OcBU2YAGkTUC"
     },
     {
@@ -285,7 +285,7 @@
         "title": "A mixed reality system combining augmented reality, 3D bio-printed physical environments and inertial measurement unit sensors for task planning",
         "pub_year": "2023",
         "citation": "Virtual Reality 27 (3), 1845-1858, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "VtINcewAAAAJ:dTyEYWd-f8wC"
     },
     {
@@ -348,28 +348,28 @@
         "title": "A step‐by‐step process to build valued brands",
         "pub_year": "2009",
         "citation": "Journal of Product & Brand Management 18 (1), 38-49, 2009",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "VtINcewAAAAJ:1sJd4Hv_s6UC"
     },
     {
         "title": "A strategic decision-making architecture toward hybrid teams for dynamic competitive problems",
         "pub_year": "2021",
         "citation": "Decision Support Systems 144, 113490, 2021",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "VtINcewAAAAJ:kVjdVfd2voEC"
     },
     {
         "title": "A study of design fixation, its mitigation and perception in engineering design faculty",
         "pub_year": "2010",
         "citation": "",
-        "num_citations": 527,
+        "num_citations": 529,
         "author_pub_id": "VtINcewAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "A survey of computational approaches to three-dimensional layout problems",
         "pub_year": "2002",
         "citation": "Computer-Aided Design 34 (8), 597-611, 2002",
-        "num_citations": 309,
+        "num_citations": 310,
         "author_pub_id": "VtINcewAAAAJ:gVv57TyPmFsC"
     },
     {
@@ -397,7 +397,7 @@
         "title": "A-design: an agent-based approach to conceptual design in a dynamic environment",
         "pub_year": "1999",
         "citation": "Research in Engineering Design 11, 172-192, 1999",
-        "num_citations": 269,
+        "num_citations": 270,
         "author_pub_id": "VtINcewAAAAJ:cK4Rrx0J3m0C"
     },
     {
@@ -463,7 +463,7 @@
         "title": "Adaptive inspirational design stimuli: using design output to computationally search for stimuli that impact concept generation",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (9), 091401, 2020",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "VtINcewAAAAJ:ODE9OILHJdcC"
     },
     {
@@ -477,7 +477,7 @@
         "title": "Addressing challenges to problem complexity: Effectiveness of AI assistance during the design process",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "VtINcewAAAAJ:4fKUyHm3Qg0C"
     },
     {
@@ -573,7 +573,7 @@
         "title": "An extended pattern search approach to wind farm layout optimization",
         "pub_year": "2012",
         "citation": "",
-        "num_citations": 158,
+        "num_citations": 159,
         "author_pub_id": "VtINcewAAAAJ:8AbLer7MMksC"
     },
     {
@@ -635,7 +635,7 @@
         "title": "Applying machine learning methods toward classification based on small datasets: Application to shoulder labral tears",
         "pub_year": "2020",
         "citation": "Journal of Engineering and Science in Medical Diagnostics and Therapy 3 (1 …, 2020",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "VtINcewAAAAJ:4vMrXwiscB8C"
     },
     {
@@ -656,7 +656,7 @@
         "title": "Are you better off alone? Mitigating the underperformance of engineering teams during conceptual design through adaptive process management",
         "pub_year": "2019",
         "citation": "Research in Engineering Design 30, 85-102, 2019",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "VtINcewAAAAJ:JQOojiI6XY0C"
     },
     {
@@ -768,7 +768,7 @@
         "title": "Capturing human sequence-learning abilities in configuration design tasks through markov chains",
         "pub_year": "2017",
         "citation": "Journal of Mechanical Design 139 (9), 091101, 2017",
-        "num_citations": 74,
+        "num_citations": 76,
         "author_pub_id": "VtINcewAAAAJ:XiVPGOgt02cC"
     },
     {
@@ -852,7 +852,7 @@
         "title": "Communication in AI-assisted teams during an interdisciplinary drone design problem",
         "pub_year": "2021",
         "citation": "Proceedings of the Design Society 1, 651-660, 2021",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "VtINcewAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -912,7 +912,7 @@
         "title": "Computer-based design synthesis research: an overview",
         "pub_year": "2011",
         "citation": "",
-        "num_citations": 337,
+        "num_citations": 339,
         "author_pub_id": "VtINcewAAAAJ:Mojj43d5GZwC"
     },
     {
@@ -947,7 +947,7 @@
         "title": "Coupling Simulated Annealing and Homogenization to Design Thermally Conductive Hybrid Lattice Support Structures for LPBF",
         "pub_year": "2023",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "VtINcewAAAAJ:uVUOdF_882EC"
     },
     {
@@ -982,7 +982,7 @@
         "title": "Crowdsourcing inspiration: Using crowd generated inspirational stimuli to support designer ideation",
         "pub_year": "2019",
         "citation": "Design studies 61, 1-29, 2019",
-        "num_citations": 140,
+        "num_citations": 142,
         "author_pub_id": "VtINcewAAAAJ:9pM33mqn1YgC"
     },
     {
@@ -1023,14 +1023,14 @@
         "title": "Data on human decision, feedback, and confidence during an artificial intelligence-assisted decision-making task",
         "pub_year": "2023",
         "citation": "Data in Brief 46, 108884, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "VtINcewAAAAJ:-FonjvnnhkoC"
     },
     {
         "title": "Data on the Human Versus artificial intelligence process management experiment",
         "pub_year": "2022",
         "citation": "Data in Brief 41, 107917, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "VtINcewAAAAJ:9Nmd_mFXekcC"
     },
     {
@@ -1065,7 +1065,7 @@
         "title": "Decidual vasculopathy identification in whole slide images using multiresolution hierarchical convolutional neural networks",
         "pub_year": "2020",
         "citation": "The American Journal of Pathology 190 (10), 2111-2122, 2020",
-        "num_citations": 26,
+        "num_citations": 28,
         "author_pub_id": "VtINcewAAAAJ:kzcrU_BdoSEC"
     },
     {
@@ -1114,7 +1114,7 @@
         "title": "Design and Printability Evaluation of Heat Exchangers for Laser Powder Bed Fusion Process",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "VtINcewAAAAJ:edDO8Oi4QzsC"
     },
     {
@@ -1163,7 +1163,7 @@
         "title": "Design team convergence: the influence of example solution quality",
         "pub_year": "2010",
         "citation": "",
-        "num_citations": 111,
+        "num_citations": 112,
         "author_pub_id": "VtINcewAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1191,7 +1191,7 @@
         "title": "Determinants of creative thinking: the effect of task characteristics in solving remote associate test problems",
         "pub_year": "2022",
         "citation": "Thinking & Reasoning 28 (2), 163-192, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "VtINcewAAAAJ:nb7KW1ujOQ8C"
     },
     {
@@ -1219,7 +1219,7 @@
         "title": "Discovering structure in design databases through functional and surface based mapping",
         "pub_year": "2013",
         "citation": "Journal of mechanical Design 135 (3), 031006, 2013",
-        "num_citations": 135,
+        "num_citations": 136,
         "author_pub_id": "VtINcewAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -1323,7 +1323,7 @@
         "title": "Empirical studies of designer thinking: past, present, and future",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (2), 021101, 2015",
-        "num_citations": 202,
+        "num_citations": 205,
         "author_pub_id": "VtINcewAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -1481,7 +1481,7 @@
         "title": "Fixation or inspiration? A meta-analytic review of the role of examples on design processes",
         "pub_year": "2015",
         "citation": "Design Studies 39, 70-99, 2015",
-        "num_citations": 269,
+        "num_citations": 272,
         "author_pub_id": "VtINcewAAAAJ:lgwcVrK6X84C"
     },
     {
@@ -1522,14 +1522,14 @@
         "title": "GCP-HOLO: Generating High-Order Linkage graphs for path synthesis",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (7), 073303, 2023",
-        "num_citations": 13,
+        "num_citations": 16,
         "author_pub_id": "VtINcewAAAAJ:SP6oXDckpogC"
     },
     {
         "title": "GGREADA: a graph grammar-based machine design algorithm",
         "pub_year": "1997",
         "citation": "Research in Engineering Design 9, 195-213, 1997",
-        "num_citations": 138,
+        "num_citations": 140,
         "author_pub_id": "VtINcewAAAAJ:tS2w5q8j5-wC"
     },
     {
@@ -1564,7 +1564,7 @@
         "title": "Goal-directed design agents: Integrating visual imitation with one-step lookahead optimization for generative design",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (12), 124501, 2021",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "VtINcewAAAAJ:hkOj_22Ku90C"
     },
     {
@@ -1606,7 +1606,7 @@
         "title": "Heuristic-guided solution search through a two-tiered design grammar",
         "pub_year": "2020",
         "citation": "Journal of Computing and Information Science in Engineering 20 (1), 011008, 2020",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "VtINcewAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -1618,8 +1618,8 @@
     },
     {
         "title": "How Being Outvoted by AI Teammates Impacts Human-AI Collaboration",
-        "pub_year": "2024",
-        "citation": "International Journal of Human–Computer Interaction, 1-18, 2024",
+        "pub_year": "2025",
+        "citation": "International Journal of Human–Computer Interaction, 1-18, 2025",
         "num_citations": 1,
         "author_pub_id": "VtINcewAAAAJ:EPG8bYD4jVwC"
     },
@@ -1641,21 +1641,21 @@
         "title": "Human and computational approaches for design problem-solving",
         "pub_year": "2016",
         "citation": "Experimental Design Research: Approaches, Perspectives, Applications, 187-205, 2016",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "VtINcewAAAAJ:q-HalDI95KYC"
     },
     {
         "title": "Human confidence in artificial intelligence and in themselves: The evolution and impact of confidence on adoption of AI advice",
         "pub_year": "2022",
         "citation": "Computers in Human Behavior 127, 107018, 2022",
-        "num_citations": 209,
+        "num_citations": 217,
         "author_pub_id": "VtINcewAAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "Human versus artificial intelligence: A data-driven approach to real-time process management during complex engineering design",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (2), 021405, 2022",
-        "num_citations": 48,
+        "num_citations": 50,
         "author_pub_id": "VtINcewAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -1829,7 +1829,7 @@
         "title": "Interrupted: The roles of distributed effort and incubation in preventing fixation and generating problem solutions",
         "pub_year": "2017",
         "citation": "Memory & Cognition 45, 553-565, 2017",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "VtINcewAAAAJ:a3BOlSfXSfwC"
     },
     {
@@ -1884,7 +1884,7 @@
         "title": "Languages and semantics of grammatical discrete structures",
         "pub_year": "1999",
         "citation": "Ai Edam 13 (4), 241-251, 1999",
-        "num_citations": 119,
+        "num_citations": 121,
         "author_pub_id": "VtINcewAAAAJ:i2xiXl-TujoC"
     },
     {
@@ -1946,21 +1946,21 @@
         "title": "Learning to design from humans: Imitating human designers through deep learning",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (11), 111102, 2019",
-        "num_citations": 116,
+        "num_citations": 120,
         "author_pub_id": "VtINcewAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "Learning to design without prior data: Discovering generalizable design strategies using deep learning and tree search",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (3), 031402, 2023",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "VtINcewAAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "Lifting the Veil: Drawing insights about design teams from a cognitively-inspired computational model",
         "pub_year": "2015",
         "citation": "Design Studies 40, 119-142, 2015",
-        "num_citations": 119,
+        "num_citations": 121,
         "author_pub_id": "VtINcewAAAAJ:vbGhcppDl1QC"
     },
     {
@@ -2051,7 +2051,7 @@
         "title": "Mining process heuristics from designer action data via hidden Markov models",
         "pub_year": "2017",
         "citation": "Journal of Mechanical Design 139 (11), 111412, 2017",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "VtINcewAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -2065,7 +2065,7 @@
         "title": "Modeling a strategic human engineering design process: Human-inspired heuristic guidance through learned visual design agents",
         "pub_year": "2020",
         "citation": "Proceedings of the Design Society: DESIGN Conference 1, 355-364, 2020",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "VtINcewAAAAJ:kz9GbA2Ns4gC"
     },
     {
@@ -2107,14 +2107,14 @@
         "title": "Objective function effect based pattern search—theoretical framework inspired by 3D component layout",
         "pub_year": "2007",
         "citation": "",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "VtINcewAAAAJ:P7Ujq4OLJYoC"
     },
     {
         "title": "On the benefits and pitfalls of analogies for innovative design: Ideation performance based on analogical distance, commonness, and modality of examples",
         "pub_year": "2011",
         "citation": "",
-        "num_citations": 381,
+        "num_citations": 384,
         "author_pub_id": "VtINcewAAAAJ:NXb4pA-qfm4C"
     },
     {
@@ -2335,7 +2335,7 @@
         "title": "Quantifying aesthetic form preference in a utility function",
         "pub_year": "2009",
         "citation": "",
-        "num_citations": 189,
+        "num_citations": 190,
         "author_pub_id": "VtINcewAAAAJ:1yWc8FF-_SYC"
     },
     {
@@ -2432,7 +2432,7 @@
         "title": "Rolling with the punches: An examination of team performance in a design task subject to drastic changes",
         "pub_year": "2015",
         "citation": "Design Studies 36, 99-121, 2015",
-        "num_citations": 92,
+        "num_citations": 93,
         "author_pub_id": "VtINcewAAAAJ:UxriW0iASnsC"
     },
     {
@@ -2523,7 +2523,7 @@
         "title": "Shape grammar interpreter",
         "pub_year": "2009",
         "citation": "US Patent 7,502,511, 2009",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "VtINcewAAAAJ:XiSMed-E-HIC"
     },
     {
@@ -2661,7 +2661,7 @@
         "title": "Taking the guess work out of the initial guess: A solution interval method for least-squares parameter estimation in nonlinear models",
         "pub_year": "2021",
         "citation": "Journal of Computing and Information Science in Engineering 21 (2), 021011, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "VtINcewAAAAJ:wMgC3FpKEyYC"
     },
     {
@@ -2777,7 +2777,7 @@
         "title": "The design of things to come: How ordinary people create extraordinary products",
         "pub_year": "2011",
         "citation": "Pearson Prentice Hall, 2011",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "VtINcewAAAAJ:0N-VGjzr574C"
     },
     {
@@ -2791,7 +2791,7 @@
         "title": "The effect of incidental hints when problems are suspended before, during, or after an impasse.",
         "pub_year": "2011",
         "citation": "Journal of Experimental Psychology: Learning, Memory, and Cognition 37 (1), 140, 2011",
-        "num_citations": 113,
+        "num_citations": 114,
         "author_pub_id": "VtINcewAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -2805,7 +2805,7 @@
         "title": "The evolution and impact of human confidence in artificial intelligence and in themselves on AI-assisted decision-making in design",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (3), 031401, 2023",
-        "num_citations": 33,
+        "num_citations": 37,
         "author_pub_id": "VtINcewAAAAJ:jL-93Qbq4QoC"
     },
     {
@@ -2819,7 +2819,7 @@
         "title": "The impact of sustainability on consumer preference judgments of product attributes",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (8), 081401, 2015",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "VtINcewAAAAJ:1yQoGdGgb4wC"
     },
     {
@@ -2840,7 +2840,7 @@
         "title": "The meaning of “near” and “far”: the impact of structuring design databases and the effect of distance of analogy on design output",
         "pub_year": "2013",
         "citation": "Journal of Mechanical Design 135 (2), 021007, 2013",
-        "num_citations": 347,
+        "num_citations": 349,
         "author_pub_id": "VtINcewAAAAJ:mvPsJ3kp5DgC"
     },
     {
@@ -2854,7 +2854,7 @@
         "title": "The role of design team interaction structure on individual and shared mental models",
         "pub_year": "2014",
         "citation": "Design computing and cognition'12, 209-226, 2014",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "VtINcewAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -2875,7 +2875,7 @@
         "title": "Topology design of truss structures by shape annealing",
         "pub_year": "1998",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 1998",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "VtINcewAAAAJ:0KyAp5RtaNEC"
     },
     {
@@ -2903,7 +2903,7 @@
         "title": "Tracking of scalpel motions with an inertial measurement unit system",
         "pub_year": "2022",
         "citation": "IEEE Sensors Journal 22 (5), 4651-4660, 2022",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "VtINcewAAAAJ:PELIpwtuRlgC"
     },
     {
@@ -2917,7 +2917,7 @@
         "title": "Trust in an AI versus a Human teammate: The effects of teammate identity and performance on Human-AI cooperation",
         "pub_year": "2023",
         "citation": "Computers in Human Behavior 139, 107536, 2023",
-        "num_citations": 63,
+        "num_citations": 66,
         "author_pub_id": "VtINcewAAAAJ:M7yex6snE4oC"
     },
     {
@@ -2979,14 +2979,14 @@
         "title": "Unit-based design of cross-flow heat exchangers for LPBF additive manufacturing",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (1), 012002, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "VtINcewAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Unlocking organizational potential: a computational platform for investigating structural interdependence in design",
         "pub_year": "2009",
         "citation": "",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "VtINcewAAAAJ:TQgYirikUcIC"
     },
     {
@@ -3095,7 +3095,7 @@
         "title": "Virl: Volume-informed representation learning towards few-shot manufacturability estimation",
         "pub_year": "2025",
         "citation": "Journal of Intelligent Manufacturing, 1-21, 2025",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "VtINcewAAAAJ:An6A6Jpfc1oC"
     },
     {
@@ -3123,7 +3123,7 @@
         "title": "When faced with increasing complexity: The effectiveness of artificial intelligence assistance for drone design",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (2), 021701, 2022",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "VtINcewAAAAJ:hMsQuOkrut0C"
     },
     {

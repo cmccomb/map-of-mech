@@ -42,10 +42,10 @@
         "author_pub_id": "UIS_G1YAAAAJ:mB3voiENLucC"
     },
     {
-        "title": "Actuator Array Manipulation Using Low Resolution Local Sensing",
+        "title": "Actuator array manipulation using low resolution local sensing",
         "pub_year": "2014",
         "citation": "ASME International Mechanical Engineering Congress and Exposition 46476 …, 2014",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "UIS_G1YAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -59,7 +59,7 @@
         "title": "An arduino-based hardware platform for a mechanical engineering sophomore design course",
         "pub_year": "2018",
         "citation": "2018 ASEE Annual Conference & Exposition, 2018",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "UIS_G1YAAAAJ:u_35RYKgDlwC"
     },
     {
@@ -77,11 +77,18 @@
         "author_pub_id": "UIS_G1YAAAAJ:yD5IFk8b50cC"
     },
     {
-        "title": "Charge-based scanning probe readback of nanometer-scale ferroelectric domain patterns at megahertz rates",
+        "title": "Charge-based scanning probe readback of nanometer-scale ferroelectric domain patterns atmegahertz rates",
         "pub_year": "2009",
         "citation": "Nanotechnology 20 (22), 225501, 2009",
         "num_citations": 21,
         "author_pub_id": "UIS_G1YAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+        "title": "Comparison of Suspension-Based and",
+        "pub_year": "2004",
+        "citation": "Proceedings 8, 347, 2004",
+        "num_citations": 0,
+        "author_pub_id": "UIS_G1YAAAAJ:b0M2c_1WBrUC"
     },
     {
         "title": "Comparison of suspension-based and slider-based microactuators for track following performance",
@@ -164,7 +171,7 @@
         "title": "Distributed sensing in actuator array manipulation",
         "pub_year": "2013",
         "citation": "ASME International Mechanical Engineering Congress and Exposition 56246 …, 2013",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "UIS_G1YAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -227,7 +234,7 @@
         "title": "Extending systems thinking skills to an introductory mechanical engineering course",
         "pub_year": "2019",
         "citation": "2019 ASEE Annual Conference & Exposition, 2019",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "UIS_G1YAAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -266,7 +273,7 @@
         "author_pub_id": "UIS_G1YAAAAJ:Wp0gIr-vW9MC"
     },
     {
-        "title": "Improving transitions between sophomore dynamics and junior dynamic systems courses",
+        "title": "Improving Transitions Between Sophomore Dynamics and Junior Dynamic Systems Courses",
         "pub_year": "2014",
         "citation": "2014 ASEE Annual Conference & Exposition, 24.725. 1-24.725. 10, 2014",
         "num_citations": 5,
@@ -276,7 +283,7 @@
         "title": "Incorporating basic systems thinking and systems engineering concepts in a mechanical engineering sophomore design course",
         "pub_year": "2017",
         "citation": "2017 ASEE Annual Conference & Exposition, 2017",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "UIS_G1YAAAAJ:blknAaTinKkC"
     },
     {
@@ -297,7 +304,7 @@
         "title": "Investigating the impact of an outreach activity on high school students’ attitude towards STEM disciplines",
         "pub_year": "2015",
         "citation": "2015 ASEE Annual Conference & Exposition, 26.1040. 1-26.1040. 10, 2015",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "UIS_G1YAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -332,7 +339,7 @@
         "title": "Measuring the impact of a new mechanical engineering sophomore design course on students’ systems thinking skills",
         "pub_year": "2018",
         "citation": "ASME International Mechanical Engineering Congress and Exposition 52064 …, 2018",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "UIS_G1YAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -416,7 +423,7 @@
         "title": "Probe head with narrow read element",
         "pub_year": "2011",
         "citation": "US Patent 7,903,533, 2011",
-        "num_citations": 2,
+        "num_citations": 0,
         "author_pub_id": "UIS_G1YAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -507,7 +514,7 @@
         "title": "Systems thinking skills of undergraduate engineering students",
         "pub_year": "2015",
         "citation": "2015 IEEE Frontiers in education conference (FIE), 1-5, 2015",
-        "num_citations": 28,
+        "num_citations": 27,
         "author_pub_id": "UIS_G1YAAAAJ:4JMBOYKVnBMC"
     },
     {

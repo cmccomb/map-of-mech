@@ -45,7 +45,7 @@
         "title": "Computational modeling of a human placentone: Simulating uteroplacental hemodynamics",
         "pub_year": "2024",
         "citation": "Physics of Fluids 36 (12), 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "HzsuNvEAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -73,7 +73,7 @@
         "title": "Decoding thrombosis through code: a review of computational models",
         "pub_year": "2024",
         "citation": "Journal of Thrombosis and Haemostasis 22 (1), 35-47, 2024",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "HzsuNvEAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -108,14 +108,21 @@
         "title": "Hemodynamic variables in aneurysms are associated with thrombotic risk in children with Kawasaki disease",
         "pub_year": "2019",
         "citation": "International journal of cardiology 281, 15-21, 2019",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "HzsuNvEAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+        "title": "Integrating Radiation-Induced Functionally-Weighted Airway Damage Modeling with Radiation-Induced Parenchymal Damage Modeling For Prediction of Post-RT Ventilation Loss",
+        "pub_year": "2024",
+        "citation": "International Journal of Radiation Oncology, Biology, Physics 120 (2), e185, 2024",
+        "num_citations": 0,
+        "author_pub_id": "HzsuNvEAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Integrating local and distant radiation‐induced lung injury: Development and validation of a predictive model for ventilation loss",
         "pub_year": "2024",
         "citation": "Medical Physics, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "HzsuNvEAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -129,7 +136,7 @@
         "title": "Longitudinal investigation of aortic dissection in mice with computational fluid dynamics",
         "pub_year": "2024",
         "citation": "Computer Methods in Biomechanics and Biomedical Engineering 27 (15), 2161-2174, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "HzsuNvEAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -138,6 +145,13 @@
         "citation": "2023 IEEE Workshop on Design Automation for CPS and IoT (DESTION), 2023",
         "num_citations": 5,
         "author_pub_id": "HzsuNvEAAAAJ:WF5omc3nYNoC"
+    },
+    {
+        "title": "Radiation-Induced Lung Injury (RILI) Modeling Integrating Local and Distant Damage: Development and Validation of a Predictive Model for Ventilation Loss",
+        "pub_year": "2023",
+        "citation": "AAPM 65th Annual Meeting & Exhibition, 2023",
+        "num_citations": 0,
+        "author_pub_id": "HzsuNvEAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Revisiting the Relevance of Platelet Margination in Arteries: a Computational Investigation",
@@ -180,5 +194,12 @@
         "citation": "Circulation 131 (suppl_2), A164, 2015",
         "num_citations": 0,
         "author_pub_id": "HzsuNvEAAAAJ:zYLM7Y9cAGgC"
+    },
+    {
+        "title": "Understanding the Impact of Radiation-Induced Airway Injury on Post-Radiotherapy Lung Ventilation: Insights from Computational Fluid Dynamics Modeling",
+        "pub_year": "2024",
+        "citation": "AAPM 66th Annual Meeting & Exhibition, 2024",
+        "num_citations": 0,
+        "author_pub_id": "HzsuNvEAAAAJ:_kc_bZDykSQC"
     }
 ]

@@ -90,7 +90,7 @@
         "title": "Accurate method for determining adhesion of cantilever beams",
         "pub_year": "1999",
         "citation": "Journal of applied physics 86 (2), 817-827, 1999",
-        "num_citations": 319,
+        "num_citations": 320,
         "author_pub_id": "P1OWCkAAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -173,7 +173,7 @@
         "title": "Capillary adhesion between elastically hard rough surfaces",
         "pub_year": "2007",
         "citation": "Experimental mechanics 47, 171-183, 2007",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "P1OWCkAAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -247,6 +247,13 @@
         "author_pub_id": "P1OWCkAAAAAJ:p2g8aNsByqUC"
     },
     {
+        "title": "Constraint Active Search in Process Window Optimization for Powder Feed Directed Energy Deposition",
+        "pub_year": "2025",
+        "citation": "Integrating Materials and Manufacturing Innovation, 1-9, 2025",
+        "num_citations": 0,
+        "author_pub_id": "P1OWCkAAAAAJ:kh2fBNsKQNwC"
+    },
+    {
         "title": "Contact Reliability of Pt-and TiN-Coated Microswitches",
         "pub_year": "2018",
         "citation": "Mechanics of Biological Systems & Micro-and Nanomechanics, Volume 4 …, 2018",
@@ -255,8 +262,8 @@
     },
     {
         "title": "Contact reliability of Pt-and TiN-coated microswitches in different environments",
-        "pub_year": "2019",
-        "citation": "Mechanics of Biological Systems & Micro-and Nanomechanics, Volume 4 …, 2019",
+        "pub_year": "2018",
+        "citation": "Mechanics of Biological Systems & Micro-and Nanomechanics, Volume 4 …, 2018",
         "num_citations": 4,
         "author_pub_id": "P1OWCkAAAAAJ:JoZmwDi-zQgC"
     },
@@ -299,7 +306,7 @@
         "title": "Crystalline polymer nanofibers with ultra-high strength and thermal conductivity",
         "pub_year": "2018",
         "citation": "Nature communications 9 (1), 1664, 2018",
-        "num_citations": 151,
+        "num_citations": 154,
         "author_pub_id": "P1OWCkAAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -334,7 +341,7 @@
         "title": "Demonstration of tantalum as a structural material for MEMS thermal actuators",
         "pub_year": "2021",
         "citation": "Microsystems & Nanoengineering 7 (1), 6, 2021",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "P1OWCkAAAAAJ:nrtMV_XWKgEC"
     },
     {
@@ -474,7 +481,7 @@
         "title": "Evolution of wear characteristics and frictional behavior in MEMS devices",
         "pub_year": "2011",
         "citation": "Tribology letters 41, 177-189, 2011",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "P1OWCkAAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -565,7 +572,7 @@
         "title": "Full assessment of micromachine friction within the rate–state framework: Experiments",
         "pub_year": "2016",
         "citation": "Tribology letters 63, 1-15, 2016",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "P1OWCkAAAAAJ:BrmTIyaxlBUC"
     },
     {
@@ -635,7 +642,7 @@
         "title": "IC-compatible polysilicon surface micromachining",
         "pub_year": "2000",
         "citation": "Annual Review of Materials Science 30 (1), 299-333, 2000",
-        "num_citations": 307,
+        "num_citations": 308,
         "author_pub_id": "P1OWCkAAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -880,7 +887,7 @@
         "title": "Mechanics of microcantilever beams subject to combined electrostatic and adhesive forces",
         "pub_year": "2002",
         "citation": "Journal of Microelectromechanical Systems 11 (6), 754-764, 2002",
-        "num_citations": 142,
+        "num_citations": 143,
         "author_pub_id": "P1OWCkAAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -992,7 +999,7 @@
         "title": "Microwedge indentation of the thin film fine line—I. Mechanics",
         "pub_year": "1996",
         "citation": "Acta materialia 44 (8), 3169-3175, 1996",
-        "num_citations": 129,
+        "num_citations": 130,
         "author_pub_id": "P1OWCkAAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1243,14 +1250,14 @@
         "title": "Role of interfacial properties on MEMS performance and reliability",
         "pub_year": "1999",
         "citation": "Microsystems metrology and inspection 3825, 2-15, 1999",
-        "num_citations": 89,
+        "num_citations": 90,
         "author_pub_id": "P1OWCkAAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Rough surface adhesion in the presence of capillary condensation",
         "pub_year": "2007",
         "citation": "Applied physics letters 90 (16), 2007",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "P1OWCkAAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -1394,7 +1401,7 @@
         "title": "The role of van der Waals forces in adhesion of micromachined surfaces",
         "pub_year": "2005",
         "citation": "Nature materials 4 (8), 629-634, 2005",
-        "num_citations": 602,
+        "num_citations": 605,
         "author_pub_id": "P1OWCkAAAAAJ:u5HHmVD_uO8C"
     },
     {

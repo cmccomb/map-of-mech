@@ -1,135 +1,203 @@
 [
     {
+        "title": "Active interlocking metasurfaces enabled by shape memory alloys",
+        "pub_year": "2024",
+        "citation": "Materials & Design 244, 113137, 2024",
+        "num_citations": 4,
+        "author_pub_id": "32ZyPkEAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+        "title": "Bio-inspired interlocking metasurfaces",
+        "pub_year": "2025",
+        "citation": "Bioinspiration & Biomimetics, 2025",
+        "num_citations": 0,
+        "author_pub_id": "32ZyPkEAAAAJ:kNdYIx-mwKoC"
+    },
+    {
+        "title": "Dynamic Tailoring of Interlocking Metasurfaces (ILMs)",
+        "pub_year": "2023",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "32ZyPkEAAAAJ:_FxGoFyzp5QC"
+    },
+    {
+        "title": "Erratum: Nonlinear elasticity and damping govern ultrafast dynamics in click beetles (Proceedings of the National Academy of Sciences of the United States of America (2021) 118 …",
+        "pub_year": "2021",
+        "citation": "Proceedings of the National Academy of Sciences of the United States of …, 2021",
+        "num_citations": 0,
+        "author_pub_id": "32ZyPkEAAAAJ:YsMSGLbcyi4C"
+    },
+    {
+        "title": "Go with the flow: Developing a scaffold to examine the energy flow within click beetles",
+        "pub_year": "2024",
+        "citation": "INTEGRATIVE AND COMPARATIVE BIOLOGY 64, S332-S332, 2024",
+        "num_citations": 0,
+        "author_pub_id": "32ZyPkEAAAAJ:KlAtU1dfN6UC"
+    },
+    {
         "title": "How does Morphology Affect Jumping Kinematics of Click Beetles?",
         "pub_year": "2020",
         "citation": "INTEGRATIVE AND COMPARATIVE BIOLOGY 60, E21-E21, 2020",
         "num_citations": 0,
-        "author_pub_id": "YM2HSekAAAAJ:YsMSGLbcyi4C"
+        "author_pub_id": "32ZyPkEAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Insect-scale jumping robots enabled by a dynamic buckling cascade",
         "pub_year": "2023",
         "citation": "Proceedings of the National Academy of Sciences 120 (5), e2210651120, 2023",
-        "num_citations": 24,
-        "author_pub_id": "YM2HSekAAAAJ:_FxGoFyzp5QC"
+        "num_citations": 38,
+        "author_pub_id": "32ZyPkEAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Interlocking Metasurfaces",
         "pub_year": "2024",
         "citation": "US Patent App. 17/888,846, 2024",
         "num_citations": 0,
-        "author_pub_id": "YM2HSekAAAAJ:Se3iqnhoufwC"
+        "author_pub_id": "32ZyPkEAAAAJ:Se3iqnhoufwC"
+    },
+    {
+        "title": "Interlocking Metasurfaces Enabled by Additive Manufacturing",
+        "citation": "Available at SSRN 4179954, 0",
+        "num_citations": 0,
+        "author_pub_id": "32ZyPkEAAAAJ:UeHWp8X0CEIC"
+    },
+    {
+        "title": "Interlocking Metasurfaces: a joining technology for additive.",
+        "pub_year": "2022",
+        "citation": "Sandia National Lab.(SNL-NM), Albuquerque, NM (United States), 2022",
+        "num_citations": 0,
+        "author_pub_id": "32ZyPkEAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Interlocking metasurfaces",
         "pub_year": "2023",
         "citation": "Journal of Materials Science 58 (1), 411-419, 2023",
-        "num_citations": 11,
-        "author_pub_id": "YM2HSekAAAAJ:WF5omc3nYNoC"
+        "num_citations": 17,
+        "author_pub_id": "32ZyPkEAAAAJ:u5HHmVD_uO8C"
+    },
+    {
+        "title": "Interlocking metasurfaces",
+        "pub_year": "2023",
+        "citation": "Sandia National Lab.(SNL-NM), Albuquerque, NM (United States), 2023",
+        "num_citations": 0,
+        "author_pub_id": "32ZyPkEAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "JUMP: Experiment-enabled Modeling of Click Beetle Jumps for Robotic Applications",
         "pub_year": "2019",
         "citation": "APS March Meeting Abstracts 2019, S64. 002, 2019",
         "num_citations": 0,
-        "author_pub_id": "YM2HSekAAAAJ:u-x6o8ySG0sC"
+        "author_pub_id": "32ZyPkEAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Latch and release: how hinge morphology and mechanics enable the explosive click of Coleoptera Elateridae",
         "pub_year": "2019",
         "citation": "INTEGRATIVE AND COMPARATIVE BIOLOGY 59, E20-E20, 2019",
         "num_citations": 0,
-        "author_pub_id": "YM2HSekAAAAJ:u5HHmVD_uO8C"
+        "author_pub_id": "32ZyPkEAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Latching of the click beetle (Coleoptera: Elateridae) thoracic hinge enabled by the morphology and mechanics of conformal structures",
         "pub_year": "2019",
         "citation": "Journal of Experimental Biology 222 (12), jeb196683, 2019",
-        "num_citations": 34,
-        "author_pub_id": "YM2HSekAAAAJ:qjMakFHDy7sC"
+        "num_citations": 36,
+        "author_pub_id": "32ZyPkEAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Mobility power flow: How click beetles transmit and dissipate mechanical power",
         "pub_year": "2021",
         "citation": "INTEGRATIVE AND COMPARATIVE BIOLOGY 61, E70-E71, 2021",
         "num_citations": 0,
-        "author_pub_id": "YM2HSekAAAAJ:eQOLeE2rZwMC"
+        "author_pub_id": "32ZyPkEAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Nonlinear elasticity and damping govern ultrafast dynamics in click beetles",
         "pub_year": "2021",
         "citation": "Proceedings of the National Academy of Sciences 118 (5), e2014569118, 2021",
-        "num_citations": 30,
-        "author_pub_id": "YM2HSekAAAAJ:zYLM7Y9cAGgC"
+        "num_citations": 36,
+        "author_pub_id": "32ZyPkEAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Observing and modelling the legless jumping mechanism of click beetles for bio-inspired robotic design",
         "pub_year": "2017",
         "citation": "University of Illinois at Urbana-Champaign, 2017",
         "num_citations": 1,
-        "author_pub_id": "YM2HSekAAAAJ:2osOgNQ5qMEC"
+        "author_pub_id": "32ZyPkEAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Optimized design of interlocking metasurfaces",
         "pub_year": "2023",
         "citation": "Materials & Design 233, 112272, 2023",
-        "num_citations": 5,
-        "author_pub_id": "YM2HSekAAAAJ:ufrVoPGSRksC"
+        "num_citations": 9,
+        "author_pub_id": "32ZyPkEAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Plywood experimental investigation and modeling approach for static and dynamic structural applications",
-        "pub_year": "2018",
-        "citation": "Improved Performance of Materials: Design and Experimental Approaches, 119-141, 2018",
-        "num_citations": 5,
-        "author_pub_id": "YM2HSekAAAAJ:UeHWp8X0CEIC"
+        "pub_year": "2017",
+        "citation": "Improved Performance of Materials: Design and Experimental Approaches, 119-141, 2017",
+        "num_citations": 7,
+        "author_pub_id": "32ZyPkEAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Pop! Observing and modeling the legless self-righting jumping mechanism of click beetles",
         "pub_year": "2017",
         "citation": "Biomimetic and Biohybrid Systems: 6th International Conference, Living …, 2017",
-        "num_citations": 18,
-        "author_pub_id": "YM2HSekAAAAJ:d1gkVwhDpl0C"
+        "num_citations": 17,
+        "author_pub_id": "32ZyPkEAAAAJ:qjMakFHDy7sC"
+    },
+    {
+        "title": "Power amplification in click beetles: Kinematics and dynamics modeling of the jump",
+        "pub_year": "2019",
+        "citation": "Entomology 2019, 2019",
+        "num_citations": 0,
+        "author_pub_id": "32ZyPkEAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Scaling of jumping performance in click beetles (Coleoptera: Elateridae)",
         "pub_year": "2022",
-        "citation": "Integrative and Comparative Biology 62 (5), 1227-1234, 2022",
-        "num_citations": 3,
-        "author_pub_id": "YM2HSekAAAAJ:Tyk-4Ss8FVUC"
+        "citation": "Integrative and comparative biology 62 (5), 1227-1234, 2022",
+        "num_citations": 4,
+        "author_pub_id": "32ZyPkEAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Solution-driven bioinspired design: Themes of latch-mediated spring-actuated systems",
         "pub_year": "2024",
-        "citation": "MRS Bulletin, 1-12, 2024",
+        "citation": "MRS Bulletin 49 (2), 136-147, 2024",
         "num_citations": 1,
-        "author_pub_id": "YM2HSekAAAAJ:roLk4NBRz8UC"
+        "author_pub_id": "32ZyPkEAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Studying the click-beetle self-righting jump mechanics and dynamics as a design guide for a bio-inspired innovative robot",
         "pub_year": "2017",
         "citation": "Entomology 2017, 2017",
         "num_citations": 0,
-        "author_pub_id": "YM2HSekAAAAJ:IjCSPb-OGe4C"
+        "author_pub_id": "32ZyPkEAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Synergistic strengthening in interlocking metasurfaces",
         "pub_year": "2023",
         "citation": "Materials & Design 227, 111798, 2023",
-        "num_citations": 8,
-        "author_pub_id": "YM2HSekAAAAJ:LkGwnXOMwfcC"
+        "num_citations": 13,
+        "author_pub_id": "32ZyPkEAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "The click beetle latch mechanism: An in-vivo study using synchrotron x-rays",
         "pub_year": "2019",
         "citation": "INTEGRATIVE AND COMPARATIVE BIOLOGY 59, E20-E20, 2019",
         "num_citations": 0,
-        "author_pub_id": "YM2HSekAAAAJ:9yKSN-GCB0IC"
+        "author_pub_id": "32ZyPkEAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "The dynamics of ultrafast motion in biological and bio-inspired systems: the case study of click beetles",
         "pub_year": "2021",
         "citation": "University of Illinois at Urbana-Champaign, 2021",
         "num_citations": 0,
-        "author_pub_id": "YM2HSekAAAAJ:Y0pCki6q_DkC"
+        "author_pub_id": "32ZyPkEAAAAJ:3fE2CSJIrl8C"
+    },
+    {
+        "title": "Vibration Mitigation in Interlocking Metasurfaces",
+        "citation": "Available at SSRN 4750855, 0",
+        "num_citations": 0,
+        "author_pub_id": "32ZyPkEAAAAJ:W7OEmFMy1HYC"
     }
 ]

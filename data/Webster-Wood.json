@@ -3,7 +3,7 @@
         "title": "3D printing hydrogel-based soft and biohybrid actuators: a mini-review on fabrication techniques, applications, and challenges",
         "pub_year": "2021",
         "citation": "Frontiers in Robotics and AI 8, 673533, 2021",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "jW3whJYAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -91,6 +91,13 @@
         "author_pub_id": "jW3whJYAAAAJ:IjCSPb-OGe4C"
     },
     {
+        "title": "AggreBots: configuring CiliaBots through guided, modular tissue aggregation",
+        "pub_year": "2025",
+        "citation": "bioRxiv, 2025.02. 22.639695, 2025",
+        "num_citations": 0,
+        "author_pub_id": "jW3whJYAAAAJ:2P1L_qKh6hAC"
+    },
+    {
         "title": "An integrated computer vision system for real-time monitoring and control of long-fiber embedded hydrogel 3D printing",
         "pub_year": "2022",
         "citation": "Materials Today: Proceedings 70, 376-381, 2022",
@@ -164,7 +171,7 @@
         "title": "Biohybrid robots: recent progress, challenges, and perspectives",
         "pub_year": "2022",
         "citation": "Bioinspiration & biomimetics 18 (1), 015001, 2022",
-        "num_citations": 70,
+        "num_citations": 77,
         "author_pub_id": "jW3whJYAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -213,7 +220,7 @@
         "title": "Design and Characterization of Viscoelastic McKibben Actuators with Tunable Force-Velocity Curves",
         "pub_year": "2023",
         "citation": "2023 IEEE International Conference on Soft Robotics (RoboSoft), 1-7, 2023",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "jW3whJYAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -234,7 +241,7 @@
         "title": "Design of a biomimetic tactile sensor for material classification",
         "pub_year": "2022",
         "citation": "2022 International Conference on Robotics and Automation (ICRA), 10774-10780, 2022",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "jW3whJYAAAAJ:dhFuZR0502QC"
     },
     {
@@ -269,7 +276,7 @@
         "title": "Ethics and responsibility in biohybrid robotics research",
         "pub_year": "2024",
         "citation": "Proceedings of the National Academy of Sciences 121 (31), e2310458121, 2024",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "jW3whJYAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -393,7 +400,7 @@
         "title": "Long-fiber embedded hydrogel 3D printing for structural reinforcement",
         "pub_year": "2021",
         "citation": "ACS biomaterials science & engineering 8 (1), 303-313, 2021",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "jW3whJYAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -423,13 +430,6 @@
         "author_pub_id": "jW3whJYAAAAJ:R3hNpaxXUhUC"
     },
     {
-        "title": "Modulation and Time-History-Dependent",
-        "pub_year": "2024",
-        "citation": "Biomimetic and Biohybrid Systems 14930, 351, 2024",
-        "num_citations": 0,
-        "author_pub_id": "jW3whJYAAAAJ:35N4QoGY0k4C"
-    },
-    {
         "title": "Modulation and Time-History-Dependent Adaptation Improves the Pick-and-Place Control of a Bioinspired Soft Grasper",
         "pub_year": "2025",
         "citation": "Conference on Biomimetic and Biohybrid Systems, 351-367, 2025",
@@ -447,7 +447,7 @@
         "title": "Organismal engineering: Toward a robotic taxonomic key for devices using organic materials",
         "pub_year": "2017",
         "citation": "Science robotics 2 (12), eaap9281, 2017",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "jW3whJYAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -475,7 +475,7 @@
         "title": "Roadmap for animate matter",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2407.10623, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "jW3whJYAAAAJ:YFjsv_pBGBYC"
     },
     {

@@ -3,28 +3,21 @@
         "title": "3D printing hydrogel-based soft and biohybrid actuators: a mini-review on fabrication techniques, applications, and challenges",
         "pub_year": "2021",
         "citation": "Frontiers in Robotics and AI 8, 673533, 2021",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "jW3whJYAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "3D-Printed Biohybrid Robots Powered by Neuromuscular Tissue Circuits from Aplysia californica",
         "pub_year": "2017",
         "citation": "Biomimetic and Biohybrid Systems: 6th International Conference, Living …, 2017",
-        "num_citations": 20,
+        "num_citations": 25,
         "author_pub_id": "jW3whJYAAAAJ:hqOjcs7Dif8C"
-    },
-    {
-        "title": "A Preliminary Study on Factors That Drive Patient Variability in Human Subcutaneous Adipose Tissues",
-        "pub_year": "2024",
-        "citation": "Cells 13 (15), 1240, 2024",
-        "num_citations": 0,
-        "author_pub_id": "jW3whJYAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "A Synthetic Nervous System Controls a Biomechanical Model of Aplysia Feeding",
         "pub_year": "2022",
         "citation": "Conference on Biomimetic and Biohybrid Systems, 354-365, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "jW3whJYAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -51,23 +44,30 @@
     {
         "title": "A computational neural model that incorporates both intrinsic dynamics and sensory feedback in the Aplysia feeding network",
         "pub_year": "2024",
-        "citation": "Biological Cybernetics, 1-27, 2024",
-        "num_citations": 1,
+        "citation": "Biological Cybernetics 118 (3), 187-213, 2024",
+        "num_citations": 2,
         "author_pub_id": "jW3whJYAAAAJ:blknAaTinKkC"
     },
     {
         "title": "A magnetorheological fluid-based damper towards increased biomimetism in soft robotic actuators",
         "pub_year": "2022",
         "citation": "2022 International conference on robotics and automation (ICRA), 11445-11451, 2022",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "jW3whJYAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "A model of exploration and goal-searching in the cockroach, Blaberus discoidalis",
         "pub_year": "2013",
         "citation": "Adaptive Behavior 21 (5), 404-420, 2013",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "jW3whJYAAAAJ:HDshCWvjkbEC"
+    },
+    {
+        "title": "A preliminary study on factors that drive patient variability in human subcutaneous adipose tissues",
+        "pub_year": "2024",
+        "citation": "Cells 13 (15), 1240, 2024",
+        "num_citations": 1,
+        "author_pub_id": "jW3whJYAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "A segmental mobile robot with active tensegrity bending and noise-driven oscillators",
@@ -80,7 +80,7 @@
         "title": "A stochastic algorithm for explorative goal seeking extracted from cockroach walking data",
         "pub_year": "2012",
         "citation": "2012 IEEE International Conference on Robotics and Automation, 2261-2268, 2012",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "jW3whJYAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -94,7 +94,7 @@
         "title": "An integrated computer vision system for real-time monitoring and control of long-fiber embedded hydrogel 3D printing",
         "pub_year": "2022",
         "citation": "Materials Today: Proceedings 70, 376-381, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "jW3whJYAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -119,6 +119,13 @@
         "author_pub_id": "jW3whJYAAAAJ:Wp0gIr-vW9MC"
     },
     {
+        "title": "Bio-inspired Stochastic Growth and",
+        "pub_year": "2019",
+        "citation": "Biomimetic and Biohybrid Systems: 8th International Conference, Living …, 2019",
+        "num_citations": 0,
+        "author_pub_id": "jW3whJYAAAAJ:70eg2SAEIzsC"
+    },
+    {
         "title": "Bio-inspired Stochastic Growth and Initialization for Artificial Neural Networks",
         "pub_year": "2019",
         "citation": "Conference on Biomimetic and Biohybrid Systems, 88-100, 2019",
@@ -136,28 +143,28 @@
         "title": "Biodegradable, sustainable hydrogel actuators with shape and stiffness morphing capabilities via embedded 3D printing",
         "pub_year": "2023",
         "citation": "Advanced Functional Materials 33 (36), 2303659, 2023",
-        "num_citations": 24,
+        "num_citations": 28,
         "author_pub_id": "jW3whJYAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Biohybrid actuators for soft robotics: Challenges in scaling up",
         "pub_year": "2020",
         "citation": "Actuators 9 (4), 96, 2020",
-        "num_citations": 41,
+        "num_citations": 43,
         "author_pub_id": "jW3whJYAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Biohybrid robots built from living tissue start to take shape",
         "pub_year": "2016",
         "citation": "The Conversation, August, 2016",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "jW3whJYAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Biohybrid robots: recent progress, challenges, and perspectives",
         "pub_year": "2022",
         "citation": "Bioinspiration & biomimetics 18 (1), 015001, 2022",
-        "num_citations": 58,
+        "num_citations": 70,
         "author_pub_id": "jW3whJYAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -185,7 +192,7 @@
         "title": "Control for multifunctionality: bioinspired control based on feeding in Aplysia californica",
         "pub_year": "2020",
         "citation": "Biological cybernetics 114 (6), 557-588, 2020",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "jW3whJYAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -227,7 +234,7 @@
         "title": "Design of a biomimetic tactile sensor for material classification",
         "pub_year": "2022",
         "citation": "2022 International Conference on Robotics and Automation (ICRA), 10774-10780, 2022",
-        "num_citations": 19,
+        "num_citations": 22,
         "author_pub_id": "jW3whJYAAAAJ:dhFuZR0502QC"
     },
     {
@@ -248,7 +255,7 @@
         "title": "Effect of actuating cell source on locomotion of organic living machines with electrocompacted collagen skeleton",
         "pub_year": "2016",
         "citation": "Bioinspiration & biomimetics 11 (3), 036012, 2016",
-        "num_citations": 39,
+        "num_citations": 38,
         "author_pub_id": "jW3whJYAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -295,7 +302,7 @@
         "title": "Full Hill-type muscle model of the I1/I3 retractor muscle complex in Aplysia californica",
         "pub_year": "2024",
         "citation": "Biological Cybernetics 118 (3), 165-185, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jW3whJYAAAAJ:hMod-77fHWUC"
     },
     {
@@ -364,8 +371,8 @@
     {
         "title": "Influence of texture and test velocity on the dynamic, high-strain, tensile behavior of zirconium",
         "pub_year": "2012",
-        "citation": "Acta Materialia 60 (11), 4379-4392, 2012",
-        "num_citations": 66,
+        "citation": "Acta materialia 60 (11), 4379-4392, 2012",
+        "num_citations": 67,
         "author_pub_id": "jW3whJYAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -379,14 +386,14 @@
         "title": "Kinesin and dynein mechanics: measurement methods and research applications",
         "pub_year": "2018",
         "citation": "Journal of biomechanical engineering 140 (2), 020805, 2018",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "jW3whJYAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Long-fiber embedded hydrogel 3D printing for structural reinforcement",
         "pub_year": "2021",
         "citation": "ACS biomaterials science & engineering 8 (1), 303-313, 2021",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "jW3whJYAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -412,12 +419,13 @@
         "title": "Modeling neuron growth using isogeometric collocation based phase field method",
         "pub_year": "2022",
         "citation": "Scientific Reports 12 (1), 8120, 2022",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "jW3whJYAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Modulation and Time-History-Dependent",
-        "citation": "Biomimetic and Biohybrid Systems: 13th International Conference, Living …, 0",
+        "pub_year": "2024",
+        "citation": "Biomimetic and Biohybrid Systems 14930, 351, 2024",
         "num_citations": 0,
         "author_pub_id": "jW3whJYAAAAJ:35N4QoGY0k4C"
     },
@@ -464,17 +472,17 @@
         "author_pub_id": "jW3whJYAAAAJ:9yKSN-GCB0IC"
     },
     {
-        "title": "Roadmap for Animate Matter",
+        "title": "Roadmap for animate matter",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2407.10623, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jW3whJYAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "SLUGBOT, an Aplysia-Inspired Robotic Grasper for Studying Control",
         "pub_year": "2022",
         "citation": "Conference on Biomimetic and Biohybrid Systems, 182-194, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "jW3whJYAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -520,7 +528,7 @@
         "author_pub_id": "jW3whJYAAAAJ:bEWYMUwI8FkC"
     },
     {
-        "title": "Synthetic Nervous System Control of a Bioinspired Soft Grasper for Pick-and-Place Manipulation",
+        "title": "Synthetic nervous system control of a bioinspired soft grasper for pick-and-place manipulation",
         "pub_year": "2023",
         "citation": "Conference on Biomimetic and Biohybrid Systems, 300-321, 2023",
         "num_citations": 2,
@@ -544,7 +552,7 @@
         "title": "Tuning the mechanical and geometric properties of electrochemically aligned collagen threads toward applications in biohybrid robotics",
         "pub_year": "2021",
         "citation": "Journal of Biomechanical Engineering 143 (5), 051005, 2021",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "jW3whJYAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -565,7 +573,7 @@
         "title": "Woven collagen biotextiles enable mechanically functional rotator cuff tendon regeneration during repair of segmental tendon defects in vivo",
         "pub_year": "2019",
         "citation": "Journal of Biomedical Materials Research Part B: Applied Biomaterials 107 (6 …, 2019",
-        "num_citations": 48,
+        "num_citations": 47,
         "author_pub_id": "jW3whJYAAAAJ:8k81kl-MbHgC"
     }
 ]

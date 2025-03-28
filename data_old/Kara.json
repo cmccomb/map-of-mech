@@ -9,14 +9,14 @@
         "title": "3D shape synthesis for conceptual design and optimization using variational autoencoders",
         "pub_year": "2019",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2019",
-        "num_citations": 71,
+        "num_citations": 70,
         "author_pub_id": "_X2eOeQAAAAJ:J-pR_7NvFogC"
     },
     {
         "title": "3D topology optimization using convolutional neural networks",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1808.07440, 2018",
-        "num_citations": 192,
+        "num_citations": 191,
         "author_pub_id": "_X2eOeQAAAAJ:u9iWguZQMMsC"
     },
     {
@@ -56,7 +56,7 @@
         "title": "A data-driven investigation and estimation of optimal topologies under variable loading configurations",
         "pub_year": "2016",
         "citation": "Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2016",
-        "num_citations": 115,
+        "num_citations": 118,
         "author_pub_id": "_X2eOeQAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -91,7 +91,7 @@
         "title": "A sketch-based tool for analyzing vibratory mechanical systems",
         "pub_year": "2008",
         "citation": "",
-        "num_citations": 57,
+        "num_citations": 55,
         "author_pub_id": "_X2eOeQAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -115,24 +115,24 @@
         "author_pub_id": "_X2eOeQAAAAJ:LjlpjdlvIbIC"
     },
     {
-        "title": "An efficient graph-based recognition for hand-drawn symbols",
-        "pub_year": "2007",
-        "citation": "Computers & Graphics 31, 554-567, 2007",
-        "num_citations": 8,
-        "author_pub_id": "_X2eOeQAAAAJ:ILKRHgRFtOwC"
+        "title": "An Efficient Graph-Based Symbol Recognizer.",
+        "pub_year": "2006",
+        "citation": "SBM, 11-18, 2006",
+        "num_citations": 20,
+        "author_pub_id": "_X2eOeQAAAAJ:tYavs44e6CUC"
     },
     {
         "title": "An efficient graph-based recognizer for hand-drawn symbols",
         "pub_year": "2007",
         "citation": "Computers & Graphics 31 (4), 554-567, 2007",
-        "num_citations": 83,
-        "author_pub_id": "_X2eOeQAAAAJ:YsMSGLbcyi4C"
+        "num_citations": 70,
+        "author_pub_id": "_X2eOeQAAAAJ:ILKRHgRFtOwC"
     },
     {
         "title": "An evaluation of user experience with a sketch-based 3D modeling system",
         "pub_year": "2007",
         "citation": "Computers & Graphics 31 (4), 580-597, 2007",
-        "num_citations": 29,
+        "num_citations": 28,
         "author_pub_id": "_X2eOeQAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -146,7 +146,7 @@
         "title": "An image-based, trainable symbol recognizer for hand-drawn sketches",
         "pub_year": "2005",
         "citation": "Computers & Graphics 29 (4), 501-517, 2005",
-        "num_citations": 266,
+        "num_citations": 269,
         "author_pub_id": "_X2eOeQAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -170,24 +170,24 @@
         "author_pub_id": "_X2eOeQAAAAJ:eQOLeE2rZwMC"
     },
     {
-        "title": "BIGNet: A Deep Learning Architecture for Brand Recognition with Geometry-Based Explainability",
-        "pub_year": "2024",
-        "citation": "Journal of Mechanical Design 146 (5), 051701, 2024",
-        "num_citations": 6,
-        "author_pub_id": "_X2eOeQAAAAJ:j8SEvjWlNXcC"
-    },
-    {
         "title": "Beautification of design sketches using trainable stroke clustering and curve fitting",
         "pub_year": "2011",
         "citation": "IEEE Transactions on Visualization and Computer Graphics 17 (5), 694-708, 2011",
-        "num_citations": 88,
+        "num_citations": 86,
         "author_pub_id": "_X2eOeQAAAAJ:roLk4NBRz8UC"
+    },
+    {
+        "title": "Bignet: A deep learning architecture for brand recognition with geometry-based explainability",
+        "pub_year": "2024",
+        "citation": "Journal of Mechanical Design 146 (5), 051701, 2024",
+        "num_citations": 7,
+        "author_pub_id": "_X2eOeQAAAAJ:j8SEvjWlNXcC"
     },
     {
         "title": "CCFD-Net: A novel deep learning model for credit card fraud detection",
         "pub_year": "2021",
         "citation": "2021 IEEE 22nd International Conference on Information Reuse and Integration …, 2021",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "_X2eOeQAAAAJ:WqliGbK-hY8C"
     },
     {
@@ -207,28 +207,28 @@
         "title": "Characterizing the performance of an image-based recognizer for planar mechanical linkages in textbook graphics and hand-drawn sketches",
         "pub_year": "2015",
         "citation": "Computers & Graphics 52, 1-17, 2015",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "_X2eOeQAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Co-abstraction of shape collections",
         "pub_year": "2012",
         "citation": "ACM Transactions on Graphics (TOG) 31 (6), 1-11, 2012",
-        "num_citations": 59,
+        "num_citations": 58,
         "author_pub_id": "_X2eOeQAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "Co-constrained handles for deformation in shape collections",
         "pub_year": "2014",
         "citation": "ACM Transactions on Graphics (TOG) 33 (6), 1-11, 2014",
-        "num_citations": 50,
+        "num_citations": 49,
         "author_pub_id": "_X2eOeQAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Combining geometry and domain knowledge to interpret hand-drawn diagrams",
         "pub_year": "2005",
         "citation": "Computers & Graphics 29 (4), 547-562, 2005",
-        "num_citations": 187,
+        "num_citations": 185,
         "author_pub_id": "_X2eOeQAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -237,13 +237,6 @@
         "citation": "Computers in Industry 147, 103885, 2023",
         "num_citations": 16,
         "author_pub_id": "_X2eOeQAAAAJ:Fu2w8maKXqMC"
-    },
-    {
-        "title": "Computational Modeling of Objects Presented in Images: Fundamentals, Methods, and Applications: 4th International Conference, CompIMAGE 2014, Pittsburgh, PA, USA, September 3-5 …",
-        "pub_year": "2014",
-        "citation": "Springer, 2014",
-        "num_citations": 3,
-        "author_pub_id": "_X2eOeQAAAAJ:vbGhcppDl1QC"
     },
     {
         "title": "Computer tutors can address students learning to solve complex engineering problems",
@@ -270,35 +263,35 @@
         "title": "Computer-aided patient-specific coronary artery graft design improvements using CFD coupled shape optimizer",
         "pub_year": "2011",
         "citation": "Cardiovascular engineering and technology 2, 35-47, 2011",
-        "num_citations": 77,
+        "num_citations": 75,
         "author_pub_id": "_X2eOeQAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Conceptual design and modification of freeform surfaces using dual shape representations in augmented reality environments",
         "pub_year": "2012",
         "citation": "Computer-Aided Design 44 (10), 1020-1032, 2012",
-        "num_citations": 97,
+        "num_citations": 98,
         "author_pub_id": "_X2eOeQAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Concurrent build direction, part segmentation, and topology optimization for additive manufacturing using neural networks",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (9), 2023",
-        "num_citations": 12,
+        "num_citations": 14,
         "author_pub_id": "_X2eOeQAAAAJ:uLbwQdceFCQC"
     },
     {
         "title": "Concurrent structure and process optimization for minimum cost metal additive manufacturing",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (6), 061701, 2019",
-        "num_citations": 69,
+        "num_citations": 70,
         "author_pub_id": "_X2eOeQAAAAJ:K3LRdlH-MEoC"
     },
     {
         "title": "Construction and Modification of 3D Geometry Using a Sketch-based Interface.",
         "pub_year": "2006",
         "citation": "SBM, 59-66, 2006",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "_X2eOeQAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -312,7 +305,7 @@
         "title": "DMF-TONN: direct mesh-free topology optimization using neural networks",
         "pub_year": "2024",
         "citation": "Engineering with Computers 40 (4), 2227-2240, 2024",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "_X2eOeQAAAAJ:_Re3VWB3Y0AC"
     },
     {
@@ -347,14 +340,14 @@
         "title": "Deciphering the influence of product shape on consumer judgments through geometric abstraction",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (8), 081103, 2015",
-        "num_citations": 40,
+        "num_citations": 38,
         "author_pub_id": "_X2eOeQAAAAJ:O3NaXMp0MMsC"
     },
     {
         "title": "Design of target specific peptide inhibitors using generative deep learning and molecular dynamics simulations",
         "pub_year": "2024",
         "citation": "Nature Communications 15 (1), 1611, 2024",
-        "num_citations": 13,
+        "num_citations": 16,
         "author_pub_id": "_X2eOeQAAAAJ:JQOojiI6XY0C"
     },
     {
@@ -368,7 +361,7 @@
         "title": "Designing coupling behaviors using compliant shape optimization",
         "pub_year": "2018",
         "citation": "Computer-Aided Design 101, 57-71, 2018",
-        "num_citations": 9,
+        "num_citations": 8,
         "author_pub_id": "_X2eOeQAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -382,7 +375,7 @@
         "title": "Development of a general calibration model and long-term performance evaluation of low-cost sensors for air pollutant gas monitoring",
         "pub_year": "2019",
         "citation": "Atmospheric Measurement Techniques 12 (2), 903-920, 2019",
-        "num_citations": 156,
+        "num_citations": 159,
         "author_pub_id": "_X2eOeQAAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -410,7 +403,7 @@
         "title": "Enhancing the structural performance of additively manufactured objects through build orientation optimization",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (11), 111410, 2015",
-        "num_citations": 172,
+        "num_citations": 171,
         "author_pub_id": "_X2eOeQAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -459,7 +452,7 @@
         "title": "From engineering diagrams to engineering models: Visual recognition and applications",
         "pub_year": "2011",
         "citation": "Computer-Aided Design 43 (3), 278-292, 2011",
-        "num_citations": 69,
+        "num_citations": 72,
         "author_pub_id": "_X2eOeQAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -472,7 +465,7 @@
     {
         "title": "Geological storytelling: graphically exploring and communicating geological sketches",
         "pub_year": "2012",
-        "citation": "Proceedings of the International Symposium on Sketch-Based Interfaces and …, 2012",
+        "citation": "Proceedings of the international symposium on sketch-based interfaces and …, 2012",
         "num_citations": 30,
         "author_pub_id": "_X2eOeQAAAAJ:g5m5HwL7SMYC"
     },
@@ -487,7 +480,7 @@
         "title": "Graph neural network-enabled manufacturing method classification from engineering drawings",
         "pub_year": "2022",
         "citation": "Computers in Industry 142, 103697, 2022",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "_X2eOeQAAAAJ:ye4kPcJQO24C"
     },
     {
@@ -508,14 +501,14 @@
         "title": "Hierarchical Parsing and Recognition of Hand-Sketched Diagrams. 17th ACM User Interface Software Technology (UIST)",
         "pub_year": "2004",
         "citation": "Sante Fe, NM, 2004",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "_X2eOeQAAAAJ:wbdj-CoPYUoC"
     },
     {
         "title": "Hierarchical parsing and recognition of hand-sketched diagrams",
         "pub_year": "2004",
         "citation": "Proceedings of the 17th annual ACM symposium on User interface software and …, 2004",
-        "num_citations": 167,
+        "num_citations": 168,
         "author_pub_id": "_X2eOeQAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -526,7 +519,7 @@
         "author_pub_id": "_X2eOeQAAAAJ:738O_yMBCRsC"
     },
     {
-        "title": "Improved Patient-Specific Coronary Artery Graft Configurations Using CFD Coupled Shape Optimizer",
+        "title": "Improved patient-specific coronary artery graft configurations using CFD coupled shape optimizer",
         "pub_year": "2009",
         "citation": "Summer Bioengineering Conference 48913, 1167-1168, 2009",
         "num_citations": 1,
@@ -543,21 +536,14 @@
         "title": "Improving problem solving performance by inducing talk about salient problem features",
         "pub_year": "2010",
         "citation": "Journal of Engineering Education 99 (2), 135-142, 2010",
-        "num_citations": 94,
+        "num_citations": 92,
         "author_pub_id": "_X2eOeQAAAAJ:ufrVoPGSRksC"
-    },
-    {
-        "title": "Inference of Highly Time-resolved Melt Pool Visual Characteristics in Laser Powder Bed Fusion from Acoustic and Thermal Emission Data",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2310.05289, 2023",
-        "num_citations": 1,
-        "author_pub_id": "_X2eOeQAAAAJ:fEOibwPWpKIC"
     },
     {
         "title": "Inference of highly time-resolved melt pool visual characteristics and spatially-dependent lack-of-fusion defects in laser powder bed fusion using acoustic and thermal emission …",
         "pub_year": "2024",
         "citation": "Additive Manufacturing 83, 104057, 2024",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "_X2eOeQAAAAJ:VLnqNzywnoUC"
     },
     {
@@ -571,7 +557,7 @@
         "title": "Is additive manufacturing an environmentally and economically preferred alternative for mass production?",
         "pub_year": "2023",
         "citation": "Environmental science & technology 57 (16), 6373-6386, 2023",
-        "num_citations": 41,
+        "num_citations": 45,
         "author_pub_id": "_X2eOeQAAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -584,15 +570,22 @@
         "title": "Learning geometric design knowledge from conceptual sketches and its utilization in shape creation and optimization",
         "pub_year": "2009",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2009",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "_X2eOeQAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Lightweight structure design under force location uncertainty",
         "pub_year": "2017",
         "citation": "ACM Transactions on Graphics (TOG) 36 (4), 1-13, 2017",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "_X2eOeQAAAAJ:bFI3QPDXJZMC"
+    },
+    {
+        "title": "MDDM: A Molecular Dynamics Diffusion Model to Predict Particle Self-Assembly",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2501.17319, 2025",
+        "num_citations": 0,
+        "author_pub_id": "_X2eOeQAAAAJ:KUbvn5osdkgC"
     },
     {
         "title": "MLCAD ‘20",
@@ -630,17 +623,24 @@
         "author_pub_id": "_X2eOeQAAAAJ:yB1At4FlUx8C"
     },
     {
+        "title": "Nematode-trapping fungi",
+        "pub_year": "2014",
+        "citation": "Springer Science & Business, 2014",
+        "num_citations": 130,
+        "author_pub_id": "_X2eOeQAAAAJ:vbGhcppDl1QC"
+    },
+    {
         "title": "Neural network-based symbol recognition using a few labeled samples",
         "pub_year": "2011",
         "citation": "Computers & Graphics 35 (5), 955-966, 2011",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "_X2eOeQAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Optimization of part consolidation for minimum production costs and time using additive manufacturing",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (7), 072001, 2020",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "_X2eOeQAAAAJ:eflP2zaiRacC"
     },
     {
@@ -661,14 +661,14 @@
         "title": "Pen-based interfaces for engineering and education",
         "pub_year": "2011",
         "citation": "Sketch-based Interfaces and Modeling, 119-152, 2011",
-        "num_citations": 11,
+        "num_citations": 8,
         "author_pub_id": "_X2eOeQAAAAJ:EYYDruWGBe4C"
     },
     {
         "title": "Pen-based styling design of 3D geometry using concept sketches and template models",
         "pub_year": "2006",
         "citation": "Proceedings of the 2006 ACM symposium on Solid and physical modeling, 149-160, 2006",
-        "num_citations": 110,
+        "num_citations": 109,
         "author_pub_id": "_X2eOeQAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -682,7 +682,7 @@
         "title": "Placement in integrated circuits using cyclic reinforcement learning and simulated annealing",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2011.07577, 2020",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "_X2eOeQAAAAJ:JoZmwDi-zQgC"
     },
     {
@@ -703,7 +703,7 @@
         "title": "Prediction of high frequency resistance in polymer electrolyte membrane fuel cells using long short term memory based model",
         "pub_year": "2021",
         "citation": "Energy and AI 3, 100045, 2021",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "_X2eOeQAAAAJ:9vf0nzSNQJEC"
     },
     {
@@ -717,7 +717,7 @@
         "title": "Procedural modeling using autoencoder networks",
         "pub_year": "2015",
         "citation": "Proceedings of the 28th Annual ACM Symposium on User Interface Software …, 2015",
-        "num_citations": 76,
+        "num_citations": 79,
         "author_pub_id": "_X2eOeQAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -737,8 +737,8 @@
     {
         "title": "Recognizing multi-stroke symbols",
         "pub_year": "2002",
-        "citation": "AAAI Spring Symposium on Sketch Understanding, 15-23, 2002",
-        "num_citations": 135,
+        "citation": "AAAI Spring symposium on sketch understanding, 15-23, 2002",
+        "num_citations": 133,
         "author_pub_id": "_X2eOeQAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -752,7 +752,7 @@
         "title": "Recognizing network-like hand-drawn sketches: a convolutional neural network approach",
         "pub_year": "2009",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2009",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "_X2eOeQAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -780,21 +780,21 @@
         "title": "SNF-ROM: Projection-based nonlinear reduced order modeling with smooth neural fields",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2405.14890, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "_X2eOeQAAAAJ:0KyAp5RtaNEC"
     },
     {
         "title": "Scalar Field Prediction on Meshes Using Interpolated Multiresolution Convolutional Neural Networks",
         "pub_year": "2024",
         "citation": "Journal of Applied Mechanics 91 (10), 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "_X2eOeQAAAAJ:ipzZ9siozwsC"
     },
     {
-        "title": "Scalar Field Prediction on Topologically-Varying Graphs Using Spectral Shape Encoding",
+        "title": "Scalar field prediction on topologically-varying graphs using spectral shape encoding",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "_X2eOeQAAAAJ:ZuybSZzF8UAC"
     },
     {
@@ -855,7 +855,7 @@
         "title": "Sketch-based 3D-shape creation for industrial styling design",
         "pub_year": "2007",
         "citation": "IEEE Computer Graphics and Applications 27 (1), 60-71, 2007",
-        "num_citations": 114,
+        "num_citations": 115,
         "author_pub_id": "_X2eOeQAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -875,7 +875,7 @@
     {
         "title": "Sketch-based interfaces and modeling",
         "pub_year": "2011",
-        "citation": "Springer-Verlag, 2011",
+        "citation": "Springer, 2011",
         "num_citations": 60,
         "author_pub_id": "_X2eOeQAAAAJ:1sJd4Hv_s6UC"
     },
@@ -924,14 +924,14 @@
         "title": "Stress field prediction in cantilevered structures using convolutional neural networks",
         "pub_year": "2020",
         "citation": "Journal of Computing and Information Science in Engineering 20 (1), 011002, 2020",
-        "num_citations": 236,
+        "num_citations": 237,
         "author_pub_id": "_X2eOeQAAAAJ:VOx2b1Wkg3QC"
     },
     {
         "title": "Stressgan: A generative deep learning model for two-dimensional stress distribution prediction",
         "pub_year": "2021",
         "citation": "Journal of Applied Mechanics 88 (5), 051005, 2021",
-        "num_citations": 117,
+        "num_citations": 119,
         "author_pub_id": "_X2eOeQAAAAJ:Y5dfb0dijaUC"
     },
     {
@@ -945,7 +945,7 @@
         "title": "Sub-millisecond keyhole pore detection in laser powder bed fusion using sound and light sensors and machine learning",
         "pub_year": "2024",
         "citation": "Materials Futures 3 (4), 045001, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "_X2eOeQAAAAJ:vDijr-p_gm4C"
     },
     {
@@ -992,7 +992,7 @@
     {
         "title": "TopMT-GAN: a 3D topology-driven generative model for efficient and diverse structure-based ligand design",
         "pub_year": "2025",
-        "citation": "Chemical Science, 2025",
+        "citation": "Chemical Science 16 (6), 2796-2809, 2025",
         "num_citations": 0,
         "author_pub_id": "_X2eOeQAAAAJ:uWiczbcajpAC"
     },
@@ -1000,7 +1000,7 @@
         "title": "Topology optimization using neural networks with conditioning field initialization for improved efficiency",
         "pub_year": "2024",
         "citation": "Journal of Mechanical Design 146 (6), 2024",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "_X2eOeQAAAAJ:tzM49s52ZIMC"
     },
     {
@@ -1013,15 +1013,15 @@
     {
         "title": "Topology-Agnostic Graph U-Nets for Scalar Field Prediction on Unstructured Meshes",
         "pub_year": "2025",
-        "citation": "Journal of Mechanical Design 147 (4), 2025",
-        "num_citations": 0,
+        "citation": "Journal of Mechanical Design 147 (4), 041701, 2025",
+        "num_citations": 2,
         "author_pub_id": "_X2eOeQAAAAJ:epqYDVWIO7EC"
     },
     {
         "title": "Topologygan: Topology optimization using generative adversarial networks based on physical fields over the initial domain",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (3), 031715, 2021",
-        "num_citations": 238,
+        "num_citations": 247,
         "author_pub_id": "_X2eOeQAAAAJ:Mojj43d5GZwC"
     },
     {
@@ -1032,9 +1032,9 @@
         "author_pub_id": "_X2eOeQAAAAJ:_B80troHkn4C"
     },
     {
-        "title": "VIRL: Volume-Informed Representation Learning towards Few-shot Manufacturability Estimation",
-        "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2406.12286, 2024",
+        "title": "Virl: Volume-informed representation learning towards few-shot manufacturability estimation",
+        "pub_year": "2025",
+        "citation": "Journal of Intelligent Manufacturing, 1-21, 2025",
         "num_citations": 1,
         "author_pub_id": "_X2eOeQAAAAJ:ML0RJ9NH7IQC"
     },
